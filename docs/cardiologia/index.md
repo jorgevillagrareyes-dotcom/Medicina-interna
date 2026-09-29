@@ -8,13 +8,14 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **4 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
+    **6 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Crisis hipertensiva](crisis-hipertensiva.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](hipertension-arterial.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](insuficiencia-cardiaca.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](sindrome-coronario-agudo.md)
 
 ## Situaciones clínicas
 
@@ -49,10 +50,10 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.01.2.001 | Angina inestable | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.001 | Angina inestable | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](sindrome-coronario-agudo.md) |
 | 1.01.2.002 | Disección aórtica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.2.003 | Embolia cardiogénica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.01.2.004 | Infarto agudo al miocardio | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.004 | Infarto agudo al miocardio | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](sindrome-coronario-agudo.md) |
 | 1.01.2.005 | Insuficiencia cardíaca aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](insuficiencia-cardiaca.md) |
 | 1.01.2.006 | Paro cardiorrespiratorio | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.2.007 | Shock | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

@@ -7,14 +7,14 @@ hide:
 
 Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicina interna, agrupadas por subespecialidad. Útil para preparar los turnos.
 
-## Cardiología (1/9)
+## Cardiología (3/9)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.01.2.001 | Angina inestable | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.001 | Angina inestable | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](../cardiologia/sindrome-coronario-agudo.md) |
 | 1.01.2.002 | Disección aórtica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.2.003 | Embolia cardiogénica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.01.2.004 | Infarto agudo al miocardio | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.004 | Infarto agudo al miocardio | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](../cardiologia/sindrome-coronario-agudo.md) |
 | 1.01.2.005 | Insuficiencia cardíaca aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](../cardiologia/insuficiencia-cardiaca.md) |
 | 1.01.2.006 | Paro cardiorrespiratorio | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.2.007 | Shock | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -95,12 +95,12 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.06.2.011 | Peritonitis bacteriana espontánea del cirrótico | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.2.012 | Síndrome hepatorrenal | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
-## Geriatría (0/5)
+## Geriatría (1/5)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.07.2.001 | Abdomen agudo en adulto mayor | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.07.2.002 | Evento coronario en adulto mayor | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.07.2.002 | Evento coronario en adulto mayor | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](../cardiologia/sindrome-coronario-agudo.md) |
 | 1.07.2.003 | Fractura de cadera | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.2.004 | Agitación y agresividad | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.2.005 | Síndrome confusional agudo / delirium | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

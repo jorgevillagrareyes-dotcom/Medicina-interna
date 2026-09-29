@@ -140,6 +140,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/sindrome-coronario-agudo.md
   - codigo: 1.01.2.002
     nombre: Disección aórtica
     dx: Sospecha
@@ -155,6 +157,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Completo
+    resumen:
+    - cardiologia/sindrome-coronario-agudo.md
   - codigo: 1.01.2.005
     nombre: Insuficiencia cardíaca aguda
     dx: Específico
@@ -1260,6 +1264,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Completo
+    resumen:
+    - cardiologia/sindrome-coronario-agudo.md
   - codigo: 1.07.2.003
     nombre: Fractura de cadera
     dx: Sospecha
