@@ -1475,6 +1475,7 @@ grupos:
     seg: Derivar
     resumen:
     - nefrologia/enfermedad-renal-cronica.md
+    - nefrologia/trastornos-del-potasio.md
   - codigo: 1.09.1.002
     nombre: Acidosis metabólica
     dx: Específico
@@ -1647,11 +1648,15 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Derivar
+    resumen:
+    - nefrologia/trastornos-del-potasio.md
   - codigo: 1.09.2.006
     nombre: Hipokalemia
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - nefrologia/trastornos-del-potasio.md
   - codigo: 1.09.2.007
     nombre: Hiponatremia aguda grave
     dx: Sospecha

@@ -123,6 +123,7 @@ nav:
   - Nefrología:
       - nefrologia/index.md
       - "Enfermedad renal crónica": nefrologia/enfermedad-renal-cronica.md
+      - "Hipokalemia e hiperkalemia": nefrologia/trastornos-del-potasio.md
       - "Hiponatremia e hipernatremia": nefrologia/trastornos-del-sodio.md
       - "Lesión renal aguda": nefrologia/lesion-renal-aguda.md
   - Neurología:

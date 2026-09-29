@@ -8,11 +8,12 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **18 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
+    **20 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Hipokalemia e hiperkalemia](trastornos-del-potasio.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](trastornos-del-sodio.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md)
 
@@ -20,7 +21,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.09.1.001 | Acidosis e hiperkalemia en Insuficiencia renal crónica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
+| 1.09.1.001 | Acidosis e hiperkalemia en Insuficiencia renal crónica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) · [Hipokalemia e hiperkalemia](trastornos-del-potasio.md) |
 | 1.09.1.002 | Acidosis metabólica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.1.003 | Alcalosis metabólica | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.1.004 | Anemia en nefrópata | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
@@ -54,8 +55,8 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.09.2.002 | Crisis hipertensivas, emergencias hipertensivas | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis hipertensiva](../cardiologia/crisis-hipertensiva.md) |
 | 1.09.2.003 | Edema generalizado grave (anasarca) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.2.004 | Enfermedad tubular aguda | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
-| 1.09.2.005 | Hiperkalemia grave | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.09.2.006 | Hipokalemia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.005 | Hiperkalemia grave | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipokalemia e hiperkalemia](trastornos-del-potasio.md) |
+| 1.09.2.006 | Hipokalemia | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipokalemia e hiperkalemia](trastornos-del-potasio.md) |
 | 1.09.2.007 | Hiponatremia aguda grave | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](trastornos-del-sodio.md) |
 | 1.09.2.008 | Hipovolemia | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
 | 1.09.2.009 | Insuficiencia renal aguda obstructiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
