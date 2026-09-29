@@ -5,30 +5,68 @@ hide:
 
 # Cardiología
 
-Patologías cardiovasculares del adulto. La lista sigue el perfil de conocimientos EUNACOM y las patologías más frecuentes en sala y urgencias.
+Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
-<div class="temas" markdown>
+!!! info "Avance"
+    **2 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
 
-- :material-check-circle:{ .ok title="Disponible" } [Insuficiencia cardíaca](insuficiencia-cardiaca.md)
-- :material-clock-outline:{ .pend title="Pendiente" } Hipertensión arterial
-- :material-clock-outline:{ .pend title="Pendiente" } Crisis hipertensiva: urgencia y emergencia
-- :material-clock-outline:{ .pend title="Pendiente" } Dislipidemia y riesgo cardiovascular
-- :material-clock-outline:{ .pend title="Pendiente" } Síndrome coronario agudo con supradesnivel ST
-- :material-clock-outline:{ .pend title="Pendiente" } Síndrome coronario agudo sin supradesnivel ST
-- :material-clock-outline:{ .pend title="Pendiente" } Síndrome coronario crónico
-- :material-clock-outline:{ .pend title="Pendiente" } Fibrilación y flutter auricular
-- :material-clock-outline:{ .pend title="Pendiente" } Taquiarritmias supraventriculares
-- :material-clock-outline:{ .pend title="Pendiente" } Arritmias ventriculares y muerte súbita
-- :material-clock-outline:{ .pend title="Pendiente" } Bradiarritmias y bloqueos AV
-- :material-clock-outline:{ .pend title="Pendiente" } Estenosis aórtica
-- :material-clock-outline:{ .pend title="Pendiente" } Insuficiencia mitral y otras valvulopatías
-- :material-clock-outline:{ .pend title="Pendiente" } Pericarditis y taponamiento cardíaco
-- :material-clock-outline:{ .pend title="Pendiente" } Miocarditis y miocardiopatías
-- :material-clock-outline:{ .pend title="Pendiente" } Síncope
-- :material-clock-outline:{ .pend title="Pendiente" } Síndrome aórtico agudo y aneurisma aórtico
-- :material-clock-outline:{ .pend title="Pendiente" } Enfermedad arterial periférica
-- :material-clock-outline:{ .pend title="Pendiente" } Trombosis venosa profunda
+## Resúmenes disponibles
 
-</div>
+- :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](insuficiencia-cardiaca.md)
 
-:material-check-circle:{ .ok title="Disponible" } disponible · :material-clock-outline:{ .pend title="Pendiente" } pendiente
+## Situaciones clínicas
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.01.1.001 | Angina crónica estable | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.002 | Bloqueos aurículo-ventriculares | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.003 | Cardiopatía congénita en adulto | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.004 | Corazón pulmonar crónico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.005 | Dislipidemias | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.006 | Embolia pulmonar | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.007 | Endocarditis infecciosa y no infecciosa | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.008 | Enfermedad reumática activa | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.009 | Estenosis aórtica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.010 | Estenosis mitral | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.011 | Extrasistolía ventricular benigna | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.012 | Fibrilación auricular crónica | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.013 | Fibrilación auricular paroxística | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.014 | Flutter auricular | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.015 | Hipertensión arterial esencial | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.016 | Hipertensión arterial secundaria | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.017 | Insuficiencia aórtica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.018 | Insuficiencia cardíaca | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](insuficiencia-cardiaca.md) |
+| 1.01.1.019 | Insuficiencia mitral | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.020 | Miocardiopatías | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.021 | Paciente con soplo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.022 | Pericarditis aguda | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.023 | Síndrome metabólico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.024 | Taquicardia paroxística supraventricular (TPSV) | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Situaciones clínicas de urgencia
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.01.2.001 | Angina inestable | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.002 | Disección aórtica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.003 | Embolia cardiogénica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.004 | Infarto agudo al miocardio | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.005 | Insuficiencia cardíaca aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](insuficiencia-cardiaca.md) |
+| 1.01.2.006 | Paro cardiorrespiratorio | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.007 | Shock | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.008 | Taponamiento pericárdico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.009 | Taqui y bradiarritmia con compromiso hemodinámico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Cómo leer los niveles EUNACOM
+
+| Columna | Valor | Qué se espera del examinado |
+|---|---|---|
+| **Diagnóstico** | **Específico** | Llegar de forma autónoma al diagnóstico específico, incluido el diagnóstico diferencial y el uso de exámenes |
+| | **Sospecha** | Sospechar el diagnóstico, conocer los criterios de derivación y los estudios que hará el especialista |
+| **Tratamiento** | **Completo** | Tratar hasta la resolución, derivando solo los casos complejos |
+| | **Inicial** | Hacer el tratamiento inicial y derivar en condiciones adecuadas y oportunas |
+| **Seguimiento** | **Completo** | Controlar al paciente, derivando solo los casos complejos |
+| | **Derivar** | Derivar el seguimiento al especialista, conociendo sus aspectos generales |
+| | **No requiere** | La situación no requiere seguimiento |
+
+Fuente: [Perfil de Conocimientos EUNACOM, versión 3 (junio 2026)](https://www.eunacom.cl/contenidos/Perfil2026.pdf), vigente desde el examen de diciembre de 2026.

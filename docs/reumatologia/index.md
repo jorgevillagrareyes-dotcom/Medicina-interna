@@ -5,25 +5,58 @@ hide:
 
 # Reumatología
 
-Enfermedades articulares, del tejido conectivo y vasculitis.
+Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
-<div class="temas" markdown>
+!!! info "Avance"
+    **0 de 27** situaciones clínicas de esta subespecialidad tienen resumen.
 
-- :material-clock-outline:{ .pend title="Pendiente" } Enfoque de la monoartritis y poliartritis
-- :material-clock-outline:{ .pend title="Pendiente" } Artritis reumatoide
-- :material-clock-outline:{ .pend title="Pendiente" } Lupus eritematoso sistémico
-- :material-clock-outline:{ .pend title="Pendiente" } Artrosis
-- :material-clock-outline:{ .pend title="Pendiente" } Gota y enfermedad por depósito de cristales
-- :material-clock-outline:{ .pend title="Pendiente" } Espondiloartritis
-- :material-clock-outline:{ .pend title="Pendiente" } Artritis séptica
-- :material-clock-outline:{ .pend title="Pendiente" } Vasculitis sistémicas
-- :material-clock-outline:{ .pend title="Pendiente" } Arteritis de células gigantes y polimialgia reumática
-- :material-clock-outline:{ .pend title="Pendiente" } Síndrome de Sjögren
-- :material-clock-outline:{ .pend title="Pendiente" } Esclerosis sistémica
-- :material-clock-outline:{ .pend title="Pendiente" } Miopatías inflamatorias
-- :material-clock-outline:{ .pend title="Pendiente" } Síndrome antifosfolípido
-- :material-clock-outline:{ .pend title="Pendiente" } Fibromialgia
+## Situaciones clínicas
 
-</div>
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.11.1.001 | Artritis psoriática | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.002 | Artritis reactivas | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.003 | Artritis reumatoide | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.004 | Artrosis | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.005 | Cervicalgia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.006 | Columna dolorosa | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.007 | Condrocalcinosis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.008 | Epicondilalgia, epitroclealgias | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.009 | Esclerosis sistémica progresiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.010 | Fibromialgia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.011 | Hombro doloroso | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.012 | Lumbago infeccioso y tumoral | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.013 | Lumbago mecánico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.014 | Lupus eritematoso sistémico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.015 | Monoartritis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.016 | Oligoartritis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.017 | Osteoporosis | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.018 | Pelviespondilopatías seronegativas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.019 | Poliartritis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.020 | Polimiositis, dermatomiositis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.021 | Síndrome antifosfolípidos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.022 | Síndrome de Sjögren | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.023 | Síndrome de túnel carpiano | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.024 | Tendonitis y bursitis | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.025 | Vasculitis sistémicas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
-:material-check-circle:{ .ok title="Disponible" } disponible · :material-clock-outline:{ .pend title="Pendiente" } pendiente
+## Situaciones clínicas de urgencia
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.11.2.001 | Artritis séptica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.2.002 | Gota aguda | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Cómo leer los niveles EUNACOM
+
+| Columna | Valor | Qué se espera del examinado |
+|---|---|---|
+| **Diagnóstico** | **Específico** | Llegar de forma autónoma al diagnóstico específico, incluido el diagnóstico diferencial y el uso de exámenes |
+| | **Sospecha** | Sospechar el diagnóstico, conocer los criterios de derivación y los estudios que hará el especialista |
+| **Tratamiento** | **Completo** | Tratar hasta la resolución, derivando solo los casos complejos |
+| | **Inicial** | Hacer el tratamiento inicial y derivar en condiciones adecuadas y oportunas |
+| **Seguimiento** | **Completo** | Controlar al paciente, derivando solo los casos complejos |
+| | **Derivar** | Derivar el seguimiento al especialista, conociendo sus aspectos generales |
+| | **No requiere** | La situación no requiere seguimiento |
+
+Fuente: [Perfil de Conocimientos EUNACOM, versión 3 (junio 2026)](https://www.eunacom.cl/contenidos/Perfil2026.pdf), vigente desde el examen de diciembre de 2026.

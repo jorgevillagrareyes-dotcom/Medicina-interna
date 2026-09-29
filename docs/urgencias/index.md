@@ -5,19 +5,181 @@ hide:
 
 # Urgencias y paciente crítico
 
-Situaciones de urgencia que el interno de medicina interna debe reconocer y manejar de inmediato.
+Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicina interna, agrupadas por subespecialidad. Útil para preparar los turnos.
 
-<div class="temas" markdown>
+## Cardiología (1/9)
 
-- :material-clock-outline:{ .pend title="Pendiente" } Paro cardiorrespiratorio y reanimación avanzada
-- :material-clock-outline:{ .pend title="Pendiente" } Shock: enfoque general
-- :material-clock-outline:{ .pend title="Pendiente" } Sepsis y shock séptico
-- :material-clock-outline:{ .pend title="Pendiente" } Anafilaxia
-- :material-clock-outline:{ .pend title="Pendiente" } Intoxicaciones frecuentes
-- :material-clock-outline:{ .pend title="Pendiente" } Síndrome de abstinencia alcohólica
-- :material-clock-outline:{ .pend title="Pendiente" } Insuficiencia respiratoria aguda y oxigenoterapia
-- :material-clock-outline:{ .pend title="Pendiente" } Alteraciones hidroelectrolíticas graves
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.01.2.001 | Angina inestable | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.002 | Disección aórtica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.003 | Embolia cardiogénica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.004 | Infarto agudo al miocardio | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.005 | Insuficiencia cardíaca aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](../cardiologia/insuficiencia-cardiaca.md) |
+| 1.01.2.006 | Paro cardiorrespiratorio | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.007 | Shock | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.008 | Taponamiento pericárdico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.009 | Taqui y bradiarritmia con compromiso hemodinámico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
-</div>
+## Diabetes y nutrición (0/7)
 
-:material-check-circle:{ .ok title="Disponible" } disponible · :material-clock-outline:{ .pend title="Pendiente" } pendiente
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.02.2.001 | Acidosis láctica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.002 | Cetoacidosis | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.003 | Coma hiperosmolar | Específico | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.004 | Déficit agudo de tiamina | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.005 | Hipertrigliceridemia grave | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.006 | Hipoglicemias | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.007 | Síndrome hiperosmolar no cetósico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Endocrinología (0/5)
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.03.2.001 | Tormenta tiroidea | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.2.002 | Mixedema | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.2.003 | Insuficiencia suprarrenal aguda | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.2.004 | Hipercalcemia aguda | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.2.005 | Tetania | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Enfermedades infecciosas (0/11)
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.04.2.001 | Absceso cerebral | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.002 | Encefalitis aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.003 | Endocarditis bacteriana | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.004 | Flegmón submaxilar, submandibular y del piso de la boca | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.005 | Infección invasiva de partes blandas: celulitis, fasceítis, miositis necrotizantes o septicémicas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.011 | Enfermedad grave por SARS Cov 2 COVID 19 | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.006 | Meningitis aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.007 | Sepsis y shock séptico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.008 | Síndrome pulmonar por Hanta Virus | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.009 | Tétanos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.010 | Varicela complicada: neumonitis, cerebelitis, encefalitis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Enfermedades respiratorias (0/14)
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.05.2.001 | Asfixia por inmersión | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.002 | Aspiración de cuerpo extraño con asfixia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.003 | Aspiración de cuerpo extraño sin asfixia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.004 | Crisis de asma bronquial | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.005 | Embolia pulmonar masiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.006 | Enfermedad bronquial obstructiva crónica descompensada | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.007 | Hemoptisis moderada,severa y masiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.008 | Insuficiencia respiratoria aguda o crónica reagudizada que requiere ventilación mecánica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.009 | Insuficiencia respiratoria aguda o crónica reagudizada que no requiere ventilación mecánica | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.010 | Intoxicación por monóxido de carbono | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.011 | Neumotórax hipertensivo | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.012 | Paro cardiorrespiratorio | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.013 | Traumatismo torácico grave | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.014 | Traumatismo torácico simple | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Gastroenterología (1/12)
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.06.2.001 | Abdomen agudo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.002 | Afagia aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.003 | Colangitis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.004 | Colecistitis aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.005 | Diarrea aguda | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.006 | Encefalopatía hepática | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.007 | Hemorragia digestiva alta y baja | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva alta](../gastroenterologia/hemorragia-digestiva-alta.md) |
+| 1.06.2.008 | Hepatitis aguda A complicada | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.009 | Insuficiencia hepática aguda | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.010 | Pancreatitis aguda | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.011 | Peritonitis bacteriana espontánea del cirrótico | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.012 | Síndrome hepatorrenal | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Geriatría (0/5)
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.07.2.001 | Abdomen agudo en adulto mayor | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.07.2.002 | Evento coronario en adulto mayor | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.07.2.003 | Fractura de cadera | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.07.2.004 | Agitación y agresividad | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.07.2.005 | Síndrome confusional agudo / delirium | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Hemato-oncología (0/9)
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.08.2.001 | Coagulación intravascular diseminada | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.08.2.002 | Coagulopatía adquirida | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.08.2.003 | Coagulopatía congénita sangrante | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.08.2.004 | Hipercalcemia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.08.2.005 | Lisis tumoral aguda | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.08.2.006 | Neutropenia febril | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.08.2.007 | Síndrome de compresión medular | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.08.2.008 | Síndrome vena cava superior | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.08.2.009 | Trombopenia severa | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Nefrología (0/13)
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.09.2.001 | Cólico nefrítico, urolitiasis y complicaciones: obstrucción, sepsis, insuficiencia renal | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.002 | Crisis hipertensivas, emergencias hipertensivas | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.003 | Edema generalizado grave (anasarca) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.004 | Enfermedad tubular aguda | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.005 | Hiperkalemia grave | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.006 | Hipokalemia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.007 | Hiponatremia aguda grave | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.008 | Hipovolemia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.009 | Insuficiencia renal aguda obstructiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.010 | Insuficiencia renal aguda prerrenal | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.011 | Pielonefritis aguda complicada | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.012 | Pre eclampsia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.013 | Vasculitis o glomerulonefritis rápidamente progresiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Neurología (0/21)
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.10.2.001 | Cefalea aguda en urgencia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.002 | Complicaciones neurológicas de abuso de sustancias | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.003 | Crisis convulsiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.004 | Estado confusional agudo (alcohólico, tóxico metabólico) | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.005 | Distonía aguda por fármacos (ejemplo antieméticos) | Específico | Completo | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.006 | Encefalopatías tóxico metabólicas (urémica, hepática, etc) | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.007 | Enfermedad cerebrovascular (isquémica, cardioembólica, hemorrágica, crisis isquémica transitoria) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.008 | Hemorragia subaracnoidea | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.009 | Hipertensión endocraneana | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.010 | Movimientos anormales inducidos por fármacos | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.011 | Paraplejia aguda | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.012 | Síndrome cuadraplégico agudo | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.013 | Síndrome cuadriparético fláccido (polirradiculoneuritis aguda, Guillain-Barré) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.014 | Síndrome encefalítico (Herpes Simplex) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.015 | Síndromes convulsivos sintomáticos (traumático, tumores del SNC, metabólico, urémico, etc.) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.016 | Síndromes meníngeos con meningitis purulenta o bacteriana | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.017 | Status convulsivo | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.018 | Status migrañoso | Específico | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.019 | Traumatismo encéfalo craneano leve | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.020 | Traumatismo encefalocraneano grave | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.021 | Traumatismo raquimedular | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Reumatología (0/2)
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.11.2.001 | Artritis séptica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.2.002 | Gota aguda | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Cómo leer los niveles EUNACOM
+
+| Columna | Valor | Qué se espera del examinado |
+|---|---|---|
+| **Diagnóstico** | **Específico** | Llegar de forma autónoma al diagnóstico específico, incluido el diagnóstico diferencial y el uso de exámenes |
+| | **Sospecha** | Sospechar el diagnóstico, conocer los criterios de derivación y los estudios que hará el especialista |
+| **Tratamiento** | **Completo** | Tratar hasta la resolución, derivando solo los casos complejos |
+| | **Inicial** | Hacer el tratamiento inicial y derivar en condiciones adecuadas y oportunas |
+| **Seguimiento** | **Completo** | Controlar al paciente, derivando solo los casos complejos |
+| | **Derivar** | Derivar el seguimiento al especialista, conociendo sus aspectos generales |
+| | **No requiere** | La situación no requiere seguimiento |
+
+Fuente: [Perfil de Conocimientos EUNACOM, versión 3 (junio 2026)](https://www.eunacom.cl/contenidos/Perfil2026.pdf), vigente desde el examen de diciembre de 2026.

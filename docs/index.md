@@ -10,6 +10,11 @@ Resúmenes de estudio para el internado de medicina interna, ordenados por subes
 
 Usa el buscador (arriba) para saltar directo a un tema, un fármaco o un criterio diagnóstico.
 
+<!-- avance:inicio -->
+!!! info "Avance del temario"
+    **5 resúmenes** escritos, que cubren **14 de 385** situaciones clínicas de medicina interna del perfil EUNACOM v3 (2026).
+<!-- avance:fin -->
+
 ## Subespecialidades
 
 <div class="grid cards" markdown>
@@ -20,73 +25,69 @@ Usa el buscador (arriba) para saltar directo a un tema, un fármaco o un criteri
 
     Insuficiencia cardíaca · HTA · síndrome coronario · arritmias · valvulopatías
 
--   :material-lungs:{ .lg .middle } **[Respiratorio](respiratorio/index.md)**
+-   :material-diabetes:{ .lg .middle } **[Endocrinología, diabetes y nutrición](endocrinologia/index.md)**
 
     ---
 
-    NAC · asma · EPOC · TEP · derrame pleural · insuficiencia respiratoria
+    DM2 · cetoacidosis · hipoglicemia · tiroides · suprarrenal · osteoporosis
 
--   :material-water-outline:{ .lg .middle } **[Nefrología](nefrologia/index.md)**
-
-    ---
-
-    ERC · lesión renal aguda · glomerulopatías · electrolitos · ácido-base
-
--   :material-stomach:{ .lg .middle } **[Gastroenterología y hepatología](gastroenterologia/index.md)**
+-   :material-bacteria-outline:{ .lg .middle } **[Enfermedades infecciosas](infectologia/index.md)**
 
     ---
 
-    HDA · cirrosis · pancreatitis · hepatitis · EII · cáncer gástrico
+    Sepsis · VIH · meningitis · endocarditis · hantavirus · COVID-19
 
--   :material-diabetes:{ .lg .middle } **[Endocrinología y diabetes](endocrinologia/index.md)**
-
-    ---
-
-    DM2 · cetoacidosis · tiroides · suprarrenal · osteoporosis
-
--   :material-water:{ .lg .middle } **[Hematología](hematologia/index.md)**
+-   :material-lungs:{ .lg .middle } **[Enfermedades respiratorias](respiratorio/index.md)**
 
     ---
 
-    Anemias · leucemias · linfomas · mieloma · hemostasia
+    NAC · asma · EPOC · TEP · derrame pleural · tuberculosis
 
--   :material-bacteria-outline:{ .lg .middle } **[Infectología](infectologia/index.md)**
-
-    ---
-
-    Sepsis · ITU · VIH · tuberculosis · hantavirus · Chagas
-
--   :material-human-cane:{ .lg .middle } **[Reumatología](reumatologia/index.md)**
+-   :material-stomach:{ .lg .middle } **[Gastroenterología](gastroenterologia/index.md)**
 
     ---
 
-    Artritis reumatoide · LES · gota · vasculitis
-
--   :material-brain:{ .lg .middle } **[Neurología](neurologia/index.md)**
-
-    ---
-
-    ACV · epilepsia · cefalea · demencias
+    HDA · cirrosis · pancreatitis · hepatitis · cáncer gástrico
 
 -   :material-account-heart-outline:{ .lg .middle } **[Geriatría](geriatria/index.md)**
 
     ---
 
-    Delirium · caídas · polifarmacia · fragilidad
+    Delirium · caídas · fragilidad · incontinencia · úlceras por presión
 
--   :material-ribbon:{ .lg .middle } **[Oncología](oncologia/index.md)**
-
-    ---
-
-    Emergencias oncológicas · síndromes paraneoplásicos
-
--   :material-ambulance:{ .lg .middle } **[Urgencias y paciente crítico](urgencias/index.md)**
+-   :material-water:{ .lg .middle } **[Hemato-oncología](hematologia/index.md)**
 
     ---
 
-    Paro · shock · anafilaxia · intoxicaciones
+    Anemias · leucemias · linfomas · coagulopatías · emergencias oncológicas
+
+-   :material-water-outline:{ .lg .middle } **[Nefrología](nefrologia/index.md)**
+
+    ---
+
+    ERC · lesión renal aguda · electrolitos · ácido-base · infección urinaria
+
+-   :material-brain:{ .lg .middle } **[Neurología](neurologia/index.md)**
+
+    ---
+
+    ACV · epilepsia · cefalea · demencias · compromiso de conciencia
+
+-   :material-human-cane:{ .lg .middle } **[Reumatología](reumatologia/index.md)**
+
+    ---
+
+    Artritis reumatoide · LES · gota · vasculitis · monoartritis
+
+-   :material-ambulance:{ .lg .middle } **[Urgencias](urgencias/index.md)**
+
+    ---
+
+    Todas las situaciones de urgencia del EUNACOM en un solo lugar
 
 </div>
+
+El temario sigue el **[perfil de conocimientos EUNACOM versión 3](https://www.eunacom.cl/contenidos/Perfil2026.pdf)** (junio 2026, vigente desde diciembre de 2026). Cada índice muestra el código de la situación clínica y el nivel exigido en diagnóstico, tratamiento y seguimiento.
 
 ## Cómo está armada cada página
 

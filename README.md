@@ -13,7 +13,8 @@ Luego abre http://127.0.0.1:8000 en el navegador.
 
 ## Estructura
 
-- `docs/<subespecialidad>/index.md`: listado de patologías de la subespecialidad (disponibles y pendientes).
 - `docs/<subespecialidad>/<patologia>.md`: resumen de cada patología.
+- `datos/temario.yml`: temario de medicina interna del perfil EUNACOM v3 (2026) y qué resumen cubre cada situación clínica.
+- `scripts/generar_indices.py`: genera los índices por subespecialidad, la página de urgencias y el menú (`python3 scripts/generar_indices.py`).
 - `plantillas/resumen-patologia.md`: plantilla con las secciones que usa cada resumen.
-- `mkdocs.yml`: configuración y menú del sitio.
+- `mkdocs.yml`: configuración del sitio.

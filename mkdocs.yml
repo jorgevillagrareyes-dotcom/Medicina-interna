@@ -97,26 +97,30 @@ nav:
   - Inicio: index.md
   - Cardiología:
       - cardiologia/index.md
-      - Insuficiencia cardíaca: cardiologia/insuficiencia-cardiaca.md
-  - Respiratorio:
+      - "Insuficiencia cardíaca": cardiologia/insuficiencia-cardiaca.md
+  - Endocrinología, diabetes y nutrición:
+      - endocrinologia/index.md
+      - "Diabetes mellitus tipo 2": endocrinologia/diabetes-mellitus-tipo-2.md
+  - Enfermedades infecciosas:
+      - infectologia/index.md
+  - Enfermedades respiratorias:
       - respiratorio/index.md
-      - Neumonía adquirida en la comunidad: respiratorio/neumonia-adquirida-en-la-comunidad.md
+      - "Neumonía adquirida en la comunidad": respiratorio/neumonia-adquirida-en-la-comunidad.md
+  - Gastroenterología:
+      - gastroenterologia/index.md
+      - "Hemorragia digestiva alta": gastroenterologia/hemorragia-digestiva-alta.md
+  - Geriatría:
+      - geriatria/index.md
+  - Hemato-oncología:
+      - hematologia/index.md
   - Nefrología:
       - nefrologia/index.md
-      - Enfermedad renal crónica: nefrologia/enfermedad-renal-cronica.md
-  - Gastroenterología y hepatología:
-      - gastroenterologia/index.md
-      - Hemorragia digestiva alta: gastroenterologia/hemorragia-digestiva-alta.md
-  - Endocrinología y diabetes:
-      - endocrinologia/index.md
-      - Diabetes mellitus tipo 2: endocrinologia/diabetes-mellitus-tipo-2.md
-  - Hematología: hematologia/index.md
-  - Infectología: infectologia/index.md
-  - Reumatología: reumatologia/index.md
-  - Neurología: neurologia/index.md
-  - Geriatría: geriatria/index.md
-  - Oncología: oncologia/index.md
-  - Urgencias y paciente crítico: urgencias/index.md
+      - "Enfermedad renal crónica": nefrologia/enfermedad-renal-cronica.md
+  - Neurología:
+      - neurologia/index.md
+  - Reumatología:
+      - reumatologia/index.md
+  - Urgencias: urgencias/index.md
   - Acerca de:
       - Cómo se hacen los resúmenes: acerca/metodologia.md
       - Temas GES y etiquetas: acerca/etiquetas.md

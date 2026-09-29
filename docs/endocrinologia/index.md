@@ -3,31 +3,105 @@ hide:
   - toc
 ---
 
-# Endocrinología y diabetes
+# Endocrinología, diabetes y nutrición
 
-Diabetes, tiroides, suprarrenal, hipófisis, metabolismo óseo y obesidad.
+Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
-<div class="temas" markdown>
+!!! info "Avance"
+    **2 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
 
-- :material-check-circle:{ .ok title="Disponible" } [Diabetes mellitus tipo 2](diabetes-mellitus-tipo-2.md)
-- :material-clock-outline:{ .pend title="Pendiente" } Diabetes mellitus tipo 1
-- :material-clock-outline:{ .pend title="Pendiente" } Cetoacidosis diabética y estado hiperglicémico hiperosmolar
-- :material-clock-outline:{ .pend title="Pendiente" } Hipoglicemia
-- :material-clock-outline:{ .pend title="Pendiente" } Complicaciones crónicas de la diabetes y pie diabético
-- :material-clock-outline:{ .pend title="Pendiente" } Manejo de la hiperglicemia en el paciente hospitalizado
-- :material-clock-outline:{ .pend title="Pendiente" } Obesidad
-- :material-clock-outline:{ .pend title="Pendiente" } Hipotiroidismo
-- :material-clock-outline:{ .pend title="Pendiente" } Hipertiroidismo y crisis tirotóxica
-- :material-clock-outline:{ .pend title="Pendiente" } Nódulo tiroideo y cáncer de tiroides
-- :material-clock-outline:{ .pend title="Pendiente" } Insuficiencia suprarrenal
-- :material-clock-outline:{ .pend title="Pendiente" } Síndrome de Cushing
-- :material-clock-outline:{ .pend title="Pendiente" } Hiperaldosteronismo primario
-- :material-clock-outline:{ .pend title="Pendiente" } Feocromocitoma e incidentaloma suprarrenal
-- :material-clock-outline:{ .pend title="Pendiente" } Hiperparatiroidismo e hipercalcemia
-- :material-clock-outline:{ .pend title="Pendiente" } Osteoporosis
-- :material-clock-outline:{ .pend title="Pendiente" } Patología hipofisaria: prolactinoma, acromegalia e hipopituitarismo
-- :material-clock-outline:{ .pend title="Pendiente" } SIADH y diabetes insípida
+## Resúmenes disponibles
 
-</div>
+- :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 2](diabetes-mellitus-tipo-2.md)
 
-:material-check-circle:{ .ok title="Disponible" } disponible · :material-clock-outline:{ .pend title="Pendiente" } pendiente
+## Diabetes y nutrición (1.02)
+
+### Situaciones clínicas
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.02.1.001 | Desnutrición | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.002 | Diabetes gestacional | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.003 | Diabetes mellitus pregestacional | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.004 | Diabetes Mellitus tipo 1 | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.005 | Diabetes mellitus tipo 2 | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 2](diabetes-mellitus-tipo-2.md) |
+| 1.02.1.006 | Diabetes por corticoides | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.007 | Dislipidemias | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.008 | Hipertensión arterial en diabetes tipo 2 | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.009 | Insuficiencia renal y diabetes | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](../nefrologia/enfermedad-renal-cronica.md) |
+| 1.02.1.010 | Nefropatía incipiente | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.011 | Neuropatía diabética | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.012 | Obesidad | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.013 | Obesidad mórbida | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.014 | Pie diabético y otras infecciones en diabetes | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.015 | Retinopatía diabética | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.016 | Síndrome metabólico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.017 | Síndromes carenciales de vitaminas y minerales | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.018 | Trastornos de conducta alimentaria | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.019 | Vasculopatía periférica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+
+### Situaciones clínicas de urgencia
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.02.2.001 | Acidosis láctica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.002 | Cetoacidosis | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.003 | Coma hiperosmolar | Específico | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.004 | Déficit agudo de tiamina | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.005 | Hipertrigliceridemia grave | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.006 | Hipoglicemias | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.007 | Síndrome hiperosmolar no cetósico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Endocrinología (1.03)
+
+### Situaciones clínicas
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.03.1.001 | Bocio | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.002 | Hipotiroidismo | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.003 | Hipertiroidismo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.004 | Cáncer del tiroides | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.005 | Tiroiditis | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.006 | Síndrome de Cushing | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.007 | Insuficiencia suprarrenal crónica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.008 | Hirsutismo | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.009 | Hipertensión arterial de origen endocrino | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.010 | Amenorrea | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.011 | Síndrome climatérico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.012 | Hipogonadismo masculino | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.013 | Tumores hipofisiarios | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.014 | Hipopituitarismo | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.015 | Diabetes insípida | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.016 | Hiperprolactinemia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.017 | Síndrome de secreción inapropiada de ADH | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.018 | Osteoporosis | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.019 | Osteoporosis secundaria | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.020 | Hipercalcemias e hipocalcemias | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.021 | Nódulo tiroideo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.022 | Incidentaloma suprarrenal | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.023 | Ginecomastia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+
+### Situaciones clínicas de urgencia
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 1.03.2.001 | Tormenta tiroidea | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.2.002 | Mixedema | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.2.003 | Insuficiencia suprarrenal aguda | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.2.004 | Hipercalcemia aguda | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.2.005 | Tetania | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Cómo leer los niveles EUNACOM
+
+| Columna | Valor | Qué se espera del examinado |
+|---|---|---|
+| **Diagnóstico** | **Específico** | Llegar de forma autónoma al diagnóstico específico, incluido el diagnóstico diferencial y el uso de exámenes |
+| | **Sospecha** | Sospechar el diagnóstico, conocer los criterios de derivación y los estudios que hará el especialista |
+| **Tratamiento** | **Completo** | Tratar hasta la resolución, derivando solo los casos complejos |
+| | **Inicial** | Hacer el tratamiento inicial y derivar en condiciones adecuadas y oportunas |
+| **Seguimiento** | **Completo** | Controlar al paciente, derivando solo los casos complejos |
+| | **Derivar** | Derivar el seguimiento al especialista, conociendo sus aspectos generales |
+| | **No requiere** | La situación no requiere seguimiento |
+
+Fuente: [Perfil de Conocimientos EUNACOM, versión 3 (junio 2026)](https://www.eunacom.cl/contenidos/Perfil2026.pdf), vigente desde el examen de diciembre de 2026.
