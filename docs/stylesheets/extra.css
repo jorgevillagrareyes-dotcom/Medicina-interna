@@ -136,3 +136,15 @@
 [data-md-color-scheme="slate"] .md-typeset .chile > summary::before { background-color: #6b93ff; }
 [data-md-color-scheme="slate"] .md-typeset .admonition.chile,
 [data-md-color-scheme="slate"] .md-typeset details.chile { border-color: #6b93ff; }
+
+/* Mapa de calor KDIGO (riesgo por TFG y albuminuria) */
+.md-typeset .kdigo { overflow-x: auto; margin: 1em 0; }
+.md-typeset .kdigo table { border-collapse: collapse; font-size: 0.68rem; min-width: 30rem; }
+.md-typeset .kdigo th, .md-typeset .kdigo td { border: 1px solid var(--md-default-fg-color--lightest); padding: 0.45em 0.6em; text-align: center; vertical-align: middle; }
+.md-typeset .kdigo th { background: var(--mi-ficha-bg); font-weight: 700; }
+.md-typeset .kdigo th.fila { text-align: left; }
+.md-typeset .kdigo td { color: #111; font-weight: 700; font-variant-numeric: tabular-nums; }
+.md-typeset .kdigo .verde { background: #7cc47f; }
+.md-typeset .kdigo .amarillo { background: #f3e071; }
+.md-typeset .kdigo .naranjo { background: #f4a259; }
+.md-typeset .kdigo .rojo { background: #e05a4f; color: #fff; }
