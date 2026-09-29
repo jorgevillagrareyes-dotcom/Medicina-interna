@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="900" height="400" fill="#ffffff"/>
+<text x="450" y="30" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2933">Clasificación de Forrest: estigmas endoscópicos de la úlcera péptica</text>
+<text x="450" y="48" text-anchor="middle" font-size="12.5" fill="#52606d">Riesgo de resangrado sin tratamiento endoscópico y conducta</text>
+<rect x="20" y="58" width="270" height="158" rx="10" fill="#fbe9e6" stroke="#e2b8b1" stroke-width="1.5"/>
+<rect x="20" y="58" width="46" height="26" rx="6" fill="#c62828"/>
+<text x="43" y="76" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Ia</text>
+<ellipse cx="155.0" cy="124" rx="72" ry="38" fill="#e7d3ad" stroke="#b27a72" stroke-width="3"/>
+<ellipse cx="155.0" cy="126" rx="56" ry="27" fill="#f3e8cf"/>
+<path d="M155.0 124 Q147.0 90 153.0 66" stroke="#c1121f" stroke-width="7" fill="none" stroke-linecap="round"/>
+<circle cx="165.0" cy="72" r="4" fill="#c1121f"/>
+<circle cx="141.0" cy="78" r="3.5" fill="#c1121f"/>
+<circle cx="170.0" cy="88" r="3" fill="#c1121f"/>
+<circle cx="146.0" cy="64" r="3" fill="#c1121f"/>
+<circle cx="155.0" cy="124" r="7" fill="#9d0208"/>
+<text x="155.0" y="184" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2933">Sangrado activo en jet</text>
+<text x="155.0" y="204" text-anchor="middle" font-size="12.5" fill="#c62828" font-weight="600">Resangrado ~55 % · tratar</text>
+<rect x="315" y="58" width="270" height="158" rx="10" fill="#fbe9e6" stroke="#e2b8b1" stroke-width="1.5"/>
+<rect x="315" y="58" width="46" height="26" rx="6" fill="#c62828"/>
+<text x="338" y="76" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Ib</text>
+<ellipse cx="450.0" cy="124" rx="72" ry="38" fill="#e7d3ad" stroke="#b27a72" stroke-width="3"/>
+<ellipse cx="450.0" cy="126" rx="56" ry="27" fill="#f3e8cf"/>
+<path d="M450.0 124 C456.0 134 444.0 144 452.0 156" stroke="#c1121f" stroke-width="5" fill="none" stroke-linecap="round"/>
+<circle cx="450.0" cy="124" r="7" fill="#c1121f"/>
+<circle cx="438.0" cy="120" r="3.5" fill="#c1121f"/>
+<circle cx="461.0" cy="118" r="3" fill="#c1121f"/>
+<circle cx="444.0" cy="132" r="3" fill="#c1121f"/>
+<circle cx="459.0" cy="130" r="2.5" fill="#c1121f"/>
+<text x="450.0" y="184" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2933">Sangrado activo en napa</text>
+<text x="450.0" y="204" text-anchor="middle" font-size="12.5" fill="#c62828" font-weight="600">Resangrado ~55 % · tratar</text>
+<rect x="610" y="58" width="270" height="158" rx="10" fill="#fbe9e6" stroke="#e2b8b1" stroke-width="1.5"/>
+<rect x="610" y="58" width="46" height="26" rx="6" fill="#ef6c00"/>
+<text x="633" y="76" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">IIa</text>
+<ellipse cx="745.0" cy="124" rx="72" ry="38" fill="#e7d3ad" stroke="#b27a72" stroke-width="3"/>
+<ellipse cx="745.0" cy="126" rx="56" ry="27" fill="#f3e8cf"/>
+<circle cx="745.0" cy="124" r="9" fill="#7b1e3a"/>
+<circle cx="742.0" cy="121" r="3" fill="#d6819a"/>
+<text x="745.0" y="184" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2933">Vaso visible no sangrante</text>
+<text x="745.0" y="204" text-anchor="middle" font-size="12.5" fill="#ef6c00" font-weight="600">Resangrado ~43 % · tratar</text>
+<rect x="20" y="228" width="270" height="158" rx="10" fill="#fbe9e6" stroke="#e2b8b1" stroke-width="1.5"/>
+<rect x="20" y="228" width="46" height="26" rx="6" fill="#ef6c00"/>
+<text x="43" y="246" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">IIb</text>
+<ellipse cx="155.0" cy="294" rx="72" ry="38" fill="#e7d3ad" stroke="#b27a72" stroke-width="3"/>
+<ellipse cx="155.0" cy="296" rx="56" ry="27" fill="#f3e8cf"/>
+<path d="M125.0 296 C123.0 276 149.0 271 165.0 277 C186.0 282 188.0 302 174.0 310 C160.0 319 134.0 315 125.0 296 Z" fill="#6a040f"/>
+<path d="M143.0 284 C153.0 280 163.0 282 169.0 288" stroke="#a4161a" stroke-width="3" fill="none"/>
+<text x="155.0" y="354" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2933">Coágulo adherido</text>
+<text x="155.0" y="374" text-anchor="middle" font-size="12.5" fill="#ef6c00" font-weight="600">Resangrado ~22 % · remover y tratar</text>
+<rect x="315" y="228" width="270" height="158" rx="10" fill="#fbe9e6" stroke="#e2b8b1" stroke-width="1.5"/>
+<rect x="315" y="228" width="46" height="26" rx="6" fill="#2e7d32"/>
+<text x="338" y="246" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">IIc</text>
+<ellipse cx="450.0" cy="294" rx="72" ry="38" fill="#e7d3ad" stroke="#b27a72" stroke-width="3"/>
+<ellipse cx="450.0" cy="296" rx="56" ry="27" fill="#f3e8cf"/>
+<ellipse cx="450.0" cy="294" rx="10" ry="6.5" fill="#5c3a21" opacity="0.9"/>
+<text x="450.0" y="354" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2933">Mancha plana pigmentada</text>
+<text x="450.0" y="374" text-anchor="middle" font-size="12.5" fill="#2e7d32" font-weight="600">Resangrado ~10 % · IBP oral</text>
+<rect x="610" y="228" width="270" height="158" rx="10" fill="#fbe9e6" stroke="#e2b8b1" stroke-width="1.5"/>
+<rect x="610" y="228" width="46" height="26" rx="6" fill="#2e7d32"/>
+<text x="633" y="246" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">III</text>
+<ellipse cx="745.0" cy="294" rx="72" ry="38" fill="#e7d3ad" stroke="#b27a72" stroke-width="3"/>
+<ellipse cx="745.0" cy="296" rx="56" ry="27" fill="#f3e8cf"/>
+<text x="745.0" y="354" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2933">Base limpia (fibrina)</text>
+<text x="745.0" y="374" text-anchor="middle" font-size="12.5" fill="#2e7d32" font-weight="600">Resangrado ~5 % · IBP oral, alta</text>
+</svg>
