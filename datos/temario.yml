@@ -1539,6 +1539,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/lesion-renal-aguda.md
   - codigo: 1.09.1.014
     nombre: Nefropatía diabética
     dx: Sospecha
@@ -1605,6 +1607,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/lesion-renal-aguda.md
   urgencias:
   - codigo: 1.09.2.001
     nombre: 'Cólico nefrítico, urolitiasis y complicaciones: obstrucción, sepsis, insuficiencia renal'
@@ -1628,6 +1632,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/lesion-renal-aguda.md
   - codigo: 1.09.2.005
     nombre: Hiperkalemia grave
     dx: Específico
@@ -1648,16 +1654,22 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - nefrologia/lesion-renal-aguda.md
   - codigo: 1.09.2.009
     nombre: Insuficiencia renal aguda obstructiva
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/lesion-renal-aguda.md
   - codigo: 1.09.2.010
     nombre: Insuficiencia renal aguda prerrenal
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - nefrologia/lesion-renal-aguda.md
   - codigo: 1.09.2.011
     nombre: Pielonefritis aguda complicada
     dx: Sospecha

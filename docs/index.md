@@ -12,7 +12,7 @@ Usa el buscador (arriba) para saltar directo a un tema, un fármaco o un criteri
 
 <!-- avance:inicio -->
 !!! info "Avance del temario"
-    **12 resúmenes** escritos, que cubren **42 de 385** situaciones clínicas de medicina interna del perfil EUNACOM v3 (2026).
+    **13 resúmenes** escritos, que cubren **48 de 385** situaciones clínicas de medicina interna del perfil EUNACOM v3 (2026).
 <!-- avance:fin -->
 
 ## Subespecialidades
