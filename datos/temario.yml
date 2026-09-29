@@ -83,11 +83,15 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - cardiologia/hipertension-arterial.md
   - codigo: 1.01.1.016
     nombre: Hipertensión arterial secundaria
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/hipertension-arterial.md
   - codigo: 1.01.1.017
     nombre: Insuficiencia aórtica
     dx: Específico
@@ -224,6 +228,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - cardiologia/hipertension-arterial.md
   - codigo: 1.02.1.009
     nombre: Insuficiencia renal y diabetes
     dx: Específico
@@ -366,6 +372,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/hipertension-arterial.md
   - codigo: 1.03.1.010
     nombre: Amenorrea
     dx: Sospecha
@@ -1199,6 +1207,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - cardiologia/hipertension-arterial.md
   - codigo: 1.07.1.010
     nombre: Hipotensión postural
     dx: Específico
@@ -1458,11 +1468,15 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - cardiologia/hipertension-arterial.md
   - codigo: 1.09.1.009
     nombre: Hipertensión arterial secundaria
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/hipertension-arterial.md
   - codigo: 1.09.1.010
     nombre: Hiponatremia crónica asintomática
     dx: Sospecha
@@ -1562,6 +1576,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Completo
+    resumen:
+    - cardiologia/crisis-hipertensiva.md
   - codigo: 1.09.2.003
     nombre: Edema generalizado grave (anasarca)
     dx: Sospecha

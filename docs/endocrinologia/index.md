@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **2 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
+    **4 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -27,7 +27,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.02.1.005 | Diabetes mellitus tipo 2 | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 2](diabetes-mellitus-tipo-2.md) |
 | 1.02.1.006 | Diabetes por corticoides | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.02.1.007 | Dislipidemias | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.02.1.008 | Hipertensión arterial en diabetes tipo 2 | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.008 | Hipertensión arterial en diabetes tipo 2 | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
 | 1.02.1.009 | Insuficiencia renal y diabetes | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](../nefrologia/enfermedad-renal-cronica.md) |
 | 1.02.1.010 | Nefropatía incipiente | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.02.1.011 | Neuropatía diabética | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -66,7 +66,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.03.1.006 | Síndrome de Cushing | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.007 | Insuficiencia suprarrenal crónica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.008 | Hirsutismo | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.03.1.009 | Hipertensión arterial de origen endocrino | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.009 | Hipertensión arterial de origen endocrino | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
 | 1.03.1.010 | Amenorrea | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.011 | Síndrome climatérico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.012 | Hipogonadismo masculino | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |

@@ -8,10 +8,12 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **2 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
+    **4 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
+- :material-check-circle:{ .ok title="Resumen disponible" } [Crisis hipertensiva](crisis-hipertensiva.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](hipertension-arterial.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](insuficiencia-cardiaca.md)
 
 ## Situaciones clínicas
@@ -32,8 +34,8 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.01.1.012 | Fibrilación auricular crónica | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.013 | Fibrilación auricular paroxística | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.014 | Flutter auricular | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.01.1.015 | Hipertensión arterial esencial | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.01.1.016 | Hipertensión arterial secundaria | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.015 | Hipertensión arterial esencial | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](hipertension-arterial.md) |
+| 1.01.1.016 | Hipertensión arterial secundaria | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](hipertension-arterial.md) |
 | 1.01.1.017 | Insuficiencia aórtica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.018 | Insuficiencia cardíaca | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](insuficiencia-cardiaca.md) |
 | 1.01.1.019 | Insuficiencia mitral | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

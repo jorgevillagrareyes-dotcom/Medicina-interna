@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **6 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
+    **9 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -25,8 +25,8 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.09.1.005 | Bacteriuria asintomática | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.1.006 | Glomerulopatía lúpica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.1.007 | Hipernatremia, poliuria | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.09.1.008 | Hipertensión arterial esencial | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.09.1.009 | Hipertensión arterial secundaria | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.1.008 | Hipertensión arterial esencial | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
+| 1.09.1.009 | Hipertensión arterial secundaria | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
 | 1.09.1.010 | Hiponatremia crónica asintomática | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.1.011 | Infección urinaria baja (cistitis) | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.1.012 | Insuficiencia renal crónica | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
@@ -49,7 +49,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.09.2.001 | Cólico nefrítico, urolitiasis y complicaciones: obstrucción, sepsis, insuficiencia renal | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.09.2.002 | Crisis hipertensivas, emergencias hipertensivas | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.002 | Crisis hipertensivas, emergencias hipertensivas | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis hipertensiva](../cardiologia/crisis-hipertensiva.md) |
 | 1.09.2.003 | Edema generalizado grave (anasarca) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.2.004 | Enfermedad tubular aguda | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.2.005 | Hiperkalemia grave | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

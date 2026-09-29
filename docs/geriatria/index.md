@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **1 de 22** situaciones clínicas de esta subespecialidad tienen resumen.
+    **2 de 22** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Situaciones clínicas
 
@@ -22,7 +22,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.07.1.006 | Enfermedad cerebro-vascular | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.007 | Escaras o úlceras por presión | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.008 | Fragilidad | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.07.1.009 | Hipertensión arterial | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.07.1.009 | Hipertensión arterial | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
 | 1.07.1.010 | Hipotensión postural | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.011 | Hipotermia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.012 | Incontinencia urinaria | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

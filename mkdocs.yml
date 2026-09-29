@@ -97,6 +97,8 @@ nav:
   - Inicio: index.md
   - Cardiología:
       - cardiologia/index.md
+      - "Crisis hipertensiva": cardiologia/crisis-hipertensiva.md
+      - "Hipertensión arterial": cardiologia/hipertension-arterial.md
       - "Insuficiencia cardíaca": cardiologia/insuficiencia-cardiaca.md
   - Endocrinología, diabetes y nutrición:
       - endocrinologia/index.md
