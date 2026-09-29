@@ -8,13 +8,14 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **22 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
+    **26 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipokalemia e hiperkalemia](trastornos-del-potasio.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](trastornos-del-sodio.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Infección del tracto urinario](infeccion-urinaria.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos ácido-base](trastornos-acido-base.md)
 
@@ -26,18 +27,18 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.09.1.002 | Acidosis metabólica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos ácido-base](trastornos-acido-base.md) |
 | 1.09.1.003 | Alcalosis metabólica | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos ácido-base](trastornos-acido-base.md) |
 | 1.09.1.004 | Anemia en nefrópata | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
-| 1.09.1.005 | Bacteriuria asintomática | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.1.005 | Bacteriuria asintomática | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infección del tracto urinario](infeccion-urinaria.md) |
 | 1.09.1.006 | Glomerulopatía lúpica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.1.007 | Hipernatremia, poliuria | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](trastornos-del-sodio.md) |
 | 1.09.1.008 | Hipertensión arterial esencial | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
 | 1.09.1.009 | Hipertensión arterial secundaria | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
 | 1.09.1.010 | Hiponatremia crónica asintomática | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](trastornos-del-sodio.md) |
-| 1.09.1.011 | Infección urinaria baja (cistitis) | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.1.011 | Infección urinaria baja (cistitis) | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infección del tracto urinario](infeccion-urinaria.md) |
 | 1.09.1.012 | Insuficiencia renal crónica | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
 | 1.09.1.013 | Nefritis intersticial no infecciosa (aguda o crónica) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
 | 1.09.1.014 | Nefropatía diabética | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.1.015 | Osteodistrofia en insuficiencia renal crónica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
-| 1.09.1.016 | Pielonefritis aguda no complicada | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.1.016 | Pielonefritis aguda no complicada | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infección del tracto urinario](infeccion-urinaria.md) |
 | 1.09.1.017 | Progresión de la IRC | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
 | 1.09.1.018 | Proteinuria | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.1.019 | Riñón poliquístico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -62,7 +63,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.09.2.008 | Hipovolemia | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
 | 1.09.2.009 | Insuficiencia renal aguda obstructiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
 | 1.09.2.010 | Insuficiencia renal aguda prerrenal | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
-| 1.09.2.011 | Pielonefritis aguda complicada | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.011 | Pielonefritis aguda complicada | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infección del tracto urinario](infeccion-urinaria.md) |
 | 1.09.2.012 | Pre eclampsia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.2.013 | Vasculitis o glomerulonefritis rápidamente progresiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 

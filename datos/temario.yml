@@ -1517,6 +1517,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Completo
+    resumen:
+    - nefrologia/infeccion-urinaria.md
   - codigo: 1.09.1.006
     nombre: Glomerulopatía lúpica
     dx: Sospecha
@@ -1555,6 +1557,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - nefrologia/infeccion-urinaria.md
   - codigo: 1.09.1.012
     nombre: Insuficiencia renal crónica
     dx: Sospecha
@@ -1586,6 +1590,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - nefrologia/infeccion-urinaria.md
   - codigo: 1.09.1.017
     nombre: Progresión de la IRC
     dx: Sospecha
@@ -1709,6 +1715,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Completo
+    resumen:
+    - nefrologia/infeccion-urinaria.md
   - codigo: 1.09.2.012
     nombre: Pre eclampsia
     dx: Sospecha
