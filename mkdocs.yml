@@ -98,6 +98,7 @@ nav:
   - Cardiología:
       - cardiologia/index.md
       - "Crisis hipertensiva": cardiologia/crisis-hipertensiva.md
+      - "Fibrilación y flutter auricular": cardiologia/fibrilacion-auricular.md
       - "Hipertensión arterial": cardiologia/hipertension-arterial.md
       - "Insuficiencia cardíaca": cardiologia/insuficiencia-cardiaca.md
       - "Síndrome coronario agudo": cardiologia/sindrome-coronario-agudo.md

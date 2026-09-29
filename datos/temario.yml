@@ -68,16 +68,22 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Completo
+    resumen:
+    - cardiologia/fibrilacion-auricular.md
   - codigo: 1.01.1.013
     nombre: Fibrilación auricular paroxística
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/fibrilacion-auricular.md
   - codigo: 1.01.1.014
     nombre: Flutter auricular
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/fibrilacion-auricular.md
   - codigo: 1.01.1.015
     nombre: Hipertensión arterial esencial
     dx: Específico
@@ -152,6 +158,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/fibrilacion-auricular.md
   - codigo: 1.01.2.004
     nombre: Infarto agudo al miocardio
     dx: Específico

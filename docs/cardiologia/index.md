@@ -8,11 +8,12 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **6 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
+    **10 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Crisis hipertensiva](crisis-hipertensiva.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Fibrilación y flutter auricular](fibrilacion-auricular.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](hipertension-arterial.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](insuficiencia-cardiaca.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](sindrome-coronario-agudo.md)
@@ -32,9 +33,9 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.01.1.009 | Estenosis aórtica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.010 | Estenosis mitral | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.011 | Extrasistolía ventricular benigna | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.01.1.012 | Fibrilación auricular crónica | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.01.1.013 | Fibrilación auricular paroxística | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.01.1.014 | Flutter auricular | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.012 | Fibrilación auricular crónica | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Fibrilación y flutter auricular](fibrilacion-auricular.md) |
+| 1.01.1.013 | Fibrilación auricular paroxística | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Fibrilación y flutter auricular](fibrilacion-auricular.md) |
+| 1.01.1.014 | Flutter auricular | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Fibrilación y flutter auricular](fibrilacion-auricular.md) |
 | 1.01.1.015 | Hipertensión arterial esencial | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](hipertension-arterial.md) |
 | 1.01.1.016 | Hipertensión arterial secundaria | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](hipertension-arterial.md) |
 | 1.01.1.017 | Insuficiencia aórtica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -52,7 +53,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 |---|---|---|---|---|---|
 | 1.01.2.001 | Angina inestable | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](sindrome-coronario-agudo.md) |
 | 1.01.2.002 | Disección aórtica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.01.2.003 | Embolia cardiogénica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.003 | Embolia cardiogénica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Fibrilación y flutter auricular](fibrilacion-auricular.md) |
 | 1.01.2.004 | Infarto agudo al miocardio | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](sindrome-coronario-agudo.md) |
 | 1.01.2.005 | Insuficiencia cardíaca aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](insuficiencia-cardiaca.md) |
 | 1.01.2.006 | Paro cardiorrespiratorio | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
