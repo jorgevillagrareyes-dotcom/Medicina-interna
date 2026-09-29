@@ -307,7 +307,7 @@ No es necesario cumplir todos los criterios; la decisión del lugar de manejo es
 ## Referencias
 
 1. Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycaemic crises in adults with diabetes: a consensus report. *Diabetologia.* 2024;67:1455–1479. doi:[10.1007/s00125-024-06183-8](https://doi.org/10.1007/s00125-024-06183-8) (publicado también en *Diabetes Care.* 2024;47:1257–1275).
-2. American Diabetes Association Professional Practice Committee. 16. Diabetes Care in the Hospital: Standards of Care in Diabetes—2026. *Diabetes Care.* 2026;49(Suppl 1).
+2. American Diabetes Association Professional Practice Committee. 16. Diabetes Care in the Hospital: Standards of Care in Diabetes—2026. *Diabetes Care.* 2026;49(Suppl 1):S339. [diabetesjournals.org](https://diabetesjournals.org/care/article/49/Supplement_1/S339/163925/16-Diabetes-Care-in-the-Hospital-Standards-of-Care)
 3. Kitabchi AE, Umpierrez GE, Miles JM, Fisher JN. Hyperglycemic crises in adult patients with diabetes. *Diabetes Care.* 2009;32:1335–1343.
 4. Olmos P, Donoso A, Arab JP, et al. Cetoacidosis diabética: casuística 2008–2012, epidemiología y fisiopatología [Treatment of diabetic ketoacidosis using 2009 American Diabetes Association guidelines]. *Rev Med Chile.* 2014;142:1267–1274. doi:[10.4067/S0034-98872014001000006](https://doi.org/10.4067/S0034-98872014001000006)
 5. Jung B, Martinez M, Claessens YE, et al. Diagnosis and management of metabolic acidosis: guidelines from a French expert panel. *Ann Intensive Care.* 2019;9:92. doi:[10.1186/s13613-019-0563-2](https://doi.org/10.1186/s13613-019-0563-2)

@@ -8,12 +8,13 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **10 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
+    **11 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](cetoacidosis-y-estado-hiperosmolar.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 2](diabetes-mellitus-tipo-2.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Hipoglicemia](hipoglicemia.md)
 
 ## Diabetes y nutrición (1.02)
 
@@ -50,7 +51,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.02.2.003 | Coma hiperosmolar | Específico | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](cetoacidosis-y-estado-hiperosmolar.md) |
 | 1.02.2.004 | Déficit agudo de tiamina | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.02.2.005 | Hipertrigliceridemia grave | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.02.2.006 | Hipoglicemias | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.006 | Hipoglicemias | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipoglicemia](hipoglicemia.md) |
 | 1.02.2.007 | Síndrome hiperosmolar no cetósico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](cetoacidosis-y-estado-hiperosmolar.md) |
 
 ## Endocrinología (1.03)

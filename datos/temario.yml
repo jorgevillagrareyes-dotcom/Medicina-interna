@@ -340,6 +340,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - endocrinologia/hipoglicemia.md
   - codigo: 1.02.2.007
     nombre: Síndrome hiperosmolar no cetósico
     dx: Específico
