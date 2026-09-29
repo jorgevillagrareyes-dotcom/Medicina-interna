@@ -1,0 +1,118 @@
+site_name: Medicina Interna
+site_description: Resúmenes de patologías de medicina interna por subespecialidad, basados en las guías clínicas vigentes.
+site_author: Jorge Villagra Reyes
+copyright: Uso personal de estudio. Contenido generado con apoyo de IA a partir de guías clínicas; verificar siempre con la fuente original.
+use_directory_urls: false
+
+theme:
+  name: material
+  language: es
+  font:
+    text: Source Sans 3
+    code: JetBrains Mono
+  icon:
+    logo: material/stethoscope
+    repo: fontawesome/brands/github
+  favicon: assets/favicon.svg
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+  features:
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - toc.follow
+    - content.tabs.link
+    - content.code.copy
+    - content.tooltips
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search:
+      lang: es
+  - tags
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      width: auto
+      height: auto
+      zoomable: true
+      draggable: true
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.blocks.caption
+
+nav:
+  - Inicio: index.md
+  - Cardiología:
+      - cardiologia/index.md
+      - Insuficiencia cardíaca: cardiologia/insuficiencia-cardiaca.md
+  - Respiratorio:
+      - respiratorio/index.md
+      - Neumonía adquirida en la comunidad: respiratorio/neumonia-adquirida-en-la-comunidad.md
+  - Nefrología:
+      - nefrologia/index.md
+      - Enfermedad renal crónica: nefrologia/enfermedad-renal-cronica.md
+  - Gastroenterología y hepatología:
+      - gastroenterologia/index.md
+      - Hemorragia digestiva alta: gastroenterologia/hemorragia-digestiva-alta.md
+  - Endocrinología y diabetes:
+      - endocrinologia/index.md
+      - Diabetes mellitus tipo 2: endocrinologia/diabetes-mellitus-tipo-2.md
+  - Hematología: hematologia/index.md
+  - Infectología: infectologia/index.md
+  - Reumatología: reumatologia/index.md
+  - Neurología: neurologia/index.md
+  - Geriatría: geriatria/index.md
+  - Oncología: oncologia/index.md
+  - Urgencias y paciente crítico: urgencias/index.md
+  - Acerca de:
+      - Cómo se hacen los resúmenes: acerca/metodologia.md
+      - Temas GES y etiquetas: acerca/etiquetas.md
