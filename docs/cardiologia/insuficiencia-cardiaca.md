@@ -124,6 +124,11 @@ flowchart TD
 
 **IC con FE preservada**: predominan la rigidez ventricular y la disfunción diastólica, con presiones de llenado elevadas sobre todo en ejercicio. Contribuye un estado **inflamatorio sistémico** por comorbilidades (obesidad, diabetes, HTA, ERC) que produce disfunción microvascular, fibrosis e hipertrofia. Es frecuente en **mujeres y adultos mayores**, y con frecuencia se asocia a **FA** e **hipertensión pulmonar**.
 
+<figure markdown>
+![Paradigma comorbilidad-inflamación en la IC con FE preservada: la hipertensión, el envejecimiento, la FA, la EPOC, la diabetes, la ERC, la obesidad y otras comorbilidades generan inflamación sistémica crónica de bajo grado que produce hipertrofia de cardiomiocitos, rigidez y fibrosis miocárdica y disfunción microvascular coronaria](../assets/figuras/ic/icfep-inflamacion-pugliese-2022.jpg){ loading=lazy width="620" }
+<figcaption>Figura 2. Paradigma comorbilidad-inflamación en la IC-FEp. Las comorbilidades (HTA, envejecimiento, FA, EPOC, valvulopatías, obesidad, DM2, amiloidosis, aterosclerosis, ERC, enfermedad periodontal, EII) mantienen un estado inflamatorio sistémico de bajo grado que lleva del miocardio sano a la hipertrofia, la rigidez y fibrosis miocárdica y la disfunción microvascular coronaria. Fuente: Pugliese NR, et al. <em>Cardiovasc Res</em>. 2022;118:3536. doi:<a href="https://doi.org/10.1093/cvr/cvac133">10.1093/cvr/cvac133</a>. Licencia <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Texto de la figura en inglés.</figcaption>
+</figure>
+
 ## Clasificación
 
 ### Según fracción de eyección
@@ -228,7 +233,7 @@ flowchart TD
     I --> K
 ```
 
-*Figura 2. Algoritmo diagnóstico de la IC. Esquema propio basado en ESC 2026 y el consenso HFA sobre NT-proBNP.*
+*Figura 3. Algoritmo diagnóstico de la IC. Esquema propio basado en ESC 2026 y el consenso HFA sobre NT-proBNP.*
 
 ### Umbrales de péptidos natriuréticos
 
@@ -245,6 +250,11 @@ flowchart TD
 - **Los elevan**: edad avanzada, **FA**, **ERC**, TEP, síndrome coronario agudo, sepsis, hipertensión pulmonar, anemia, hipertiroidismo, quimioterapia cardiotóxica.
 - **Los disminuyen**: **obesidad** (valores falsamente bajos), edema pulmonar "flash" en las primeras horas, pericarditis constrictiva, taponamiento.
 - El **sacubitril/valsartán eleva el BNP** (la neprilisina lo degrada) pero **no el NT-proBNP**. En pacientes con ARNI, controla con NT-proBNP.
+
+<figure markdown>
+![Síntesis de los péptidos natriuréticos tipo B: el gen se transcribe y traduce a preproBNP, que se procesa a proBNP de 108 aminoácidos y luego, por furina y corina, se divide en NT-proBNP (1 a 76, inactivo) y BNP (77 a 108, activo), ambos útiles para diagnóstico, pronóstico, tamizaje y guía del tratamiento](../assets/figuras/ic/peptidos-natriureticos-castiglione-2022.jpg){ loading=lazy width="420" }
+<figcaption>Figura 4. Procesamiento de los péptidos natriuréticos tipo B. El proBNP se divide en cantidades equimolares de <strong>NT-proBNP</strong> (inactivo, vida media más larga, no lo degrada la neprilisina) y <strong>BNP</strong> (activo). Fuente: Castiglione V, et al. Biomarkers for the diagnosis and management of heart failure. <em>Heart Fail Rev</em>. 2022;27:625. doi:<a href="https://doi.org/10.1007/s10741-021-10105-w">10.1007/s10741-021-10105-w</a>. Licencia <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Texto de la figura en inglés.</figcaption>
+</figure>
 
 ### Diagnóstico de IC-FEp
 
@@ -421,7 +431,7 @@ flowchart LR
     J -->|Sí| K["IC con FE mejorada<br/>MANTENER tratamiento"]
 ```
 
-*Figura 3. Esquema de tratamiento de la IC-FEr. Esquema propio basado en ESC 2026 y ACC ECDP 2024.*
+*Figura 5. Esquema de tratamiento de la IC-FEr. Esquema propio basado en ESC 2026 y ACC ECDP 2024.*
 
 ### IC con FE preservada (FEVI ≥ 50 %)
 
@@ -518,7 +528,7 @@ flowchart TD
     L --> M["Alta euvolémico<br/>control a 1–2 semanas"]
 ```
 
-*Figura 4. Manejo de la IC descompensada. Esquema propio basado en ESC 2026.*
+*Figura 6. Manejo de la IC descompensada. Esquema propio basado en ESC 2026.*
 
 ## Complicaciones
 
@@ -613,3 +623,5 @@ flowchart TD
 17. Kosiborod MN, et al. Semaglutide in Patients with Heart Failure with Preserved Ejection Fraction and Obesity (STEP-HFpEF). *N Engl J Med.* 2023;389:1069–1084.
 18. Packer M, et al. Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity (SUMMIT). *N Engl J Med.* 2025;392:427–437.
 19. Halliday BP, et al. Withdrawal of pharmacological treatment for heart failure in patients with recovered dilated cardiomyopathy (TRED-HF). *Lancet.* 2019;393:61–73.
+20. Pugliese NR, et al. Inflammatory pathways in heart failure with preserved left ventricular ejection fraction: implications for future interventions. *Cardiovasc Res.* 2022;118:3536. doi:[10.1093/cvr/cvac133](https://doi.org/10.1093/cvr/cvac133)
+21. Castiglione V, et al. Biomarkers for the diagnosis and management of heart failure. *Heart Fail Rev.* 2022;27:625. doi:[10.1007/s10741-021-10105-w](https://doi.org/10.1007/s10741-021-10105-w)
