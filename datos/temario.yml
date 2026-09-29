@@ -28,6 +28,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/epoc.md
   - codigo: 1.01.1.005
     nombre: Dislipidemias
     dx: Específico
@@ -718,6 +720,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/epoc.md
   - codigo: 1.05.1.007
     nombre: Cáncer bronquial primario
     dx: Sospecha
@@ -728,6 +732,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/epoc.md
   - codigo: 1.05.1.009
     nombre: Daño pulmonar secundario a drogas
     dx: Sospecha
@@ -770,11 +776,15 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/epoc.md
   - codigo: 1.05.1.017
     nombre: Enfermedad pulmonar obstructiva crónica leve y moderada
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/epoc.md
   - codigo: 1.05.1.018
     nombre: Enfermedades del intersticio pulmonar
     dx: Sospecha
@@ -805,6 +815,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/epoc.md
   - codigo: 1.05.1.024
     nombre: Intoxicación leve por CO y otros gases
     dx: Específico
@@ -917,6 +929,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/epoc.md
   - codigo: 1.05.2.007
     nombre: Hemoptisis moderada,severa y masiva
     dx: Sospecha

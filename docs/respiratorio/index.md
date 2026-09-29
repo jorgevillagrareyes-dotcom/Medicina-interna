@@ -8,10 +8,11 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **4 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
+    **10 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
+- :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía adquirida en la comunidad](neumonia-adquirida-en-la-comunidad.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Tromboembolismo pulmonar](tromboembolismo-pulmonar.md)
 
@@ -24,9 +25,9 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.05.1.003 | Asma bronquial leve y moderada | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.004 | Bronquiectasias | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.005 | Bronquitis aguda | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.05.1.006 | Bronquitis crónica | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.1.006 | Bronquitis crónica | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md) |
 | 1.05.1.007 | Cáncer bronquial primario | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.05.1.008 | Corazón pulmonar crónico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.1.008 | Corazón pulmonar crónico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md) |
 | 1.05.1.009 | Daño pulmonar secundario a drogas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.010 | Derrame pleural neoplásico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.011 | Derrame pleural paraneumónico complicado | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -34,14 +35,14 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.05.1.013 | Derrame pleural por tuberculosis | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.014 | Edema pulmonar no cardiogénico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.015 | Embolia pulmonar | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tromboembolismo pulmonar](tromboembolismo-pulmonar.md) |
-| 1.05.1.016 | Enfermedad pulmonar obstructiva crónica avanzada | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.05.1.017 | Enfermedad pulmonar obstructiva crónica leve y moderada | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.1.016 | Enfermedad pulmonar obstructiva crónica avanzada | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md) |
+| 1.05.1.017 | Enfermedad pulmonar obstructiva crónica leve y moderada | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md) |
 | 1.05.1.018 | Enfermedades del intersticio pulmonar | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.019 | Hemoptisis leve y mediana | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.020 | Hidatidosis pulmonar | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.021 | Hipertensión pulmonar | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.022 | Infecciones de las vías aéreas superiores | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.05.1.023 | Insuficiencia respiratoria crónica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.1.023 | Insuficiencia respiratoria crónica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md) |
 | 1.05.1.024 | Intoxicación leve por CO y otros gases | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.025 | Metástasis pulmonares | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.026 | Neumoconiosis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -67,7 +68,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.05.2.003 | Aspiración de cuerpo extraño sin asfixia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.2.004 | Crisis de asma bronquial | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.2.005 | Embolia pulmonar masiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tromboembolismo pulmonar](tromboembolismo-pulmonar.md) |
-| 1.05.2.006 | Enfermedad bronquial obstructiva crónica descompensada | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.006 | Enfermedad bronquial obstructiva crónica descompensada | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md) |
 | 1.05.2.007 | Hemoptisis moderada,severa y masiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.2.008 | Insuficiencia respiratoria aguda o crónica reagudizada que requiere ventilación mecánica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.2.009 | Insuficiencia respiratoria aguda o crónica reagudizada que no requiere ventilación mecánica | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |

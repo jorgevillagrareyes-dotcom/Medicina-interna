@@ -109,6 +109,7 @@ nav:
       - infectologia/index.md
   - Enfermedades respiratorias:
       - respiratorio/index.md
+      - "Enfermedad pulmonar obstructiva crónica (EPOC)": respiratorio/epoc.md
       - "Neumonía adquirida en la comunidad": respiratorio/neumonia-adquirida-en-la-comunidad.md
       - "Tromboembolismo pulmonar": respiratorio/tromboembolismo-pulmonar.md
   - Gastroenterología:
