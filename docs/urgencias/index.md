@@ -119,7 +119,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.08.2.008 | Síndrome vena cava superior | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.08.2.009 | Trombopenia severa | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
-## Nefrología (5/13)
+## Nefrología (6/13)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.09.2.004 | Enfermedad tubular aguda | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](../nefrologia/lesion-renal-aguda.md) |
 | 1.09.2.005 | Hiperkalemia grave | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.2.006 | Hipokalemia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.09.2.007 | Hiponatremia aguda grave | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.007 | Hiponatremia aguda grave | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](../nefrologia/trastornos-del-sodio.md) |
 | 1.09.2.008 | Hipovolemia | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](../nefrologia/lesion-renal-aguda.md) |
 | 1.09.2.009 | Insuficiencia renal aguda obstructiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](../nefrologia/lesion-renal-aguda.md) |
 | 1.09.2.010 | Insuficiencia renal aguda prerrenal | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](../nefrologia/lesion-renal-aguda.md) |

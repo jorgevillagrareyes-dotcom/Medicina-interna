@@ -8,11 +8,12 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **15 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
+    **18 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](trastornos-del-sodio.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md)
 
 ## Situaciones clínicas
@@ -25,10 +26,10 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.09.1.004 | Anemia en nefrópata | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
 | 1.09.1.005 | Bacteriuria asintomática | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.1.006 | Glomerulopatía lúpica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.09.1.007 | Hipernatremia, poliuria | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.1.007 | Hipernatremia, poliuria | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](trastornos-del-sodio.md) |
 | 1.09.1.008 | Hipertensión arterial esencial | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
 | 1.09.1.009 | Hipertensión arterial secundaria | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
-| 1.09.1.010 | Hiponatremia crónica asintomática | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.1.010 | Hiponatremia crónica asintomática | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](trastornos-del-sodio.md) |
 | 1.09.1.011 | Infección urinaria baja (cistitis) | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.1.012 | Insuficiencia renal crónica | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
 | 1.09.1.013 | Nefritis intersticial no infecciosa (aguda o crónica) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
@@ -55,7 +56,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.09.2.004 | Enfermedad tubular aguda | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
 | 1.09.2.005 | Hiperkalemia grave | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.2.006 | Hipokalemia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.09.2.007 | Hiponatremia aguda grave | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.007 | Hiponatremia aguda grave | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](trastornos-del-sodio.md) |
 | 1.09.2.008 | Hipovolemia | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
 | 1.09.2.009 | Insuficiencia renal aguda obstructiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
 | 1.09.2.010 | Insuficiencia renal aguda prerrenal | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |

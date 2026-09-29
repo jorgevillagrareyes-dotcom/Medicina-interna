@@ -420,6 +420,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/trastornos-del-sodio.md
   - codigo: 1.03.1.016
     nombre: Hiperprolactinemia
     dx: Sospecha
@@ -430,6 +432,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - nefrologia/trastornos-del-sodio.md
   - codigo: 1.03.1.018
     nombre: Osteoporosis
     dx: Específico
@@ -1503,6 +1507,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/trastornos-del-sodio.md
   - codigo: 1.09.1.008
     nombre: Hipertensión arterial esencial
     dx: Específico
@@ -1522,6 +1528,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/trastornos-del-sodio.md
   - codigo: 1.09.1.011
     nombre: Infección urinaria baja (cistitis)
     dx: Específico
@@ -1649,6 +1657,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/trastornos-del-sodio.md
   - codigo: 1.09.2.008
     nombre: Hipovolemia
     dx: Específico

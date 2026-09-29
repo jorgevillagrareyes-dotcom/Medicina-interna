@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **4 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
+    **6 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -72,9 +72,9 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.03.1.012 | Hipogonadismo masculino | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.013 | Tumores hipofisiarios | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.014 | Hipopituitarismo | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.03.1.015 | Diabetes insípida | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.015 | Diabetes insípida | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](../nefrologia/trastornos-del-sodio.md) |
 | 1.03.1.016 | Hiperprolactinemia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.03.1.017 | Síndrome de secreción inapropiada de ADH | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.017 | Síndrome de secreción inapropiada de ADH | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](../nefrologia/trastornos-del-sodio.md) |
 | 1.03.1.018 | Osteoporosis | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.019 | Osteoporosis secundaria | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.020 | Hipercalcemias e hipocalcemias | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
