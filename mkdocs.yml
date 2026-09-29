@@ -110,6 +110,7 @@ nav:
   - Enfermedades respiratorias:
       - respiratorio/index.md
       - "Neumonía adquirida en la comunidad": respiratorio/neumonia-adquirida-en-la-comunidad.md
+      - "Tromboembolismo pulmonar": respiratorio/tromboembolismo-pulmonar.md
   - Gastroenterología:
       - gastroenterologia/index.md
       - "Hemorragia digestiva alta": gastroenterologia/hemorragia-digestiva-alta.md

@@ -38,6 +38,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/tromboembolismo-pulmonar.md
   - codigo: 1.01.1.007
     nombre: Endocarditis infecciosa y no infecciosa
     dx: Sospecha
@@ -761,6 +763,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/tromboembolismo-pulmonar.md
   - codigo: 1.05.1.016
     nombre: Enfermedad pulmonar obstructiva crónica avanzada
     dx: Específico
@@ -906,6 +910,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/tromboembolismo-pulmonar.md
   - codigo: 1.05.2.006
     nombre: Enfermedad bronquial obstructiva crónica descompensada
     dx: Específico
