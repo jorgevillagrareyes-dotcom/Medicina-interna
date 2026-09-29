@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="960" height="540" fill="#ffffff"/>
+<text x="480.0" y="32" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Profundidad de las infecciones de piel y partes blandas</text>
+<rect x="40" y="70" width="430" height="26" fill="#f4d7c3" stroke="#ffffff" stroke-width="1"/>
+<rect x="40" y="96" width="430" height="90" fill="#eebca6" stroke="#ffffff" stroke-width="1"/>
+<rect x="40" y="186" width="430" height="120" fill="#f8e6ae" stroke="#ffffff" stroke-width="1"/>
+<rect x="40" y="306" width="430" height="16" fill="#dcdcea" stroke="#ffffff" stroke-width="1"/>
+<rect x="40" y="322" width="430" height="128" fill="#c77b7f" stroke="#ffffff" stroke-width="1"/>
+<path d="M70 150 q 15 -12 30 0 t 30 0" fill="none" stroke="#b5474f" stroke-width="1.6"/>
+<path d="M80 170 q 15 -10 30 0 t 30 0" fill="none" stroke="#6a8fb0" stroke-width="1.3" stroke-dasharray="3 2"/>
+<path d="M140 150 q 15 -12 30 0 t 30 0" fill="none" stroke="#b5474f" stroke-width="1.6"/>
+<path d="M150 170 q 15 -10 30 0 t 30 0" fill="none" stroke="#6a8fb0" stroke-width="1.3" stroke-dasharray="3 2"/>
+<path d="M210 150 q 15 -12 30 0 t 30 0" fill="none" stroke="#b5474f" stroke-width="1.6"/>
+<path d="M220 170 q 15 -10 30 0 t 30 0" fill="none" stroke="#6a8fb0" stroke-width="1.3" stroke-dasharray="3 2"/>
+<path d="M280 150 q 15 -12 30 0 t 30 0" fill="none" stroke="#b5474f" stroke-width="1.6"/>
+<path d="M290 170 q 15 -10 30 0 t 30 0" fill="none" stroke="#6a8fb0" stroke-width="1.3" stroke-dasharray="3 2"/>
+<path d="M350 150 q 15 -12 30 0 t 30 0" fill="none" stroke="#b5474f" stroke-width="1.6"/>
+<path d="M360 170 q 15 -10 30 0 t 30 0" fill="none" stroke="#6a8fb0" stroke-width="1.3" stroke-dasharray="3 2"/>
+<ellipse cx="60" cy="215" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="72" cy="262" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="106" cy="215" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="118" cy="262" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="152" cy="215" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="164" cy="262" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="198" cy="215" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="210" cy="262" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="244" cy="215" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="256" cy="262" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="290" cy="215" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="302" cy="262" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="336" cy="215" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="348" cy="262" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="382" cy="215" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="394" cy="262" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="428" cy="215" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<ellipse cx="440" cy="262" rx="20" ry="17" fill="none" stroke="#e1c16f" stroke-width="1.2"/>
+<line x1="46" y1="336" x2="464" y2="336" stroke="#ad5f64" stroke-width="1"/>
+<line x1="46" y1="350" x2="464" y2="350" stroke="#ad5f64" stroke-width="1"/>
+<line x1="46" y1="364" x2="464" y2="364" stroke="#ad5f64" stroke-width="1"/>
+<line x1="46" y1="378" x2="464" y2="378" stroke="#ad5f64" stroke-width="1"/>
+<line x1="46" y1="392" x2="464" y2="392" stroke="#ad5f64" stroke-width="1"/>
+<line x1="46" y1="406" x2="464" y2="406" stroke="#ad5f64" stroke-width="1"/>
+<line x1="46" y1="420" x2="464" y2="420" stroke="#ad5f64" stroke-width="1"/>
+<line x1="46" y1="434" x2="464" y2="434" stroke="#ad5f64" stroke-width="1"/>
+<path d="M150 70 L150 40" stroke="#5b4636" stroke-width="2"/>
+<path d="M144 70 Q 140 140 150 175 Q 160 140 156 70 Z" fill="#e9a98f" stroke="#a0634d" stroke-width="1.2"/>
+<ellipse cx="360" cy="200" rx="58" ry="34" fill="#f3ecc0" stroke="#b08a2e" stroke-width="2"/>
+<text x="360" y="205" text-anchor="middle" font-size="12.5" font-weight="700" fill="#6b4f10">pus</text>
+<text x="48" y="86" font-size="11.5" font-weight="700" fill="#4a3b33">Epidermis</text>
+<text x="48" y="112" font-size="11.5" font-weight="700" fill="#4a3b33">Dermis</text>
+<text x="48" y="202" font-size="11.5" font-weight="700" fill="#4a3b33">Tejido subcutáneo (grasa)</text>
+<text x="48" y="318.0" font-size="11.5" font-weight="700" fill="#4a3b33">Fascia</text>
+<text x="48" y="338" font-size="11.5" font-weight="700" fill="#ffffff">Músculo</text>
+<path d="M482 71 L490 71 L490 95 L482 95" fill="none" stroke="#12474f" stroke-width="2"/>
+<line x1="490" y1="83.0" x2="615" y2="76" stroke="#12474f" stroke-width="1" stroke-dasharray="2 2"/>
+<text x="620" y="80" font-size="14" font-weight="700" fill="#12474f">Impétigo</text>
+<text x="620" y="96" font-size="12" fill="#52606d">epidermis superficial; costras mielicéricas</text>
+<path d="M502 71 L510 71 L510 139 L502 139" fill="none" stroke="#12474f" stroke-width="2"/>
+<line x1="510" y1="105.0" x2="615" y2="116" stroke="#12474f" stroke-width="1" stroke-dasharray="2 2"/>
+<text x="620" y="120" font-size="14" font-weight="700" fill="#12474f">Erisipela</text>
+<text x="620" y="136" font-size="12" fill="#52606d">dermis superficial y linfáticos: borde neto y solevantado</text>
+<path d="M522 97 L530 97 L530 305 L522 305" fill="none" stroke="#12474f" stroke-width="2"/>
+<line x1="530" y1="201.0" x2="615" y2="181" stroke="#12474f" stroke-width="1" stroke-dasharray="2 2"/>
+<text x="620" y="185" font-size="14" font-weight="700" fill="#12474f">Celulitis</text>
+<text x="620" y="201" font-size="12" fill="#52606d">dermis profunda y subcutáneo: borde difuso</text>
+<path d="M542 151 L550 151 L550 249 L542 249" fill="none" stroke="#12474f" stroke-width="2"/>
+<line x1="550" y1="200.0" x2="615" y2="241" stroke="#12474f" stroke-width="1" stroke-dasharray="2 2"/>
+<text x="620" y="245" font-size="14" font-weight="700" fill="#12474f">Foliculitis → forúnculo → absceso</text>
+<text x="620" y="261" font-size="12" fill="#52606d">infección del folículo o colección de pus</text>
+<path d="M562 251 L570 251 L570 321 L562 321" fill="none" stroke="#12474f" stroke-width="2"/>
+<line x1="570" y1="286.0" x2="615" y2="301" stroke="#12474f" stroke-width="1" stroke-dasharray="2 2"/>
+<text x="620" y="305" font-size="14" font-weight="700" fill="#12474f">Fascitis necrotizante</text>
+<text x="620" y="321" font-size="12" fill="#52606d">se disemina por la fascia: dolor desproporcionado</text>
+<path d="M582 323 L590 323 L590 449 L582 449" fill="none" stroke="#12474f" stroke-width="2"/>
+<line x1="590" y1="386.0" x2="615" y2="391" stroke="#12474f" stroke-width="1" stroke-dasharray="2 2"/>
+<text x="620" y="395" font-size="14" font-weight="700" fill="#12474f">Miositis / mionecrosis</text>
+<text x="620" y="411" font-size="12" fill="#52606d">gangrena gaseosa (Clostridium), piomiositis</text>
+<path d="M40 480 q 15 -12 30 0" fill="none" stroke="#b5474f" stroke-width="1.6"/>
+<text x="78" y="484" font-size="12" fill="#52606d">vaso sanguíneo</text>
+<path d="M190 480 q 15 -10 30 0" fill="none" stroke="#6a8fb0" stroke-width="1.3" stroke-dasharray="3 2"/>
+<text x="228" y="484" font-size="12" fill="#52606d">linfático</text>
+<text x="14" y="530" font-size="11.5" fill="#52606d">Esquema propio, no a escala. Cuanto más profunda la infección, más grave: la fascitis y la mionecrosis son urgencias quirúrgicas.</text>
+</svg>

@@ -109,6 +109,7 @@ nav:
       - "Hipoglicemia": endocrinologia/hipoglicemia.md
   - Enfermedades infecciosas:
       - infectologia/index.md
+      - "Infecciones de piel y partes blandas": infectologia/infecciones-piel-partes-blandas.md
       - "Sepsis y shock séptico": infectologia/sepsis-y-shock-septico.md
   - Enfermedades respiratorias:
       - respiratorio/index.md
