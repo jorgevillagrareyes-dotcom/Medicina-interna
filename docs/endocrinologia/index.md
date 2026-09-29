@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **6 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
+    **7 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -44,7 +44,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.02.2.001 | Acidosis láctica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.001 | Acidosis láctica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos ácido-base](../nefrologia/trastornos-acido-base.md) |
 | 1.02.2.002 | Cetoacidosis | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.02.2.003 | Coma hiperosmolar | Específico | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.02.2.004 | Déficit agudo de tiamina | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

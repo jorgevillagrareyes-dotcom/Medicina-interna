@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **20 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
+    **22 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -16,14 +16,15 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipokalemia e hiperkalemia](trastornos-del-potasio.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](trastornos-del-sodio.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos ácido-base](trastornos-acido-base.md)
 
 ## Situaciones clínicas
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.09.1.001 | Acidosis e hiperkalemia en Insuficiencia renal crónica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) · [Hipokalemia e hiperkalemia](trastornos-del-potasio.md) |
-| 1.09.1.002 | Acidosis metabólica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.09.1.003 | Alcalosis metabólica | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.1.001 | Acidosis e hiperkalemia en Insuficiencia renal crónica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) · [Hipokalemia e hiperkalemia](trastornos-del-potasio.md) · [Trastornos ácido-base](trastornos-acido-base.md) |
+| 1.09.1.002 | Acidosis metabólica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos ácido-base](trastornos-acido-base.md) |
+| 1.09.1.003 | Alcalosis metabólica | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos ácido-base](trastornos-acido-base.md) |
 | 1.09.1.004 | Anemia en nefrópata | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
 | 1.09.1.005 | Bacteriuria asintomática | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.1.006 | Glomerulopatía lúpica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

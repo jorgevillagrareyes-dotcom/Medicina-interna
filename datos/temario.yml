@@ -309,6 +309,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/trastornos-acido-base.md
   - codigo: 1.02.2.002
     nombre: Cetoacidosis
     dx: Específico
@@ -1476,16 +1478,21 @@ grupos:
     resumen:
     - nefrologia/enfermedad-renal-cronica.md
     - nefrologia/trastornos-del-potasio.md
+    - nefrologia/trastornos-acido-base.md
   - codigo: 1.09.1.002
     nombre: Acidosis metabólica
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/trastornos-acido-base.md
   - codigo: 1.09.1.003
     nombre: Alcalosis metabólica
     dx: Específico
     tto: Inicial
     seg: Completo
+    resumen:
+    - nefrologia/trastornos-acido-base.md
   - codigo: 1.09.1.004
     nombre: Anemia en nefrópata
     dx: Sospecha
