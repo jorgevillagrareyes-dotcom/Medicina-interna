@@ -44,6 +44,10 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+# Mermaid se sirve localmente para que los diagramas funcionen sin conexión.
+extra_javascript:
+  - javascripts/mermaid.min.js
+
 plugins:
   - search:
       lang: es
