@@ -254,6 +254,11 @@ flowchart TD
 
 #### Paso 2. Redistribuir el K hacia la célula
 
+<figure markdown>
+![Célula muscular esquelética con la bomba sodio-potasio ATPasa, que saca 3 iones de sodio e ingresa 2 de potasio; el agonista beta-2 actúa sobre su receptor y la insulina sobre el receptor de insulina, y ambos estimulan la bomba; el bicarbonato de sodio actúa a través del intercambiador sodio-hidrógeno, que ingresa sodio a la célula y activa la bomba](../assets/figuras/potasio/traslocacion-potasio-depret-2019.jpg){ loading=lazy width="560" }
+<figcaption>Figura 3. Cómo bajan el K la insulina, los agonistas β2 (salbutamol) y el bicarbonato: todos activan la <strong>bomba Na-K-ATPasa</strong> del músculo esquelético, que mete K a la célula. El efecto es transitorio: el K corporal total no cambia. Fuente: Dépret F, Peacock WF, Liu KD, et al. Management of hyperkalemia in the acutely ill patient. <em>Ann Intensive Care</em>. 2019;9:32. Licencia <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Texto de la figura en inglés.</figcaption>
+</figure>
+
 !!! dosis "Insulina con glucosa"
     - **Insulina cristalina 10 U + 25 g de glucosa EV en 15 minutos** (p. ej., 10 U en 50 mL de suero glucosado al 50 %, o en 250 mL de suero glucosado al 10 %). Indicada en la hiperkalemia **grave**; sugerida en la **moderada**.
     - Si la **glicemia previa es < 126 mg/dL (7 mmol/L)**: agregar **suero glucosado al 10 % a 50 mL/h por 5 horas** para evitar la hipoglicemia.
