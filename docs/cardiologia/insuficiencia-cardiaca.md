@@ -317,6 +317,11 @@ Es el **examen clave**. Entrega: **FEVI** (método de Simpson biplano), diámetr
 
 En la urgencia, **≥ 3 líneas B en ≥ 2 zonas de cada hemitórax** sugiere edema pulmonar cardiogénico. Es más sensible que la radiografía y útil para seguir la descongestión.
 
+<figure markdown>
+![Ecografía pulmonar con líneas B: artefactos verticales hiperecogénicos, como rayos láser, que nacen de la línea pleural y llegan al fondo de la pantalla sin atenuarse, marcados con una estrella](../assets/figuras/ic/eco-lineas-b-boccatonda-2023.jpg){ loading=lazy width="520" }
+<figcaption>Figura 5. <strong>Líneas B</strong> (estrella): artefactos verticales hiperecogénicos que nacen de la línea pleural, llegan al fondo de la pantalla sin atenuarse y se mueven con el deslizamiento pleural. Múltiples líneas B bilaterales indican síndrome intersticial (en la IC, edema pulmonar). Fuente: Boccatonda A, et al. Infectious Pneumonia and Lung Ultrasound: A Review. <em>J Clin Med</em>. 2023;12:1402. doi:<a href="https://doi.org/10.3390/jcm12041402">10.3390/jcm12041402</a>. Licencia <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+</figure>
+
 ### Otros estudios de imagen
 
 - **Resonancia magnética cardíaca**: estándar de oro para volúmenes y FEVI; **caracterización tisular** con realce tardío de gadolinio (patrón subendocárdico en isquemia; mesocárdico o epicárdico en miocarditis, sarcoidosis y Chagas; difuso subendocárdico en amiloidosis).
@@ -431,7 +436,7 @@ flowchart LR
     J -->|Sí| K["IC con FE mejorada<br/>MANTENER tratamiento"]
 ```
 
-*Figura 5. Esquema de tratamiento de la IC-FEr. Esquema propio basado en ESC 2026 y ACC ECDP 2024.*
+*Figura 6. Esquema de tratamiento de la IC-FEr. Esquema propio basado en ESC 2026 y ACC ECDP 2024.*
 
 ### IC con FE preservada (FEVI ≥ 50 %)
 
@@ -528,7 +533,7 @@ flowchart TD
     L --> M["Alta euvolémico<br/>control a 1–2 semanas"]
 ```
 
-*Figura 6. Manejo de la IC descompensada. Esquema propio basado en ESC 2026.*
+*Figura 7. Manejo de la IC descompensada. Esquema propio basado en ESC 2026.*
 
 ## Complicaciones
 
@@ -625,3 +630,4 @@ flowchart TD
 19. Halliday BP, et al. Withdrawal of pharmacological treatment for heart failure in patients with recovered dilated cardiomyopathy (TRED-HF). *Lancet.* 2019;393:61–73.
 20. Pugliese NR, et al. Inflammatory pathways in heart failure with preserved left ventricular ejection fraction: implications for future interventions. *Cardiovasc Res.* 2022;118:3536. doi:[10.1093/cvr/cvac133](https://doi.org/10.1093/cvr/cvac133)
 21. Castiglione V, et al. Biomarkers for the diagnosis and management of heart failure. *Heart Fail Rev.* 2022;27:625. doi:[10.1007/s10741-021-10105-w](https://doi.org/10.1007/s10741-021-10105-w)
+22. Boccatonda A, et al. Infectious Pneumonia and Lung Ultrasound: A Review. *J Clin Med.* 2023;12:1402. doi:[10.3390/jcm12041402](https://doi.org/10.3390/jcm12041402)

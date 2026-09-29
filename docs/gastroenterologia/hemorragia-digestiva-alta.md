@@ -305,6 +305,11 @@ flowchart TD
     - **Clip sobre el endoscopio** (*over-the-scope clip*, OTSC): para el resangrado o úlceras grandes.
     - **Polvo hemostático** (TC-325): como puente o en tumores sangrantes.
 
+<figure markdown>
+![Imagen endoscópica real: a la izquierda, úlcera péptica con sangrado activo en napa; a la derecha, la misma úlcera después del tratamiento con inyección de adrenalina, clips y polvo hemostático](../assets/figuras/hda/ulcera-sangrante-tratamiento-orpen-palmer-2022.jpg){ loading=lazy width="640" }
+<figcaption>Figura 4. Úlcera péptica con sangrado persistente en napa (Forrest Ib, izquierda) tratada con inyección de adrenalina y clips, y luego polvo hemostático (derecha). Fuente: Orpen-Palmer J, Stanley AJ. Update on the management of upper gastrointestinal bleeding. <em>BMJ Med</em>. 2022;1:e000202. doi:<a href="https://doi.org/10.1136/bmjmed-2022-000202">10.1136/bmjmed-2022-000202</a>. Licencia <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>.</figcaption>
+</figure>
+
 !!! dosis "IBP después de la endoscopía"
     - **Estigmas de alto riesgo tratados**: **IBP en dosis altas por 72 horas**: **80 mg EV en bolo + infusión de 8 mg/h**, o **bolos intermitentes de 40 mg EV c/12 h** (igualmente eficaces según ACG 2021).
     - Luego **IBP oral c/12 h hasta el día 14** y después **1 vez al día**. La duración total depende de la causa (8 semanas en úlcera; indefinido si se mantienen AINE o antiagregantes).
@@ -346,7 +351,7 @@ flowchart TD
     L -->|Sí| M["Balón de Sengstaken o<br/>prótesis esofágica como puente<br/>→ TIPS de rescate"]
 ```
 
-*Figura 4. Manejo de la HDA variceal. Esquema propio basado en Baveno VII y AASLD 2024.*
+*Figura 5. Manejo de la HDA variceal. Esquema propio basado en Baveno VII y AASLD 2024.*
 
 !!! dosis "Fármacos en la HDA variceal"
     - **Vasoactivos** (iniciar **apenas se sospecha**, antes de la endoscopía, y mantener **2–5 días**):
@@ -446,3 +451,4 @@ Reduce la falla del tratamiento y la mortalidad en estos pacientes.
 12. García-Pagán JC, et al. Early use of TIPS in patients with cirrhosis and variceal bleeding. *N Engl J Med.* 2010;362:2370–2379.
 13. Hemorragia digestiva alta variceal y no variceal: mortalidad intrahospitalaria y características clínicas en un hospital universitario (2015–2017). *Rev Méd Chile.* 2020;148(3):288. [SciELO](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0034-98872020000300288)
 14. Ministerio de Salud de Chile. *Guía Clínica GES: Tratamiento de erradicación de Helicobacter pylori en el paciente con úlcera péptica.*
+15. Orpen-Palmer J, Stanley AJ. Update on the management of upper gastrointestinal bleeding. *BMJ Med.* 2022;1:e000202. doi:[10.1136/bmjmed-2022-000202](https://doi.org/10.1136/bmjmed-2022-000202)

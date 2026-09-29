@@ -105,6 +105,11 @@ flowchart TD
 
 *Figura 1. Mecanismos de progresión de la ERC y sitio de acción de los fármacos nefroprotectores. Esquema propio basado en KDIGO 2024.*
 
+<figure markdown>
+![Patogenia de la enfermedad renal diabética y mecanismos de nefroprotección de los inhibidores de SGLT2: la hiperglicemia aumenta la glucosa y el sodio filtrados, la reabsorción por SGLT2 en el túbulo proximal disminuye el feedback túbulo-glomerular con vasodilatación aferente e hiperfiltración, y se produce daño de podocitos con albuminuria; los iSGLT2 revierten estos procesos](../assets/figuras/erc/nefropatia-diabetica-isglt2-yan-2021.jpg){ loading=lazy width="680" }
+<figcaption>Figura 2. Enfermedad renal diabética y nefroprotección por iSGLT2. La mayor reabsorción proximal de glucosa y sodio por el SGLT2 "apaga" el feedback túbulo-glomerular, dilata la arteriola aferente y produce hiperfiltración, daño del podocito (fusión y desprendimiento de pedicelos) y albuminuria; además hay hipoxia, estrés oxidativo y disfunción mitocondrial tubular. Los procesos marcados con el ícono de cápsula mejoran con iSGLT2. Fuente: Yan MT, Chao CT, Lin SH. Chronic Kidney Disease: Strategies to Retard Progression. <em>Int J Mol Sci</em>. 2021;22:10084. doi:<a href="https://doi.org/10.3390/ijms221810084">10.3390/ijms221810084</a>. Licencia <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Texto de la figura en inglés.</figcaption>
+</figure>
+
 !!! perla "Por qué la creatinina sube al iniciar IECA, ARA-II o iSGLT2"
     Al bajar la presión intraglomerular, la TFG cae de forma **hemodinámica y reversible** (hasta ~ 30 %). Es la señal de que el fármaco está protegiendo el riñón. **No hay que suspenderlo** salvo que la caída supere el 30 %, haya hiperkalemia grave o hipovolemia.
 
@@ -158,7 +163,7 @@ El color indica el riesgo de progresión, falla renal, eventos cardiovasculares 
 </table>
 </div>
 
-*Figura 2. Mapa de calor de pronóstico según TFG y albuminuria: verde (riesgo bajo), amarillo (moderado), naranjo (alto) y rojo (muy alto). Adaptado de KDIGO 2024.*
+*Figura 3. Mapa de calor de pronóstico según TFG y albuminuria: verde (riesgo bajo), amarillo (moderado), naranjo (alto) y rojo (muy alto). Adaptado de KDIGO 2024.*
 
 ## Clínica
 
@@ -200,7 +205,7 @@ flowchart TD
     I -->|"No"| K["Manejo en APS (PSCV)<br/>controles según mapa de calor"]
 ```
 
-*Figura 3. Enfoque diagnóstico de la ERC. Esquema propio basado en KDIGO 2024.*
+*Figura 4. Enfoque diagnóstico de la ERC. Esquema propio basado en KDIGO 2024.*
 
 ### Estimación de la TFG
 
@@ -293,7 +298,7 @@ flowchart LR
     A --> H["Tratamiento específico<br/>según la causa<br/>(glomerulopatías, poliquistosis)"]
 ```
 
-*Figura 4. Pilares del tratamiento nefroprotector. Esquema propio basado en KDIGO 2024, KDIGO 2022 y ESC/ERA 2026.*
+*Figura 5. Pilares del tratamiento nefroprotector. Esquema propio basado en KDIGO 2024, KDIGO 2022 y ESC/ERA 2026.*
 
 | Intervención | Indicación | Detalles |
 |---|---|---|
@@ -435,3 +440,4 @@ flowchart LR
 13. The EMPA-KIDNEY Collaborative Group. Empagliflozin in Patients with Chronic Kidney Disease. *N Engl J Med.* 2023;388:117–127.
 14. Heerspink HJL, et al. Dapagliflozin in Patients with Chronic Kidney Disease (DAPA-CKD). *N Engl J Med.* 2020;383:1436–1446.
 15. Bhandari S, et al. Renin–Angiotensin System Inhibition in Advanced Chronic Kidney Disease (STOP-ACEi). *N Engl J Med.* 2022;387:2021–2032.
+16. Yan MT, Chao CT, Lin SH. Chronic Kidney Disease: Strategies to Retard Progression. *Int J Mol Sci.* 2021;22:10084. doi:[10.3390/ijms221810084](https://doi.org/10.3390/ijms221810084)

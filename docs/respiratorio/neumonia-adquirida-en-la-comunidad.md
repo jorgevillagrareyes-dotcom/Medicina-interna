@@ -222,7 +222,7 @@ flowchart TD
     F -->|"NAC grave"| I["UCI<br/>hemocultivos · esputo o aspirado<br/>antígenos urinarios · PCR viral"]
 ```
 
-*Figura 2. Enfoque diagnóstico de la NAC. Esquema propio basado en ATS/IDSA 2019, ATS 2025 y el Consenso Chileno 2023.*
+*Figura 3. Enfoque diagnóstico de la NAC. Esquema propio basado en ATS/IDSA 2019, ATS 2025 y el Consenso Chileno 2023.*
 
 ### Estudio microbiológico
 
@@ -272,6 +272,11 @@ Es el examen estándar: confirma el diagnóstico, muestra la extensión y detect
     Se sugiere la **ecografía pulmonar como alternativa aceptable a la radiografía** de tórax para diagnosticar NAC en adultos, en centros con experiencia (recomendación condicional, evidencia de baja calidad).
 
 Hallazgos: **consolidación subpleural con aspecto "hepatizado"** y **broncograma aéreo dinámico** (muy específico de neumonía), **líneas B focales**, línea pleural irregular y **derrame pleural** (permite guiar la toracocentesis).
+
+<figure markdown>
+![Ecografía pulmonar de una neumonía lobar: el lóbulo consolidado tiene aspecto similar al hígado (hepatización) con broncogramas aéreos hiperecogénicos en su interior, señalados con una flecha](../assets/figuras/nac/eco-consolidacion-lobar-boccatonda-2023.jpg){ loading=lazy width="560" }
+<figcaption>Figura 2. Ecografía pulmonar en una neumonía lobar: consolidación completa del lóbulo con aspecto de parénquima hepático (hepatización), <strong>broncogramas aéreos</strong> (flecha) y mínimo derrame paraneumónico. Fuente: Boccatonda A, et al. Infectious Pneumonia and Lung Ultrasound: A Review. <em>J Clin Med</em>. 2023;12:1402. doi:<a href="https://doi.org/10.3390/jcm12041402">10.3390/jcm12041402</a>. Licencia <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+</figure>
 
 ### Tomografía computada de tórax
 
@@ -389,7 +394,7 @@ flowchart TD
     J -->|"No a las 72 h"| L["Evaluar NAC que no responde"]
 ```
 
-*Figura 3. Tratamiento empírico de la NAC. Esquema propio basado en ATS/IDSA 2019, ATS 2025 y el Consenso Chileno 2023.*
+*Figura 4. Tratamiento empírico de la NAC. Esquema propio basado en ATS/IDSA 2019, ATS 2025 y el Consenso Chileno 2023.*
 
 ## Complicaciones
 
@@ -475,3 +480,4 @@ Si a las **72 horas** no hay mejoría (o hay deterioro), revisa:
 10. Lim WS, et al. Defining community acquired pneumonia severity on presentation to hospital: an international derivation and validation study (CURB-65). *Thorax.* 2003;58:377–382.
 11. Fine MJ, et al. A prediction rule to identify low-risk patients with community-acquired pneumonia (PSI). *N Engl J Med.* 1997;336:243–250.
 12. Halm EA, et al. Time to clinical stability in patients hospitalized with community-acquired pneumonia. *JAMA.* 1998;279:1452–1457.
+13. Boccatonda A, et al. Infectious Pneumonia and Lung Ultrasound: A Review. *J Clin Med.* 2023;12:1402. doi:[10.3390/jcm12041402](https://doi.org/10.3390/jcm12041402)
