@@ -188,6 +188,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/sepsis-y-shock-septico.md
   - codigo: 1.01.2.008
     nombre: Taponamiento pericárdico
     dx: Específico
@@ -685,6 +687,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/sepsis-y-shock-septico.md
   - codigo: 1.04.2.008
     nombre: Síndrome pulmonar por Hanta Virus
     dx: Sospecha

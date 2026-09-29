@@ -7,7 +7,7 @@ hide:
 
 Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicina interna, agrupadas por subespecialidad. Útil para preparar los turnos.
 
-## Cardiología (4/9)
+## Cardiología (5/9)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.01.2.004 | Infarto agudo al miocardio | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](../cardiologia/sindrome-coronario-agudo.md) |
 | 1.01.2.005 | Insuficiencia cardíaca aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](../cardiologia/insuficiencia-cardiaca.md) |
 | 1.01.2.006 | Paro cardiorrespiratorio | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.01.2.007 | Shock | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.007 | Shock | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](../infectologia/sepsis-y-shock-septico.md) |
 | 1.01.2.008 | Taponamiento pericárdico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.2.009 | Taqui y bradiarritmia con compromiso hemodinámico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
@@ -43,7 +43,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.03.2.004 | Hipercalcemia aguda | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.2.005 | Tetania | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
-## Enfermedades infecciosas (0/11)
+## Enfermedades infecciosas (1/11)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.04.2.005 | Infección invasiva de partes blandas: celulitis, fasceítis, miositis necrotizantes o septicémicas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.2.011 | Enfermedad grave por SARS Cov 2 COVID 19 | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.2.006 | Meningitis aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.2.007 | Sepsis y shock séptico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.007 | Sepsis y shock séptico | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](../infectologia/sepsis-y-shock-septico.md) |
 | 1.04.2.008 | Síndrome pulmonar por Hanta Virus | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.2.009 | Tétanos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.2.010 | Varicela complicada: neumonitis, cerebelitis, encefalitis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

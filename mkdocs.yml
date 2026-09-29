@@ -109,6 +109,7 @@ nav:
       - "Hipoglicemia": endocrinologia/hipoglicemia.md
   - Enfermedades infecciosas:
       - infectologia/index.md
+      - "Sepsis y shock séptico": infectologia/sepsis-y-shock-septico.md
   - Enfermedades respiratorias:
       - respiratorio/index.md
       - "Asma bronquial": respiratorio/asma.md

@@ -8,7 +8,11 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **0 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
+    **1 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
+
+## Resúmenes disponibles
+
+- :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](sepsis-y-shock-septico.md)
 
 ## Situaciones clínicas
 
@@ -54,7 +58,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.2.005 | Infección invasiva de partes blandas: celulitis, fasceítis, miositis necrotizantes o septicémicas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.2.011 | Enfermedad grave por SARS Cov 2 COVID 19 | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.2.006 | Meningitis aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.2.007 | Sepsis y shock séptico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.007 | Sepsis y shock séptico | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](sepsis-y-shock-septico.md) |
 | 1.04.2.008 | Síndrome pulmonar por Hanta Virus | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.2.009 | Tétanos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.2.010 | Varicela complicada: neumonitis, cerebelitis, encefalitis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
