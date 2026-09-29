@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **0 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
+    **1 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Situaciones clínicas
 
@@ -63,7 +63,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.10.2.013 | Síndrome cuadriparético fláccido (polirradiculoneuritis aguda, Guillain-Barré) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.014 | Síndrome encefalítico (Herpes Simplex) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.015 | Síndromes convulsivos sintomáticos (traumático, tumores del SNC, metabólico, urémico, etc.) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.2.016 | Síndromes meníngeos con meningitis purulenta o bacteriana | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.016 | Síndromes meníngeos con meningitis purulenta o bacteriana | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Meningitis y encefalitis agudas](../infectologia/meningitis-y-encefalitis.md) |
 | 1.10.2.017 | Status convulsivo | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.018 | Status migrañoso | Específico | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.019 | Traumatismo encéfalo craneano leve | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |

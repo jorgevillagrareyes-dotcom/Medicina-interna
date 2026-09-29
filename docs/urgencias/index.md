@@ -43,17 +43,17 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.03.2.004 | Hipercalcemia aguda | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.2.005 | Tetania | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
-## Enfermedades infecciosas (2/11)
+## Enfermedades infecciosas (4/11)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.04.2.001 | Absceso cerebral | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.2.002 | Encefalitis aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.002 | Encefalitis aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Meningitis y encefalitis agudas](../infectologia/meningitis-y-encefalitis.md) |
 | 1.04.2.003 | Endocarditis bacteriana | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.2.004 | Flegmón submaxilar, submandibular y del piso de la boca | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.2.005 | Infección invasiva de partes blandas: celulitis, fasceítis, miositis necrotizantes o septicémicas | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de piel y partes blandas](../infectologia/infecciones-piel-partes-blandas.md) |
 | 1.04.2.011 | Enfermedad grave por SARS Cov 2 COVID 19 | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.2.006 | Meningitis aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.006 | Meningitis aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Meningitis y encefalitis agudas](../infectologia/meningitis-y-encefalitis.md) |
 | 1.04.2.007 | Sepsis y shock séptico | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](../infectologia/sepsis-y-shock-septico.md) |
 | 1.04.2.008 | Síndrome pulmonar por Hanta Virus | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.2.009 | Tétanos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -137,7 +137,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.09.2.012 | Pre eclampsia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.2.013 | Vasculitis o glomerulonefritis rápidamente progresiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
-## Neurología (0/21)
+## Neurología (1/21)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.10.2.013 | Síndrome cuadriparético fláccido (polirradiculoneuritis aguda, Guillain-Barré) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.014 | Síndrome encefalítico (Herpes Simplex) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.015 | Síndromes convulsivos sintomáticos (traumático, tumores del SNC, metabólico, urémico, etc.) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.2.016 | Síndromes meníngeos con meningitis purulenta o bacteriana | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.016 | Síndromes meníngeos con meningitis purulenta o bacteriana | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Meningitis y encefalitis agudas](../infectologia/meningitis-y-encefalitis.md) |
 | 1.10.2.017 | Status convulsivo | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.018 | Status migrañoso | Específico | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.019 | Traumatismo encéfalo craneano leve | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |

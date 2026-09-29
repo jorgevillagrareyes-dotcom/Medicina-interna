@@ -661,6 +661,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/meningitis-y-encefalitis.md
   - codigo: 1.04.2.003
     nombre: Endocarditis bacteriana
     dx: Sospecha
@@ -688,6 +690,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/meningitis-y-encefalitis.md
   - codigo: 1.04.2.007
     nombre: Sepsis y shock séptico
     dx: Sospecha
@@ -1963,6 +1967,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Derivar
+    resumen:
+    - infectologia/meningitis-y-encefalitis.md
   - codigo: 1.10.2.017
     nombre: Status convulsivo
     dx: Sospecha

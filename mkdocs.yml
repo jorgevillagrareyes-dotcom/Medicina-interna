@@ -110,6 +110,7 @@ nav:
   - Enfermedades infecciosas:
       - infectologia/index.md
       - "Infecciones de piel y partes blandas": infectologia/infecciones-piel-partes-blandas.md
+      - "Meningitis y encefalitis agudas": infectologia/meningitis-y-encefalitis.md
       - "Sepsis y shock séptico": infectologia/sepsis-y-shock-septico.md
   - Enfermedades respiratorias:
       - respiratorio/index.md
