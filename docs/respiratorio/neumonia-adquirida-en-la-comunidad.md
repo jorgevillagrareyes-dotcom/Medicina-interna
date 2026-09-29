@@ -222,7 +222,7 @@ flowchart TD
     F -->|"NAC grave"| I["UCI<br/>hemocultivos · esputo o aspirado<br/>antígenos urinarios · PCR viral"]
 ```
 
-*Figura 3. Enfoque diagnóstico de la NAC. Esquema propio basado en ATS/IDSA 2019, ATS 2025 y el Consenso Chileno 2023.*
+*Figura 2. Enfoque diagnóstico de la NAC. Esquema propio basado en ATS/IDSA 2019, ATS 2025 y el Consenso Chileno 2023.*
 
 ### Estudio microbiológico
 
@@ -275,7 +275,7 @@ Hallazgos: **consolidación subpleural con aspecto "hepatizado"** y **broncogram
 
 <figure markdown>
 ![Ecografía pulmonar de una neumonía lobar: el lóbulo consolidado tiene aspecto similar al hígado (hepatización) con broncogramas aéreos hiperecogénicos en su interior, señalados con una flecha](../assets/figuras/nac/eco-consolidacion-lobar-boccatonda-2023.jpg){ loading=lazy width="560" }
-<figcaption>Figura 2. Ecografía pulmonar en una neumonía lobar: consolidación completa del lóbulo con aspecto de parénquima hepático (hepatización), <strong>broncogramas aéreos</strong> (flecha) y mínimo derrame paraneumónico. Fuente: Boccatonda A, et al. Infectious Pneumonia and Lung Ultrasound: A Review. <em>J Clin Med</em>. 2023;12:1402. doi:<a href="https://doi.org/10.3390/jcm12041402">10.3390/jcm12041402</a>. Licencia <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
+<figcaption>Figura 3. Ecografía pulmonar en una neumonía lobar: consolidación completa del lóbulo con aspecto de parénquima hepático (hepatización), <strong>broncogramas aéreos</strong> (flecha) y mínimo derrame paraneumónico. Fuente: Boccatonda A, et al. Infectious Pneumonia and Lung Ultrasound: A Review. <em>J Clin Med</em>. 2023;12:1402. doi:<a href="https://doi.org/10.3390/jcm12041402">10.3390/jcm12041402</a>. Licencia <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</figcaption>
 </figure>
 
 ### Tomografía computada de tórax
