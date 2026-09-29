@@ -21,17 +21,17 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.01.2.008 | Taponamiento pericárdico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.2.009 | Taqui y bradiarritmia con compromiso hemodinámico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
-## Diabetes y nutrición (1/7)
+## Diabetes y nutrición (4/7)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.02.2.001 | Acidosis láctica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos ácido-base](../nefrologia/trastornos-acido-base.md) |
-| 1.02.2.002 | Cetoacidosis | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.02.2.003 | Coma hiperosmolar | Específico | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.002 | Cetoacidosis | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](../endocrinologia/cetoacidosis-y-estado-hiperosmolar.md) |
+| 1.02.2.003 | Coma hiperosmolar | Específico | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](../endocrinologia/cetoacidosis-y-estado-hiperosmolar.md) |
 | 1.02.2.004 | Déficit agudo de tiamina | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.02.2.005 | Hipertrigliceridemia grave | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.02.2.006 | Hipoglicemias | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.02.2.007 | Síndrome hiperosmolar no cetósico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.007 | Síndrome hiperosmolar no cetósico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](../endocrinologia/cetoacidosis-y-estado-hiperosmolar.md) |
 
 ## Endocrinología (0/5)
 

@@ -316,11 +316,15 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Derivar
+    resumen:
+    - endocrinologia/cetoacidosis-y-estado-hiperosmolar.md
   - codigo: 1.02.2.003
     nombre: Coma hiperosmolar
     dx: Específico
     tto: Inicial
     seg: No requiere
+    resumen:
+    - endocrinologia/cetoacidosis-y-estado-hiperosmolar.md
   - codigo: 1.02.2.004
     nombre: Déficit agudo de tiamina
     dx: Específico
@@ -341,6 +345,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/cetoacidosis-y-estado-hiperosmolar.md
 - codigo: '1.03'
   titulo: Endocrinología
   carpeta: endocrinologia

@@ -298,7 +298,7 @@ flowchart TD
     - **Reanimación**: volumen, **vasopresores** (noradrenalina), **control del foco**, transfusión si hay anemia grave. Medir el lactato **seriado** (a las 2–6 horas) para evaluar la respuesta.
     - **Tiamina** en alcohólicos y desnutridos.
     - **Metformina**: suspenderla; **hemodiálisis** precoz si hay disfunción orgánica, **lactato > 20 mmol/L**, **pH ≤ 7,0**, shock o falla del tratamiento estándar (EXTRIP).
-- **Cetoacidosis**: insulina, volumen y potasio (ver [Endocrinología](../endocrinologia/index.md)). El bicarbonato **no se recomienda** salvo acidemia extrema.
+- **Cetoacidosis**: insulina, volumen y potasio (ver [Cetoacidosis y estado hiperglicémico hiperosmolar](../endocrinologia/cetoacidosis-y-estado-hiperosmolar.md)). El bicarbonato **no se recomienda** salvo acidemia extrema.
 - **Cetoacidosis alcohólica y por ayuno**: suero glucosado con **tiamina** (antes de la glucosa) y volumen; no necesita insulina.
 - **Metanol y etilenglicol**: **fomepizol** (o **etanol** si no hay) para bloquear la alcohol deshidrogenasa, **hemodiálisis** si el AG es > 20 mEq/L, hay lesión renal aguda o alteraciones visuales, y bicarbonato; en el metanol, **ácido fólico**; en el etilenglicol, **tiamina** y **piridoxina**. Llamar al centro de toxicología (**CITUC**, +56 2 2635 3800).
 - **Salicilatos**: **alcalinizar la orina** con bicarbonato (cualquiera sea el pH), reponer potasio; **hemodiálisis** si hay compromiso neurológico, salicilemia > 90 mg/dL o pH ≤ 7,20.

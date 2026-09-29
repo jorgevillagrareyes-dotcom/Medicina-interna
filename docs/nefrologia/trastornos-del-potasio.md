@@ -329,7 +329,7 @@ flowchart TD
 
 - **Corregir el magnesio**: si Mg < 1,8 mg/dL (o hay hipokalemia refractaria), **sulfato de magnesio 1–2 g EV** (en 15–60 minutos) y luego según los controles.
 - **Tratar la causa**: suspender o bajar el diurético; agregar un **diurético ahorrador de K** (espironolactona, amilorida) si la pérdida renal persiste (Bartter, Gitelman, hiperaldosteronismo primario); antieméticos; tratar la diarrea.
-- **Cetoacidosis diabética**: si **K < 3,3 mEq/L**, **no iniciar la insulina** hasta reponer el K (ver [Cetoacidosis y estado hiperglicémico hiperosmolar](../endocrinologia/index.md)).
+- **Cetoacidosis diabética**: si **K < 3,5 mEq/L**, **no iniciar la insulina** hasta reponer el K (consenso 2024; ver [Cetoacidosis y estado hiperglicémico hiperosmolar](../endocrinologia/cetoacidosis-y-estado-hiperosmolar.md)).
 - **Parálisis periódica** (hipokalemia por redistribución): dosis **bajas** de KCl (riesgo de **hiperkalemia de rebote** al pasar el episodio); en la **tirotóxica**, **propranolol** y tratar el hipertiroidismo.
 - **Pacientes con insuficiencia cardíaca o cardiopatía coronaria**: mantener **K ≥ 4,0 mEq/L** (y Mg ≥ 2,0 mg/dL) para reducir las arritmias.
 
