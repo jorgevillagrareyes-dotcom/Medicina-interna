@@ -59,14 +59,14 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.04.2.009 | Tétanos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.2.010 | Varicela complicada: neumonitis, cerebelitis, encefalitis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
-## Enfermedades respiratorias (2/14)
+## Enfermedades respiratorias (3/14)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.05.2.001 | Asfixia por inmersión | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.2.002 | Aspiración de cuerpo extraño con asfixia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.2.003 | Aspiración de cuerpo extraño sin asfixia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.05.2.004 | Crisis de asma bronquial | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.004 | Crisis de asma bronquial | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Asma bronquial](../respiratorio/asma.md) |
 | 1.05.2.005 | Embolia pulmonar masiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tromboembolismo pulmonar](../respiratorio/tromboembolismo-pulmonar.md) |
 | 1.05.2.006 | Enfermedad bronquial obstructiva crónica descompensada | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](../respiratorio/epoc.md) |
 | 1.05.2.007 | Hemoptisis moderada,severa y masiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

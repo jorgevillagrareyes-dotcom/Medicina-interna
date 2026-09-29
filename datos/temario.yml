@@ -700,11 +700,15 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/asma.md
   - codigo: 1.05.1.003
     nombre: Asma bronquial leve y moderada
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/asma.md
   - codigo: 1.05.1.004
     nombre: Bronquiectasias
     dx: Sospecha
@@ -917,6 +921,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/asma.md
   - codigo: 1.05.2.005
     nombre: Embolia pulmonar masiva
     dx: Sospecha
