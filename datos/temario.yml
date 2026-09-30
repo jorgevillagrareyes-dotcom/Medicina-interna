@@ -1205,6 +1205,7 @@ grupos:
     seg: Derivar
     resumen:
     - gastroenterologia/hemorragia-digestiva-alta.md
+    - gastroenterologia/hemorragia-digestiva-baja.md
   - codigo: 1.06.2.008
     nombre: Hepatitis aguda A complicada
     dx: Específico

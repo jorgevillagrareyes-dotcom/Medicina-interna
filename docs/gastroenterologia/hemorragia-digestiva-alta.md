@@ -255,7 +255,7 @@ flowchart TD
 ## Diagnóstico diferencial
 
 - **Epistaxis o hemoptisis** deglutidas (sangre de origen nasal o pulmonar).
-- **Hemorragia digestiva baja** (si hay hematoquecia).
+- **Hemorragia digestiva baja** (si hay hematoquecia; ver [Hemorragia digestiva baja](hemorragia-digestiva-baja.md)).
 - **Deposiciones negras no hemorrágicas**: **hierro oral**, **bismuto**, carbón activado, alimentos (betarraga, arándanos, morcilla).
 - Vómitos oscuros no hemáticos (obstrucción intestinal con contenido fecaloideo).
 

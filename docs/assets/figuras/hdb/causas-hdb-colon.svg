@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="960" height="640" fill="#ffffff"/>
+<text x="480.0" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Causas de hemorragia digestiva baja según su localización</text>
+<path d="M 330 470 L 330 150 Q 330 120 360 120 L 600 120 Q 630 120 630 150 L 630 400 Q 630 440 590 450 Q 540 462 520 490 L 500 530" fill="none" stroke="#e8b7a6" stroke-width="46" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 330 470 L 330 150 Q 330 120 360 120 L 600 120 Q 630 120 630 150 L 630 400 Q 630 440 590 450 Q 540 462 520 490 L 500 530" fill="none" stroke="#c9826c" stroke-width="2" stroke-dasharray="2 10" stroke-linecap="round"/>
+<ellipse cx="330" cy="482" rx="30" ry="24" fill="#e8b7a6"/>
+<path d="M 318 502 q -6 22 6 34" fill="none" stroke="#e8b7a6" stroke-width="9" stroke-linecap="round"/>
+<path d="M 240 440 Q 290 440 318 460" fill="none" stroke="#f1d0c4" stroke-width="20" stroke-linecap="round"/>
+<text x="200" y="430" font-size="12" fill="#52606d">íleon</text>
+<path d="M 500 530 L 494 572" fill="none" stroke="#d99a86" stroke-width="30" stroke-linecap="round"/>
+<text x="300" y="300" text-anchor="end" font-size="12.5" font-style="italic" fill="#8a5a4a">Colon ascendente</text>
+<text x="480" y="100" text-anchor="middle" font-size="12.5" font-style="italic" fill="#8a5a4a">Colon transverso</text>
+<text x="660" y="270" text-anchor="start" font-size="12.5" font-style="italic" fill="#8a5a4a">Colon descendente</text>
+<text x="600" y="490" text-anchor="start" font-size="12.5" font-style="italic" fill="#8a5a4a">Sigmoides</text>
+<text x="478" y="575" text-anchor="end" font-size="12.5" font-style="italic" fill="#8a5a4a">Recto y ano</text>
+<text x="292" y="470" text-anchor="end" font-size="12.5" font-style="italic" fill="#8a5a4a">Ciego</text>
+<circle cx="342" cy="205" r="7" fill="#b3261e" stroke="#ffffff" stroke-width="2"/>
+<line x1="342" y1="205" x2="270" y2="186" stroke="#b3261e" stroke-width="1.2" stroke-dasharray="3 2"/>
+<text x="30" y="190" font-size="14" font-weight="700" fill="#b3261e">Divertículos (derecho)</text>
+<text x="30" y="206" font-size="12" fill="#52606d">sangran más que los izquierdos,</text>
+<text x="30" y="221" font-size="12" fill="#52606d">aunque son menos frecuentes</text>
+<circle cx="325" cy="440" r="7" fill="#6d28d9" stroke="#ffffff" stroke-width="2"/>
+<line x1="325" y1="440" x2="270" y2="326" stroke="#6d28d9" stroke-width="1.2" stroke-dasharray="3 2"/>
+<text x="30" y="330" font-size="14" font-weight="700" fill="#6d28d9">Angiodisplasias</text>
+<text x="30" y="346" font-size="12" fill="#52606d">ciego y colon derecho;</text>
+<text x="30" y="361" font-size="12" fill="#52606d">adultos mayores, ERC, estenosis aórtica</text>
+<circle cx="620" cy="230" r="7" fill="#0f766e" stroke="#ffffff" stroke-width="2"/>
+<line x1="620" y1="230" x2="694" y2="176" stroke="#0f766e" stroke-width="1.2" stroke-dasharray="3 2"/>
+<text x="700" y="180" font-size="14" font-weight="700" fill="#0f766e">Colitis isquémica</text>
+<text x="700" y="196" font-size="12" fill="#52606d">áreas limítrofes: ángulo esplénico</text>
+<text x="700" y="211" font-size="12" fill="#52606d">y unión rectosigmoidea</text>
+<circle cx="590" cy="450" r="7" fill="#b3261e" stroke="#ffffff" stroke-width="2"/>
+<line x1="590" y1="450" x2="694" y2="416" stroke="#b3261e" stroke-width="1.2" stroke-dasharray="3 2"/>
+<text x="700" y="420" font-size="14" font-weight="700" fill="#b3261e">Divertículos (izquierdo)</text>
+<text x="700" y="436" font-size="12" fill="#52606d">sigmoides: los más frecuentes</text>
+<text x="700" y="451" font-size="12" fill="#52606d">en Occidente</text>
+<circle cx="480" cy="125" r="7" fill="#b45309" stroke="#ffffff" stroke-width="2"/>
+<line x1="480" y1="125" x2="554" y2="66" stroke="#b45309" stroke-width="1.2" stroke-dasharray="3 2"/>
+<text x="560" y="70" font-size="14" font-weight="700" fill="#b45309">Cáncer y pólipos · pospolipectomía</text>
+<text x="560" y="86" font-size="12" fill="#52606d">cualquier segmento; anemia, cambio</text>
+<text x="560" y="101" font-size="12" fill="#52606d">del hábito, baja de peso</text>
+<circle cx="497" cy="560" r="7" fill="#1d4ed8" stroke="#ffffff" stroke-width="2"/>
+<line x1="497" y1="560" x2="554" y2="551" stroke="#1d4ed8" stroke-width="1.2" stroke-dasharray="3 2"/>
+<text x="560" y="555" font-size="14" font-weight="700" fill="#1d4ed8">Hemorroides, fisura, úlcera rectal</text>
+<text x="560" y="571" font-size="12" fill="#52606d">sangre roja al limpiarse o</text>
+<text x="560" y="586" font-size="12" fill="#52606d">sobre las deposiciones</text>
+<circle cx="640" cy="340" r="7" fill="#374151" stroke="#ffffff" stroke-width="2"/>
+<line x1="640" y1="340" x2="694" y2="346" stroke="#374151" stroke-width="1.2" stroke-dasharray="3 2"/>
+<text x="700" y="350" font-size="14" font-weight="700" fill="#374151">Colitis (EII, infecciosa, actínica)</text>
+<text x="700" y="366" font-size="12" fill="#52606d">diarrea con sangre, dolor,</text>
+<text x="700" y="381" font-size="12" fill="#52606d">tenesmo</text>
+<text x="14" y="630" font-size="11.5" fill="#52606d">Esquema propio (vista anterior: el colon derecho aparece a la izquierda). Recuerda: una hematoquecia con shock puede venir del tubo digestivo alto (~ 10–15 %).</text>
+</svg>
