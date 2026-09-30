@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **20 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
+    **22 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -17,6 +17,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](hipertension-arterial.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](insuficiencia-cardiaca.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](paro-cardiorrespiratorio-y-arritmias.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Pericarditis aguda, derrame pericárdico y taponamiento cardíaco](pericarditis-y-taponamiento.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome aórtico agudo: disección aórtica, hematoma intramural y úlcera penetrante](sindrome-aortico-agudo.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](sindrome-coronario-agudo.md)
 
@@ -45,7 +46,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.01.1.019 | Insuficiencia mitral | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.020 | Miocardiopatías | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.021 | Paciente con soplo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.01.1.022 | Pericarditis aguda | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.022 | Pericarditis aguda | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Pericarditis aguda, derrame pericárdico y taponamiento cardíaco](pericarditis-y-taponamiento.md) |
 | 1.01.1.023 | Síndrome metabólico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.024 | Taquicardia paroxística supraventricular (TPSV) | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](paro-cardiorrespiratorio-y-arritmias.md) |
 
@@ -60,7 +61,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.01.2.005 | Insuficiencia cardíaca aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](insuficiencia-cardiaca.md) |
 | 1.01.2.006 | Paro cardiorrespiratorio | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](paro-cardiorrespiratorio-y-arritmias.md) |
 | 1.01.2.007 | Shock | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](../infectologia/sepsis-y-shock-septico.md) |
-| 1.01.2.008 | Taponamiento pericárdico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.008 | Taponamiento pericárdico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Pericarditis aguda, derrame pericárdico y taponamiento cardíaco](pericarditis-y-taponamiento.md) |
 | 1.01.2.009 | Taqui y bradiarritmia con compromiso hemodinámico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](paro-cardiorrespiratorio-y-arritmias.md) |
 
 ## Cómo leer los niveles EUNACOM

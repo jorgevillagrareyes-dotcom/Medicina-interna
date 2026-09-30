@@ -140,6 +140,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - cardiologia/pericarditis-y-taponamiento.md
   - codigo: 1.01.1.023
     nombre: Síndrome metabólico
     dx: Específico
@@ -207,6 +209,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/pericarditis-y-taponamiento.md
   - codigo: 1.01.2.009
     nombre: Taqui y bradiarritmia con compromiso hemodinámico
     dx: Específico

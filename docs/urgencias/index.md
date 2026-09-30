@@ -7,7 +7,7 @@ hide:
 
 Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicina interna, agrupadas por subespecialidad. Útil para preparar los turnos.
 
-## Cardiología (8/9)
+## Cardiología (9/9)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.01.2.005 | Insuficiencia cardíaca aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](../cardiologia/insuficiencia-cardiaca.md) |
 | 1.01.2.006 | Paro cardiorrespiratorio | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](../cardiologia/paro-cardiorrespiratorio-y-arritmias.md) |
 | 1.01.2.007 | Shock | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](../infectologia/sepsis-y-shock-septico.md) |
-| 1.01.2.008 | Taponamiento pericárdico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.008 | Taponamiento pericárdico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Pericarditis aguda, derrame pericárdico y taponamiento cardíaco](../cardiologia/pericarditis-y-taponamiento.md) |
 | 1.01.2.009 | Taqui y bradiarritmia con compromiso hemodinámico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](../cardiologia/paro-cardiorrespiratorio-y-arritmias.md) |
 
 ## Diabetes y nutrición (6/7)
