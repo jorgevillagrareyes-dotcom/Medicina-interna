@@ -37,16 +37,13 @@ Para actualizarlo: `mkdocs build --strict`, copiar `site/` a una carpeta tempora
 
 ## Prioridad de los próximos temas
 
-Ya están hechos (39 resúmenes): HTA, crisis hipertensiva, SCA, FA, TEP, EPOC, asma, LRA, sodio, potasio, ácido-base, CAD/EHH, hipoglicemia, sepsis, ITU, piel, meningitis/encefalitis, cirrosis, pancreatitis, HDA, HDB, delirium, ACV, anemias, dislipidemia, tiroides, urgencias oncológicas, epilepsia, PCR y arritmias, endocarditis, insuficiencia suprarrenal, litiasis biliar, diarrea y *C. difficile*, tuberculosis, monoartritis/gota. Siguientes, en orden (urgencias aún sin `resumen` en `datos/temario.yml`):
+Ya están hechos (43 resúmenes): HTA, crisis hipertensiva, SCA, FA, TEP, EPOC, asma, LRA, sodio, potasio, ácido-base, CAD/EHH, hipoglicemia, sepsis, ITU, piel, meningitis/encefalitis, cirrosis, pancreatitis, HDA, HDB, delirium, ACV, anemias, dislipidemia, tiroides, urgencias oncológicas, epilepsia, PCR y arritmias, endocarditis, insuficiencia suprarrenal, litiasis biliar, diarrea y *C. difficile*, tuberculosis, monoartritis/gota, insuficiencia respiratoria aguda, cefalea, síndrome aórtico agudo, pericarditis/taponamiento. Siguientes, en orden (urgencias aún sin `resumen` en `datos/temario.yml`):
 
-1. Insuficiencia respiratoria aguda y ventilación no invasiva · hemoptisis
-2. Cefalea en urgencia, migraña y cefalea tensional
-3. Síndrome aórtico agudo (disección) · pericarditis y taponamiento
-4. Coagulopatías, CID, trombocitopenia grave y reversión de anticoagulantes
-5. Síndrome cardiopulmonar por hantavirus · influenza y COVID-19
-6. Abstinencia alcohólica y encefalopatía de Wernicke
-7. Síndrome de Guillain-Barré y paraplejia/cuadriparesia aguda · hipertensión endocraneana y TEC
-8. Neumotórax · intoxicación por monóxido de carbono
-9. Síndrome nefrótico/anasarca, glomerulonefritis rápidamente progresiva, cólico renal
-10. Abdomen agudo, insuficiencia hepática aguda, hepatitis A
-11. Resto del temario (ítems sin `resumen` en `datos/temario.yml`)
+1. Coagulopatías, CID, trombocitopenia grave y reversión de anticoagulantes
+2. Síndrome cardiopulmonar por hantavirus · influenza y COVID-19
+3. Abstinencia alcohólica y encefalopatía de Wernicke
+4. Síndrome de Guillain-Barré y paraplejia/cuadriparesia aguda · hipertensión endocraneana y TEC
+5. Neumotórax · intoxicación por monóxido de carbono
+6. Síndrome nefrótico/anasarca, glomerulonefritis rápidamente progresiva, cólico renal
+7. Abdomen agudo, insuficiencia hepática aguda, hepatitis A
+8. Resto del temario (ítems sin `resumen` en `datos/temario.yml`)
