@@ -37,12 +37,10 @@ Para actualizarlo: `mkdocs build --strict`, copiar `site/` a una carpeta tempora
 
 ## Prioridad de los próximos temas
 
-Ya están hechos (47 resúmenes): HTA, crisis hipertensiva, SCA, FA, TEP, EPOC, asma, LRA, sodio, potasio, ácido-base, CAD/EHH, hipoglicemia, sepsis, ITU, piel, meningitis/encefalitis, cirrosis, pancreatitis, HDA, HDB, delirium, ACV, anemias, dislipidemia, tiroides, urgencias oncológicas, epilepsia, PCR y arritmias, endocarditis, insuficiencia suprarrenal, litiasis biliar, diarrea y *C. difficile*, tuberculosis, monoartritis/gota, insuficiencia respiratoria aguda, cefalea, síndrome aórtico agudo, pericarditis/taponamiento, coagulopatías/CID/reversión de anticoagulantes, trombocitopenias, hantavirus/leptospirosis, influenza/COVID-19/bronquitis aguda. Siguientes, en orden (urgencias aún sin `resumen` en `datos/temario.yml`):
+Ya están hechos (52 resúmenes): HTA, crisis hipertensiva, SCA, FA, TEP, EPOC, asma, LRA, sodio, potasio, ácido-base, CAD/EHH, hipoglicemia, sepsis, ITU, piel, meningitis/encefalitis, cirrosis, pancreatitis, HDA, HDB, delirium, ACV, anemias, dislipidemia, tiroides, urgencias oncológicas, epilepsia, PCR y arritmias, endocarditis, insuficiencia suprarrenal, litiasis biliar, diarrea y *C. difficile*, tuberculosis, monoartritis/gota, insuficiencia respiratoria aguda, cefalea, síndrome aórtico agudo, pericarditis/taponamiento, coagulopatías/CID/reversión de anticoagulantes, trombocitopenias, hantavirus/leptospirosis, influenza/COVID-19/bronquitis aguda, abstinencia alcohólica/Wernicke, Guillain-Barré/mielopatías/trauma raquimedular, TEC/hipertensión endocraneana, neumotórax/trauma torácico, CO/ahogamiento/cuerpo extraño. Siguientes, en orden (urgencias aún sin `resumen` en `datos/temario.yml`):
 
-1. Abstinencia alcohólica y encefalopatía de Wernicke
-2. Síndrome de Guillain-Barré y paraplejia/cuadriparesia aguda · hipertensión endocraneana y TEC
-3. Neumotórax · intoxicación por monóxido de carbono
-4. Síndrome nefrótico/anasarca, glomerulonefritis rápidamente progresiva, cólico renal
-5. Abdomen agudo, insuficiencia hepática aguda, hepatitis A
-6. Neumonía nosocomial y en inmunosuprimidos · VIH
-7. Resto del temario (ítems sin `resumen` en `datos/temario.yml`)
+1. Síndrome nefrótico/anasarca, glomerulonefritis rápidamente progresiva, cólico renal
+2. Abdomen agudo, insuficiencia hepática aguda, hepatitis A
+3. Neumonía nosocomial y en inmunosuprimidos · VIH
+4. Otras urgencias sin resumen: tétanos, absceso cerebral, flegmón de piso de boca, varicela complicada, tetania, fractura de cadera, agitación psicomotora, distonía aguda, encefalopatías tóxico-metabólicas
+5. Resto del temario (ítems sin `resumen` en `datos/temario.yml`)
