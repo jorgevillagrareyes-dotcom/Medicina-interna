@@ -2105,16 +2105,22 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/debilidad-aguda-guillain-barre-y-mielopatias.md
   - codigo: 1.10.2.012
     nombre: Síndrome cuadraplégico agudo
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/debilidad-aguda-guillain-barre-y-mielopatias.md
   - codigo: 1.10.2.013
     nombre: Síndrome cuadriparético fláccido (polirradiculoneuritis aguda, Guillain-Barré)
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/debilidad-aguda-guillain-barre-y-mielopatias.md
   - codigo: 1.10.2.014
     nombre: Síndrome encefalítico (Herpes Simplex)
     dx: Sospecha
@@ -2165,6 +2171,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/debilidad-aguda-guillain-barre-y-mielopatias.md
 - codigo: '1.11'
   titulo: Reumatología
   carpeta: reumatologia
