@@ -960,11 +960,15 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/neumotorax-y-trauma-toracico.md
   - codigo: 1.05.1.032
     nombre: Neumotórax pequeño
     dx: Específico
     tto: Completo
     seg: Derivar
+    resumen:
+    - respiratorio/neumotorax-y-trauma-toracico.md
   - codigo: 1.05.1.038
     nombre: Nódulos pulmonares
     dx: Específico
@@ -1067,6 +1071,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/neumotorax-y-trauma-toracico.md
   - codigo: 1.05.2.012
     nombre: Paro cardiorrespiratorio
     dx: Específico
@@ -1079,11 +1085,15 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/neumotorax-y-trauma-toracico.md
   - codigo: 1.05.2.014
     nombre: Traumatismo torácico simple
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/neumotorax-y-trauma-toracico.md
 - codigo: '1.06'
   titulo: Gastroenterología
   carpeta: gastroenterologia

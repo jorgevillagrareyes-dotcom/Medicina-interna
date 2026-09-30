@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 534" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="960" height="534" fill="#ffffff"/>
+<text x="480.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Neumotórax: cómo medir el tamaño y dónde descomprimir</text>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#1f2933"/></marker></defs>
+<text x="30" y="62" font-size="15" font-weight="700" fill="#1f5f99">A. Tamaño en la radiografía (neumotórax derecho)</text>
+<defs><marker id="am" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#f2b134"/></marker></defs>
+<defs><marker id="ve" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#5fd0a5"/></marker></defs>
+<defs><marker id="ne" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#1f2933"/></marker></defs>
+<rect x="40" y="80" width="400" height="360" rx="14" fill="#15191e"/>
+<path d="M280 410 L280 150 C255 115 195 115 180 180 L155 410 Z" fill="#20262d" stroke="#d9dde2" stroke-width="3"/>
+<path d="M310 410 L310 150 C335 115 395 115 410 180 L435 410 Z" fill="#5d646c" stroke="#d9dde2" stroke-width="3"/>
+<path d="M277 402 L277 210 C260 185 225 190 215 240 C203 310 203 370 210 402 Z" fill="#5d646c" stroke="#f4f4f4" stroke-width="2.2"/>
+<rect x="280" y="125" width="30" height="285" fill="#c9cdd2"/>
+<path d="M310 280 C355 290 380 380 357 410 L273 410 L273 312 Z" fill="#c9cdd2"/>
+<line x1="240" y1="132" x2="240" y2="190" stroke="#f2b134" stroke-width="3" marker-start="url(#am)" marker-end="url(#am)"/>
+<line x1="140" y1="150" x2="235" y2="160" stroke="#f2b134" stroke-width="1.2"/>
+<text x="50" y="140" font-size="12" font-weight="700" fill="#f2b134">ACCP:</text>
+<text x="50" y="155" font-size="12" font-weight="400" fill="#f2b134">ápice–cúpula</text>
+<text x="50" y="170" font-size="12" font-weight="400" fill="#f2b134">≥ 3 cm = grande</text>
+<line x1="172" y1="280" x2="205" y2="280" stroke="#5fd0a5" stroke-width="3" marker-start="url(#ve)" marker-end="url(#ve)"/>
+<line x1="140" y1="298" x2="185" y2="284" stroke="#5fd0a5" stroke-width="1.2"/>
+<text x="50" y="290" font-size="12" font-weight="700" fill="#5fd0a5">BTS:</text>
+<text x="50" y="305" font-size="12" font-weight="400" fill="#5fd0a5">a nivel del hilio</text>
+<text x="50" y="320" font-size="12" font-weight="400" fill="#5fd0a5">≥ 2 cm = grande</text>
+<line x1="132" y1="226" x2="213" y2="240" stroke="#f4f4f4" stroke-width="1.2"/>
+<text x="50" y="230" font-size="12" fill="#f4f4f4">línea pleural</text>
+<text x="363" y="205" text-anchor="middle" font-size="12" fill="#f4f4f4">pulmón</text>
+<text x="363" y="220" text-anchor="middle" font-size="12" fill="#f4f4f4">izquierdo</text>
+<text x="363" y="235" text-anchor="middle" font-size="12" fill="#f4f4f4">normal</text>
+<text x="52" y="432" font-size="11.5" fill="#c9cdd2">Por fuera de la línea pleural no hay trama pulmonar</text>
+<text x="40" y="468" font-size="12.5" fill="#1f2933">La BTS 2023 ya <tspan font-weight="700">no decide por el tamaño</tspan>, sino por los síntomas</text>
+<text x="40" y="485" font-size="12.5" fill="#1f2933">y las características de alto riesgo; el tamaño sigue sirviendo para</text>
+<text x="40" y="502" font-size="12.5" fill="#1f2933">describir la radiografía y evaluar si es seguro drenar.</text>
+<text x="490" y="62" font-size="15" font-weight="700" fill="#b3261e">B. Descompresión del neumotórax a tensión (lado derecho)</text>
+<path d="M535 100 L725 100 C755 200 762 330 742 410 L518 410 C498 330 505 200 535 100 Z" fill="#fbeee6" stroke="#8a6d5b" stroke-width="2"/>
+<path d="M618 150 Q570 156 512 192" fill="none" stroke="#c7a893" stroke-width="3"/>
+<path d="M642 150 Q690 156 748 192" fill="none" stroke="#c7a893" stroke-width="3"/>
+<path d="M618 185 Q570 191 510 227" fill="none" stroke="#c7a893" stroke-width="3"/>
+<path d="M642 185 Q690 191 750 227" fill="none" stroke="#c7a893" stroke-width="3"/>
+<path d="M618 220 Q570 226 508 262" fill="none" stroke="#c7a893" stroke-width="3"/>
+<path d="M642 220 Q690 226 752 262" fill="none" stroke="#c7a893" stroke-width="3"/>
+<path d="M618 255 Q570 261 508 297" fill="none" stroke="#c7a893" stroke-width="3"/>
+<path d="M642 255 Q690 261 752 297" fill="none" stroke="#c7a893" stroke-width="3"/>
+<path d="M618 290 Q570 296 510 332" fill="none" stroke="#c7a893" stroke-width="3"/>
+<path d="M642 290 Q690 296 750 332" fill="none" stroke="#c7a893" stroke-width="3"/>
+<path d="M618 325 Q570 331 514 367" fill="none" stroke="#c7a893" stroke-width="3"/>
+<path d="M642 325 Q690 331 746 367" fill="none" stroke="#c7a893" stroke-width="3"/>
+<path d="M620 126 Q585 114 540 124" fill="none" stroke="#8a6d5b" stroke-width="6" stroke-linecap="round"/>
+<path d="M640 126 Q675 114 720 124" fill="none" stroke="#8a6d5b" stroke-width="6" stroke-linecap="round"/>
+<rect x="618" y="126" width="24" height="200" rx="8" fill="#e6d3c5" stroke="#8a6d5b"/>
+<line x1="585" y1="130" x2="585" y2="408" stroke="#52606d" stroke-width="1.2" stroke-dasharray="5 4"/>
+<line x1="520" y1="205" x2="520" y2="408" stroke="#52606d" stroke-width="1.2" stroke-dasharray="5 4"/>
+<text x="585" y="425" text-anchor="middle" font-size="11.5" fill="#52606d">línea medioclavicular</text>
+<text x="495" y="440" font-size="11.5" fill="#52606d">línea axilar media</text>
+<path d="M528 210 L508 320 L574 320 Z" fill="#5fd0a5" opacity="0.4" stroke="#1d7a55" stroke-width="1.5"/>
+<circle cx="585" cy="178" r="10" fill="#b3261e" stroke="#fff" stroke-width="1.5"/>
+<text x="585" y="182" text-anchor="middle" font-size="11.5" font-weight="700" fill="#fff">1</text>
+<circle cx="534" cy="295" r="10" fill="#b3261e" stroke="#fff" stroke-width="1.5"/>
+<text x="534" y="299" text-anchor="middle" font-size="11.5" font-weight="700" fill="#fff">2</text>
+<circle cx="790" cy="150" r="10" fill="#b3261e"/>
+<text x="790" y="154" text-anchor="middle" font-size="11.5" font-weight="700" fill="#fff">1</text>
+<text x="808" y="154" font-size="12" fill="#1f2933">2.º espacio intercostal,</text>
+<text x="808" y="169" font-size="12" fill="#1f2933">línea medioclavicular</text>
+<text x="808" y="184" font-size="12" fill="#1f2933">(ETC; preferible en el</text>
+<text x="808" y="199" font-size="12" fill="#1f2933">lado izquierdo)</text>
+<circle cx="790" cy="240" r="10" fill="#b3261e"/>
+<text x="790" y="244" text-anchor="middle" font-size="11.5" font-weight="700" fill="#fff">2</text>
+<text x="808" y="244" font-size="12" fill="#1f2933">4.º–5.º espacio intercostal,</text>
+<text x="808" y="259" font-size="12" fill="#1f2933">por delante de la línea</text>
+<text x="808" y="274" font-size="12" fill="#1f2933">axilar media (ATLS</text>
+<text x="808" y="289" font-size="12" fill="#1f2933">10.ª edición)</text>
+<rect x="780" y="322" width="20" height="13" fill="#5fd0a5" opacity="0.5" stroke="#1d7a55"/>
+<text x="808" y="333" font-size="12" fill="#1f2933">Triángulo de seguridad</text>
+<text x="808" y="348" font-size="12" fill="#1f2933">(sitio del drenaje</text>
+<text x="808" y="363" font-size="12" fill="#1f2933">pleural)</text>
+<text x="490" y="468" font-size="12.5" fill="#1f2933">Aguja o cánula de <tspan font-weight="700">≥ 7–8 cm</tspan> (la pared torácica suele ser más</text>
+<text x="490" y="485" font-size="12.5" fill="#1f2933">gruesa que una cánula corta). La punción es un puente: después va</text>
+<text x="490" y="502" font-size="12.5" fill="#1f2933">siempre un <tspan font-weight="700">drenaje pleural</tspan> (o toracostomía digital si falla).</text>
+<text x="20" y="524" font-size="11" fill="#52606d">Esquema propio basado en BTS 2010 y 2023, ACCP 2001, ATLS 10.ª edición y Ahmad et al. 2025. Lado derecho del paciente a la izquierda de la imagen.</text>
+</svg>
