@@ -691,6 +691,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/endocarditis-infecciosa.md
   - codigo: 1.04.2.004
     nombre: Flegmón submaxilar, submandibular y del piso de la boca
     dx: Sospecha
