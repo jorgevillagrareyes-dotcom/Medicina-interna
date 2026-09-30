@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **23 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
+    **26 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -16,6 +16,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](diarrea-aguda-y-clostridioides-difficile.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Disfagia y afagia aguda (impactación alimentaria y cuerpos extraños esofágicos)](disfagia-y-afagia-aguda.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Dispepsia, úlcera péptica, *Helicobacter pylori* y cáncer gástrico](dispepsia-ulcera-peptica-y-cancer-gastrico.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva alta](hemorragia-digestiva-alta.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva baja](hemorragia-digestiva-baja.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hepatitis aguda e insuficiencia hepática aguda](hepatitis-aguda-e-insuficiencia-hepatica-aguda.md)
@@ -29,7 +30,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.06.1.001 | Ascitis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md) |
 | 1.06.1.002 | Cáncer de páncreas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.003 | Cáncer de vesícula y vías biliares | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](litiasis-biliar-colecistitis-colangitis.md) |
-| 1.06.1.004 | Cáncer gástrico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.004 | Cáncer gástrico | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Dispepsia, úlcera péptica, *Helicobacter pylori* y cáncer gástrico](dispepsia-ulcera-peptica-y-cancer-gastrico.md) |
 | 1.06.1.005 | Cirrosis hepática | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md) |
 | 1.06.1.006 | Colelitiasis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](litiasis-biliar-colecistitis-colangitis.md) |
 | 1.06.1.007 | Colestasia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -39,7 +40,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.06.1.011 | Diarrea crónica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.012 | Diarrea en inmunosuprimidos | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infección por VIH y SIDA, candidiasis orofaríngea y esofágica, y diarrea en inmunosuprimidos](../infectologia/infeccion-por-vih.md) |
 | 1.06.1.013 | Disfagia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Disfagia y afagia aguda (impactación alimentaria y cuerpos extraños esofágicos)](disfagia-y-afagia-aguda.md) |
-| 1.06.1.014 | Dispepsia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.014 | Dispepsia | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Dispepsia, úlcera péptica, *Helicobacter pylori* y cáncer gástrico](dispepsia-ulcera-peptica-y-cancer-gastrico.md) |
 | 1.06.1.015 | Enfermedad celiaca | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.016 | Enfermedad diverticular complicada | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](abdomen-agudo.md) |
 | 1.06.1.017 | Enfermedad diverticular no complicada | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](abdomen-agudo.md) |
@@ -55,7 +56,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.06.1.027 | Reflujo gastroesofágico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.028 | Síndrome de malabsorción | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.029 | Tumores de colon | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.06.1.030 | Úlcera péptica | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.030 | Úlcera péptica | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Dispepsia, úlcera péptica, *Helicobacter pylori* y cáncer gástrico](dispepsia-ulcera-peptica-y-cancer-gastrico.md) |
 
 ## Situaciones clínicas de urgencia
 

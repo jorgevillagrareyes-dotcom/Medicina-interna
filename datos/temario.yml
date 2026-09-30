@@ -1165,6 +1165,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/dispepsia-ulcera-peptica-y-cancer-gastrico.md
   - codigo: 1.06.1.005
     nombre: Cirrosis hepática
     dx: Específico
@@ -1225,6 +1227,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - gastroenterologia/dispepsia-ulcera-peptica-y-cancer-gastrico.md
   - codigo: 1.06.1.015
     nombre: Enfermedad celiaca
     dx: Específico
@@ -1313,6 +1317,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - gastroenterologia/dispepsia-ulcera-peptica-y-cancer-gastrico.md
   urgencias:
   - codigo: 1.06.2.001
     nombre: Abdomen agudo
