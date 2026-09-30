@@ -1221,11 +1221,15 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - gastroenterologia/constipacion-intestino-irritable-y-diarrea-cronica.md
   - codigo: 1.06.1.009
     nombre: Constipación
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - gastroenterologia/constipacion-intestino-irritable-y-diarrea-cronica.md
   - codigo: 1.06.1.010
     nombre: Diarrea asociada a antibióticos
     dx: Específico
@@ -1238,6 +1242,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/constipacion-intestino-irritable-y-diarrea-cronica.md
   - codigo: 1.06.1.012
     nombre: Diarrea en inmunosuprimidos
     dx: Sospecha
@@ -1453,6 +1459,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - gastroenterologia/constipacion-intestino-irritable-y-diarrea-cronica.md
   - codigo: 1.07.1.003
     nombre: Demencia
     dx: Sospecha

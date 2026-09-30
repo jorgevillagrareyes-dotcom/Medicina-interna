@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 660" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="660" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Escala de Bristol y tratamiento escalonado de la constipación crónica</text>
+<text x="245" y="62" text-anchor="middle" font-size="15" font-weight="700" fill="#1f5f99">1. Escala de Bristol (forma de las deposiciones)</text>
+<rect x="20" y="78" width="450" height="140" rx="8" fill="#fde7e5" stroke="#b3261e" stroke-width="1.2"/>
+<text x="460" y="148" text-anchor="middle" font-size="12.5" font-weight="700" fill="#b3261e" transform="rotate(90 460 148)">Constipación</text>
+<rect x="20" y="222" width="450" height="140" rx="8" fill="#e3f5ea" stroke="#2e7d4f" stroke-width="1.2"/>
+<text x="460" y="292" text-anchor="middle" font-size="12.5" font-weight="700" fill="#2e7d4f" transform="rotate(90 460 292)">Normal</text>
+<rect x="20" y="366" width="450" height="212" rx="8" fill="#fff4d6" stroke="#c28a12" stroke-width="1.2"/>
+<text x="460" y="472" text-anchor="middle" font-size="12.5" font-weight="700" fill="#c28a12" transform="rotate(90 460 472)">Diarrea (6–7)</text>
+<text x="38" y="118" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">1</text>
+<circle cx="72" cy="106.0" r="9" fill="#7b4a2d" stroke="#5a341e"/>
+<circle cx="94" cy="117.0" r="8" fill="#7b4a2d" stroke="#5a341e"/>
+<circle cx="115" cy="108.0" r="10" fill="#7b4a2d" stroke="#5a341e"/>
+<circle cx="138" cy="118.0" r="8" fill="#7b4a2d" stroke="#5a341e"/>
+<circle cx="160" cy="109.0" r="9" fill="#7b4a2d" stroke="#5a341e"/>
+<text x="195" y="110" font-size="13.5" fill="#1f2933">Trozos duros separados, como nueces</text>
+<text x="195" y="127" font-size="12.5" fill="#52606d">difíciles de evacuar</text>
+<text x="38" y="190" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">2</text>
+<rect x="60" y="173.0" width="112" height="22" rx="11" fill="#7b4a2d" stroke="#5a341e"/>
+<circle cx="70" cy="175.0" r="8" fill="#7b4a2d" stroke="#5a341e"/>
+<circle cx="70" cy="192.0" r="7" fill="#7b4a2d" stroke="#5a341e"/>
+<circle cx="88" cy="178.0" r="8" fill="#7b4a2d" stroke="#5a341e"/>
+<circle cx="88" cy="189.0" r="7" fill="#7b4a2d" stroke="#5a341e"/>
+<circle cx="106" cy="175.0" r="8" fill="#7b4a2d" stroke="#5a341e"/>
+<circle cx="106" cy="192.0" r="7" fill="#7b4a2d" stroke="#5a341e"/>
+<circle cx="124" cy="178.0" r="8" fill="#7b4a2d" stroke="#5a341e"/>
+<circle cx="124" cy="189.0" r="7" fill="#7b4a2d" stroke="#5a341e"/>
+<circle cx="142" cy="175.0" r="8" fill="#7b4a2d" stroke="#5a341e"/>
+<circle cx="142" cy="192.0" r="7" fill="#7b4a2d" stroke="#5a341e"/>
+<circle cx="160" cy="178.0" r="8" fill="#7b4a2d" stroke="#5a341e"/>
+<circle cx="160" cy="189.0" r="7" fill="#7b4a2d" stroke="#5a341e"/>
+<text x="195" y="189" font-size="13.5" fill="#1f2933">Forma de salchicha, pero grumosa</text>
+<text x="38" y="262" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">3</text>
+<rect x="60" y="245.0" width="112" height="22" rx="11" fill="#7b4a2d" stroke="#5a341e"/>
+<path d="M76,245.0 l3,7 l-4,5" stroke="#3b2213" stroke-width="1.4" fill="none"/>
+<path d="M96,245.0 l3,7 l-4,5" stroke="#3b2213" stroke-width="1.4" fill="none"/>
+<path d="M116,245.0 l3,7 l-4,5" stroke="#3b2213" stroke-width="1.4" fill="none"/>
+<path d="M136,245.0 l3,7 l-4,5" stroke="#3b2213" stroke-width="1.4" fill="none"/>
+<path d="M156,245.0 l3,7 l-4,5" stroke="#3b2213" stroke-width="1.4" fill="none"/>
+<text x="195" y="261" font-size="13.5" fill="#1f2933">Salchicha con grietas en la superficie</text>
+<text x="38" y="334" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">4</text>
+<path d="M60,332.0 C85,314.0 115,342.0 140,326.0 S165,320.0 175,328.0" stroke="#5a341e" stroke-width="18" fill="none" stroke-linecap="round"/>
+<path d="M60,332.0 C85,314.0 115,342.0 140,326.0 S165,320.0 175,328.0" stroke="#7b4a2d" stroke-width="15" fill="none" stroke-linecap="round"/>
+<text x="195" y="333" font-size="13.5" fill="#1f2933">Salchicha o serpiente, lisa y blanda</text>
+<text x="38" y="406" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">5</text>
+<ellipse cx="75" cy="396.0" rx="14" ry="9" fill="#b98b63" stroke="#8f6443"/>
+<ellipse cx="108" cy="405.0" rx="15" ry="9" fill="#b98b63" stroke="#8f6443"/>
+<ellipse cx="142" cy="397.0" rx="14" ry="8" fill="#b98b63" stroke="#8f6443"/>
+<ellipse cx="168" cy="405.0" rx="10" ry="7" fill="#b98b63" stroke="#8f6443"/>
+<text x="195" y="398" font-size="13.5" fill="#1f2933">Trozos blandos de bordes definidos</text>
+<text x="195" y="415" font-size="12.5" fill="#52606d">fáciles de evacuar</text>
+<text x="38" y="478" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">6</text>
+<path d="M178.5,472.0 L184.1,476.8 L169.9,480.2 L149.2,480.5 L138.5,481.7 L131.9,486.1 L118.0,489.7 L102.1,488.2 L92.0,484.3 L81.3,482.0 L66.1,480.2 L59.4,476.3 L68.5,472.0 L77.9,469.1 L74.7,465.2 L71.4,459.3 L83.5,455.7 L103.4,457.2 L118.0,459.7 L130.6,459.2 L147.0,458.3 L159.1,460.8 L161.3,465.2 L165.6,468.5 Z" fill="#c9a27d" stroke="#8f6443"/>
+<text x="195" y="470" font-size="13.5" fill="#1f2933">Trozos esponjosos de bordes irregulares</text>
+<text x="195" y="487" font-size="12.5" fill="#52606d">deposición pastosa</text>
+<text x="38" y="550" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">7</text>
+<path d="M176.0,544.0 L179.1,545.9 L176.3,547.7 L168.2,549.0 L159.4,550.0 L152.7,551.1 L147.0,552.7 L139.2,554.0 L128.8,554.5 L118.0,554.0 L108.6,553.2 L99.5,552.7 L89.0,552.7 L78.1,552.2 L70.5,550.9 L67.8,549.0 L67.3,547.2 L64.8,545.6 L60.0,544.0 L56.9,542.1 L59.7,540.3 L67.8,539.0 L76.6,538.0 L83.3,536.9 L89.0,535.3 L96.8,534.0 L107.2,533.5 L118.0,534.0 L127.4,534.8 L136.5,535.3 L147.0,535.3 L157.9,535.8 L165.5,537.1 L168.2,539.0 L168.7,540.8 L171.2,542.4 Z" fill="#dcc3a3" stroke="#a88462"/>
+<text x="195" y="542" font-size="13.5" fill="#1f2933">Acuosa, sin trozos sólidos</text>
+<text x="195" y="559" font-size="12.5" fill="#52606d">completamente líquida</text>
+<line x1="485" y1="50" x2="485" y2="600" stroke="#cbd2d9" stroke-width="1.2" stroke-dasharray="5,4"/>
+<text x="740" y="62" text-anchor="middle" font-size="15" font-weight="700" fill="#1f5f99">2. Constipación crónica: tratamiento escalonado</text>
+<rect x="500" y="78" width="480" height="78" rx="8" fill="#e3f5ea" stroke="#2e7d4f" stroke-width="1.6"/>
+<text x="512" y="97" font-size="13.5" font-weight="700" fill="#2e7d4f">1. MEDIDAS GENERALES</text>
+<text x="512" y="116" font-size="12.8" fill="#1f2933">Fibra 20–30 g/día (psyllium), líquidos, actividad física,</text>
+<text x="512" y="134" font-size="12.8" fill="#1f2933">horario después del desayuno, pies elevados al defecar.</text>
+<text x="512" y="152" font-size="12.8" fill="#1f2933">Retirar fármacos constipantes</text>
+<rect x="514" y="166" width="466" height="60" rx="8" fill="#e3f2fd" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="526" y="185" font-size="13.5" font-weight="700" fill="#1f5f99">2. LAXANTE OSMÓTICO</text>
+<text x="526" y="204" font-size="12.8" fill="#1f2933">Polietilenglicol 17 g/día (de elección) · lactulosa 15–30 mL/día</text>
+<text x="526" y="222" font-size="12.8" fill="#1f2933">· óxido de magnesio 400–500 mg/día (evitar en la ERC)</text>
+<rect x="528" y="236" width="452" height="60" rx="8" fill="#fff4d6" stroke="#c28a12" stroke-width="1.6"/>
+<text x="540" y="255" font-size="13.5" font-weight="700" fill="#c28a12">3. ESTIMULANTE (rescate, corto plazo o asociado)</text>
+<text x="540" y="274" font-size="12.8" fill="#1f2933">Bisacodilo 5–10 mg · picosulfato de sodio 5–10 mg</text>
+<text x="540" y="292" font-size="12.8" fill="#1f2933">· senósidos 8,6–17,2 mg en la noche</text>
+<rect x="542" y="306" width="438" height="60" rx="8" fill="#fde7e5" stroke="#b3261e" stroke-width="1.6"/>
+<text x="554" y="325" font-size="13.5" font-weight="700" fill="#b3261e">4. PROSECRETORES O PROCINÉTICOS</text>
+<text x="554" y="344" font-size="12.8" fill="#1f2933">Prucaloprida 1–2 mg/día · linaclotida 72–145 µg/día</text>
+<text x="554" y="362" font-size="12.8" fill="#1f2933">· lubiprostona 24 µg c/12 h</text>
+<rect x="556" y="376" width="424" height="60" rx="8" fill="#eef2f6" stroke="#52606d" stroke-width="1.6"/>
+<text x="568" y="395" font-size="13.5" font-weight="700" fill="#52606d">5. REFRACTARIA: especialista</text>
+<text x="568" y="414" font-size="12.8" fill="#1f2933">Manometría anorrectal y expulsión del balón (disinergia</text>
+<text x="568" y="432" font-size="12.8" fill="#1f2933">→ biofeedback), tránsito colónico; cirugía excepcional</text>
+<rect x="500" y="450" width="480" height="102" rx="8" fill="#ffffff" stroke="#b3261e" stroke-width="2"/>
+<text x="512" y="471" font-size="13.5" font-weight="700" fill="#b3261e">SIGNOS DE ALARMA → COLONOSCOPÍA</text>
+<text x="512" y="490" font-size="12.8" fill="#1f2933">Inicio reciente después de los 45–50 años · sangrado rectal · anemia</text>
+<text x="512" y="507" font-size="12.8" fill="#1f2933">ferropénica · baja de peso · cambio persistente del hábito intestinal</text>
+<text x="512" y="524" font-size="12.8" fill="#1f2933">· masa abdominal o rectal · antecedente familiar de cáncer colorrectal</text>
+<text x="512" y="541" font-size="12.8" fill="#1f2933">o de enfermedad inflamatoria intestinal</text>
+<text x="980" y="648" text-anchor="end" font-size="11.5" fill="#7b8794">Esquema propio basado en la escala de Bristol (Lewis y Heaton, 1997), la guía AGA-ACG 2023 de constipación crónica idiopática y Roma IV/V.</text>
+</svg>

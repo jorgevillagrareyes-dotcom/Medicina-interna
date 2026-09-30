@@ -8,12 +8,13 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **27 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
+    **30 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](abdomen-agudo.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Constipación, fecaloma, síndrome de intestino irritable y diarrea crónica](constipacion-intestino-irritable-y-diarrea-cronica.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](diarrea-aguda-y-clostridioides-difficile.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Disfagia y afagia aguda (impactación alimentaria y cuerpos extraños esofágicos)](disfagia-y-afagia-aguda.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Dispepsia, úlcera péptica, *Helicobacter pylori* y cáncer gástrico](dispepsia-ulcera-peptica-y-cancer-gastrico.md)
@@ -35,10 +36,10 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.06.1.005 | Cirrosis hepática | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md) |
 | 1.06.1.006 | Colelitiasis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](litiasis-biliar-colecistitis-colangitis.md) |
 | 1.06.1.007 | Colestasia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.06.1.008 | Trastornos digestivos funcionales | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.06.1.009 | Constipación | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.008 | Trastornos digestivos funcionales | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Constipación, fecaloma, síndrome de intestino irritable y diarrea crónica](constipacion-intestino-irritable-y-diarrea-cronica.md) |
+| 1.06.1.009 | Constipación | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Constipación, fecaloma, síndrome de intestino irritable y diarrea crónica](constipacion-intestino-irritable-y-diarrea-cronica.md) |
 | 1.06.1.010 | Diarrea asociada a antibióticos | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](diarrea-aguda-y-clostridioides-difficile.md) |
-| 1.06.1.011 | Diarrea crónica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.011 | Diarrea crónica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Constipación, fecaloma, síndrome de intestino irritable y diarrea crónica](constipacion-intestino-irritable-y-diarrea-cronica.md) |
 | 1.06.1.012 | Diarrea en inmunosuprimidos | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infección por VIH y SIDA, candidiasis orofaríngea y esofágica, y diarrea en inmunosuprimidos](../infectologia/infeccion-por-vih.md) |
 | 1.06.1.013 | Disfagia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Disfagia y afagia aguda (impactación alimentaria y cuerpos extraños esofágicos)](disfagia-y-afagia-aguda.md) |
 | 1.06.1.014 | Dispepsia | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Dispepsia, úlcera péptica, *Helicobacter pylori* y cáncer gástrico](dispepsia-ulcera-peptica-y-cancer-gastrico.md) |

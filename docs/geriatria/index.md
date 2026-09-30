@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **12 de 22** situaciones clínicas de esta subespecialidad tienen resumen.
+    **13 de 22** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -21,7 +21,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.07.1.001 | Caídas | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Caídas, hipotensión ortostática y fractura de cadera en el adulto mayor](caidas-hipotension-ortostatica-y-fractura-de-cadera.md) |
-| 1.07.1.002 | Constipación y fecalomas | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.07.1.002 | Constipación y fecalomas | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Constipación, fecaloma, síndrome de intestino irritable y diarrea crónica](../gastroenterologia/constipacion-intestino-irritable-y-diarrea-cronica.md) |
 | 1.07.1.003 | Demencia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Demencia, deterioro cognitivo leve y causas reversibles de deterioro cognitivo](../neurologia/demencia-y-deterioro-cognitivo.md) |
 | 1.07.1.004 | Depresión | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.005 | Diabetes mellitus tipo 2 | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 2](../endocrinologia/diabetes-mellitus-tipo-2.md) |
