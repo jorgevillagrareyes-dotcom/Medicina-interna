@@ -18,6 +18,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/paro-cardiorrespiratorio-y-arritmias.md
   - codigo: 1.01.1.003
     nombre: Cardiopatía congénita en adulto
     dx: Sospecha
@@ -49,6 +51,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/endocarditis-infecciosa.md
   - codigo: 1.01.1.008
     nombre: Enfermedad reumática activa
     dx: Específico
@@ -146,6 +150,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Completo
+    resumen:
+    - cardiologia/paro-cardiorrespiratorio-y-arritmias.md
   urgencias:
   - codigo: 1.01.2.001
     nombre: Angina inestable
@@ -159,6 +165,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/sindrome-aortico-agudo.md
   - codigo: 1.01.2.003
     nombre: Embolia cardiogénica
     dx: Específico

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 545" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="960" height="545" fill="#ffffff"/>
+<text x="480.0" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Clasificación de la disección aórtica</text>
+<path d="M 110 340 L 110 190" fill="none" stroke="#e8b7a6" stroke-width="34" stroke-linecap="round"/>
+<path d="M 110 190 Q 110 120 150 120 Q 190 120 190 190" fill="none" stroke="#e8b7a6" stroke-width="34" stroke-linecap="round"/>
+<path d="M 190 190 L 190 450" fill="none" stroke="#e8b7a6" stroke-width="34" stroke-linecap="round"/>
+<line x1="132" y1="118" x2="132" y2="84" stroke="#e8b7a6" stroke-width="9" stroke-linecap="round"/>
+<line x1="150" y1="118" x2="150" y2="84" stroke="#e8b7a6" stroke-width="9" stroke-linecap="round"/>
+<line x1="168" y1="118" x2="168" y2="84" stroke="#e8b7a6" stroke-width="9" stroke-linecap="round"/>
+<path d="M 110 340 L 110 190" fill="none" stroke="#b3261e" stroke-width="12" stroke-linecap="round" stroke-dasharray="1 0"/>
+<path d="M 110 340 L 110 190" fill="none" stroke="#ffffff" stroke-width="2" stroke-dasharray="6 5"/>
+<path d="M 110 190 Q 110 120 150 120 Q 190 120 190 190" fill="none" stroke="#b3261e" stroke-width="12" stroke-linecap="round" stroke-dasharray="1 0"/>
+<path d="M 110 190 Q 110 120 150 120 Q 190 120 190 190" fill="none" stroke="#ffffff" stroke-width="2" stroke-dasharray="6 5"/>
+<path d="M 190 190 L 190 450" fill="none" stroke="#b3261e" stroke-width="12" stroke-linecap="round" stroke-dasharray="1 0"/>
+<path d="M 190 190 L 190 450" fill="none" stroke="#ffffff" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="150" y="482" text-anchor="middle" font-size="15" font-weight="700" fill="#b3261e">DeBakey I</text>
+<text x="150" y="500" text-anchor="middle" font-size="12.5" fill="#52606d">ascendente + arco + descendente</text>
+<text x="90" y="350" text-anchor="end" font-size="11" fill="#8a5a4a">raíz</text>
+<path d="M 350 340 L 350 190" fill="none" stroke="#e8b7a6" stroke-width="34" stroke-linecap="round"/>
+<path d="M 350 190 Q 350 120 390 120 Q 430 120 430 190" fill="none" stroke="#e8b7a6" stroke-width="34" stroke-linecap="round"/>
+<path d="M 430 190 L 430 450" fill="none" stroke="#e8b7a6" stroke-width="34" stroke-linecap="round"/>
+<line x1="372" y1="118" x2="372" y2="84" stroke="#e8b7a6" stroke-width="9" stroke-linecap="round"/>
+<line x1="390" y1="118" x2="390" y2="84" stroke="#e8b7a6" stroke-width="9" stroke-linecap="round"/>
+<line x1="408" y1="118" x2="408" y2="84" stroke="#e8b7a6" stroke-width="9" stroke-linecap="round"/>
+<path d="M 350 340 L 350 190" fill="none" stroke="#b3261e" stroke-width="12" stroke-linecap="round" stroke-dasharray="1 0"/>
+<path d="M 350 340 L 350 190" fill="none" stroke="#ffffff" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="390" y="482" text-anchor="middle" font-size="15" font-weight="700" fill="#b3261e">DeBakey II</text>
+<text x="390" y="500" text-anchor="middle" font-size="12.5" fill="#52606d">sólo la aorta ascendente</text>
+<text x="330" y="350" text-anchor="end" font-size="11" fill="#8a5a4a">raíz</text>
+<path d="M 590 340 L 590 190" fill="none" stroke="#e8b7a6" stroke-width="34" stroke-linecap="round"/>
+<path d="M 590 190 Q 590 120 630 120 Q 670 120 670 190" fill="none" stroke="#e8b7a6" stroke-width="34" stroke-linecap="round"/>
+<path d="M 670 190 L 670 450" fill="none" stroke="#e8b7a6" stroke-width="34" stroke-linecap="round"/>
+<line x1="612" y1="118" x2="612" y2="84" stroke="#e8b7a6" stroke-width="9" stroke-linecap="round"/>
+<line x1="630" y1="118" x2="630" y2="84" stroke="#e8b7a6" stroke-width="9" stroke-linecap="round"/>
+<line x1="648" y1="118" x2="648" y2="84" stroke="#e8b7a6" stroke-width="9" stroke-linecap="round"/>
+<path d="M 670 190 L 670 450" fill="none" stroke="#12474f" stroke-width="12" stroke-linecap="round" stroke-dasharray="1 0"/>
+<path d="M 670 190 L 670 450" fill="none" stroke="#ffffff" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="630" y="482" text-anchor="middle" font-size="15" font-weight="700" fill="#12474f">DeBakey III</text>
+<text x="630" y="500" text-anchor="middle" font-size="12.5" fill="#52606d">distal a la subclavia izquierda</text>
+<text x="570" y="350" text-anchor="end" font-size="11" fill="#8a5a4a">raíz</text>
+<rect x="60" y="48" width="420" height="26" rx="6" fill="#fde7e4"/>
+<text x="270" y="66" text-anchor="middle" font-size="14" font-weight="700" fill="#8a1c14">Stanford A: compromete la aorta ascendente → CIRUGÍA URGENTE</text>
+<rect x="540" y="48" width="180" height="26" rx="6" fill="#e3eef0"/>
+<text x="630" y="66" text-anchor="middle" font-size="14" font-weight="700" fill="#12474f">Stanford B</text>
+<rect x="760" y="170" width="190" height="150" rx="8" fill="#f4f7f8" stroke="#c9d6d9"/>
+<line x1="776" y1="198" x2="816" y2="198" stroke="#b3261e" stroke-width="10" stroke-linecap="round"/>
+<line x1="776" y1="198" x2="816" y2="198" stroke="#ffffff" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="826" y="202" font-size="12.5" fill="#1f2933">segmento disecado</text>
+<text x="776" y="226" font-size="12" fill="#1f2933">Stanford B no complicada:</text>
+<text x="776" y="242" font-size="12" fill="#1f2933">control de PA y FC</text>
+<text x="776" y="258" font-size="12" fill="#1f2933">(betabloqueador EV).</text>
+<text x="776" y="274" font-size="12" fill="#1f2933">Complicada (malperfusión,</text>
+<text x="776" y="290" font-size="12" fill="#1f2933">rotura, dolor refractario):</text>
+<text x="776" y="306" font-size="12" fill="#1f2933">reparación endovascular</text>
+<text x="14" y="537" font-size="11.5" fill="#52606d">Esquema propio. La clasificación de Stanford decide el tratamiento: todo lo que compromete la aorta ascendente (tipo A) es quirúrgico.</text>
+</svg>

@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **16 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
+    **20 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -17,6 +17,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](hipertension-arterial.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](insuficiencia-cardiaca.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](paro-cardiorrespiratorio-y-arritmias.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome aórtico agudo: disección aórtica, hematoma intramural y úlcera penetrante](sindrome-aortico-agudo.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](sindrome-coronario-agudo.md)
 
 ## Situaciones clínicas
@@ -24,12 +25,12 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.01.1.001 | Angina crónica estable | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.01.1.002 | Bloqueos aurículo-ventriculares | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.002 | Bloqueos aurículo-ventriculares | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](paro-cardiorrespiratorio-y-arritmias.md) |
 | 1.01.1.003 | Cardiopatía congénita en adulto | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.004 | Corazón pulmonar crónico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](../respiratorio/epoc.md) |
 | 1.01.1.005 | Dislipidemias | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Dislipidemias e hipertrigliceridemia grave](../endocrinologia/dislipidemia.md) |
 | 1.01.1.006 | Embolia pulmonar | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tromboembolismo pulmonar](../respiratorio/tromboembolismo-pulmonar.md) |
-| 1.01.1.007 | Endocarditis infecciosa y no infecciosa | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.007 | Endocarditis infecciosa y no infecciosa | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Endocarditis infecciosa](../infectologia/endocarditis-infecciosa.md) |
 | 1.01.1.008 | Enfermedad reumática activa | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.009 | Estenosis aórtica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.010 | Estenosis mitral | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -46,14 +47,14 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.01.1.021 | Paciente con soplo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.022 | Pericarditis aguda | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.023 | Síndrome metabólico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.01.1.024 | Taquicardia paroxística supraventricular (TPSV) | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.024 | Taquicardia paroxística supraventricular (TPSV) | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](paro-cardiorrespiratorio-y-arritmias.md) |
 
 ## Situaciones clínicas de urgencia
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.01.2.001 | Angina inestable | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](sindrome-coronario-agudo.md) |
-| 1.01.2.002 | Disección aórtica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.002 | Disección aórtica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome aórtico agudo: disección aórtica, hematoma intramural y úlcera penetrante](sindrome-aortico-agudo.md) |
 | 1.01.2.003 | Embolia cardiogénica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Fibrilación y flutter auricular](fibrilacion-auricular.md) |
 | 1.01.2.004 | Infarto agudo al miocardio | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](sindrome-coronario-agudo.md) |
 | 1.01.2.005 | Insuficiencia cardíaca aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](insuficiencia-cardiaca.md) |
