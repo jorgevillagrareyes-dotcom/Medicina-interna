@@ -1217,11 +1217,15 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - gastroenterologia/hepatitis-aguda-e-insuficiencia-hepatica-aguda.md
   - codigo: 1.06.1.020
     nombre: Hepatitis agudas B, C, por otros virus, por drogas y tóxicas
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/hepatitis-aguda-e-insuficiencia-hepatica-aguda.md
   - codigo: 1.06.1.021
     nombre: Hepatitis crónica
     dx: Específico
@@ -1326,11 +1330,15 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/hepatitis-aguda-e-insuficiencia-hepatica-aguda.md
   - codigo: 1.06.2.009
     nombre: Insuficiencia hepática aguda
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/hepatitis-aguda-e-insuficiencia-hepatica-aguda.md
   - codigo: 1.06.2.010
     nombre: Pancreatitis aguda
     dx: Sospecha
