@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="960" height="480" fill="#ffffff"/>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#3e4c59"/></marker></defs>
+<text x="480.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Síndrome cardiopulmonar por hantavirus (virus Andes): fases y hallazgos clave</text>
+<line x1="30" y1="132" x2="935" y2="132" stroke="#3e4c59" stroke-width="2.2" marker-end="url(#fl)"/>
+<rect x="30" y="70" width="205" height="50" rx="8" fill="#7b8794"/>
+<text x="132.5" y="92" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">Incubación</text>
+<text x="132.5" y="111" text-anchor="middle" font-size="13" fill="#fff">7–45 días (mediana ~ 18)</text>
+<rect x="30" y="148" width="205" height="288" rx="8" fill="#eef1f4" stroke="#7b8794" stroke-width="1.5"/>
+<text x="40" y="170" font-size="13" font-weight="400" fill="#1f2933">Inhalación de aerosoles de</text>
+<text x="40" y="188" font-size="13" font-weight="400" fill="#1f2933">excretas del ratón colilargo</text>
+<text x="40" y="206" font-size="13" font-weight="400" fill="#1f2933">(leña, bodegas cerradas,</text>
+<text x="40" y="224" font-size="13" font-weight="400" fill="#1f2933">desmalezar, excursiones)</text>
+<text x="40" y="242" font-size="13" font-weight="400" fill="#1f2933"></text>
+<text x="40" y="260" font-size="13" font-weight="400" fill="#1f2933">Persona a persona (virus</text>
+<text x="40" y="278" font-size="13" font-weight="400" fill="#1f2933">Andes): contactos estrechos,</text>
+<text x="40" y="296" font-size="13" font-weight="400" fill="#1f2933">sobre todo en la fase</text>
+<text x="40" y="314" font-size="13" font-weight="400" fill="#1f2933">prodrómica</text>
+<text x="40" y="332" font-size="13" font-weight="400" fill="#1f2933"></text>
+<text x="40" y="350" font-size="13" font-weight="700" fill="#1f2933">Vigilar a los expuestos por</text>
+<text x="40" y="368" font-size="13" font-weight="400" fill="#1f2933">6 semanas</text>
+<rect x="245" y="70" width="225" height="50" rx="8" fill="#c77d0a"/>
+<text x="357.5" y="92" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">Fase prodrómica</text>
+<text x="357.5" y="111" text-anchor="middle" font-size="13" fill="#fff">1–6 días</text>
+<rect x="245" y="148" width="225" height="288" rx="8" fill="#fff4e0" stroke="#c77d0a" stroke-width="1.5"/>
+<text x="255" y="170" font-size="13" font-weight="400" fill="#1f2933">Fiebre, mialgias intensas</text>
+<text x="255" y="188" font-size="13" font-weight="400" fill="#1f2933">(lumbares), cefalea, náuseas,</text>
+<text x="255" y="206" font-size="13" font-weight="400" fill="#1f2933">vómitos, dolor abdominal</text>
+<text x="255" y="224" font-size="13" font-weight="400" fill="#1f2933"></text>
+<text x="255" y="242" font-size="13" font-weight="700" fill="#1f2933">Hemograma: la pista precoz</text>
+<text x="255" y="260" font-size="13" font-weight="400" fill="#1f2933">• Plaquetas &lt; 150.000/µL</text>
+<text x="255" y="278" font-size="13" font-weight="400" fill="#1f2933">• Inmunoblastos &gt; 10 %</text>
+<text x="255" y="296" font-size="13" font-weight="400" fill="#1f2933">• Leucocitosis con desviación</text>
+<text x="255" y="314" font-size="13" font-weight="400" fill="#1f2933">  a izquierda</text>
+<text x="255" y="332" font-size="13" font-weight="400" fill="#1f2933">• Hemoconcentración</text>
+<text x="255" y="350" font-size="13" font-weight="400" fill="#1f2933"></text>
+<text x="255" y="368" font-size="13" font-weight="400" fill="#1f2933">Rx: normal o intersticial</text>
+<text x="255" y="386" font-size="13" font-weight="400" fill="#1f2933">IgM puede ser aún negativa</text>
+<rect x="480" y="70" width="245" height="50" rx="8" fill="#b3261e"/>
+<text x="602.5" y="92" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">Fase cardiopulmonar</text>
+<text x="602.5" y="111" text-anchor="middle" font-size="13" fill="#fff">horas a pocos días</text>
+<rect x="480" y="148" width="245" height="288" rx="8" fill="#fde8e6" stroke="#b3261e" stroke-width="1.5"/>
+<text x="490" y="170" font-size="13" font-weight="400" fill="#1f2933">Tos, disnea, taquipnea</text>
+<text x="490" y="188" font-size="13" font-weight="400" fill="#1f2933">Edema pulmonar NO cardiogénico</text>
+<text x="490" y="206" font-size="13" font-weight="400" fill="#1f2933">(silueta normal → alveolar)</text>
+<text x="490" y="224" font-size="13" font-weight="400" fill="#1f2933">Shock de bajo gasto: índice</text>
+<text x="490" y="242" font-size="13" font-weight="400" fill="#1f2933">cardíaco ↓, resistencias ↑</text>
+<text x="490" y="260" font-size="13" font-weight="400" fill="#1f2933">Hemorragias, LRA, lactato ↑</text>
+<text x="490" y="278" font-size="13" font-weight="400" fill="#1f2933"></text>
+<text x="490" y="296" font-size="13" font-weight="700" fill="#b3261e">Gravedad (MINSAL):</text>
+<text x="490" y="314" font-size="13" font-weight="400" fill="#1f2933">Hto &gt; 45 % · leucocitos &gt; 20.000</text>
+<text x="490" y="332" font-size="13" font-weight="400" fill="#1f2933">plaquetas &lt; 50.000</text>
+<text x="490" y="350" font-size="13" font-weight="400" fill="#1f2933">inmunoblastos &gt; 45 %</text>
+<text x="490" y="368" font-size="13" font-weight="400" fill="#1f2933">pH &lt; 7,25 · lactato &gt; 2 mmol/L</text>
+<text x="490" y="386" font-size="13" font-weight="400" fill="#1f2933"></text>
+<text x="490" y="404" font-size="13" font-weight="700" fill="#b3261e">Muertes en las primeras 24–48 h</text>
+<rect x="735" y="70" width="195" height="50" rx="8" fill="#2f855a"/>
+<text x="832.5" y="92" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">Convalecencia</text>
+<text x="832.5" y="111" text-anchor="middle" font-size="13" fill="#fff">semanas a ~ 3 meses</text>
+<rect x="735" y="148" width="195" height="288" rx="8" fill="#e7f5ec" stroke="#2f855a" stroke-width="1.5"/>
+<text x="745" y="170" font-size="13" font-weight="400" fill="#1f2933">Poliuria</text>
+<text x="745" y="188" font-size="13" font-weight="400" fill="#1f2933">Recuperación de la función</text>
+<text x="745" y="206" font-size="13" font-weight="400" fill="#1f2933">pulmonar y cardíaca</text>
+<text x="745" y="224" font-size="13" font-weight="400" fill="#1f2933"></text>
+<text x="745" y="242" font-size="13" font-weight="400" fill="#1f2933">Astenia prolongada;</text>
+<text x="745" y="260" font-size="13" font-weight="400" fill="#1f2933">secuelas visuales,</text>
+<text x="745" y="278" font-size="13" font-weight="400" fill="#1f2933">auditivas, cognitivas y</text>
+<text x="745" y="296" font-size="13" font-weight="400" fill="#1f2933">de salud mental</text>
+<text x="745" y="314" font-size="13" font-weight="400" fill="#1f2933"></text>
+<text x="745" y="332" font-size="13" font-weight="700" fill="#1f2933">Seguimiento ≥ 6 meses</text>
+<text x="30" y="456" font-size="11.5" fill="#52606d">Esquema propio basado en la guía clínica MINSAL de hantavirus. La transición de la fase prodrómica a la cardiopulmonar es brusca e impredecible:</text>
+<text x="30" y="471" font-size="11.5" fill="#52606d">todo caso sospechoso se traslada de inmediato a un centro con unidad de paciente crítico (idealmente con ECMO), aunque esté en buenas condiciones.</text>
+</svg>

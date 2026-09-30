@@ -636,6 +636,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/hantavirus-y-leptospirosis.md
   - codigo: 1.04.1.018
     nombre: Malaria
     dx: Sospecha
@@ -751,6 +753,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/hantavirus-y-leptospirosis.md
   - codigo: 1.04.2.009
     nombre: Tétanos
     dx: Sospecha

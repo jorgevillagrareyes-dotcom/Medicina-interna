@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **9 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
+    **11 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -16,6 +16,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de piel y partes blandas](infecciones-piel-partes-blandas.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Meningitis y encefalitis agudas](meningitis-y-encefalitis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](sepsis-y-shock-septico.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome cardiopulmonar por hantavirus y leptospirosis](hantavirus-y-leptospirosis.md)
 
 ## Situaciones clínicas
 
@@ -37,7 +38,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.1.014 | Infección por virus de inmunodeficiencia humana (SIDA) | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.015 | Infecciones asociadas a catéteres vasculares | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.016 | Influenza | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.1.017 | Leptospirosis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.017 | Leptospirosis | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome cardiopulmonar por hantavirus y leptospirosis](hantavirus-y-leptospirosis.md) |
 | 1.04.1.018 | Malaria | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.019 | Micosis invasora (aspergilosis, candidiasis, mucormicosis) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.020 | Neutropenia febril | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -62,7 +63,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.2.011 | Enfermedad grave por SARS Cov 2 COVID 19 | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.2.006 | Meningitis aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Meningitis y encefalitis agudas](meningitis-y-encefalitis.md) |
 | 1.04.2.007 | Sepsis y shock séptico | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](sepsis-y-shock-septico.md) |
-| 1.04.2.008 | Síndrome pulmonar por Hanta Virus | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.008 | Síndrome pulmonar por Hanta Virus | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome cardiopulmonar por hantavirus y leptospirosis](hantavirus-y-leptospirosis.md) |
 | 1.04.2.009 | Tétanos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.2.010 | Varicela complicada: neumonitis, cerebelitis, encefalitis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
