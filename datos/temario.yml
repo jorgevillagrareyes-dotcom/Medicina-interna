@@ -681,6 +681,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/tuberculosis.md
   urgencias:
   - codigo: 1.04.2.001
     nombre: Absceso cerebral
@@ -824,6 +826,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/tuberculosis.md
   - codigo: 1.05.1.014
     nombre: Edema pulmonar no cardiogénico
     dx: Sospecha
@@ -956,11 +960,15 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/tuberculosis.md
   - codigo: 1.05.1.037
     nombre: Tuberculosis pulmonar (fracaso de tratamiento)
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/tuberculosis.md
   urgencias:
   - codigo: 1.05.2.001
     nombre: Asfixia por inmersión

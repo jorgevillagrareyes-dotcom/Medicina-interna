@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **8 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
+    **9 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -48,7 +48,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.1.025 | Síndrome mononucleósico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.026 | Toxicoinfección alimentaria | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](../gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md) |
 | 1.04.1.027 | Triquinosis | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.1.028 | Tuberculosis extrapulmonar | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.028 | Tuberculosis extrapulmonar | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tuberculosis](../respiratorio/tuberculosis.md) |
 
 ## Situaciones clínicas de urgencia
 
