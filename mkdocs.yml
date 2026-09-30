@@ -139,6 +139,7 @@ nav:
       - "Trastornos ácido-base": nefrologia/trastornos-acido-base.md
   - Neurología:
       - neurologia/index.md
+      - "Accidente cerebrovascular (ACV) y crisis isquémica transitoria": neurologia/accidente-cerebrovascular.md
   - Reumatología:
       - reumatologia/index.md
   - Urgencias: urgencias/index.md

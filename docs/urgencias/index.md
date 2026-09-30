@@ -137,7 +137,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.09.2.012 | Pre eclampsia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.2.013 | Vasculitis o glomerulonefritis rápidamente progresiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
-## Neurología (1/21)
+## Neurología (3/21)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
@@ -147,8 +147,8 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.10.2.004 | Estado confusional agudo (alcohólico, tóxico metabólico) | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.005 | Distonía aguda por fármacos (ejemplo antieméticos) | Específico | Completo | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.006 | Encefalopatías tóxico metabólicas (urémica, hepática, etc) | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.2.007 | Enfermedad cerebrovascular (isquémica, cardioembólica, hemorrágica, crisis isquémica transitoria) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.2.008 | Hemorragia subaracnoidea | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.007 | Enfermedad cerebrovascular (isquémica, cardioembólica, hemorrágica, crisis isquémica transitoria) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Accidente cerebrovascular (ACV) y crisis isquémica transitoria](../neurologia/accidente-cerebrovascular.md) |
+| 1.10.2.008 | Hemorragia subaracnoidea | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Accidente cerebrovascular (ACV) y crisis isquémica transitoria](../neurologia/accidente-cerebrovascular.md) |
 | 1.10.2.009 | Hipertensión endocraneana | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.010 | Movimientos anormales inducidos por fármacos | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.011 | Paraplejia aguda | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |

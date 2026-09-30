@@ -1939,11 +1939,15 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/accidente-cerebrovascular.md
   - codigo: 1.10.2.008
     nombre: Hemorragia subaracnoidea
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/accidente-cerebrovascular.md
   - codigo: 1.10.2.009
     nombre: Hipertensión endocraneana
     dx: Sospecha
