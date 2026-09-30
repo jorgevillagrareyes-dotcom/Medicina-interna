@@ -606,6 +606,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - infectologia/influenza-y-covid-19.md
   - codigo: 1.04.1.012
     nombre: Fiebre tifoidea y paratifoidea
     dx: Específico
@@ -631,6 +633,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - infectologia/influenza-y-covid-19.md
   - codigo: 1.04.1.017
     nombre: Leptospirosis
     dx: Sospecha
@@ -734,6 +738,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/influenza-y-covid-19.md
   - codigo: 1.04.2.006
     nombre: Meningitis aguda
     dx: Específico
@@ -798,6 +804,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - infectologia/influenza-y-covid-19.md
   - codigo: 1.05.1.006
     nombre: Bronquitis crónica
     dx: Específico
