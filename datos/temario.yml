@@ -496,6 +496,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/trastornos-del-calcio-fosforo-y-magnesio.md
   - codigo: 1.03.1.021
     nombre: Nódulo tiroideo
     dx: Específico
@@ -540,11 +542,14 @@ grupos:
     seg: Derivar
     resumen:
     - hematologia/urgencias-oncologicas.md
+    - endocrinologia/trastornos-del-calcio-fosforo-y-magnesio.md
   - codigo: 1.03.2.005
     nombre: Tetania
     dx: Específico
     tto: Completo
     seg: Derivar
+    resumen:
+    - endocrinologia/trastornos-del-calcio-fosforo-y-magnesio.md
 - codigo: '1.04'
   titulo: Enfermedades infecciosas
   carpeta: infectologia
@@ -1643,6 +1648,7 @@ grupos:
     seg: Derivar
     resumen:
     - hematologia/urgencias-oncologicas.md
+    - endocrinologia/trastornos-del-calcio-fosforo-y-magnesio.md
   - codigo: 1.08.2.005
     nombre: Lisis tumoral aguda
     dx: Sospecha

@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **23 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
+    **25 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -18,6 +18,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipoglicemia](hipoglicemia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipotiroidismo, hipertiroidismo y tiroiditis](hipotiroidismo-e-hipertiroidismo.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia suprarrenal y crisis suprarrenal](insuficiencia-suprarrenal.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos del calcio, fósforo y magnesio: hipocalcemia, tetania e hipercalcemia](trastornos-del-calcio-fosforo-y-magnesio.md)
 
 ## Diabetes y nutrición (1.02)
 
@@ -82,7 +83,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.03.1.017 | Síndrome de secreción inapropiada de ADH | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](../nefrologia/trastornos-del-sodio.md) |
 | 1.03.1.018 | Osteoporosis | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.019 | Osteoporosis secundaria | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.03.1.020 | Hipercalcemias e hipocalcemias | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.020 | Hipercalcemias e hipocalcemias | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos del calcio, fósforo y magnesio: hipocalcemia, tetania e hipercalcemia](trastornos-del-calcio-fosforo-y-magnesio.md) |
 | 1.03.1.021 | Nódulo tiroideo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.022 | Incidentaloma suprarrenal | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.023 | Ginecomastia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -94,8 +95,8 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.03.2.001 | Tormenta tiroidea | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipotiroidismo, hipertiroidismo y tiroiditis](hipotiroidismo-e-hipertiroidismo.md) |
 | 1.03.2.002 | Mixedema | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipotiroidismo, hipertiroidismo y tiroiditis](hipotiroidismo-e-hipertiroidismo.md) |
 | 1.03.2.003 | Insuficiencia suprarrenal aguda | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia suprarrenal y crisis suprarrenal](insuficiencia-suprarrenal.md) |
-| 1.03.2.004 | Hipercalcemia aguda | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](../hematologia/urgencias-oncologicas.md) |
-| 1.03.2.005 | Tetania | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.2.004 | Hipercalcemia aguda | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](../hematologia/urgencias-oncologicas.md) · [Trastornos del calcio, fósforo y magnesio: hipocalcemia, tetania e hipercalcemia](trastornos-del-calcio-fosforo-y-magnesio.md) |
+| 1.03.2.005 | Tetania | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos del calcio, fósforo y magnesio: hipocalcemia, tetania e hipercalcemia](trastornos-del-calcio-fosforo-y-magnesio.md) |
 
 ## Cómo leer los niveles EUNACOM
 
