@@ -13,6 +13,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Completo
+    resumen:
+    - cardiologia/angina-cronica-estable.md
   - codigo: 1.01.1.002
     nombre: Bloqueos aurículo-ventriculares
     dx: Específico

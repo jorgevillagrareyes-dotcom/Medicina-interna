@@ -97,6 +97,7 @@ nav:
   - Inicio: index.md
   - Cardiología:
       - cardiologia/index.md
+      - "Angina crónica estable (síndrome coronario crónico)": cardiologia/angina-cronica-estable.md
       - "Crisis hipertensiva": cardiologia/crisis-hipertensiva.md
       - "Fibrilación y flutter auricular": cardiologia/fibrilacion-auricular.md
       - "Hipertensión arterial": cardiologia/hipertension-arterial.md
