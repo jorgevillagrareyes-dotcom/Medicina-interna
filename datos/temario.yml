@@ -1475,6 +1475,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/accidente-cerebrovascular.md
   - codigo: 1.07.1.007
     nombre: Escaras o úlceras por presión
     dx: Específico
@@ -2040,6 +2042,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/encefalopatias-toxico-metabolicas.md
   - codigo: 1.10.1.003
     nombre: Cuadros de deterioro orgánico cerebral potencialmente reversibles (hipotiroidismo, déficit de vitamina B12, etc.)
     dx: Sospecha
@@ -2133,6 +2137,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/tec-e-hipertension-endocraneana.md
   - codigo: 1.10.1.020
     nombre: Síndrome miasténico
     dx: Sospecha

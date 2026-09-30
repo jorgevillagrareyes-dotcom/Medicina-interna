@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **27 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
+    **29 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -26,7 +26,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.10.1.001 | Cefalea tensional | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Cefalea: enfoque en urgencia, migraña, cefalea tensional y neuralgia del trigémino](cefalea.md) |
-| 1.10.1.002 | Compromiso de conciencia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.1.002 | Compromiso de conciencia | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Encefalopatías tóxico-metabólicas: urémica, hepática, hipercápnica, séptica, hipertensiva y por fármacos](encefalopatias-toxico-metabolicas.md) |
 | 1.10.1.003 | Cuadros de deterioro orgánico cerebral potencialmente reversibles (hipotiroidismo, déficit de vitamina B12, etc.) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.004 | Cuadros deficitarios de funciones cerebrales superiores (afasia, apraxia, agnosia, etc.) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.005 | Demencia (enfermedad de Alzheimer, enfermedad cerebrovascular, VIH, etc.) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -43,7 +43,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.10.1.016 | Parálisis facial periférica | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.017 | Polineuropatías, radiculopatías, mononeuropatías, etc… | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.018 | Síndrome atáxico | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.1.019 | Síndrome de hipertensión endocraneana | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.1.019 | Síndrome de hipertensión endocraneana | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Traumatismo encefalocraneano e hipertensión endocraneana](tec-e-hipertension-endocraneana.md) |
 | 1.10.1.020 | Síndrome miasténico | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.021 | Síndrome miopático (distrofias musculares, polimiositis) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.022 | Síndromes convulsivos sintomáticos (traumático, tumores del SNC, metabólico, etc.) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md) |

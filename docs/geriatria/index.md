@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **10 de 22** situaciones clínicas de esta subespecialidad tienen resumen.
+    **11 de 22** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -25,7 +25,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.07.1.003 | Demencia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.004 | Depresión | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.005 | Diabetes mellitus tipo 2 | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 2](../endocrinologia/diabetes-mellitus-tipo-2.md) |
-| 1.07.1.006 | Enfermedad cerebro-vascular | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.07.1.006 | Enfermedad cerebro-vascular | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Accidente cerebrovascular (ACV) y crisis isquémica transitoria](../neurologia/accidente-cerebrovascular.md) |
 | 1.07.1.007 | Escaras o úlceras por presión | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.008 | Fragilidad | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.009 | Hipertensión arterial | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
