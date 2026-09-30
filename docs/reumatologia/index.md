@@ -8,7 +8,11 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **0 de 27** situaciones clínicas de esta subespecialidad tienen resumen.
+    **4 de 27** situaciones clínicas de esta subespecialidad tienen resumen.
+
+## Resúmenes disponibles
+
+- :material-check-circle:{ .ok title="Resumen disponible" } [Monoartritis aguda: gota, artritis séptica y enfermedad por pirofosfato de calcio](monoartritis-gota-artritis-septica.md)
 
 ## Situaciones clínicas
 
@@ -20,7 +24,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.11.1.004 | Artrosis | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.11.1.005 | Cervicalgia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.11.1.006 | Columna dolorosa | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.11.1.007 | Condrocalcinosis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.007 | Condrocalcinosis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Monoartritis aguda: gota, artritis séptica y enfermedad por pirofosfato de calcio](monoartritis-gota-artritis-septica.md) |
 | 1.11.1.008 | Epicondilalgia, epitroclealgias | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.11.1.009 | Esclerosis sistémica progresiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.11.1.010 | Fibromialgia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -28,7 +32,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.11.1.012 | Lumbago infeccioso y tumoral | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.11.1.013 | Lumbago mecánico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.11.1.014 | Lupus eritematoso sistémico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.11.1.015 | Monoartritis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.015 | Monoartritis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Monoartritis aguda: gota, artritis séptica y enfermedad por pirofosfato de calcio](monoartritis-gota-artritis-septica.md) |
 | 1.11.1.016 | Oligoartritis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.11.1.017 | Osteoporosis | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.11.1.018 | Pelviespondilopatías seronegativas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -44,8 +48,8 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.11.2.001 | Artritis séptica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.11.2.002 | Gota aguda | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.2.001 | Artritis séptica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Monoartritis aguda: gota, artritis séptica y enfermedad por pirofosfato de calcio](monoartritis-gota-artritis-septica.md) |
+| 1.11.2.002 | Gota aguda | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Monoartritis aguda: gota, artritis séptica y enfermedad por pirofosfato de calcio](monoartritis-gota-artritis-septica.md) |
 
 ## Cómo leer los niveles EUNACOM
 

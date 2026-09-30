@@ -163,12 +163,12 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.10.2.020 | Traumatismo encefalocraneano grave | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.021 | Traumatismo raquimedular | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
-## Reumatología (0/2)
+## Reumatología (2/2)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.11.2.001 | Artritis séptica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.11.2.002 | Gota aguda | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.2.001 | Artritis séptica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Monoartritis aguda: gota, artritis séptica y enfermedad por pirofosfato de calcio](../reumatologia/monoartritis-gota-artritis-septica.md) |
+| 1.11.2.002 | Gota aguda | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Monoartritis aguda: gota, artritis séptica y enfermedad por pirofosfato de calcio](../reumatologia/monoartritis-gota-artritis-septica.md) |
 
 ## Cómo leer los niveles EUNACOM
 

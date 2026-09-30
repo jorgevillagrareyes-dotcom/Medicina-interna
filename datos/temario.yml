@@ -2139,6 +2139,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/monoartritis-gota-artritis-septica.md
   - codigo: 1.11.1.008
     nombre: Epicondilalgia, epitroclealgias
     dx: Sospecha
@@ -2179,6 +2181,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/monoartritis-gota-artritis-septica.md
   - codigo: 1.11.1.016
     nombre: Oligoartritis
     dx: Específico
@@ -2235,8 +2239,12 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/monoartritis-gota-artritis-septica.md
   - codigo: 1.11.2.002
     nombre: Gota aguda
     dx: Específico
     tto: Completo
     seg: Derivar
+    resumen:
+    - reumatologia/monoartritis-gota-artritis-septica.md
