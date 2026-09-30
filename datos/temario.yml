@@ -409,6 +409,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/insuficiencia-suprarrenal.md
   - codigo: 1.03.1.008
     nombre: Hirsutismo
     dx: Sospecha
@@ -515,6 +517,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Derivar
+    resumen:
+    - endocrinologia/insuficiencia-suprarrenal.md
   - codigo: 1.03.2.004
     nombre: Hipercalcemia aguda
     dx: Sospecha
