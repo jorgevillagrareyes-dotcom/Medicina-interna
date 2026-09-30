@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 680" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="680" fill="#ffffff"/>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52606d"/></marker></defs>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Derrame pleural: estudio del líquido y conducta</text>
+<text x="250" y="60" text-anchor="middle" font-size="15" font-weight="700" fill="#1f5f99">1. ¿Transudado o exudado?</text>
+<rect x="20" y="72" width="460" height="66" rx="8" fill="#eef2f6" stroke="#52606d" stroke-width="1.6"/>
+<text x="250.0" y="93.0" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Derrame bilateral con causa clara (IC, cirrosis, nefrótico)?</text>
+<text x="250.0" y="109.5" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Tratar la causa. Puncionar solo si es atípico: unilateral,</text>
+<text x="250.0" y="126.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">fiebre, dolor pleurítico o sin respuesta al tratamiento</text>
+<line x1="250" y1="138" x2="250" y2="156" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="20" y="156" width="460" height="100" rx="8" fill="#e3f2fd" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="250.0" y="177.6" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">TORACOCENTESIS guiada por ecografía</text>
+<text x="250.0" y="194.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Aspecto · proteínas y LDH (con las del plasma) · glucosa · pH</text>
+<text x="250.0" y="210.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">recuento celular y diferencial · Gram y cultivo (también en frascos</text>
+<text x="250.0" y="227.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">de hemocultivo) · citología (25–50 mL) · ADA · según el caso:</text>
+<text x="250.0" y="243.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">triglicéridos, hematocrito, NT-proBNP, amilasa</text>
+<line x1="250" y1="256" x2="250" y2="274" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="20" y="274" width="460" height="84" rx="8" fill="#fff4d6" stroke="#c28a12" stroke-width="1.6"/>
+<text x="250.0" y="295.8" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">CRITERIOS DE LIGHT: exudado si cumple ≥ 1</text>
+<text x="250.0" y="312.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Proteína pleural / plasmática &gt; 0,5</text>
+<text x="250.0" y="328.8" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">LDH pleural / plasmática &gt; 0,6</text>
+<text x="250.0" y="345.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">LDH pleural &gt; 2/3 del límite superior normal del plasma</text>
+<line x1="140" y1="358" x2="120" y2="386" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<text x="84" y="376" font-size="12.5" font-weight="700" fill="#52606d">No</text>
+<line x1="360" y1="358" x2="380" y2="386" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<text x="386" y="376" font-size="12.5" font-weight="700" fill="#52606d">Sí</text>
+<rect x="20" y="386" width="200" height="150" rx="8" fill="#eef2f6" stroke="#52606d" stroke-width="1.6"/>
+<text x="120.0" y="416.1" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">TRANSUDADO</text>
+<text x="120.0" y="432.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Insuficiencia cardíaca</text>
+<text x="120.0" y="449.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">(la más frecuente)</text>
+<text x="120.0" y="465.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Cirrosis (hidrotórax)</text>
+<text x="120.0" y="482.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Síndrome nefrótico</text>
+<text x="120.0" y="498.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Hipoalbuminemia</text>
+<text x="120.0" y="515.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Diálisis peritoneal</text>
+<rect x="240" y="386" width="240" height="150" rx="8" fill="#fde7e5" stroke="#b3261e" stroke-width="1.6"/>
+<text x="360.0" y="417.4" text-anchor="middle" font-size="12.5" font-weight="700" fill="#1f2933">EXUDADO: orientar por el líquido</text>
+<text x="360.0" y="433.4" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Neutrófilos: paraneumónico, TEP,</text>
+<text x="360.0" y="449.4" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">pancreatitis, absceso subfrénico</text>
+<text x="360.0" y="465.4" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Linfocitos: TBC (ADA &gt; 40 U/L),</text>
+<text x="360.0" y="481.4" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">cáncer, linfoma, AR, LES</text>
+<text x="360.0" y="497.4" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Hemático: cáncer, TEP, trauma</text>
+<text x="360.0" y="513.4" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Lechoso: quilotórax (TG &gt; 110)</text>
+<rect x="20" y="548" width="460" height="66" rx="8" fill="#ffffff" stroke="#52606d" stroke-width="1.6"/>
+<text x="250.0" y="569.4" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">IC tratada con diuréticos con criterios de exudado "falsos":</text>
+<text x="250.0" y="585.4" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">gradiente de albúmina plasma − pleura &gt; 1,2 g/dL</text>
+<text x="250.0" y="601.4" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">o NT-proBNP alto confirman el transudado</text>
+<line x1="495" y1="48" x2="495" y2="630" stroke="#cbd2d9" stroke-width="1.2" stroke-dasharray="5,4"/>
+<text x="745" y="60" text-anchor="middle" font-size="15" font-weight="700" fill="#1f5f99">2. Derrame paraneumónico y empiema</text>
+<rect x="510" y="72" width="470" height="92" rx="8" fill="#e3f5ea" stroke="#2e7d4f" stroke-width="1.6"/>
+<text x="745.0" y="97.8" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">NO COMPLICADO</text>
+<text x="745.0" y="114.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Líquido claro · pH ≥ 7,2 · glucosa ≥ 60 mg/dL</text>
+<text x="745.0" y="130.8" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Gram y cultivo negativos · sin tabiques</text>
+<text x="745.0" y="147.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">→ Solo antibióticos; controlar con ecografía o radiografía</text>
+<rect x="510" y="174" width="470" height="110" rx="8" fill="#fff4d6" stroke="#c28a12" stroke-width="1.6"/>
+<text x="745.0" y="200.6" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">COMPLICADO</text>
+<text x="745.0" y="217.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">pH &lt; 7,2 (o glucosa &lt; 60 mg/dL si no hay pH) · Gram o cultivo</text>
+<text x="745.0" y="233.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">positivos · tabiques en la ecografía · derrame grande</text>
+<text x="745.0" y="250.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">→ Antibióticos + DRENAJE con tubo fino (≤ 14 F)</text>
+<text x="745.0" y="266.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">(LDH &gt; 1.000 UI/L apoya, pero no decide sola)</text>
+<rect x="510" y="294" width="470" height="60" rx="8" fill="#fde7e5" stroke="#b3261e" stroke-width="1.6"/>
+<text x="745.0" y="320.3" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">EMPIEMA: pus a la punción</text>
+<text x="745.0" y="336.8" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">→ Antibióticos + DRENAJE</text>
+<line x1="745" y1="354" x2="745" y2="374" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="510" y="374" width="470" height="92" rx="8" fill="#ffffff" stroke="#b3261e" stroke-width="1.6"/>
+<text x="745.0" y="399.8" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">¿Persiste la colección pese al drenaje?</text>
+<text x="745.0" y="416.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Fibrinolítico + DNasa intrapleural: alteplasa 10 mg + DNasa 5 mg</text>
+<text x="745.0" y="432.8" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">c/12 h por 3 días (MIST2), o cirugía (VATS, decorticación)</text>
+<text x="745.0" y="449.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">RAPID estima el riesgo de mortalidad</text>
+<text x="745" y="500" text-anchor="middle" font-size="15" font-weight="700" fill="#1f5f99">3. Derrame pleural maligno</text>
+<rect x="510" y="512" width="470" height="102" rx="8" fill="#e3f2fd" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="522" y="534.5" text-anchor="start" font-size="13" font-weight="700" fill="#1f2933">Citología (y si es negativa, biopsia pleural guiada o toracoscopía)</text>
+<text x="522" y="551.0" text-anchor="start" font-size="13" font-weight="400" fill="#1f2933">Sintomático y recurrente:</text>
+<text x="522" y="567.5" text-anchor="start" font-size="13" font-weight="400" fill="#1f2933">• pulmón que se expande: catéter pleural tunelizado o talco</text>
+<text x="522" y="584.0" text-anchor="start" font-size="13" font-weight="400" fill="#1f2933">• pulmón no expansible: catéter pleural tunelizado</text>
+<text x="522" y="600.5" text-anchor="start" font-size="13" font-weight="400" fill="#1f2933">• pronóstico muy corto: toracocentesis evacuadora</text>
+<text x="980" y="656" text-anchor="end" font-size="11.5" fill="#7b8794">Esquema propio basado en la guía BTS 2023 de enfermedad pleural, la guía ATS/STS/STR 2018 de derrame maligno,</text>
+<text x="980" y="671" text-anchor="end" font-size="11.5" fill="#7b8794">los criterios de Light (1972) y el ensayo MIST2 (2011).</text>
+</svg>

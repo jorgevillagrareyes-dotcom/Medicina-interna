@@ -896,16 +896,22 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/derrame-pleural.md
   - codigo: 1.05.1.011
     nombre: Derrame pleural paraneumónico complicado
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/derrame-pleural.md
   - codigo: 1.05.1.012
     nombre: Derrame pleural paraneumónico simple
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/derrame-pleural.md
   - codigo: 1.05.1.013
     nombre: Derrame pleural por tuberculosis
     dx: Específico
@@ -913,6 +919,7 @@ grupos:
     seg: Completo
     resumen:
     - respiratorio/tuberculosis.md
+    - respiratorio/derrame-pleural.md
   - codigo: 1.05.1.014
     nombre: Edema pulmonar no cardiogénico
     dx: Sospecha

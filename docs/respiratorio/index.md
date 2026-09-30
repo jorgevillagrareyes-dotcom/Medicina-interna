@@ -8,11 +8,12 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **36 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
+    **39 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Asma bronquial](asma.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Derrame pleural: paraneumónico, empiema, neoplásico y enfoque diagnóstico](derrame-pleural.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia respiratoria aguda, soporte no invasivo, SDRA y hemoptisis](insuficiencia-respiratoria-aguda.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Intoxicación por monóxido de carbono, ahogamiento y cuerpo extraño en la vía aérea](intoxicacion-por-co-ahogamiento-y-cuerpo-extrano.md)
@@ -34,10 +35,10 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.05.1.007 | Cáncer bronquial primario | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.008 | Corazón pulmonar crónico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md) |
 | 1.05.1.009 | Daño pulmonar secundario a drogas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.05.1.010 | Derrame pleural neoplásico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.05.1.011 | Derrame pleural paraneumónico complicado | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.05.1.012 | Derrame pleural paraneumónico simple | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.05.1.013 | Derrame pleural por tuberculosis | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Tuberculosis](tuberculosis.md) |
+| 1.05.1.010 | Derrame pleural neoplásico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Derrame pleural: paraneumónico, empiema, neoplásico y enfoque diagnóstico](derrame-pleural.md) |
+| 1.05.1.011 | Derrame pleural paraneumónico complicado | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Derrame pleural: paraneumónico, empiema, neoplásico y enfoque diagnóstico](derrame-pleural.md) |
+| 1.05.1.012 | Derrame pleural paraneumónico simple | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Derrame pleural: paraneumónico, empiema, neoplásico y enfoque diagnóstico](derrame-pleural.md) |
+| 1.05.1.013 | Derrame pleural por tuberculosis | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Tuberculosis](tuberculosis.md) · [Derrame pleural: paraneumónico, empiema, neoplásico y enfoque diagnóstico](derrame-pleural.md) |
 | 1.05.1.014 | Edema pulmonar no cardiogénico | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia respiratoria aguda, soporte no invasivo, SDRA y hemoptisis](insuficiencia-respiratoria-aguda.md) |
 | 1.05.1.015 | Embolia pulmonar | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tromboembolismo pulmonar](tromboembolismo-pulmonar.md) |
 | 1.05.1.016 | Enfermedad pulmonar obstructiva crónica avanzada | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md) |
