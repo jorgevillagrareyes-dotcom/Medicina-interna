@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **4 de 27** situaciones clínicas de esta subespecialidad tienen resumen.
+    **5 de 27** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -34,7 +34,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.11.1.014 | Lupus eritematoso sistémico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.11.1.015 | Monoartritis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Monoartritis aguda: gota, artritis séptica y enfermedad por pirofosfato de calcio](monoartritis-gota-artritis-septica.md) |
 | 1.11.1.016 | Oligoartritis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.11.1.017 | Osteoporosis | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.017 | Osteoporosis | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Osteoporosis primaria y secundaria](../endocrinologia/osteoporosis.md) |
 | 1.11.1.018 | Pelviespondilopatías seronegativas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.11.1.019 | Poliartritis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.11.1.020 | Polimiositis, dermatomiositis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

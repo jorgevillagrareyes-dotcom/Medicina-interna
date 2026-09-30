@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **25 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
+    **27 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -18,6 +18,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipoglicemia](hipoglicemia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipotiroidismo, hipertiroidismo y tiroiditis](hipotiroidismo-e-hipertiroidismo.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia suprarrenal y crisis suprarrenal](insuficiencia-suprarrenal.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Osteoporosis primaria y secundaria](osteoporosis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos del calcio, fósforo y magnesio: hipocalcemia, tetania e hipercalcemia](trastornos-del-calcio-fosforo-y-magnesio.md)
 
 ## Diabetes y nutrición (1.02)
@@ -81,8 +82,8 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.03.1.015 | Diabetes insípida | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](../nefrologia/trastornos-del-sodio.md) |
 | 1.03.1.016 | Hiperprolactinemia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.017 | Síndrome de secreción inapropiada de ADH | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](../nefrologia/trastornos-del-sodio.md) |
-| 1.03.1.018 | Osteoporosis | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.03.1.019 | Osteoporosis secundaria | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.018 | Osteoporosis | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Osteoporosis primaria y secundaria](osteoporosis.md) |
+| 1.03.1.019 | Osteoporosis secundaria | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Osteoporosis primaria y secundaria](osteoporosis.md) |
 | 1.03.1.020 | Hipercalcemias e hipocalcemias | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos del calcio, fósforo y magnesio: hipocalcemia, tetania e hipercalcemia](trastornos-del-calcio-fosforo-y-magnesio.md) |
 | 1.03.1.021 | Nódulo tiroideo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.022 | Incidentaloma suprarrenal | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

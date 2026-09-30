@@ -486,11 +486,15 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - endocrinologia/osteoporosis.md
   - codigo: 1.03.1.019
     nombre: Osteoporosis secundaria
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/osteoporosis.md
   - codigo: 1.03.1.020
     nombre: Hipercalcemias e hipocalcemias
     dx: Sospecha
@@ -1482,6 +1486,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - endocrinologia/osteoporosis.md
   - codigo: 1.07.1.016
     nombre: Temblor
     dx: Sospecha
@@ -2383,6 +2389,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - endocrinologia/osteoporosis.md
   - codigo: 1.11.1.018
     nombre: Pelviespondilopatías seronegativas
     dx: Sospecha

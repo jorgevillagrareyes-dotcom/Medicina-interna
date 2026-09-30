@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 700" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="980" height="700" fill="#ffffff"/>
+<text x="490.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Evaluación del riesgo de fractura y conducta (NOGG 2024)</text>
+<rect x="335" y="44" width="310" height="58" rx="8" fill="#ffffff" stroke="#52606d" stroke-width="1.6"/>
+<text x="490.0" y="69.2" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2933">Factores de riesgo clínicos</text>
+<text x="490.0" y="86.7" text-anchor="middle" font-size="14" font-weight="400" fill="#1f2933">(fractura previa, edad, corticoides, etc.)</text>
+<rect x="335" y="118" width="310" height="50" rx="8" fill="#ffffff" stroke="#52606d" stroke-width="1.6"/>
+<text x="490.0" y="147.9" text-anchor="middle" font-size="14" font-weight="400" fill="#1f2933">Probabilidad de fractura a 10 años (FRAX)</text>
+<line x1="490" y1="102" x2="490" y2="118" stroke="#52606d" stroke-width="1.8"/>
+<line x1="490" y1="168" x2="490" y2="186" stroke="#52606d" stroke-width="1.8"/>
+<line x1="125" y1="186" x2="850" y2="186" stroke="#52606d" stroke-width="1.8"/>
+<line x1="125" y1="186" x2="125" y2="200" stroke="#52606d" stroke-width="1.8"/>
+<line x1="365" y1="186" x2="365" y2="200" stroke="#52606d" stroke-width="1.8"/>
+<line x1="605" y1="186" x2="605" y2="200" stroke="#52606d" stroke-width="1.8"/>
+<line x1="850" y1="186" x2="850" y2="200" stroke="#52606d" stroke-width="1.8"/>
+<rect x="30" y="200" width="190" height="56" rx="8" fill="#7cc04b" stroke="#7cc04b" stroke-width="1.6"/>
+<text x="125.0" y="233.6" text-anchor="middle" font-size="16" font-weight="700" fill="#123d0a">Riesgo bajo</text>
+<rect x="270" y="200" width="190" height="56" rx="8" fill="#f2b418" stroke="#f2b418" stroke-width="1.6"/>
+<text x="365.0" y="233.6" text-anchor="middle" font-size="16" font-weight="700" fill="#4a3500">Riesgo intermedio</text>
+<rect x="510" y="200" width="190" height="56" rx="8" fill="#e5322d" stroke="#e5322d" stroke-width="1.6"/>
+<text x="605.0" y="233.6" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">Riesgo alto</text>
+<rect x="750" y="200" width="200" height="56" rx="8" fill="#b3202a" stroke="#b3202a" stroke-width="1.6"/>
+<text x="850.0" y="233.6" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">Riesgo muy alto</text>
+<rect x="30" y="272" width="190" height="70" rx="8" fill="#eef8e6" stroke="#7cc04b" stroke-width="1.6"/>
+<text x="125.0" y="294.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">Estilo de vida, calcio</text>
+<text x="125.0" y="311.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">y vitamina D; reevaluar</text>
+<text x="125.0" y="328.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">si cambia el riesgo</text>
+<rect x="270" y="272" width="190" height="56" rx="8" fill="#fff7df" stroke="#f2b418" stroke-width="1.6"/>
+<text x="365.0" y="296.2" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">Medir la DMO (DXA)</text>
+<text x="365.0" y="313.2" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">y recalcular el FRAX</text>
+<rect x="510" y="272" width="190" height="56" rx="8" fill="#fde7e5" stroke="#e5322d" stroke-width="1.6"/>
+<text x="605.0" y="296.1" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2933">TRATAR</text>
+<text x="605.0" y="313.6" text-anchor="middle" font-size="14" font-weight="400" fill="#1f2933">y medir la DMO</text>
+<rect x="750" y="272" width="200" height="56" rx="8" fill="#fbe3e5" stroke="#b3202a" stroke-width="1.6"/>
+<text x="850.0" y="296.1" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2933">TRATAR y derivar</text>
+<text x="850.0" y="313.6" text-anchor="middle" font-size="14" font-weight="400" fill="#1f2933">a especialista</text>
+<line x1="125" y1="256" x2="125" y2="272" stroke="#52606d" stroke-width="1.8"/>
+<line x1="365" y1="256" x2="365" y2="272" stroke="#52606d" stroke-width="1.8"/>
+<line x1="605" y1="256" x2="605" y2="272" stroke="#52606d" stroke-width="1.8"/>
+<line x1="850" y1="256" x2="850" y2="272" stroke="#52606d" stroke-width="1.8"/>
+<line x1="365" y1="328" x2="365" y2="350" stroke="#52606d" stroke-width="1.8"/>
+<line x1="160" y1="350" x2="600" y2="350" stroke="#52606d" stroke-width="1.8"/>
+<line x1="160" y1="350" x2="160" y2="362" stroke="#52606d" stroke-width="1.8"/>
+<line x1="365" y1="350" x2="365" y2="362" stroke="#52606d" stroke-width="1.8"/>
+<line x1="600" y1="350" x2="600" y2="362" stroke="#52606d" stroke-width="1.8"/>
+<rect x="80" y="362" width="160" height="44" rx="8" fill="#7cc04b" stroke="#7cc04b" stroke-width="1.6"/>
+<text x="160.0" y="388.9" text-anchor="middle" font-size="14" font-weight="700" fill="#123d0a">Riesgo bajo</text>
+<rect x="285" y="362" width="160" height="44" rx="8" fill="#e5322d" stroke="#e5322d" stroke-width="1.6"/>
+<text x="365.0" y="388.9" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">Alto: tratar</text>
+<rect x="500" y="362" width="200" height="44" rx="8" fill="#b3202a" stroke="#b3202a" stroke-width="1.6"/>
+<text x="600.0" y="388.9" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">Muy alto: tratar y derivar</text>
+<rect x="30" y="430" width="440" height="222" rx="10" fill="#fbe3e5" stroke="#b3202a" stroke-width="1.5"/>
+<text x="46" y="456" font-size="15" font-weight="700" fill="#b3202a">Riesgo muy alto (basta uno)</text>
+<text x="50" y="484" font-size="14" fill="#3b0b0f">• Fractura vertebral reciente (≤ 2 años)</text>
+<text x="50" y="508" font-size="14" fill="#3b0b0f">• ≥ 2 fracturas vertebrales</text>
+<text x="50" y="532" font-size="14" fill="#3b0b0f">• T-score ≤ −3,5</text>
+<text x="50" y="556" font-size="14" fill="#3b0b0f">• Corticoides ≥ 7,5 mg/día de prednisona por ≥ 3 meses</text>
+<text x="50" y="580" font-size="14" fill="#3b0b0f">• Varios factores de riesgo con una fractura reciente</text>
+<text x="50" y="604" font-size="14" fill="#3b0b0f">• FRAX sobre el umbral de muy alto riesgo</text>
+<text x="46" y="632" font-size="13" fill="#3b0b0f">Considerar un anabólico primero (teriparatida, romosozumab)</text>
+<rect x="490" y="430" width="460" height="222" rx="10" fill="#eef4fb" stroke="#1f5f99" stroke-width="1.5"/>
+<text x="506" y="456" font-size="15" font-weight="700" fill="#1f5f99">Tratamiento de primera línea (riesgo alto)</text>
+<text x="506" y="484" font-size="13.5" fill="#123a5c">• Alendronato 70 mg VO semanal o risedronato 35 mg</text>
+<text x="518" y="505" font-size="13.5" fill="#123a5c">VO semanal (≥ 5 años y reevaluar)</text>
+<text x="506" y="526" font-size="13.5" fill="#123a5c">• Ácido zoledrónico 5 mg EV anual (≥ 3 años y</text>
+<text x="518" y="547" font-size="13.5" fill="#123a5c">reevaluar); de elección tras una fractura de cadera</text>
+<text x="506" y="568" font-size="13.5" fill="#123a5c">• Alternativas: denosumab (no suspender sin transición),</text>
+<text x="518" y="589" font-size="13.5" fill="#123a5c">terapia hormonal (≤ 60 años), raloxifeno</text>
+<text x="506" y="610" font-size="13.5" fill="#123a5c">• Calcio ≥ 700 mg/día (dieta) y vitamina D ≥ 800 UI/día</text>
+<text x="518" y="631" font-size="13.5" fill="#123a5c">si hay déficit o riesgo de déficit</text>
+<text x="950" y="686" text-anchor="end" font-size="11.5" fill="#7b8794">Adaptado, traducido y ampliado de Gregson CL, et al. Arch Osteoporos. 2025;20:119 (NOGG 2024, figura 3 y texto). Licencia CC BY 4.0.</text>
+</svg>
