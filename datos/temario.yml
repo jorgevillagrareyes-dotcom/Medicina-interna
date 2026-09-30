@@ -1369,21 +1369,29 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Completo
+    resumen:
+    - hematologia/anemias.md
   - codigo: 1.08.1.002
     nombre: Anemia ferropénica
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - hematologia/anemias.md
   - codigo: 1.08.1.003
     nombre: Anemia hemolítica
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/anemias.md
   - codigo: 1.08.1.004
     nombre: Anemia megaloblástica
     dx: Sospecha
     tto: Inicial
     seg: Completo
+    resumen:
+    - hematologia/anemias.md
   - codigo: 1.08.1.005
     nombre: Coagulopatías adquiridas
     dx: Sospecha

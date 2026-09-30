@@ -8,16 +8,20 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **0 de 28** situaciones clínicas de esta subespecialidad tienen resumen.
+    **4 de 28** situaciones clínicas de esta subespecialidad tienen resumen.
+
+## Resúmenes disponibles
+
+- :material-check-circle:{ .ok title="Resumen disponible" } [Anemias: enfoque, ferropénica, de enfermedades crónicas, megaloblástica y hemolítica](anemias.md)
 
 ## Situaciones clínicas
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.08.1.001 | Anemia de las enfermedades crónicas | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.08.1.002 | Anemia ferropénica | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.08.1.003 | Anemia hemolítica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.08.1.004 | Anemia megaloblástica | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.08.1.001 | Anemia de las enfermedades crónicas | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Anemias: enfoque, ferropénica, de enfermedades crónicas, megaloblástica y hemolítica](anemias.md) |
+| 1.08.1.002 | Anemia ferropénica | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Anemias: enfoque, ferropénica, de enfermedades crónicas, megaloblástica y hemolítica](anemias.md) |
+| 1.08.1.003 | Anemia hemolítica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Anemias: enfoque, ferropénica, de enfermedades crónicas, megaloblástica y hemolítica](anemias.md) |
+| 1.08.1.004 | Anemia megaloblástica | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Anemias: enfoque, ferropénica, de enfermedades crónicas, megaloblástica y hemolítica](anemias.md) |
 | 1.08.1.005 | Coagulopatías adquiridas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.08.1.006 | Coagulopatías congénitas (hemofilias, von Willebrand) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.08.1.007 | Disproteinemias (gammapatías M) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

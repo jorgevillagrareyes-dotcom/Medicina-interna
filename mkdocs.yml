@@ -129,6 +129,7 @@ nav:
       - "Delirium (síndrome confusional agudo)": geriatria/delirium.md
   - Hemato-oncología:
       - hematologia/index.md
+      - "Anemias: enfoque, ferropénica, de enfermedades crónicas, megaloblástica y hemolítica": hematologia/anemias.md
   - Nefrología:
       - nefrologia/index.md
       - "Enfermedad renal crónica": nefrologia/enfermedad-renal-cronica.md
