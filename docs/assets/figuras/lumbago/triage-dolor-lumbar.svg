@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="720" fill="#ffffff"/>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52606d"/></marker></defs>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Dolor lumbar: clasificar en tres grupos en la primera consulta</text>
+<rect x="170" y="44" width="660" height="52" rx="8" fill="#eef2f6" stroke="#52606d" stroke-width="1.6"/>
+<text x="500.0" y="66.2" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">Dolor lumbar con o sin irradiación: anamnesis dirigida y examen físico y neurológico</text>
+<text x="500.0" y="83.2" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">(fuerza, sensibilidad, reflejos, Lasègue, marcha en talones y en puntas)</text>
+<line x1="500" y1="96" x2="500" y2="114" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="270" y="114" width="460" height="40" rx="8" fill="#fff4d6" stroke="#c28a12" stroke-width="1.6"/>
+<text x="500.0" y="138.7" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2933">¿Banderas rojas? ¿Dolor radicular? ¿Ninguno?</text>
+<line x1="330" y1="154" x2="175" y2="186" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<line x1="500" y1="154" x2="500" y2="186" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<line x1="670" y1="154" x2="825" y2="186" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="20" y="186" width="310" height="38" rx="8" fill="#fde7e5" stroke="#b3261e" stroke-width="1.6"/>
+<text x="175.0" y="209.7" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2933">PATOLOGÍA GRAVE (poco frecuente)</text>
+<rect x="20" y="232" width="310" height="76" rx="6" fill="#ffffff" stroke="#b3261e" stroke-width="1.2"/>
+<text x="32" y="251" font-size="13.5" font-weight="700" fill="#b3261e">Cauda equina</text>
+<text x="32" y="269" font-size="12.5" fill="#1f2933">retención o incontinencia, anestesia</text>
+<text x="32" y="285" font-size="12.5" fill="#1f2933">en silla de montar, déficit bilateral</text>
+<text x="318" y="251" text-anchor="end" font-size="12" font-weight="700" fill="#1f2933">RM URGENTE + neurocirugía</text>
+<rect x="20" y="314" width="310" height="76" rx="6" fill="#ffffff" stroke="#b3261e" stroke-width="1.2"/>
+<text x="32" y="333" font-size="13.5" font-weight="700" fill="#b3261e">Cáncer</text>
+<text x="32" y="351" font-size="12.5" fill="#1f2933">antecedente de cáncer, baja de peso,</text>
+<text x="32" y="367" font-size="12.5" fill="#1f2933">dolor nocturno o en reposo</text>
+<text x="318" y="333" text-anchor="end" font-size="12" font-weight="700" fill="#1f2933">VHS, hemograma, RM</text>
+<rect x="20" y="396" width="310" height="76" rx="6" fill="#ffffff" stroke="#b3261e" stroke-width="1.2"/>
+<text x="32" y="415" font-size="13.5" font-weight="700" fill="#b3261e">Infección</text>
+<text x="32" y="433" font-size="12.5" fill="#1f2933">fiebre, drogas EV, inmunosupresión,</text>
+<text x="32" y="449" font-size="12.5" fill="#1f2933">bacteriemia, procedimiento reciente</text>
+<text x="318" y="415" text-anchor="end" font-size="12" font-weight="700" fill="#1f2933">VHS, PCR, hemocultivos, RM</text>
+<rect x="20" y="478" width="310" height="76" rx="6" fill="#ffffff" stroke="#b3261e" stroke-width="1.2"/>
+<text x="32" y="497" font-size="13.5" font-weight="700" fill="#b3261e">Fractura</text>
+<text x="32" y="515" font-size="12.5" fill="#1f2933">trauma, osteoporosis, corticoides,</text>
+<text x="32" y="531" font-size="12.5" fill="#1f2933">edad avanzada</text>
+<text x="318" y="497" text-anchor="end" font-size="12" font-weight="700" fill="#1f2933">Radiografía o TC</text>
+<rect x="20" y="560" width="310" height="76" rx="6" fill="#ffffff" stroke="#b3261e" stroke-width="1.2"/>
+<text x="32" y="579" font-size="13.5" font-weight="700" fill="#b3261e">Causa extraespinal</text>
+<text x="32" y="597" font-size="12.5" fill="#1f2933">aneurisma aórtico, pielonefritis,</text>
+<text x="32" y="613" font-size="12.5" fill="#1f2933">cólico renal, pancreatitis</text>
+<text x="318" y="579" text-anchor="end" font-size="12" font-weight="700" fill="#1f2933">Según la sospecha</text>
+<rect x="345" y="186" width="310" height="38" rx="8" fill="#fff4d6" stroke="#c28a12" stroke-width="1.6"/>
+<text x="500.0" y="209.7" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2933">RADICULOPATÍA O ESTENOSIS</text>
+<rect x="345" y="232" width="310" height="240" rx="8" fill="#ffffff" stroke="#c28a12" stroke-width="1.6"/>
+<text x="500.0" y="274.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Dolor que baja de la rodilla con distribución</text>
+<text x="500.0" y="290.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">de dermatomo, parestesias, Lasègue positivo,</text>
+<text x="500.0" y="307.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">déficit de fuerza o reflejos (L4, L5, S1);</text>
+<text x="500.0" y="323.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">o claudicación neurogénica (estenosis)</text>
+<text x="500.0" y="340.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933"></text>
+<text x="500.0" y="356.6" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Tratamiento conservador por 6 semanas:</text>
+<text x="500.0" y="373.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">mantenerse activo, AINE, educación</text>
+<text x="500.0" y="389.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933"></text>
+<text x="500.0" y="406.1" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">RM solo si hay déficit motor progresivo,</text>
+<text x="500.0" y="422.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">o dolor refractario en un candidato</text>
+<text x="500.0" y="439.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">a cirugía o infiltración</text>
+<rect x="670" y="186" width="310" height="38" rx="8" fill="#e3f5ea" stroke="#2e7d4f" stroke-width="1.6"/>
+<text x="825.0" y="209.7" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2933">LUMBAGO INESPECÍFICO (≈ 90 %)</text>
+<rect x="670" y="232" width="310" height="240" rx="8" fill="#ffffff" stroke="#2e7d4f" stroke-width="1.6"/>
+<text x="825.0" y="274.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Dolor mecánico sin radiculopatía</text>
+<text x="825.0" y="290.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">ni banderas rojas</text>
+<text x="825.0" y="307.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933"></text>
+<text x="825.0" y="323.6" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">NO pedir imágenes</text>
+<text x="825.0" y="340.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Educar: buen pronóstico,</text>
+<text x="825.0" y="356.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">mantenerse activo, evitar el reposo en cama</text>
+<text x="825.0" y="373.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Calor local; AINE por pocos días</text>
+<text x="825.0" y="389.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933"></text>
+<text x="825.0" y="406.1" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Reevaluar en 2–4 semanas si no mejora</text>
+<text x="825.0" y="422.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Buscar factores psicosociales</text>
+<text x="825.0" y="439.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">(banderas amarillas)</text>
+<line x1="500" y1="472" x2="500" y2="506" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<line x1="825" y1="472" x2="700" y2="506" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="345" y="506" width="635" height="150" rx="8" fill="#e3f2fd" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="662.5" y="527.8" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">DOLOR LUMBAR CRÓNICO (&gt; 12 semanas): recomendaciones OMS 2023</text>
+<text x="662.5" y="544.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933"></text>
+<text x="662.5" y="560.8" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Sí: educación estructurada · ejercicio estructurado · terapia manual · masaje · punción seca o acupuntura</text>
+<text x="662.5" y="577.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">terapia cognitivo-conductual u operante · atención multicomponente biopsicosocial</text>
+<text x="662.5" y="593.8" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">AINE (no en adultos mayores) · capsaicina tópica</text>
+<text x="662.5" y="610.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933"></text>
+<text x="662.5" y="626.8" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">No de rutina: opioides · antidepresivos (IRSN, tricíclicos) · anticonvulsivantes · relajantes musculares</text>
+<text x="662.5" y="643.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">corticoides · anestésicos inyectables · tracción · TENS · ultrasonido · fajas lumbares</text>
+<text x="980" y="696" text-anchor="end" font-size="11.5" fill="#7b8794">Esquema propio basado en ACP 2017, en las recomendaciones de la OMS 2023 para el dolor lumbar crónico primario</text>
+<text x="980" y="711" text-anchor="end" font-size="11.5" fill="#7b8794">(CC BY-NC-SA 3.0 IGO) y en el marco internacional de banderas rojas (Finucane 2020).</text>
+</svg>
