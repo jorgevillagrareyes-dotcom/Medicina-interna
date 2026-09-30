@@ -21,14 +21,14 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.01.2.008 | Taponamiento pericárdico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Pericarditis aguda, derrame pericárdico y taponamiento cardíaco](../cardiologia/pericarditis-y-taponamiento.md) |
 | 1.01.2.009 | Taqui y bradiarritmia con compromiso hemodinámico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](../cardiologia/paro-cardiorrespiratorio-y-arritmias.md) |
 
-## Diabetes y nutrición (6/7)
+## Diabetes y nutrición (7/7)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.02.2.001 | Acidosis láctica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos ácido-base](../nefrologia/trastornos-acido-base.md) |
 | 1.02.2.002 | Cetoacidosis | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](../endocrinologia/cetoacidosis-y-estado-hiperosmolar.md) |
 | 1.02.2.003 | Coma hiperosmolar | Específico | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](../endocrinologia/cetoacidosis-y-estado-hiperosmolar.md) |
-| 1.02.2.004 | Déficit agudo de tiamina | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.004 | Déficit agudo de tiamina | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome de abstinencia alcohólica, encefalopatía de Wernicke y complicaciones neurológicas de las sustancias](../neurologia/abstinencia-alcoholica-y-wernicke.md) |
 | 1.02.2.005 | Hipertrigliceridemia grave | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Pancreatitis aguda](../gastroenterologia/pancreatitis-aguda.md) · [Dislipidemias e hipertrigliceridemia grave](../endocrinologia/dislipidemia.md) |
 | 1.02.2.006 | Hipoglicemias | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipoglicemia](../endocrinologia/hipoglicemia.md) |
 | 1.02.2.007 | Síndrome hiperosmolar no cetósico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](../endocrinologia/cetoacidosis-y-estado-hiperosmolar.md) |
@@ -137,14 +137,14 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.09.2.012 | Pre eclampsia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.2.013 | Vasculitis o glomerulonefritis rápidamente progresiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
-## Neurología (10/21)
+## Neurología (11/21)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.10.2.001 | Cefalea aguda en urgencia | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cefalea: enfoque en urgencia, migraña, cefalea tensional y neuralgia del trigémino](../neurologia/cefalea.md) |
-| 1.10.2.002 | Complicaciones neurológicas de abuso de sustancias | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.002 | Complicaciones neurológicas de abuso de sustancias | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome de abstinencia alcohólica, encefalopatía de Wernicke y complicaciones neurológicas de las sustancias](../neurologia/abstinencia-alcoholica-y-wernicke.md) |
 | 1.10.2.003 | Crisis convulsiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](../neurologia/crisis-epileptica-y-estado-epileptico.md) |
-| 1.10.2.004 | Estado confusional agudo (alcohólico, tóxico metabólico) | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Delirium (síndrome confusional agudo)](../geriatria/delirium.md) |
+| 1.10.2.004 | Estado confusional agudo (alcohólico, tóxico metabólico) | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Delirium (síndrome confusional agudo)](../geriatria/delirium.md) · [Síndrome de abstinencia alcohólica, encefalopatía de Wernicke y complicaciones neurológicas de las sustancias](../neurologia/abstinencia-alcoholica-y-wernicke.md) |
 | 1.10.2.005 | Distonía aguda por fármacos (ejemplo antieméticos) | Específico | Completo | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.006 | Encefalopatías tóxico metabólicas (urémica, hepática, etc) | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.007 | Enfermedad cerebrovascular (isquémica, cardioembólica, hemorrágica, crisis isquémica transitoria) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Accidente cerebrovascular (ACV) y crisis isquémica transitoria](../neurologia/accidente-cerebrovascular.md) |

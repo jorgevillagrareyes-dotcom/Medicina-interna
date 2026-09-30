@@ -8,13 +8,14 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **15 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
+    **16 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Accidente cerebrovascular (ACV) y crisis isquémica transitoria](accidente-cerebrovascular.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Cefalea: enfoque en urgencia, migraña, cefalea tensional y neuralgia del trigémino](cefalea.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome de abstinencia alcohólica, encefalopatía de Wernicke y complicaciones neurológicas de las sustancias](abstinencia-alcoholica-y-wernicke.md)
 
 ## Situaciones clínicas
 
@@ -55,9 +56,9 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.10.2.001 | Cefalea aguda en urgencia | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cefalea: enfoque en urgencia, migraña, cefalea tensional y neuralgia del trigémino](cefalea.md) |
-| 1.10.2.002 | Complicaciones neurológicas de abuso de sustancias | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.002 | Complicaciones neurológicas de abuso de sustancias | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome de abstinencia alcohólica, encefalopatía de Wernicke y complicaciones neurológicas de las sustancias](abstinencia-alcoholica-y-wernicke.md) |
 | 1.10.2.003 | Crisis convulsiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md) |
-| 1.10.2.004 | Estado confusional agudo (alcohólico, tóxico metabólico) | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Delirium (síndrome confusional agudo)](../geriatria/delirium.md) |
+| 1.10.2.004 | Estado confusional agudo (alcohólico, tóxico metabólico) | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Delirium (síndrome confusional agudo)](../geriatria/delirium.md) · [Síndrome de abstinencia alcohólica, encefalopatía de Wernicke y complicaciones neurológicas de las sustancias](abstinencia-alcoholica-y-wernicke.md) |
 | 1.10.2.005 | Distonía aguda por fármacos (ejemplo antieméticos) | Específico | Completo | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.006 | Encefalopatías tóxico metabólicas (urémica, hepática, etc) | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.007 | Enfermedad cerebrovascular (isquémica, cardioembólica, hemorrágica, crisis isquémica transitoria) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Accidente cerebrovascular (ACV) y crisis isquémica transitoria](accidente-cerebrovascular.md) |

@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **22 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
+    **23 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -52,7 +52,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.02.2.001 | Acidosis láctica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos ácido-base](../nefrologia/trastornos-acido-base.md) |
 | 1.02.2.002 | Cetoacidosis | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](cetoacidosis-y-estado-hiperosmolar.md) |
 | 1.02.2.003 | Coma hiperosmolar | Específico | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](cetoacidosis-y-estado-hiperosmolar.md) |
-| 1.02.2.004 | Déficit agudo de tiamina | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.2.004 | Déficit agudo de tiamina | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome de abstinencia alcohólica, encefalopatía de Wernicke y complicaciones neurológicas de las sustancias](../neurologia/abstinencia-alcoholica-y-wernicke.md) |
 | 1.02.2.005 | Hipertrigliceridemia grave | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Pancreatitis aguda](../gastroenterologia/pancreatitis-aguda.md) · [Dislipidemias e hipertrigliceridemia grave](dislipidemia.md) |
 | 1.02.2.006 | Hipoglicemias | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipoglicemia](hipoglicemia.md) |
 | 1.02.2.007 | Síndrome hiperosmolar no cetósico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](cetoacidosis-y-estado-hiperosmolar.md) |

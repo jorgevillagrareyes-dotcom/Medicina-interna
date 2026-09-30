@@ -354,6 +354,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Derivar
+    resumen:
+    - neurologia/abstinencia-alcoholica-y-wernicke.md
   - codigo: 1.02.2.005
     nombre: Hipertrigliceridemia grave
     dx: Específico
@@ -2047,6 +2049,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/abstinencia-alcoholica-y-wernicke.md
   - codigo: 1.10.2.003
     nombre: Crisis convulsiva
     dx: Sospecha
@@ -2061,6 +2065,7 @@ grupos:
     seg: Completo
     resumen:
     - geriatria/delirium.md
+    - neurologia/abstinencia-alcoholica-y-wernicke.md
   - codigo: 1.10.2.005
     nombre: Distonía aguda por fármacos (ejemplo antieméticos)
     dx: Específico
