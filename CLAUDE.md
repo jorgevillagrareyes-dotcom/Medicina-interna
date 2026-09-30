@@ -37,14 +37,12 @@ Para actualizarlo: `mkdocs build --strict`, copiar `site/` a una carpeta tempora
 
 ## Prioridad de los próximos temas
 
-Patologías más frecuentes en sala y urgencia primero:
+Ya están hechos los temas 1 a 8 de la lista original (HTA, crisis hipertensiva, SCA, FA, TEP, EPOC, asma, LRA, sodio, potasio, ácido-base, CAD/EHH, hipoglicemia, sepsis, ITU, piel, meningitis, cirrosis, pancreatitis, HDA, HDB, delirium, ACV, anemias, dislipidemia, tiroides). Siguientes, en orden (urgencias y cuadros de sala aún sin cubrir en `datos/temario.yml`):
 
-1. Hipertensión arterial · crisis hipertensiva
-2. Síndrome coronario agudo · fibrilación auricular · tromboembolismo pulmonar
-3. EPOC · asma
-4. Lesión renal aguda · hiponatremia · potasio · ácido-base
-5. Cetoacidosis y estado hiperosmolar · hipoglicemia
-6. Sepsis y shock · infección urinaria · infecciones de piel y partes blandas · meningitis
-7. Cirrosis y complicaciones · pancreatitis aguda · hemorragia digestiva baja
-8. Delirium · ACV · anemias · dislipidemia · tiroides
-9. Resto del temario EUNACOM
+1. Urgencias oncológicas (neutropenia febril, lisis tumoral, hipercalcemia, compresión medular, síndrome de vena cava superior)
+2. Crisis epiléptica y estado epiléptico
+3. Paro cardiorrespiratorio y arritmias inestables
+4. Endocarditis infecciosa · insuficiencia suprarrenal
+5. Colecistitis y colangitis · diarrea aguda y *C. difficile*
+6. Tuberculosis · gota y artritis séptica
+7. Resto del temario (ver ítems sin `resumen` en `datos/temario.yml`, primero los de urgencia)

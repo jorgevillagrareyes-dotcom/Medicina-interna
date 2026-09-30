@@ -1947,6 +1947,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Completo
+    resumen:
+    - geriatria/delirium.md
   - codigo: 1.10.2.005
     nombre: Distonía aguda por fármacos (ejemplo antieméticos)
     dx: Específico
@@ -2001,6 +2003,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - infectologia/meningitis-y-encefalitis.md
   - codigo: 1.10.2.015
     nombre: Síndromes convulsivos sintomáticos (traumático, tumores del SNC, metabólico, urémico, etc.)
     dx: Sospecha
