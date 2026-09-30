@@ -29,7 +29,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.02.2.002 | Cetoacidosis | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](../endocrinologia/cetoacidosis-y-estado-hiperosmolar.md) |
 | 1.02.2.003 | Coma hiperosmolar | Específico | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](../endocrinologia/cetoacidosis-y-estado-hiperosmolar.md) |
 | 1.02.2.004 | Déficit agudo de tiamina | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.02.2.005 | Hipertrigliceridemia grave | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Pancreatitis aguda](../gastroenterologia/pancreatitis-aguda.md) |
+| 1.02.2.005 | Hipertrigliceridemia grave | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Pancreatitis aguda](../gastroenterologia/pancreatitis-aguda.md) · [Dislipidemias e hipertrigliceridemia grave](../endocrinologia/dislipidemia.md) |
 | 1.02.2.006 | Hipoglicemias | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipoglicemia](../endocrinologia/hipoglicemia.md) |
 | 1.02.2.007 | Síndrome hiperosmolar no cetósico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](../endocrinologia/cetoacidosis-y-estado-hiperosmolar.md) |
 

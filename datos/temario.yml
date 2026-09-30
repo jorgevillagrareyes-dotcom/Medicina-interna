@@ -35,6 +35,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - endocrinologia/dislipidemia.md
   - codigo: 1.01.1.006
     nombre: Embolia pulmonar
     dx: Sospecha
@@ -241,6 +243,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - endocrinologia/dislipidemia.md
   - codigo: 1.02.1.008
     nombre: Hipertensión arterial en diabetes tipo 2
     dx: Específico
@@ -341,6 +345,7 @@ grupos:
     seg: Derivar
     resumen:
     - gastroenterologia/pancreatitis-aguda.md
+    - endocrinologia/dislipidemia.md
   - codigo: 1.02.2.006
     nombre: Hipoglicemias
     dx: Específico

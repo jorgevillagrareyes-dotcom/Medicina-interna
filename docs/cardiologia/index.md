@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **13 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
+    **14 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -26,7 +26,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.01.1.002 | Bloqueos aurículo-ventriculares | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.003 | Cardiopatía congénita en adulto | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.004 | Corazón pulmonar crónico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](../respiratorio/epoc.md) |
-| 1.01.1.005 | Dislipidemias | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.005 | Dislipidemias | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Dislipidemias e hipertrigliceridemia grave](../endocrinologia/dislipidemia.md) |
 | 1.01.1.006 | Embolia pulmonar | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tromboembolismo pulmonar](../respiratorio/tromboembolismo-pulmonar.md) |
 | 1.01.1.007 | Endocarditis infecciosa y no infecciosa | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.008 | Enfermedad reumática activa | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
