@@ -8,13 +8,14 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **7 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
+    **11 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva alta](hemorragia-digestiva-alta.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva baja](hemorragia-digestiva-baja.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](litiasis-biliar-colecistitis-colangitis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Pancreatitis aguda](pancreatitis-aguda.md)
 
 ## Situaciones clínicas
@@ -23,10 +24,10 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 |---|---|---|---|---|---|
 | 1.06.1.001 | Ascitis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md) |
 | 1.06.1.002 | Cáncer de páncreas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.06.1.003 | Cáncer de vesícula y vías biliares | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.003 | Cáncer de vesícula y vías biliares | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](litiasis-biliar-colecistitis-colangitis.md) |
 | 1.06.1.004 | Cáncer gástrico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.005 | Cirrosis hepática | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md) |
-| 1.06.1.006 | Colelitiasis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.006 | Colelitiasis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](litiasis-biliar-colecistitis-colangitis.md) |
 | 1.06.1.007 | Colestasia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.008 | Trastornos digestivos funcionales | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.009 | Constipación | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -58,8 +59,8 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 |---|---|---|---|---|---|
 | 1.06.2.001 | Abdomen agudo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.2.002 | Afagia aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.06.2.003 | Colangitis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.06.2.004 | Colecistitis aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.003 | Colangitis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](litiasis-biliar-colecistitis-colangitis.md) |
+| 1.06.2.004 | Colecistitis aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](litiasis-biliar-colecistitis-colangitis.md) |
 | 1.06.2.005 | Diarrea aguda | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.2.006 | Encefalopatía hepática | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md) |
 | 1.06.2.007 | Hemorragia digestiva alta y baja | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva alta](hemorragia-digestiva-alta.md) · [Hemorragia digestiva baja](hemorragia-digestiva-baja.md) |

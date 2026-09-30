@@ -1057,6 +1057,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/litiasis-biliar-colecistitis-colangitis.md
   - codigo: 1.06.1.004
     nombre: Cáncer gástrico
     dx: Sospecha
@@ -1074,6 +1076,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/litiasis-biliar-colecistitis-colangitis.md
   - codigo: 1.06.1.007
     nombre: Colestasia
     dx: Específico
@@ -1210,11 +1214,15 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/litiasis-biliar-colecistitis-colangitis.md
   - codigo: 1.06.2.004
     nombre: Colecistitis aguda
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/litiasis-biliar-colecistitis-colangitis.md
   - codigo: 1.06.2.005
     nombre: Diarrea aguda
     dx: Específico
