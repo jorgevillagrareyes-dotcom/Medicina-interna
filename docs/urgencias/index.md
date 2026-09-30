@@ -119,11 +119,11 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.08.2.008 | Síndrome vena cava superior | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](../hematologia/urgencias-oncologicas.md) |
 | 1.08.2.009 | Trombopenia severa | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trombocitopenia: enfoque, PTI, microangiopatías trombóticas (PTT y SHU) y trombocitopenia inducida por heparina](../hematologia/trombocitopenias.md) |
 
-## Nefrología (11/13)
+## Nefrología (12/13)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.09.2.001 | Cólico nefrítico, urolitiasis y complicaciones: obstrucción, sepsis, insuficiencia renal | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.001 | Cólico nefrítico, urolitiasis y complicaciones: obstrucción, sepsis, insuficiencia renal | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Urolitiasis y cólico renal](../nefrologia/urolitiasis-y-colico-renal.md) |
 | 1.09.2.002 | Crisis hipertensivas, emergencias hipertensivas | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis hipertensiva](../cardiologia/crisis-hipertensiva.md) |
 | 1.09.2.003 | Edema generalizado grave (anasarca) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](../nefrologia/sindromes-glomerulares.md) |
 | 1.09.2.004 | Enfermedad tubular aguda | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](../nefrologia/lesion-renal-aguda.md) |

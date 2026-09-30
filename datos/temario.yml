@@ -1819,6 +1819,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/urolitiasis-y-colico-renal.md
   - codigo: 1.09.1.025
     nombre: Uropatía obstructiva
     dx: Sospecha
@@ -1832,6 +1834,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Completo
+    resumen:
+    - nefrologia/urolitiasis-y-colico-renal.md
   - codigo: 1.09.2.002
     nombre: Crisis hipertensivas, emergencias hipertensivas
     dx: Específico

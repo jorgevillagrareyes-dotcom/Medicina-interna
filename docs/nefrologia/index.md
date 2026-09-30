@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **34 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
+    **36 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -19,6 +19,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos ácido-base](trastornos-acido-base.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Urolitiasis y cólico renal](urolitiasis-y-colico-renal.md)
 
 ## Situaciones clínicas
 
@@ -47,14 +48,14 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.09.1.021 | Síndrome nefrítico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md) |
 | 1.09.1.022 | Síndrome nefrótico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md) |
 | 1.09.1.023 | Síndrome urémico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
-| 1.09.1.024 | Urolitiasis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.1.024 | Urolitiasis | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urolitiasis y cólico renal](urolitiasis-y-colico-renal.md) |
 | 1.09.1.025 | Uropatía obstructiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
 
 ## Situaciones clínicas de urgencia
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.09.2.001 | Cólico nefrítico, urolitiasis y complicaciones: obstrucción, sepsis, insuficiencia renal | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.001 | Cólico nefrítico, urolitiasis y complicaciones: obstrucción, sepsis, insuficiencia renal | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Urolitiasis y cólico renal](urolitiasis-y-colico-renal.md) |
 | 1.09.2.002 | Crisis hipertensivas, emergencias hipertensivas | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis hipertensiva](../cardiologia/crisis-hipertensiva.md) |
 | 1.09.2.003 | Edema generalizado grave (anasarca) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md) |
 | 1.09.2.004 | Enfermedad tubular aguda | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
