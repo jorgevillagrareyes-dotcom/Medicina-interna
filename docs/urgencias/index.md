@@ -137,13 +137,13 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.09.2.012 | Pre eclampsia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.2.013 | Vasculitis o glomerulonefritis rápidamente progresiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
-## Neurología (5/21)
+## Neurología (8/21)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.10.2.001 | Cefalea aguda en urgencia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.002 | Complicaciones neurológicas de abuso de sustancias | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.2.003 | Crisis convulsiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.003 | Crisis convulsiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](../neurologia/crisis-epileptica-y-estado-epileptico.md) |
 | 1.10.2.004 | Estado confusional agudo (alcohólico, tóxico metabólico) | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Delirium (síndrome confusional agudo)](../geriatria/delirium.md) |
 | 1.10.2.005 | Distonía aguda por fármacos (ejemplo antieméticos) | Específico | Completo | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.006 | Encefalopatías tóxico metabólicas (urémica, hepática, etc) | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -155,9 +155,9 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.10.2.012 | Síndrome cuadraplégico agudo | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.013 | Síndrome cuadriparético fláccido (polirradiculoneuritis aguda, Guillain-Barré) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.014 | Síndrome encefalítico (Herpes Simplex) | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Meningitis y encefalitis agudas](../infectologia/meningitis-y-encefalitis.md) |
-| 1.10.2.015 | Síndromes convulsivos sintomáticos (traumático, tumores del SNC, metabólico, urémico, etc.) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.015 | Síndromes convulsivos sintomáticos (traumático, tumores del SNC, metabólico, urémico, etc.) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](../neurologia/crisis-epileptica-y-estado-epileptico.md) |
 | 1.10.2.016 | Síndromes meníngeos con meningitis purulenta o bacteriana | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Meningitis y encefalitis agudas](../infectologia/meningitis-y-encefalitis.md) |
-| 1.10.2.017 | Status convulsivo | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.017 | Status convulsivo | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](../neurologia/crisis-epileptica-y-estado-epileptico.md) |
 | 1.10.2.018 | Status migrañoso | Específico | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.019 | Traumatismo encéfalo craneano leve | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.020 | Traumatismo encefalocraneano grave | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |

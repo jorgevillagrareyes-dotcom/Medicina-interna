@@ -1828,6 +1828,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/crisis-epileptica-y-estado-epileptico.md
   - codigo: 1.10.1.008
     nombre: Esclerosis múltiple
     dx: Sospecha
@@ -1903,6 +1905,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/crisis-epileptica-y-estado-epileptico.md
   - codigo: 1.10.1.023
     nombre: Síndromes sensitivos (polineuropatía, hemihipoestesia, dolor talámico, etc.)
     dx: Sospecha
@@ -1954,6 +1958,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/crisis-epileptica-y-estado-epileptico.md
   - codigo: 1.10.2.004
     nombre: Estado confusional agudo (alcohólico, tóxico metabólico)
     dx: Específico
@@ -2022,6 +2028,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/crisis-epileptica-y-estado-epileptico.md
   - codigo: 1.10.2.016
     nombre: Síndromes meníngeos con meningitis purulenta o bacteriana
     dx: Específico
@@ -2034,6 +2042,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/crisis-epileptica-y-estado-epileptico.md
   - codigo: 1.10.2.018
     nombre: Status migrañoso
     dx: Específico

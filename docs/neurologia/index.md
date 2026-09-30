@@ -8,11 +8,12 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **5 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
+    **10 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Accidente cerebrovascular (ACV) y crisis isquémica transitoria](accidente-cerebrovascular.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md)
 
 ## Situaciones clínicas
 
@@ -24,7 +25,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.10.1.004 | Cuadros deficitarios de funciones cerebrales superiores (afasia, apraxia, agnosia, etc.) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.005 | Demencia (enfermedad de Alzheimer, enfermedad cerebrovascular, VIH, etc.) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.006 | Enfermedad de Parkinson y parkinsonismos | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.1.007 | Epilepsia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.1.007 | Epilepsia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md) |
 | 1.10.1.008 | Esclerosis múltiple | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.009 | Herpes zoster | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.010 | Lumbago mecánico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -39,7 +40,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.10.1.019 | Síndrome de hipertensión endocraneana | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.020 | Síndrome miasténico | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.021 | Síndrome miopático (distrofias musculares, polimiositis) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.1.022 | Síndromes convulsivos sintomáticos (traumático, tumores del SNC, metabólico, etc.) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.1.022 | Síndromes convulsivos sintomáticos (traumático, tumores del SNC, metabólico, etc.) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md) |
 | 1.10.1.023 | Síndromes sensitivos (polineuropatía, hemihipoestesia, dolor talámico, etc.) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.024 | Síndromes vertiginosos centrales | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.025 | Síndromes vertiginosos periféricos | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -54,7 +55,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 |---|---|---|---|---|---|
 | 1.10.2.001 | Cefalea aguda en urgencia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.002 | Complicaciones neurológicas de abuso de sustancias | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.2.003 | Crisis convulsiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.003 | Crisis convulsiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md) |
 | 1.10.2.004 | Estado confusional agudo (alcohólico, tóxico metabólico) | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Delirium (síndrome confusional agudo)](../geriatria/delirium.md) |
 | 1.10.2.005 | Distonía aguda por fármacos (ejemplo antieméticos) | Específico | Completo | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.006 | Encefalopatías tóxico metabólicas (urémica, hepática, etc) | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -66,9 +67,9 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.10.2.012 | Síndrome cuadraplégico agudo | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.013 | Síndrome cuadriparético fláccido (polirradiculoneuritis aguda, Guillain-Barré) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.014 | Síndrome encefalítico (Herpes Simplex) | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Meningitis y encefalitis agudas](../infectologia/meningitis-y-encefalitis.md) |
-| 1.10.2.015 | Síndromes convulsivos sintomáticos (traumático, tumores del SNC, metabólico, urémico, etc.) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.015 | Síndromes convulsivos sintomáticos (traumático, tumores del SNC, metabólico, urémico, etc.) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md) |
 | 1.10.2.016 | Síndromes meníngeos con meningitis purulenta o bacteriana | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Meningitis y encefalitis agudas](../infectologia/meningitis-y-encefalitis.md) |
-| 1.10.2.017 | Status convulsivo | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.017 | Status convulsivo | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md) |
 | 1.10.2.018 | Status migrañoso | Específico | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.019 | Traumatismo encéfalo craneano leve | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.020 | Traumatismo encefalocraneano grave | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
