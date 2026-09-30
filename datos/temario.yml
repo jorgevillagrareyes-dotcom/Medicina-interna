@@ -569,6 +569,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Derivar
+    resumen:
+    - infectologia/infeccion-por-vih.md
   - codigo: 1.04.1.006
     nombre: Celulitis bacteriana
     dx: Específico
@@ -625,6 +627,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/infeccion-por-vih.md
   - codigo: 1.04.1.015
     nombre: Infecciones asociadas a catéteres vasculares
     dx: Sospecha
@@ -1186,6 +1190,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/infeccion-por-vih.md
   - codigo: 1.06.1.013
     nombre: Disfagia
     dx: Sospecha

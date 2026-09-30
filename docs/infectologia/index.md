@@ -8,12 +8,13 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **16 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
+    **18 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Endocarditis infecciosa](endocarditis-infecciosa.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de piel y partes blandas](infecciones-piel-partes-blandas.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Infección por VIH y SIDA, candidiasis orofaríngea y esofágica, y diarrea en inmunosuprimidos](infeccion-por-vih.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Influenza, COVID-19 y bronquitis aguda](influenza-y-covid-19.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Meningitis y encefalitis agudas](meningitis-y-encefalitis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía nosocomial, neumonía en inmunosuprimidos e infección asociada a catéter](neumonia-nosocomial-inmunosuprimidos-y-cateter.md)
@@ -27,7 +28,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.1.001 | Adenitis, adenoflegmón | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.003 | Ántrax | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.004 | Brucelosis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.1.005 | Candidiasis oral y esofágica | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.005 | Candidiasis oral y esofágica | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infección por VIH y SIDA, candidiasis orofaríngea y esofágica, y diarrea en inmunosuprimidos](infeccion-por-vih.md) |
 | 1.04.1.006 | Celulitis bacteriana | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de piel y partes blandas](infecciones-piel-partes-blandas.md) |
 | 1.04.1.007 | Cólera | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.008 | Dengue | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -37,7 +38,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.1.029 | Enfermedad leve moderada por SARS Cov 2 COVID 19 | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Influenza, COVID-19 y bronquitis aguda](influenza-y-covid-19.md) |
 | 1.04.1.012 | Fiebre tifoidea y paratifoidea | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.013 | Hidatidosis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.1.014 | Infección por virus de inmunodeficiencia humana (SIDA) | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.014 | Infección por virus de inmunodeficiencia humana (SIDA) | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infección por VIH y SIDA, candidiasis orofaríngea y esofágica, y diarrea en inmunosuprimidos](infeccion-por-vih.md) |
 | 1.04.1.015 | Infecciones asociadas a catéteres vasculares | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía nosocomial, neumonía en inmunosuprimidos e infección asociada a catéter](neumonia-nosocomial-inmunosuprimidos-y-cateter.md) |
 | 1.04.1.016 | Influenza | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Influenza, COVID-19 y bronquitis aguda](influenza-y-covid-19.md) |
 | 1.04.1.017 | Leptospirosis | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome cardiopulmonar por hantavirus y leptospirosis](hantavirus-y-leptospirosis.md) |
