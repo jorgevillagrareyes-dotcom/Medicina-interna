@@ -141,6 +141,8 @@ nav:
   - Hemato-oncología:
       - hematologia/index.md
       - "Anemias: enfoque, ferropénica, de enfermedades crónicas, megaloblástica y hemolítica": hematologia/anemias.md
+      - "Coagulopatías, coagulación intravascular diseminada y reversión de anticoagulantes": hematologia/coagulopatias-cid-y-reversion-de-anticoagulantes.md
+      - "Trombocitopenia: enfoque, PTI, microangiopatías trombóticas (PTT y SHU) y trombocitopenia inducida por heparina": hematologia/trombocitopenias.md
       - "Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior": hematologia/urgencias-oncologicas.md
   - Nefrología:
       - nefrologia/index.md

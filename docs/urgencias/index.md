@@ -105,19 +105,19 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.07.2.004 | Agitación y agresividad | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.2.005 | Síndrome confusional agudo / delirium | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Delirium (síndrome confusional agudo)](../geriatria/delirium.md) |
 
-## Hemato-oncología (5/9)
+## Hemato-oncología (9/9)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.08.2.001 | Coagulación intravascular diseminada | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.08.2.002 | Coagulopatía adquirida | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.08.2.003 | Coagulopatía congénita sangrante | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.08.2.001 | Coagulación intravascular diseminada | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Coagulopatías, coagulación intravascular diseminada y reversión de anticoagulantes](../hematologia/coagulopatias-cid-y-reversion-de-anticoagulantes.md) |
+| 1.08.2.002 | Coagulopatía adquirida | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Coagulopatías, coagulación intravascular diseminada y reversión de anticoagulantes](../hematologia/coagulopatias-cid-y-reversion-de-anticoagulantes.md) |
+| 1.08.2.003 | Coagulopatía congénita sangrante | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Coagulopatías, coagulación intravascular diseminada y reversión de anticoagulantes](../hematologia/coagulopatias-cid-y-reversion-de-anticoagulantes.md) |
 | 1.08.2.004 | Hipercalcemia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](../hematologia/urgencias-oncologicas.md) |
 | 1.08.2.005 | Lisis tumoral aguda | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](../hematologia/urgencias-oncologicas.md) |
 | 1.08.2.006 | Neutropenia febril | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](../hematologia/urgencias-oncologicas.md) |
 | 1.08.2.007 | Síndrome de compresión medular | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](../hematologia/urgencias-oncologicas.md) |
 | 1.08.2.008 | Síndrome vena cava superior | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](../hematologia/urgencias-oncologicas.md) |
-| 1.08.2.009 | Trombopenia severa | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.08.2.009 | Trombopenia severa | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trombocitopenia: enfoque, PTI, microangiopatías trombóticas (PTT y SHU) y trombocitopenia inducida por heparina](../hematologia/trombocitopenias.md) |
 
 ## Nefrología (9/13)
 

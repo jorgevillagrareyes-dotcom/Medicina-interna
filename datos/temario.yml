@@ -1472,11 +1472,15 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/coagulopatias-cid-y-reversion-de-anticoagulantes.md
   - codigo: 1.08.1.006
     nombre: Coagulopatías congénitas (hemofilias, von Willebrand)
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/coagulopatias-cid-y-reversion-de-anticoagulantes.md
   - codigo: 1.08.1.007
     nombre: Disproteinemias (gammapatías M)
     dx: Sospecha
@@ -1507,11 +1511,15 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/trombocitopenias.md
   - codigo: 1.08.1.013
     nombre: Púrpuras vasculares
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/coagulopatias-cid-y-reversion-de-anticoagulantes.md
   - codigo: 1.08.1.014
     nombre: Reacción leucemoide
     dx: Sospecha
@@ -1548,16 +1556,22 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - hematologia/coagulopatias-cid-y-reversion-de-anticoagulantes.md
   - codigo: 1.08.2.002
     nombre: Coagulopatía adquirida
     dx: Sospecha
     tto: Inicial
     seg: Completo
+    resumen:
+    - hematologia/coagulopatias-cid-y-reversion-de-anticoagulantes.md
   - codigo: 1.08.2.003
     nombre: Coagulopatía congénita sangrante
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/coagulopatias-cid-y-reversion-de-anticoagulantes.md
   - codigo: 1.08.2.004
     nombre: Hipercalcemia
     dx: Sospecha
@@ -1598,6 +1612,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/trombocitopenias.md
 - codigo: '1.09'
   titulo: Nefrología
   carpeta: nefrologia
