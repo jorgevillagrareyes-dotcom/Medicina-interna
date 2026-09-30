@@ -1844,6 +1844,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - neurologia/cefalea.md
   - codigo: 1.10.1.002
     nombre: Compromiso de conciencia
     dx: Específico
@@ -1901,11 +1903,15 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - neurologia/cefalea.md
   - codigo: 1.10.1.013
     nombre: Neuralgia esencial del trigémino
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/cefalea.md
   - codigo: 1.10.1.014
     nombre: Neuropatías por atrapamiento
     dx: Sospecha
@@ -1994,6 +2000,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/cefalea.md
   - codigo: 1.10.2.002
     nombre: Complicaciones neurológicas de abuso de sustancias
     dx: Específico
@@ -2095,6 +2103,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/cefalea.md
   - codigo: 1.10.2.019
     nombre: Traumatismo encéfalo craneano leve
     dx: Específico

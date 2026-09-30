@@ -8,18 +8,19 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **10 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
+    **15 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Accidente cerebrovascular (ACV) y crisis isquémica transitoria](accidente-cerebrovascular.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Cefalea: enfoque en urgencia, migraña, cefalea tensional y neuralgia del trigémino](cefalea.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md)
 
 ## Situaciones clínicas
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.10.1.001 | Cefalea tensional | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.1.001 | Cefalea tensional | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Cefalea: enfoque en urgencia, migraña, cefalea tensional y neuralgia del trigémino](cefalea.md) |
 | 1.10.1.002 | Compromiso de conciencia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.003 | Cuadros de deterioro orgánico cerebral potencialmente reversibles (hipotiroidismo, déficit de vitamina B12, etc.) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.004 | Cuadros deficitarios de funciones cerebrales superiores (afasia, apraxia, agnosia, etc.) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -30,8 +31,8 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.10.1.009 | Herpes zoster | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.010 | Lumbago mecánico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.011 | Lumbociáticas y cervicobraquialgias. | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.1.012 | Migraña | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.1.013 | Neuralgia esencial del trigémino | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.1.012 | Migraña | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Cefalea: enfoque en urgencia, migraña, cefalea tensional y neuralgia del trigémino](cefalea.md) |
+| 1.10.1.013 | Neuralgia esencial del trigémino | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cefalea: enfoque en urgencia, migraña, cefalea tensional y neuralgia del trigémino](cefalea.md) |
 | 1.10.1.014 | Neuropatías por atrapamiento | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.015 | Parálisis (tetraparesia, hemiparesia, etc) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.016 | Parálisis facial periférica | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -53,7 +54,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.10.2.001 | Cefalea aguda en urgencia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.001 | Cefalea aguda en urgencia | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cefalea: enfoque en urgencia, migraña, cefalea tensional y neuralgia del trigémino](cefalea.md) |
 | 1.10.2.002 | Complicaciones neurológicas de abuso de sustancias | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.003 | Crisis convulsiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md) |
 | 1.10.2.004 | Estado confusional agudo (alcohólico, tóxico metabólico) | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Delirium (síndrome confusional agudo)](../geriatria/delirium.md) |
@@ -70,7 +71,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.10.2.015 | Síndromes convulsivos sintomáticos (traumático, tumores del SNC, metabólico, urémico, etc.) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md) |
 | 1.10.2.016 | Síndromes meníngeos con meningitis purulenta o bacteriana | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Meningitis y encefalitis agudas](../infectologia/meningitis-y-encefalitis.md) |
 | 1.10.2.017 | Status convulsivo | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md) |
-| 1.10.2.018 | Status migrañoso | Específico | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.018 | Status migrañoso | Específico | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Cefalea: enfoque en urgencia, migraña, cefalea tensional y neuralgia del trigémino](cefalea.md) |
 | 1.10.2.019 | Traumatismo encéfalo craneano leve | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.020 | Traumatismo encefalocraneano grave | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.2.021 | Traumatismo raquimedular | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

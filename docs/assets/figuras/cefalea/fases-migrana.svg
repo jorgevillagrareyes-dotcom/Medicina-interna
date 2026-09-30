@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="960" height="400" fill="#ffffff"/>
+<text x="480.0" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Fases de una crisis de migraña</text>
+<rect x="40" y="70" width="180" height="46" rx="8" fill="#52606d"/>
+<text x="130.0" y="92" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Pródromo</text>
+<text x="130.0" y="109" text-anchor="middle" font-size="12" fill="#ffffff">horas a 2 días antes</text>
+<text x="130.0" y="142" text-anchor="middle" font-size="13" fill="#1f2933">Bostezos, cansancio,</text>
+<text x="130.0" y="159" text-anchor="middle" font-size="13" fill="#1f2933">irritabilidad, antojos,</text>
+<text x="130.0" y="176" text-anchor="middle" font-size="13" fill="#1f2933">rigidez de cuello,</text>
+<text x="130.0" y="193" text-anchor="middle" font-size="13" fill="#1f2933">fotofobia</text>
+<rect x="230" y="70" width="130" height="46" rx="8" fill="#6d28d9"/>
+<text x="295.0" y="92" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Aura (~ 1/3)</text>
+<text x="295.0" y="109" text-anchor="middle" font-size="12" fill="#ffffff">5–60 min</text>
+<text x="295.0" y="142" text-anchor="middle" font-size="13" fill="#1f2933">Visual (espectro de</text>
+<text x="295.0" y="159" text-anchor="middle" font-size="13" fill="#1f2933">fortificación, escotoma),</text>
+<text x="295.0" y="176" text-anchor="middle" font-size="13" fill="#1f2933">sensitiva, del lenguaje;</text>
+<text x="295.0" y="193" text-anchor="middle" font-size="13" fill="#1f2933">progresa gradualmente</text>
+<rect x="370" y="70" width="330" height="46" rx="8" fill="#b3261e"/>
+<text x="535.0" y="92" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Cefalea</text>
+<text x="535.0" y="109" text-anchor="middle" font-size="12" fill="#ffffff">4–72 horas</text>
+<text x="535.0" y="142" text-anchor="middle" font-size="13" fill="#1f2933">Unilateral, pulsátil,</text>
+<text x="535.0" y="159" text-anchor="middle" font-size="13" fill="#1f2933">moderada a intensa,</text>
+<text x="535.0" y="176" text-anchor="middle" font-size="13" fill="#1f2933">empeora con la actividad;</text>
+<text x="535.0" y="193" text-anchor="middle" font-size="13" fill="#1f2933">náuseas, fotofobia y</text>
+<text x="535.0" y="210" text-anchor="middle" font-size="13" fill="#1f2933">fonofobia</text>
+<rect x="710" y="70" width="210" height="46" rx="8" fill="#12474f"/>
+<text x="815.0" y="92" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Pósdromo</text>
+<text x="815.0" y="109" text-anchor="middle" font-size="12" fill="#ffffff">horas a 1 día</text>
+<text x="815.0" y="142" text-anchor="middle" font-size="13" fill="#1f2933">Cansancio, dificultad</text>
+<text x="815.0" y="159" text-anchor="middle" font-size="13" fill="#1f2933">para concentrarse,</text>
+<text x="815.0" y="176" text-anchor="middle" font-size="13" fill="#1f2933">sensación de "resaca"</text>
+<line x1="40" y1="330" x2="920" y2="330" stroke="#1f2933" stroke-width="1.3"/>
+<path d="M40 325.5 L44 325.5 L48 325.5 L52 325.5 L56 325.5 L60 325.5 L64 325.5 L68 325.5 L72 325.5 L76 325.5 L80 325.5 L84 325.5 L88 325.5 L92 325.5 L96 325.5 L100 325.5 L104 325.5 L108 325.5 L112 325.5 L116 325.5 L120 325.5 L124 325.5 L128 325.5 L132 325.5 L136 325.5 L140 325.5 L144 325.5 L148 325.5 L152 325.5 L156 325.5 L160 325.5 L164 325.5 L168 325.5 L172 325.5 L176 325.5 L180 325.5 L184 325.5 L188 325.5 L192 325.5 L196 325.5 L200 325.5 L204 325.5 L208 325.5 L212 325.5 L216 325.5 L220 325.5 L224 325.5 L228 325.5 L232 325.5 L236 325.5 L240 325.5 L244 325.5 L248 325.5 L252 325.5 L256 325.5 L260 325.5 L264 325.5 L268 325.5 L272 325.5 L276 325.5 L280 325.5 L284 325.5 L288 325.5 L292 325.5 L296 325.5 L300 325.5 L304 325.5 L308 325.5 L312 325.5 L316 325.5 L320 325.5 L324 325.5 L328 325.5 L332 325.5 L336 325.5 L340 325.5 L344 325.5 L348 325.5 L352 325.5 L356 325.5 L360 325.5 L364 325.5 L368 325.5 L372 323.1 L376 318.2 L380 313.3 L384 308.4 L388 303.5 L392 298.6 L396 293.7 L400 288.9 L404 284.0 L408 279.1 L412 274.2 L416 269.3 L420 264.4 L424 259.5 L428 254.7 L432 249.8 L436 244.9 L440 240.0 L444 240.0 L448 240.0 L452 240.0 L456 240.0 L460 240.0 L464 240.0 L468 240.0 L472 240.0 L476 240.0 L480 240.0 L484 240.0 L488 240.0 L492 240.0 L496 240.0 L500 240.0 L504 240.0 L508 240.0 L512 240.0 L516 240.0 L520 240.0 L524 240.0 L528 240.0 L532 240.0 L536 240.0 L540 240.0 L544 240.0 L548 240.0 L552 240.0 L556 240.0 L560 240.0 L564 240.0 L568 240.0 L572 240.0 L576 240.0 L580 240.0 L584 240.0 L588 240.0 L592 240.0 L596 240.0 L600 240.0 L604 240.0 L608 240.0 L612 240.0 L616 240.0 L620 240.0 L624 240.0 L628 240.0 L632 240.0 L636 240.0 L640 240.0 L644 245.4 L648 250.8 L652 256.2 L656 261.6 L660 267.0 L664 272.4 L668 277.8 L672 283.2 L676 288.6 L680 294.0 L684 299.4 L688 304.8 L692 310.2 L696 315.6 L700 321.0 L704 321.1 L708 321.2 L712 321.2 L716 321.3 L720 321.4 L724 321.5 L728 321.6 L732 321.7 L736 321.7 L740 321.8 L744 321.9 L748 322.0 L752 322.1 L756 322.1 L760 322.2 L764 322.3 L768 322.4 L772 322.5 L776 322.6 L780 322.6 L784 322.7 L788 322.8 L792 322.9 L796 323.0 L800 323.0 L804 323.1 L808 323.2 L812 323.3 L816 323.4 L820 323.5 L824 323.5 L828 323.6 L832 323.7 L836 323.8 L840 323.9 L844 323.9 L848 324.0 L852 324.1 L856 324.2 L860 324.3 L864 324.4 L868 324.4 L872 324.5 L876 324.6 L880 324.7 L884 324.8 L888 324.8 L892 324.9 L896 325.0 L900 325.1 L904 325.2 L908 325.3 L912 325.3 L916 325.4 L920 325.5" fill="none" stroke="#b3261e" stroke-width="3"/>
+<text x="44" y="228" font-size="12.5" font-weight="700" fill="#b3261e">Intensidad del dolor</text>
+<text x="480" y="352" text-anchor="middle" font-size="12.5" fill="#52606d">Tiempo →</text>
+<text x="535" y="232" text-anchor="middle" font-size="12.5" font-weight="700" fill="#b3261e">Tratar precozmente, al inicio del dolor</text>
+<text x="14" y="388" font-size="11.5" fill="#52606d">Esquema propio basado en la ICHD-3. No todas las crisis tienen todas las fases. El aura típica dura 5–60 minutos y es totalmente reversible.</text>
+</svg>
