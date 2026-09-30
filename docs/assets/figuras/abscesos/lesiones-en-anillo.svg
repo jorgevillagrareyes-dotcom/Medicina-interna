@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 600" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="980" height="600" fill="#ffffff"/>
+<text x="490.0" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Lesiones cerebrales con refuerzo en anillo: claves en la RM</text>
+<text x="141.2" y="62" text-anchor="middle" font-size="15" font-weight="700" fill="#b3261e">Absceso piógeno</text>
+<ellipse cx="141.25" cy="192" rx="92" ry="112" fill="#3a3f44" stroke="#9aa5b1" stroke-width="3"/>
+<ellipse cx="141.25" cy="192" rx="84" ry="104" fill="#55595e"/>
+<line x1="141.25" y1="88" x2="141.25" y2="296" stroke="#3a3f44" stroke-width="2"/>
+<path d="M131.25,172 q-14,20 0,40" fill="none" stroke="#2c3034" stroke-width="7"/>
+<path d="M151.25,172 q14,20 0,40" fill="none" stroke="#2c3034" stroke-width="7"/>
+<circle cx="179.25" cy="162" r="36" fill="#8d9399" opacity="0.55"/>
+<circle cx="179.25" cy="162" r="21" fill="#f5f5f5"/>
+<circle cx="179.25" cy="162" r="17" fill="#e8e8e8"/>
+<path d="M158.25,162 a21,21 0 0,0 42,0" fill="none" stroke="#ffffff" stroke-width="4"/>
+<circle cx="179.25" cy="162" r="21" fill="none" stroke="#ffffff" stroke-width="2.4"/>
+<circle cx="179.25" cy="162" r="15" fill="#f2f2f2"/>
+<text x="179.25" y="166" text-anchor="middle" font-size="9.5" font-weight="700" fill="#b3261e">DWI+</text>
+<text x="39.0" y="340" font-size="12.5" font-weight="700" fill="#1f2933">Anillo FINO, liso y regular</text>
+<text x="39.0" y="359" font-size="12.5" font-weight="400" fill="#1f2933">(más delgado hacia el ventrículo)</text>
+<text x="39.0" y="378" font-size="12.5" font-weight="400" fill="#1f2933">Centro con RESTRICCIÓN de la</text>
+<text x="39.0" y="397" font-size="12.5" font-weight="400" fill="#1f2933">difusión (brillante en DWI,</text>
+<text x="39.0" y="416" font-size="12.5" font-weight="400" fill="#1f2933">ADC bajo) = pus</text>
+<text x="39.0" y="435" font-size="12.5" font-weight="400" fill="#1f2933">Edema alrededor; foco dental,</text>
+<text x="39.0" y="454" font-size="12.5" font-weight="400" fill="#1f2933">otorrino o endocarditis</text>
+<rect x="29.0" y="44" width="224.5" height="494" rx="10" fill="none" stroke="#b3261e" stroke-width="1.4"/>
+<text x="373.8" y="62" text-anchor="middle" font-size="15" font-weight="700" fill="#1f5f99">Tumor necrótico</text>
+<ellipse cx="373.75" cy="192" rx="92" ry="112" fill="#3a3f44" stroke="#9aa5b1" stroke-width="3"/>
+<ellipse cx="373.75" cy="192" rx="84" ry="104" fill="#55595e"/>
+<line x1="373.75" y1="88" x2="373.75" y2="296" stroke="#3a3f44" stroke-width="2"/>
+<path d="M363.75,172 q-14,20 0,40" fill="none" stroke="#2c3034" stroke-width="7"/>
+<path d="M383.75,172 q14,20 0,40" fill="none" stroke="#2c3034" stroke-width="7"/>
+<circle cx="337.75" cy="164" r="44" fill="#8d9399" opacity="0.55"/>
+<polygon points="365.8,164.0 366.7,169.1 364.8,173.9 361.5,177.7 358.1,181.0 354.8,184.3 351.0,186.9 346.5,187.9 341.7,186.6 337.8,184.0 334.6,182.1 331.1,182.4 326.0,184.4 319.4,185.9 313.1,184.7 309.5,180.3 309.7,174.2 312.6,168.4 315.8,164.0 317.5,160.4 317.8,156.8 318.2,152.7 319.8,148.9 322.6,146.0 326.0,143.6 329.4,140.9 333.1,137.4 337.8,134.0 343.2,132.9 348.2,135.4 351.0,141.1 351.6,147.6 351.4,152.5 352.8,155.3 356.7,157.1 361.8,159.8" fill="#f5f5f5"/>
+<polygon points="352.8,164.0 355.1,167.1 355.5,170.5 353.7,173.2 350.3,174.5 346.5,174.4 343.5,174.0 341.5,174.4 339.9,176.2 337.8,179.0 334.7,181.3 331.3,181.8 328.5,180.0 327.2,176.5 327.3,172.8 327.8,169.8 327.4,167.8 325.5,166.2 322.8,164.0 320.4,160.9 320.0,157.5 321.8,154.8 325.2,153.5 329.0,153.6 332.0,154.0 334.0,153.6 335.6,151.8 337.8,149.0 340.8,146.7 344.2,146.2 347.0,148.0 348.3,151.5 348.2,155.2 347.7,158.2 348.1,160.2 350.0,161.8" fill="#44484c"/>
+<text x="337.75" y="168" text-anchor="middle" font-size="9.5" font-weight="700" fill="#9ec5ea">DWI−</text>
+<text x="271.5" y="340" font-size="12.5" font-weight="700" fill="#1f2933">Glioblastoma o metástasis:</text>
+<text x="271.5" y="359" font-size="12.5" font-weight="400" fill="#1f2933">anillo GRUESO, irregular,</text>
+<text x="271.5" y="378" font-size="12.5" font-weight="400" fill="#1f2933">nodular</text>
+<text x="271.5" y="397" font-size="12.5" font-weight="400" fill="#1f2933">Centro SIN restricción</text>
+<text x="271.5" y="416" font-size="12.5" font-weight="400" fill="#1f2933">de la difusión</text>
+<text x="271.5" y="435" font-size="12.5" font-weight="400" fill="#1f2933">Metástasis: a menudo múltiples,</text>
+<text x="271.5" y="454" font-size="12.5" font-weight="400" fill="#1f2933">en la unión córtico-subcortical</text>
+<rect x="261.5" y="44" width="224.5" height="494" rx="10" fill="none" stroke="#1f5f99" stroke-width="1.4"/>
+<text x="606.2" y="62" text-anchor="middle" font-size="15" font-weight="700" fill="#6b3fa0">Toxoplasmosis</text>
+<ellipse cx="606.25" cy="192" rx="92" ry="112" fill="#3a3f44" stroke="#9aa5b1" stroke-width="3"/>
+<ellipse cx="606.25" cy="192" rx="84" ry="104" fill="#55595e"/>
+<line x1="606.25" y1="88" x2="606.25" y2="296" stroke="#3a3f44" stroke-width="2"/>
+<path d="M596.25,172 q-14,20 0,40" fill="none" stroke="#2c3034" stroke-width="7"/>
+<path d="M616.25,172 q14,20 0,40" fill="none" stroke="#2c3034" stroke-width="7"/>
+<circle cx="584.25" cy="200" r="23" fill="#8d9399" opacity="0.55"/>
+<circle cx="584.25" cy="200" r="13" fill="none" stroke="#f5f5f5" stroke-width="3"/>
+<circle cx="588.8" cy="197.4" r="3.9" fill="#f5f5f5"/>
+<circle cx="632.25" cy="206" r="21" fill="#8d9399" opacity="0.55"/>
+<circle cx="632.25" cy="206" r="11" fill="none" stroke="#f5f5f5" stroke-width="3"/>
+<circle cx="636.1" cy="203.8" r="3.3" fill="#f5f5f5"/>
+<circle cx="556.25" cy="152" r="19" fill="#8d9399" opacity="0.55"/>
+<circle cx="556.25" cy="152" r="9" fill="none" stroke="#f5f5f5" stroke-width="3"/>
+<circle cx="559.4" cy="150.2" r="2.7" fill="#f5f5f5"/>
+<circle cx="646.25" cy="140" r="18" fill="#8d9399" opacity="0.55"/>
+<circle cx="646.25" cy="140" r="8" fill="none" stroke="#f5f5f5" stroke-width="3"/>
+<circle cx="649.0" cy="138.4" r="2.4" fill="#f5f5f5"/>
+<text x="504.0" y="340" font-size="12.5" font-weight="700" fill="#1f2933">VIH con CD4 &lt; 100</text>
+<text x="504.0" y="359" font-size="12.5" font-weight="400" fill="#1f2933">Lesiones MÚLTIPLES en los</text>
+<text x="504.0" y="378" font-size="12.5" font-weight="400" fill="#1f2933">ganglios basales y la unión</text>
+<text x="504.0" y="397" font-size="12.5" font-weight="400" fill="#1f2933">córtico-subcortical</text>
+<text x="504.0" y="416" font-size="12.5" font-weight="400" fill="#1f2933">Signo de la "diana excéntrica"</text>
+<text x="504.0" y="435" font-size="12.5" font-weight="400" fill="#1f2933">Mejora con tratamiento</text>
+<text x="504.0" y="454" font-size="12.5" font-weight="400" fill="#1f2933">empírico en 10–14 días</text>
+<rect x="494.0" y="44" width="224.5" height="494" rx="10" fill="none" stroke="#6b3fa0" stroke-width="1.4"/>
+<text x="838.8" y="62" text-anchor="middle" font-size="15" font-weight="700" fill="#2e7d4f">Neurocisticercosis</text>
+<ellipse cx="838.75" cy="192" rx="92" ry="112" fill="#3a3f44" stroke="#9aa5b1" stroke-width="3"/>
+<ellipse cx="838.75" cy="192" rx="84" ry="104" fill="#55595e"/>
+<line x1="838.75" y1="88" x2="838.75" y2="296" stroke="#3a3f44" stroke-width="2"/>
+<path d="M828.75,172 q-14,20 0,40" fill="none" stroke="#2c3034" stroke-width="7"/>
+<path d="M848.75,172 q14,20 0,40" fill="none" stroke="#2c3034" stroke-width="7"/>
+<circle cx="798.75" cy="147" r="12" fill="#2b2f33" stroke="#e8e8e8" stroke-width="1.6"/>
+<circle cx="801.75" cy="145" r="3" fill="#f5f5f5"/>
+<circle cx="873.75" cy="162" r="11" fill="#2b2f33" stroke="#e8e8e8" stroke-width="1.6"/>
+<circle cx="876.75" cy="160" r="3" fill="#f5f5f5"/>
+<circle cx="808.75" cy="232" r="10" fill="#2b2f33" stroke="#e8e8e8" stroke-width="1.6"/>
+<circle cx="811.75" cy="230" r="3" fill="#f5f5f5"/>
+<circle cx="883.75" cy="237" r="4" fill="#ffffff"/>
+<circle cx="848.75" cy="262" r="4" fill="#ffffff"/>
+<circle cx="778.75" cy="197" r="4" fill="#ffffff"/>
+<text x="736.5" y="340" font-size="12.5" font-weight="700" fill="#1f2933">Quistes con un punto interno</text>
+<text x="736.5" y="359" font-size="12.5" font-weight="400" fill="#1f2933">(escólex); varios estadios</text>
+<text x="736.5" y="378" font-size="12.5" font-weight="400" fill="#1f2933">a la vez y calcificaciones</text>
+<text x="736.5" y="397" font-size="12.5" font-weight="400" fill="#1f2933">Convulsiones en un paciente</text>
+<text x="736.5" y="416" font-size="12.5" font-weight="400" fill="#1f2933">de zona endémica</text>
+<text x="736.5" y="435" font-size="12.5" font-weight="400" fill="#1f2933">Serología y TC</text>
+<text x="736.5" y="454" font-size="12.5" font-weight="400" fill="#1f2933">(calcificaciones)</text>
+<rect x="726.5" y="44" width="224.5" height="494" rx="10" fill="none" stroke="#2e7d4f" stroke-width="1.4"/>
+<text x="25" y="566" font-size="11.5" fill="#52606d">Esquema propio, ilustrativo (T1 con contraste; DWI = difusión). La restricción de la difusión en el centro de la lesión</text>
+<text x="25" y="584" font-size="11.5" fill="#52606d">es la clave para diferenciar un absceso de un tumor necrótico (ESCMID 2024: la RM es el examen de elección).</text>
+</svg>

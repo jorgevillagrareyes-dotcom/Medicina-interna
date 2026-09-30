@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **35 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
+    **36 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -25,7 +25,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.05.1.001 | Absceso pulmonar | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.1.001 | Absceso pulmonar | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones por flora oral: flegmón del piso de la boca (angina de Ludwig), absceso pulmonar y absceso cerebral](../infectologia/flegmon-cervical-absceso-pulmonar-y-cerebral.md) |
 | 1.05.1.002 | Asma bronquial grave | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Asma bronquial](asma.md) |
 | 1.05.1.003 | Asma bronquial leve y moderada | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Asma bronquial](asma.md) |
 | 1.05.1.004 | Bronquiectasias | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |

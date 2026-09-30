@@ -724,6 +724,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/flegmon-cervical-absceso-pulmonar-y-cerebral.md
   - codigo: 1.04.2.002
     nombre: Encefalitis aguda
     dx: Específico
@@ -743,6 +745,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/flegmon-cervical-absceso-pulmonar-y-cerebral.md
   - codigo: 1.04.2.005
     nombre: 'Infección invasiva de partes blandas: celulitis, fasceítis, miositis necrotizantes o septicémicas'
     dx: Sospecha
@@ -799,6 +803,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/flegmon-cervical-absceso-pulmonar-y-cerebral.md
   - codigo: 1.05.1.002
     nombre: Asma bronquial grave
     dx: Específico
