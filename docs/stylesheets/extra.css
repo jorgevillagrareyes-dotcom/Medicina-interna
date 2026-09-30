@@ -64,7 +64,7 @@
   font-size: 0.7rem;
 }
 .md-typeset .ficha p { margin: 0; }
-.md-typeset .ficha strong {
+.md-typeset .ficha p > strong:first-child {
   display: block;
   font-size: 0.6rem;
   text-transform: uppercase;

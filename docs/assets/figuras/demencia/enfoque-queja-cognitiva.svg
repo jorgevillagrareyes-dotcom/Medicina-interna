@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="800" fill="#ffffff"/>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52606d"/></marker></defs>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Queja cognitiva: de la sospecha al diagnóstico de demencia</text>
+<rect x="200" y="46" width="600" height="50" rx="8" fill="#eef2f6" stroke="#52606d" stroke-width="1.6"/>
+<text x="500.0" y="67.2" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">Queja de memoria u otra función cognitiva (del paciente o de la familia),</text>
+<text x="500.0" y="84.2" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">EMPAM o EFAM alterado, o sospecha en cualquier consulta</text>
+<line x1="500" y1="96" x2="500" y2="114" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="120" y="114" width="760" height="70" rx="8" fill="#fff4d6" stroke="#c28a12" stroke-width="1.6"/>
+<text x="500.0" y="136.7" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2933">PRIMERO DESCARTAR</text>
+<text x="500.0" y="153.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">Delirium (inicio agudo, fluctuación, inatención) · Depresión · Fármacos (anticolinérgicos,</text>
+<text x="500.0" y="170.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">benzodiacepinas, opioides) · Déficit visual o auditivo · Consumo de alcohol</text>
+<line x1="500" y1="184" x2="500" y2="202" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="150" y="202" width="700" height="70" rx="8" fill="#e3f2fd" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="224.7" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2933">EVALUACIÓN COGNITIVA Y FUNCIONAL CON UN INFORMANTE CONFIABLE</text>
+<text x="500.0" y="241.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">MMSE modificado (sospecha si ≤ 21) o MoCA · Cuestionario de Pfeffer (sospecha si ≥ 6)</text>
+<text x="500.0" y="258.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">Sospecha fundada → ingresar al GES 85 (confirmación diagnóstica en ≤ 60 días)</text>
+<line x1="260" y1="272" x2="150" y2="306" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<line x1="500" y1="272" x2="500" y2="306" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<line x1="740" y1="272" x2="850" y2="306" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="20" y="306" width="270" height="96" rx="8" fill="#eef2f6" stroke="#52606d" stroke-width="1.6"/>
+<text x="155.0" y="325.6" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Sin deterioro objetivo</text>
+<text x="155.0" y="342.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Queja subjetiva de memoria</text>
+<text x="155.0" y="358.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Tratar factores de riesgo,</text>
+<text x="155.0" y="375.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">ánimo y sueño</text>
+<text x="155.0" y="391.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Reevaluar en 6–12 meses</text>
+<rect x="330" y="306" width="340" height="96" rx="8" fill="#e3f5ea" stroke="#2e7d4f" stroke-width="1.6"/>
+<text x="500.0" y="325.6" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">DETERIORO COGNITIVO LEVE</text>
+<text x="500.0" y="342.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Déficit objetivo en ≥ 1 dominio</text>
+<text x="500.0" y="358.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">con funcionalidad conservada</text>
+<text x="500.0" y="375.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Buscar causas tratables y controlar:</text>
+<text x="500.0" y="391.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">puede progresar, mantenerse o revertir</text>
+<rect x="710" y="306" width="270" height="96" rx="8" fill="#fde7e5" stroke="#b3261e" stroke-width="1.6"/>
+<text x="845.0" y="325.6" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">DEMENCIA</text>
+<text x="845.0" y="342.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Deterioro en ≥ 1–2 dominios</text>
+<text x="845.0" y="358.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">que compromete las actividades</text>
+<text x="845.0" y="375.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">de la vida diaria</text>
+<text x="845.0" y="391.6" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">(instrumentales primero)</text>
+<line x1="845" y1="402" x2="845" y2="430" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<line x1="500" y1="402" x2="500" y2="430" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="290" y="430" width="690" height="70" rx="8" fill="#ffffff" stroke="#b3261e" stroke-width="1.6"/>
+<text x="635.0" y="452.7" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2933">EXÁMENES (canasta GES 85)</text>
+<text x="635.0" y="469.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">Hemograma y VHS · perfil bioquímico · electrolitos · creatinina · perfil hepático · TSH · vitamina B12</text>
+<text x="635.0" y="486.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">VDRL · VIH · orina completa y urocultivo · ECG (antes de un anticolinesterásico)</text>
+<line x1="635" y1="500" x2="635" y2="520" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="290" y="520" width="690" height="70" rx="8" fill="#ffffff" stroke="#b3261e" stroke-width="1.6"/>
+<text x="635.0" y="542.7" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2933">NEUROIMAGEN (TC o RM) si:</text>
+<text x="635.0" y="559.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">&lt; 65 años · deterioro rápido (1–2 meses) · signo focal · alteración precoz de la marcha o incontinencia</text>
+<text x="635.0" y="576.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">TEC reciente · anticoagulación · cáncer · presentación atípica o subaguda</text>
+<line x1="470" y1="590" x2="330" y2="626" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<line x1="800" y1="590" x2="800" y2="626" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="20" y="626" width="470" height="110" rx="8" fill="#fff4d6" stroke="#c28a12" stroke-width="1.6"/>
+<text x="255.0" y="652.5" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">CAUSA TRATABLE O POTENCIALMENTE REVERSIBLE</text>
+<text x="255.0" y="669.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Hipotiroidismo · déficit de B12 · neurosífilis · VIH</text>
+<text x="255.0" y="685.5" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Hidrocefalia normotensiva · hematoma subdural · tumor</text>
+<text x="255.0" y="702.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Depresión · fármacos · alcohol</text>
+<text x="255.0" y="718.5" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Tratar la causa (la mejoría puede ser parcial)</text>
+<rect x="530" y="626" width="450" height="110" rx="8" fill="#fde7e5" stroke="#b3261e" stroke-width="1.6"/>
+<text x="755.0" y="652.5" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">NEURODEGENERATIVA O VASCULAR</text>
+<text x="755.0" y="669.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Alzheimer (60–70 %) · vascular · mixta</text>
+<text x="755.0" y="685.5" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">cuerpos de Lewy · frontotemporal</text>
+<text x="755.0" y="702.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Plan de cuidados, apoyo al cuidador, SPCD;</text>
+<text x="755.0" y="718.5" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">anticolinesterásicos o memantina según el tipo</text>
+<text x="980" y="776" text-anchor="end" font-size="11.5" fill="#7b8794">Esquema propio basado en las Orientaciones Técnicas GES 85 (MINSAL 2023), el Plan Nacional de Demencia 2025–2035</text>
+<text x="980" y="791" text-anchor="end" font-size="11.5" fill="#7b8794">y el informe 2024 de la Comisión Lancet sobre demencia. SPCD: síntomas psicológicos y conductuales de la demencia.</text>
+</svg>

@@ -27,6 +27,7 @@ Sitio MkDocs Material, en español de Chile, con resúmenes de patologías de me
 
 - Español de Chile: IECA, ARA-II, iSGLT2, arGLP-1, glicemia, hospitalizar, APS, GES, EUNACOM.
 - Frases cortas y directas; números clave en negrita; tablas para clasificaciones, dosis y diagnósticos diferenciales.
+- Ficha: cada campo es un párrafo que empieza con la etiqueta en negrita; no usar listas dentro de la ficha (rompen la grilla).
 - Sin emojis. Etiquetas (`tags`) disponibles: subespecialidad, `GES`, `Frecuente en sala`, `Urgencia`.
 
 ## Vista privada publicada
@@ -37,16 +38,15 @@ Para actualizarlo: `mkdocs build --strict`, copiar `site/` a una carpeta tempora
 
 ## Prioridad de los próximos temas
 
-Ya están hechos (75 resúmenes): HTA, crisis hipertensiva, SCA, FA, TEP, EPOC, asma, LRA, sodio, potasio, ácido-base, CAD/EHH, hipoglicemia, sepsis, ITU, piel, meningitis/encefalitis, cirrosis, pancreatitis, HDA, HDB, delirium, ACV, anemias, dislipidemia, tiroides, urgencias oncológicas, epilepsia, PCR y arritmias, endocarditis, insuficiencia suprarrenal, litiasis biliar, diarrea y *C. difficile*, tuberculosis, monoartritis/gota, insuficiencia respiratoria aguda, cefalea, síndrome aórtico agudo, pericarditis/taponamiento, coagulopatías/CID/reversión de anticoagulantes, trombocitopenias, hantavirus/leptospirosis, influenza/COVID-19/bronquitis aguda, abstinencia alcohólica/Wernicke, Guillain-Barré/mielopatías/trauma raquimedular, TEC/hipertensión endocraneana, neumotórax/trauma torácico, CO/ahogamiento/cuerpo extraño, síndromes glomerulares (nefrótico/nefrítico/GNRP/nefritis lúpica), urolitiasis/cólico renal, abdomen agudo (incl. adulto mayor y diverticulitis), hepatitis aguda/insuficiencia hepática aguda, neumonía nosocomial/en inmunosuprimidos/infección asociada a catéter, VIH (con candidiasis orofaríngea y esofágica y diarrea en inmunosuprimidos), preeclampsia/síndrome hipertensivo del embarazo, calcio/fósforo/magnesio (tetania, hipercalcemia), varicela/herpes zóster/exantemas, flegmón cervical/absceso pulmonar/absceso cerebral, tétanos, trastornos del movimiento por fármacos (distonía aguda, SNM, serotoninérgico), encefalopatías tóxico-metabólicas, agitación psicomotora y agresividad, caídas/hipotensión ortostática/fractura de cadera, disfagia/afagia aguda, osteoporosis, dispepsia/úlcera péptica/H. pylori/cáncer gástrico, ERGE/Barrett, angina crónica estable, valvulopatías/soplos/fiebre reumática, complicaciones crónicas de la diabetes (nefropatía, neuropatía, retinopatía, pie diabético, EAP), obesidad/obesidad mórbida/síndrome metabólico.
+Ya están hechos (76 resúmenes): HTA, crisis hipertensiva, SCA, FA, TEP, EPOC, asma, LRA, sodio, potasio, ácido-base, CAD/EHH, hipoglicemia, sepsis, ITU, piel, meningitis/encefalitis, cirrosis, pancreatitis, HDA, HDB, delirium, ACV, anemias, dislipidemia, tiroides, urgencias oncológicas, epilepsia, PCR y arritmias, endocarditis, insuficiencia suprarrenal, litiasis biliar, diarrea y *C. difficile*, tuberculosis, monoartritis/gota, insuficiencia respiratoria aguda, cefalea, síndrome aórtico agudo, pericarditis/taponamiento, coagulopatías/CID/reversión de anticoagulantes, trombocitopenias, hantavirus/leptospirosis, influenza/COVID-19/bronquitis aguda, abstinencia alcohólica/Wernicke, Guillain-Barré/mielopatías/trauma raquimedular, TEC/hipertensión endocraneana, neumotórax/trauma torácico, CO/ahogamiento/cuerpo extraño, síndromes glomerulares (nefrótico/nefrítico/GNRP/nefritis lúpica), urolitiasis/cólico renal, abdomen agudo (incl. adulto mayor y diverticulitis), hepatitis aguda/insuficiencia hepática aguda, neumonía nosocomial/en inmunosuprimidos/infección asociada a catéter, VIH (con candidiasis orofaríngea y esofágica y diarrea en inmunosuprimidos), preeclampsia/síndrome hipertensivo del embarazo, calcio/fósforo/magnesio (tetania, hipercalcemia), varicela/herpes zóster/exantemas, flegmón cervical/absceso pulmonar/absceso cerebral, tétanos, trastornos del movimiento por fármacos (distonía aguda, SNM, serotoninérgico), encefalopatías tóxico-metabólicas, agitación psicomotora y agresividad, caídas/hipotensión ortostática/fractura de cadera, disfagia/afagia aguda, osteoporosis, dispepsia/úlcera péptica/H. pylori/cáncer gástrico, ERGE/Barrett, angina crónica estable, valvulopatías/soplos/fiebre reumática, complicaciones crónicas de la diabetes (nefropatía, neuropatía, retinopatía, pie diabético, EAP), obesidad/obesidad mórbida/síndrome metabólico, demencia/deterioro cognitivo leve/causas reversibles/afasia-apraxia-agnosia.
 
 Todas las urgencias ya tienen resumen. Siguen las situaciones clínicas sin `resumen`, priorizando las de manejo "completo" y las más frecuentes:
 
-1. Demencia y deterioro cognitivo reversible
-2. Lumbago mecánico, lumbociática, columna dolorosa, cervicalgia y lumbago infeccioso o tumoral
-3. Constipación y fecaloma; trastornos digestivos funcionales
-4. Derrame pleural (paraneumónico y neoplásico)
-5. Artritis reumatoide, poliartritis y oligoartritis; artrosis; LES y otras mesenquimopatías
-6. Bocio, nódulo y cáncer de tiroides
-7. Enfermedades de transmisión sexual y sífilis
-8. Parkinson, temblor y trastornos de la marcha; vértigo
-9. Resto (hemato-oncología, neumología, infecciosas, endocrinología)
+1. Lumbago mecánico, lumbociática, columna dolorosa, cervicalgia y lumbago infeccioso o tumoral
+2. Constipación y fecaloma; trastornos digestivos funcionales
+3. Derrame pleural (paraneumónico y neoplásico)
+4. Artritis reumatoide, poliartritis y oligoartritis; artrosis; LES y otras mesenquimopatías
+5. Bocio, nódulo y cáncer de tiroides
+6. Enfermedades de transmisión sexual y sífilis
+7. Parkinson, temblor y trastornos de la marcha; vértigo
+8. Resto (hemato-oncología, neumología, infecciosas, endocrinología)

@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **29 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
+    **32 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -16,6 +16,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Cefalea: enfoque en urgencia, migraña, cefalea tensional y neuralgia del trigémino](cefalea.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Debilidad aguda: síndrome de Guillain-Barré, paraplejia y cuadriplejia aguda y trauma raquimedular](debilidad-aguda-guillain-barre-y-mielopatias.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Demencia, deterioro cognitivo leve y causas reversibles de deterioro cognitivo](demencia-y-deterioro-cognitivo.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Encefalopatías tóxico-metabólicas: urémica, hepática, hipercápnica, séptica, hipertensiva y por fármacos](encefalopatias-toxico-metabolicas.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome de abstinencia alcohólica, encefalopatía de Wernicke y complicaciones neurológicas de las sustancias](abstinencia-alcoholica-y-wernicke.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos del movimiento inducidos por fármacos: distonía aguda, acatisia, parkinsonismo, discinesia tardía, síndrome neuroléptico maligno y síndrome serotoninérgico](trastornos-del-movimiento-por-farmacos.md)
@@ -27,9 +28,9 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 |---|---|---|---|---|---|
 | 1.10.1.001 | Cefalea tensional | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Cefalea: enfoque en urgencia, migraña, cefalea tensional y neuralgia del trigémino](cefalea.md) |
 | 1.10.1.002 | Compromiso de conciencia | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Encefalopatías tóxico-metabólicas: urémica, hepática, hipercápnica, séptica, hipertensiva y por fármacos](encefalopatias-toxico-metabolicas.md) |
-| 1.10.1.003 | Cuadros de deterioro orgánico cerebral potencialmente reversibles (hipotiroidismo, déficit de vitamina B12, etc.) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.1.004 | Cuadros deficitarios de funciones cerebrales superiores (afasia, apraxia, agnosia, etc.) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.1.005 | Demencia (enfermedad de Alzheimer, enfermedad cerebrovascular, VIH, etc.) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.1.003 | Cuadros de deterioro orgánico cerebral potencialmente reversibles (hipotiroidismo, déficit de vitamina B12, etc.) | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Demencia, deterioro cognitivo leve y causas reversibles de deterioro cognitivo](demencia-y-deterioro-cognitivo.md) |
+| 1.10.1.004 | Cuadros deficitarios de funciones cerebrales superiores (afasia, apraxia, agnosia, etc.) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Demencia, deterioro cognitivo leve y causas reversibles de deterioro cognitivo](demencia-y-deterioro-cognitivo.md) |
+| 1.10.1.005 | Demencia (enfermedad de Alzheimer, enfermedad cerebrovascular, VIH, etc.) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Demencia, deterioro cognitivo leve y causas reversibles de deterioro cognitivo](demencia-y-deterioro-cognitivo.md) |
 | 1.10.1.006 | Enfermedad de Parkinson y parkinsonismos | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.007 | Epilepsia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md) |
 | 1.10.1.008 | Esclerosis múltiple | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |

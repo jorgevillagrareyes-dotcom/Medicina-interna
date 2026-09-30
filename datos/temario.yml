@@ -1458,6 +1458,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/demencia-y-deterioro-cognitivo.md
   - codigo: 1.07.1.004
     nombre: Depresión
     dx: Sospecha
@@ -2049,16 +2051,22 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/demencia-y-deterioro-cognitivo.md
   - codigo: 1.10.1.004
     nombre: Cuadros deficitarios de funciones cerebrales superiores (afasia, apraxia, agnosia, etc.)
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/demencia-y-deterioro-cognitivo.md
   - codigo: 1.10.1.005
     nombre: Demencia (enfermedad de Alzheimer, enfermedad cerebrovascular, VIH, etc.)
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/demencia-y-deterioro-cognitivo.md
   - codigo: 1.10.1.006
     nombre: Enfermedad de Parkinson y parkinsonismos
     dx: Sospecha
