@@ -78,11 +78,11 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.05.2.013 | Traumatismo torácico grave | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumotórax y trauma torácico](../respiratorio/neumotorax-y-trauma-toracico.md) |
 | 1.05.2.014 | Traumatismo torácico simple | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Neumotórax y trauma torácico](../respiratorio/neumotorax-y-trauma-toracico.md) |
 
-## Gastroenterología (8/12)
+## Gastroenterología (9/12)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.06.2.001 | Abdomen agudo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.001 | Abdomen agudo | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](../gastroenterologia/abdomen-agudo.md) |
 | 1.06.2.002 | Afagia aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.2.003 | Colangitis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](../gastroenterologia/litiasis-biliar-colecistitis-colangitis.md) |
 | 1.06.2.004 | Colecistitis aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](../gastroenterologia/litiasis-biliar-colecistitis-colangitis.md) |
@@ -95,11 +95,11 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.06.2.011 | Peritonitis bacteriana espontánea del cirrótico | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](../gastroenterologia/cirrosis-y-complicaciones.md) |
 | 1.06.2.012 | Síndrome hepatorrenal | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](../gastroenterologia/cirrosis-y-complicaciones.md) |
 
-## Geriatría (2/5)
+## Geriatría (3/5)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.07.2.001 | Abdomen agudo en adulto mayor | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.07.2.001 | Abdomen agudo en adulto mayor | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](../gastroenterologia/abdomen-agudo.md) |
 | 1.07.2.002 | Evento coronario en adulto mayor | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](../cardiologia/sindrome-coronario-agudo.md) |
 | 1.07.2.003 | Fractura de cadera | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.2.004 | Agitación y agresividad | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

@@ -1198,11 +1198,15 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/abdomen-agudo.md
   - codigo: 1.06.1.017
     nombre: Enfermedad diverticular no complicada
     dx: Sospecha
     tto: Inicial
     seg: Completo
+    resumen:
+    - gastroenterologia/abdomen-agudo.md
   - codigo: 1.06.1.018
     nombre: Enfermedad inflamatoria intestinal
     dx: Sospecha
@@ -1274,6 +1278,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/abdomen-agudo.md
   - codigo: 1.06.2.002
     nombre: Afagia aguda
     dx: Específico
@@ -1445,6 +1451,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/abdomen-agudo.md
   - codigo: 1.07.2.002
     nombre: Evento coronario en adulto mayor
     dx: Sospecha

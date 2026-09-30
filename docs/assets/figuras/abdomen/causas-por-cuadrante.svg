@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="960" height="600" fill="#ffffff"/>
+<text x="480.0" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Abdomen agudo: causas principales según la localización del dolor</text>
+<rect x="180" y="60" width="200" height="150" fill="#fbfcfd" stroke="#9aa5b1" stroke-width="1.2"/>
+<text x="280.0" y="84" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f5f99">Hipocondrio derecho</text>
+<text x="280.0" y="110" text-anchor="middle" font-size="12.5" fill="#1f2933">Colecistitis, colangitis</text>
+<text x="280.0" y="130" text-anchor="middle" font-size="12.5" fill="#1f2933">Hepatitis, absceso hepático</text>
+<text x="280.0" y="150" text-anchor="middle" font-size="12.5" fill="#1f2933">Neumonía basal derecha</text>
+<rect x="380" y="60" width="200" height="150" fill="#fbfcfd" stroke="#9aa5b1" stroke-width="1.2"/>
+<text x="480.0" y="84" text-anchor="middle" font-size="13.5" font-weight="700" fill="#b3261e">Epigastrio</text>
+<text x="480.0" y="110" text-anchor="middle" font-size="12.5" fill="#1f2933">Úlcera péptica perforada</text>
+<text x="480.0" y="130" text-anchor="middle" font-size="12.5" fill="#1f2933">Pancreatitis aguda</text>
+<text x="480.0" y="150" text-anchor="middle" font-size="12.5" fill="#1f2933">IAM inferior (¡ECG!)</text>
+<rect x="580" y="60" width="200" height="150" fill="#fbfcfd" stroke="#9aa5b1" stroke-width="1.2"/>
+<text x="680.0" y="84" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f5f99">Hipocondrio izquierdo</text>
+<text x="680.0" y="110" text-anchor="middle" font-size="12.5" fill="#1f2933">Infarto o rotura esplénica</text>
+<text x="680.0" y="130" text-anchor="middle" font-size="12.5" fill="#1f2933">Pancreatitis (cola)</text>
+<text x="680.0" y="150" text-anchor="middle" font-size="12.5" fill="#1f2933">Neumonía basal izquierda</text>
+<rect x="180" y="210" width="200" height="150" fill="#fbfcfd" stroke="#9aa5b1" stroke-width="1.2"/>
+<text x="280.0" y="234" text-anchor="middle" font-size="13.5" font-weight="700" fill="#6b3fa0">Flanco derecho</text>
+<text x="280.0" y="260" text-anchor="middle" font-size="12.5" fill="#1f2933">Cólico renal</text>
+<text x="280.0" y="280" text-anchor="middle" font-size="12.5" fill="#1f2933">Pielonefritis</text>
+<text x="280.0" y="300" text-anchor="middle" font-size="12.5" fill="#1f2933">Apendicitis retrocecal</text>
+<rect x="380" y="210" width="200" height="150" fill="#fbfcfd" stroke="#9aa5b1" stroke-width="1.2"/>
+<text x="480.0" y="234" text-anchor="middle" font-size="13.5" font-weight="700" fill="#b3261e">Periumbilical</text>
+<text x="480.0" y="260" text-anchor="middle" font-size="12.5" fill="#1f2933">Apendicitis inicial</text>
+<text x="480.0" y="280" text-anchor="middle" font-size="12.5" fill="#1f2933">Obstrucción intestinal</text>
+<text x="480.0" y="300" text-anchor="middle" font-size="12.5" fill="#1f2933">Isquemia mesentérica</text>
+<text x="480.0" y="320" text-anchor="middle" font-size="12.5" fill="#1f2933">Aneurisma aórtico</text>
+<rect x="580" y="210" width="200" height="150" fill="#fbfcfd" stroke="#9aa5b1" stroke-width="1.2"/>
+<text x="680.0" y="234" text-anchor="middle" font-size="13.5" font-weight="700" fill="#6b3fa0">Flanco izquierdo</text>
+<text x="680.0" y="260" text-anchor="middle" font-size="12.5" fill="#1f2933">Cólico renal</text>
+<text x="680.0" y="280" text-anchor="middle" font-size="12.5" fill="#1f2933">Pielonefritis</text>
+<text x="680.0" y="300" text-anchor="middle" font-size="12.5" fill="#1f2933">Diverticulitis</text>
+<rect x="180" y="360" width="200" height="150" fill="#fbfcfd" stroke="#9aa5b1" stroke-width="1.2"/>
+<text x="280.0" y="384" text-anchor="middle" font-size="13.5" font-weight="700" fill="#2e7d4f">Fosa ilíaca derecha</text>
+<text x="280.0" y="410" text-anchor="middle" font-size="12.5" fill="#1f2933">Apendicitis</text>
+<text x="280.0" y="430" text-anchor="middle" font-size="12.5" fill="#1f2933">Anexo: embarazo ectópico,</text>
+<text x="280.0" y="450" text-anchor="middle" font-size="12.5" fill="#1f2933">torsión, quiste roto</text>
+<text x="280.0" y="470" text-anchor="middle" font-size="12.5" fill="#1f2933">Hernia inguinal atascada</text>
+<rect x="380" y="360" width="200" height="150" fill="#fbfcfd" stroke="#9aa5b1" stroke-width="1.2"/>
+<text x="480.0" y="384" text-anchor="middle" font-size="13.5" font-weight="700" fill="#2e7d4f">Hipogastrio</text>
+<text x="480.0" y="410" text-anchor="middle" font-size="12.5" fill="#1f2933">Retención urinaria</text>
+<text x="480.0" y="430" text-anchor="middle" font-size="12.5" fill="#1f2933">Cistitis</text>
+<text x="480.0" y="450" text-anchor="middle" font-size="12.5" fill="#1f2933">Enfermedad inflamatoria pélvica</text>
+<rect x="580" y="360" width="200" height="150" fill="#fbfcfd" stroke="#9aa5b1" stroke-width="1.2"/>
+<text x="680.0" y="384" text-anchor="middle" font-size="13.5" font-weight="700" fill="#2e7d4f">Fosa ilíaca izquierda</text>
+<text x="680.0" y="410" text-anchor="middle" font-size="12.5" fill="#1f2933">Diverticulitis (adulto mayor)</text>
+<text x="680.0" y="430" text-anchor="middle" font-size="12.5" fill="#1f2933">Anexo: ectópico, torsión</text>
+<text x="680.0" y="450" text-anchor="middle" font-size="12.5" fill="#1f2933">Hernia inguinal atascada</text>
+<circle cx="480.0" cy="333.0" r="0" fill="none"/>
+<rect x="12" y="60" width="156" height="450" rx="10" fill="#fff4e5" stroke="#c77d0a" stroke-width="1.5"/>
+<text x="90" y="86" text-anchor="middle" font-size="12.5" font-weight="700" fill="#c77d0a">Dolor difuso</text>
+<text x="90" y="110" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">o sin foco claro:</text>
+<text x="90" y="134" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933"></text>
+<text x="90" y="158" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Peritonitis</text>
+<text x="90" y="182" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">(perforación)</text>
+<text x="90" y="206" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Isquemia mesentérica</text>
+<text x="90" y="230" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Obstrucción</text>
+<text x="90" y="254" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Aneurisma roto</text>
+<text x="90" y="278" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933"></text>
+<text x="90" y="302" text-anchor="middle" font-size="12.5" font-weight="700" fill="#c77d0a">Causas médicas:</text>
+<text x="90" y="326" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">CAD, IAM, neumonía,</text>
+<text x="90" y="350" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">insuficiencia</text>
+<text x="90" y="374" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">suprarrenal,</text>
+<text x="90" y="398" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">hipercalcemia,</text>
+<text x="90" y="422" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">porfiria, anemia</text>
+<text x="90" y="446" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">falciforme, abstinencia</text>
+<text x="90" y="470" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">de opioides</text>
+<rect x="792" y="60" width="156" height="450" rx="10" fill="#fdecea" stroke="#b3261e" stroke-width="1.5"/>
+<text x="870.0" y="86" text-anchor="middle" font-size="12.5" font-weight="700" fill="#b3261e">Adulto mayor</text>
+<text x="870.0" y="111" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933"></text>
+<text x="870.0" y="136" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Menos fiebre y</text>
+<text x="870.0" y="161" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">leucocitosis</text>
+<text x="870.0" y="186" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Abdomen menos</text>
+<text x="870.0" y="211" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">doloroso al examen</text>
+<text x="870.0" y="236" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Pensar primero en lo</text>
+<text x="870.0" y="261" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">vascular: isquemia</text>
+<text x="870.0" y="286" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">mesentérica y aneurisma</text>
+<text x="870.0" y="311" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933"></text>
+<text x="870.0" y="336" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Más diverticulitis,</text>
+<text x="870.0" y="361" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">obstrucción y</text>
+<text x="870.0" y="386" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">colecistitis</text>
+<text x="870.0" y="411" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933"></text>
+<text x="870.0" y="436" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Umbral bajo para la TC</text>
+<text x="870.0" y="461" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">con contraste</text>
+<text x="20" y="562" font-size="12" fill="#1f2933">En toda mujer en edad fértil: <tspan font-weight="700">β-hCG</tspan>. En todo dolor epigástrico o de abdomen superior: <tspan font-weight="700">ECG</tspan>. El dolor desproporcionado al examen sugiere <tspan font-weight="700">isquemia mesentérica</tspan>.</text>
+<text x="20" y="584" font-size="11.5" fill="#52606d">Esquema propio, orientativo: la localización inicial puede cambiar (la apendicitis empieza periumbilical y migra a la fosa ilíaca derecha).</text>
+</svg>
