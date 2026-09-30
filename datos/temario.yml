@@ -2171,6 +2171,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/encefalopatias-toxico-metabolicas.md
   - codigo: 1.10.2.007
     nombre: Enfermedad cerebrovascular (isquémica, cardioembólica, hemorrágica, crisis isquémica transitoria)
     dx: Sospecha

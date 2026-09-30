@@ -137,7 +137,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.09.2.012 | Pre eclampsia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Preeclampsia y síndrome hipertensivo del embarazo](../nefrologia/preeclampsia-y-sindrome-hipertensivo-del-embarazo.md) |
 | 1.09.2.013 | Vasculitis o glomerulonefritis rápidamente progresiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](../nefrologia/sindromes-glomerulares.md) |
 
-## Neurología (20/21)
+## Neurología (21/21)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.10.2.003 | Crisis convulsiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](../neurologia/crisis-epileptica-y-estado-epileptico.md) |
 | 1.10.2.004 | Estado confusional agudo (alcohólico, tóxico metabólico) | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Delirium (síndrome confusional agudo)](../geriatria/delirium.md) · [Síndrome de abstinencia alcohólica, encefalopatía de Wernicke y complicaciones neurológicas de las sustancias](../neurologia/abstinencia-alcoholica-y-wernicke.md) |
 | 1.10.2.005 | Distonía aguda por fármacos (ejemplo antieméticos) | Específico | Completo | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos del movimiento inducidos por fármacos: distonía aguda, acatisia, parkinsonismo, discinesia tardía, síndrome neuroléptico maligno y síndrome serotoninérgico](../neurologia/trastornos-del-movimiento-por-farmacos.md) |
-| 1.10.2.006 | Encefalopatías tóxico metabólicas (urémica, hepática, etc) | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.2.006 | Encefalopatías tóxico metabólicas (urémica, hepática, etc) | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Encefalopatías tóxico-metabólicas: urémica, hepática, hipercápnica, séptica, hipertensiva y por fármacos](../neurologia/encefalopatias-toxico-metabolicas.md) |
 | 1.10.2.007 | Enfermedad cerebrovascular (isquémica, cardioembólica, hemorrágica, crisis isquémica transitoria) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Accidente cerebrovascular (ACV) y crisis isquémica transitoria](../neurologia/accidente-cerebrovascular.md) |
 | 1.10.2.008 | Hemorragia subaracnoidea | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Accidente cerebrovascular (ACV) y crisis isquémica transitoria](../neurologia/accidente-cerebrovascular.md) |
 | 1.10.2.009 | Hipertensión endocraneana | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Traumatismo encefalocraneano e hipertensión endocraneana](../neurologia/tec-e-hipertension-endocraneana.md) |
