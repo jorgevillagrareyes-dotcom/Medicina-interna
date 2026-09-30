@@ -339,6 +339,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/pancreatitis-aguda.md
   - codigo: 1.02.2.006
     nombre: Hipoglicemias
     dx: Específico
@@ -1218,6 +1220,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/pancreatitis-aguda.md
   - codigo: 1.06.2.011
     nombre: Peritonitis bacteriana espontánea del cirrótico
     dx: Específico
