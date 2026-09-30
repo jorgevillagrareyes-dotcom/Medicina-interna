@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **33 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
+    **35 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -53,8 +53,8 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.05.1.026 | Neumoconiosis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.027 | Neumonías adquiridas en la comunidad (tipo 4 de la Sociedad Chilena de Enfermedades Respiratorias) | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía adquirida en la comunidad](neumonia-adquirida-en-la-comunidad.md) |
 | 1.05.1.028 | Neumonías adquiridas en la comunidad (tipos 1, 2 y 3 de la Sociedad Chilena de Enfermedades Respiratorias) | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía adquirida en la comunidad](neumonia-adquirida-en-la-comunidad.md) |
-| 1.05.1.029 | Neumonías en inmunosuprimidos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.05.1.030 | Neumonías nosocomiales | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.1.029 | Neumonías en inmunosuprimidos | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía nosocomial, neumonía en inmunosuprimidos e infección asociada a catéter](../infectologia/neumonia-nosocomial-inmunosuprimidos-y-cateter.md) |
+| 1.05.1.030 | Neumonías nosocomiales | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía nosocomial, neumonía en inmunosuprimidos e infección asociada a catéter](../infectologia/neumonia-nosocomial-inmunosuprimidos-y-cateter.md) |
 | 1.05.1.031 | Neumotórax moderado y grande | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumotórax y trauma torácico](neumotorax-y-trauma-toracico.md) |
 | 1.05.1.032 | Neumotórax pequeño | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumotórax y trauma torácico](neumotorax-y-trauma-toracico.md) |
 | 1.05.1.038 | Nódulos pulmonares | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

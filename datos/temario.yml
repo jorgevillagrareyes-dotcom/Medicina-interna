@@ -630,6 +630,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/neumonia-nosocomial-inmunosuprimidos-y-cateter.md
   - codigo: 1.04.1.016
     nombre: Influenza
     dx: Específico
@@ -659,6 +661,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/urgencias-oncologicas.md
   - codigo: 1.04.1.021
     nombre: Osteomielitis
     dx: Sospecha
@@ -952,11 +956,15 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/neumonia-nosocomial-inmunosuprimidos-y-cateter.md
   - codigo: 1.05.1.030
     nombre: Neumonías nosocomiales
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/neumonia-nosocomial-inmunosuprimidos-y-cateter.md
   - codigo: 1.05.1.031
     nombre: Neumotórax moderado y grande
     dx: Específico

@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **14 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
+    **16 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -16,6 +16,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de piel y partes blandas](infecciones-piel-partes-blandas.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Influenza, COVID-19 y bronquitis aguda](influenza-y-covid-19.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Meningitis y encefalitis agudas](meningitis-y-encefalitis.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía nosocomial, neumonía en inmunosuprimidos e infección asociada a catéter](neumonia-nosocomial-inmunosuprimidos-y-cateter.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](sepsis-y-shock-septico.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome cardiopulmonar por hantavirus y leptospirosis](hantavirus-y-leptospirosis.md)
 
@@ -37,12 +38,12 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.1.012 | Fiebre tifoidea y paratifoidea | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.013 | Hidatidosis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.014 | Infección por virus de inmunodeficiencia humana (SIDA) | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.1.015 | Infecciones asociadas a catéteres vasculares | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.015 | Infecciones asociadas a catéteres vasculares | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía nosocomial, neumonía en inmunosuprimidos e infección asociada a catéter](neumonia-nosocomial-inmunosuprimidos-y-cateter.md) |
 | 1.04.1.016 | Influenza | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Influenza, COVID-19 y bronquitis aguda](influenza-y-covid-19.md) |
 | 1.04.1.017 | Leptospirosis | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome cardiopulmonar por hantavirus y leptospirosis](hantavirus-y-leptospirosis.md) |
 | 1.04.1.018 | Malaria | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.019 | Micosis invasora (aspergilosis, candidiasis, mucormicosis) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.1.020 | Neutropenia febril | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.020 | Neutropenia febril | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](../hematologia/urgencias-oncologicas.md) |
 | 1.04.1.021 | Osteomielitis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.022 | Parasitosis intestinales | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.023 | Sífilis secundaria, terciaria y congénita | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
