@@ -921,6 +921,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/intoxicacion-por-co-ahogamiento-y-cuerpo-extrano.md
   - codigo: 1.05.1.025
     nombre: Metástasis pulmonares
     dx: Sospecha
@@ -1009,16 +1011,22 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/intoxicacion-por-co-ahogamiento-y-cuerpo-extrano.md
   - codigo: 1.05.2.002
     nombre: Aspiración de cuerpo extraño con asfixia
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/intoxicacion-por-co-ahogamiento-y-cuerpo-extrano.md
   - codigo: 1.05.2.003
     nombre: Aspiración de cuerpo extraño sin asfixia
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/intoxicacion-por-co-ahogamiento-y-cuerpo-extrano.md
   - codigo: 1.05.2.004
     nombre: Crisis de asma bronquial
     dx: Específico
@@ -1066,6 +1074,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/intoxicacion-por-co-ahogamiento-y-cuerpo-extrano.md
   - codigo: 1.05.2.011
     nombre: Neumotórax hipertensivo
     dx: Específico

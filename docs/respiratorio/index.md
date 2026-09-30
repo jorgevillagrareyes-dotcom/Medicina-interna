@@ -8,13 +8,14 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **28 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
+    **33 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Asma bronquial](asma.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia respiratoria aguda, soporte no invasivo, SDRA y hemoptisis](insuficiencia-respiratoria-aguda.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Intoxicación por monóxido de carbono, ahogamiento y cuerpo extraño en la vía aérea](intoxicacion-por-co-ahogamiento-y-cuerpo-extrano.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía adquirida en la comunidad](neumonia-adquirida-en-la-comunidad.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Neumotórax y trauma torácico](neumotorax-y-trauma-toracico.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Tromboembolismo pulmonar](tromboembolismo-pulmonar.md)
@@ -47,7 +48,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.05.1.021 | Hipertensión pulmonar | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.022 | Infecciones de las vías aéreas superiores | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.023 | Insuficiencia respiratoria crónica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md) |
-| 1.05.1.024 | Intoxicación leve por CO y otros gases | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.1.024 | Intoxicación leve por CO y otros gases | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Intoxicación por monóxido de carbono, ahogamiento y cuerpo extraño en la vía aérea](intoxicacion-por-co-ahogamiento-y-cuerpo-extrano.md) |
 | 1.05.1.025 | Metástasis pulmonares | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.026 | Neumoconiosis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.027 | Neumonías adquiridas en la comunidad (tipo 4 de la Sociedad Chilena de Enfermedades Respiratorias) | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía adquirida en la comunidad](neumonia-adquirida-en-la-comunidad.md) |
@@ -67,16 +68,16 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.05.2.001 | Asfixia por inmersión | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.05.2.002 | Aspiración de cuerpo extraño con asfixia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.05.2.003 | Aspiración de cuerpo extraño sin asfixia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.001 | Asfixia por inmersión | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Intoxicación por monóxido de carbono, ahogamiento y cuerpo extraño en la vía aérea](intoxicacion-por-co-ahogamiento-y-cuerpo-extrano.md) |
+| 1.05.2.002 | Aspiración de cuerpo extraño con asfixia | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Intoxicación por monóxido de carbono, ahogamiento y cuerpo extraño en la vía aérea](intoxicacion-por-co-ahogamiento-y-cuerpo-extrano.md) |
+| 1.05.2.003 | Aspiración de cuerpo extraño sin asfixia | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Intoxicación por monóxido de carbono, ahogamiento y cuerpo extraño en la vía aérea](intoxicacion-por-co-ahogamiento-y-cuerpo-extrano.md) |
 | 1.05.2.004 | Crisis de asma bronquial | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Asma bronquial](asma.md) |
 | 1.05.2.005 | Embolia pulmonar masiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tromboembolismo pulmonar](tromboembolismo-pulmonar.md) |
 | 1.05.2.006 | Enfermedad bronquial obstructiva crónica descompensada | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md) |
 | 1.05.2.007 | Hemoptisis moderada,severa y masiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia respiratoria aguda, soporte no invasivo, SDRA y hemoptisis](insuficiencia-respiratoria-aguda.md) |
 | 1.05.2.008 | Insuficiencia respiratoria aguda o crónica reagudizada que requiere ventilación mecánica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia respiratoria aguda, soporte no invasivo, SDRA y hemoptisis](insuficiencia-respiratoria-aguda.md) |
 | 1.05.2.009 | Insuficiencia respiratoria aguda o crónica reagudizada que no requiere ventilación mecánica | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia respiratoria aguda, soporte no invasivo, SDRA y hemoptisis](insuficiencia-respiratoria-aguda.md) |
-| 1.05.2.010 | Intoxicación por monóxido de carbono | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.010 | Intoxicación por monóxido de carbono | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Intoxicación por monóxido de carbono, ahogamiento y cuerpo extraño en la vía aérea](intoxicacion-por-co-ahogamiento-y-cuerpo-extrano.md) |
 | 1.05.2.011 | Neumotórax hipertensivo | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Neumotórax y trauma torácico](neumotorax-y-trauma-toracico.md) |
 | 1.05.2.012 | Paro cardiorrespiratorio | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](../cardiologia/paro-cardiorrespiratorio-y-arritmias.md) |
 | 1.05.2.013 | Traumatismo torácico grave | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumotórax y trauma torácico](neumotorax-y-trauma-toracico.md) |
