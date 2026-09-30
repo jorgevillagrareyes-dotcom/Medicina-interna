@@ -121,6 +121,7 @@ nav:
       - respiratorio/index.md
       - "Asma bronquial": respiratorio/asma.md
       - "Enfermedad pulmonar obstructiva crónica (EPOC)": respiratorio/epoc.md
+      - "Insuficiencia respiratoria aguda, soporte no invasivo, SDRA y hemoptisis": respiratorio/insuficiencia-respiratoria-aguda.md
       - "Neumonía adquirida en la comunidad": respiratorio/neumonia-adquirida-en-la-comunidad.md
       - "Tromboembolismo pulmonar": respiratorio/tromboembolismo-pulmonar.md
       - "Tuberculosis": respiratorio/tuberculosis.md

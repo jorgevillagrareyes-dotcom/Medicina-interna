@@ -833,6 +833,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/insuficiencia-respiratoria-aguda.md
   - codigo: 1.05.1.015
     nombre: Embolia pulmonar
     dx: Sospecha
@@ -864,6 +866,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/insuficiencia-respiratoria-aguda.md
   - codigo: 1.05.1.020
     nombre: Hidatidosis pulmonar
     dx: Sospecha
@@ -1011,16 +1015,22 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/insuficiencia-respiratoria-aguda.md
   - codigo: 1.05.2.008
     nombre: Insuficiencia respiratoria aguda o crónica reagudizada que requiere ventilación mecánica
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/insuficiencia-respiratoria-aguda.md
   - codigo: 1.05.2.009
     nombre: Insuficiencia respiratoria aguda o crónica reagudizada que no requiere ventilación mecánica
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/insuficiencia-respiratoria-aguda.md
   - codigo: 1.05.2.010
     nombre: Intoxicación por monóxido de carbono
     dx: Específico
