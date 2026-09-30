@@ -8,11 +8,12 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **11 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
+    **13 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](diarrea-aguda-y-clostridioides-difficile.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva alta](hemorragia-digestiva-alta.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva baja](hemorragia-digestiva-baja.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](litiasis-biliar-colecistitis-colangitis.md)
@@ -31,7 +32,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.06.1.007 | Colestasia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.008 | Trastornos digestivos funcionales | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.009 | Constipación | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.06.1.010 | Diarrea asociada a antibióticos | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.010 | Diarrea asociada a antibióticos | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](diarrea-aguda-y-clostridioides-difficile.md) |
 | 1.06.1.011 | Diarrea crónica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.012 | Diarrea en inmunosuprimidos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.013 | Disfagia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -61,7 +62,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.06.2.002 | Afagia aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.2.003 | Colangitis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](litiasis-biliar-colecistitis-colangitis.md) |
 | 1.06.2.004 | Colecistitis aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](litiasis-biliar-colecistitis-colangitis.md) |
-| 1.06.2.005 | Diarrea aguda | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.005 | Diarrea aguda | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](diarrea-aguda-y-clostridioides-difficile.md) |
 | 1.06.2.006 | Encefalopatía hepática | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md) |
 | 1.06.2.007 | Hemorragia digestiva alta y baja | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva alta](hemorragia-digestiva-alta.md) · [Hemorragia digestiva baja](hemorragia-digestiva-baja.md) |
 | 1.06.2.008 | Hepatitis aguda A complicada | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

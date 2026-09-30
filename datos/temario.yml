@@ -577,6 +577,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md
   - codigo: 1.04.1.010
     nombre: Enfermedades de transmisión sexual
     dx: Específico
@@ -667,6 +669,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md
   - codigo: 1.04.1.027
     nombre: Triquinosis
     dx: Específico
@@ -1098,6 +1102,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md
   - codigo: 1.06.1.011
     nombre: Diarrea crónica
     dx: Sospecha
@@ -1228,6 +1234,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md
   - codigo: 1.06.2.006
     nombre: Encefalopatía hepática
     dx: Específico

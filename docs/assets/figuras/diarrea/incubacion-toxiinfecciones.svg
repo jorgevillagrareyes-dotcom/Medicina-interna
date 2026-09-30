@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 580" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="960" height="580" fill="#ffffff"/>
+<text x="480.0" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Toxiinfección alimentaria: tiempo desde la ingesta hasta los síntomas</text>
+<line x1="200" y1="470" x2="905" y2="470" stroke="#1f2933" stroke-width="1.5"/>
+<line x1="200.0" y1="60" x2="200.0" y2="475" stroke="#e4e7eb" stroke-width="1"/>
+<text x="200.0" y="492" text-anchor="middle" font-size="12.5" fill="#52606d">1 h</text>
+<line x1="284.0" y1="60" x2="284.0" y2="475" stroke="#e4e7eb" stroke-width="1"/>
+<text x="284.0" y="492" text-anchor="middle" font-size="12.5" fill="#52606d">2 h</text>
+<line x1="417.2" y1="60" x2="417.2" y2="475" stroke="#e4e7eb" stroke-width="1"/>
+<text x="417.2" y="492" text-anchor="middle" font-size="12.5" fill="#52606d">6 h</text>
+<line x1="501.2" y1="60" x2="501.2" y2="475" stroke="#e4e7eb" stroke-width="1"/>
+<text x="501.2" y="492" text-anchor="middle" font-size="12.5" fill="#52606d">12 h</text>
+<line x1="585.2" y1="60" x2="585.2" y2="475" stroke="#e4e7eb" stroke-width="1"/>
+<text x="585.2" y="492" text-anchor="middle" font-size="12.5" fill="#52606d">1 día</text>
+<line x1="669.2" y1="60" x2="669.2" y2="475" stroke="#e4e7eb" stroke-width="1"/>
+<text x="669.2" y="492" text-anchor="middle" font-size="12.5" fill="#52606d">2 días</text>
+<line x1="718.3" y1="60" x2="718.3" y2="475" stroke="#e4e7eb" stroke-width="1"/>
+<text x="718.3" y="492" text-anchor="middle" font-size="12.5" fill="#52606d">3 días</text>
+<line x1="821.0" y1="60" x2="821.0" y2="475" stroke="#e4e7eb" stroke-width="1"/>
+<text x="821.0" y="492" text-anchor="middle" font-size="12.5" fill="#52606d">1 semana</text>
+<line x1="905.0" y1="60" x2="905.0" y2="475" stroke="#e4e7eb" stroke-width="1"/>
+<text x="905.0" y="492" text-anchor="middle" font-size="12.5" fill="#52606d">2 semanas</text>
+<text x="552.5" y="518" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Período de incubación (escala logarítmica)</text>
+<text x="14" y="86" font-size="14" font-weight="700" fill="#1f2933">Toxina preformada</text>
+<text x="14" y="103" font-size="12" fill="#52606d">vómitos predominantes</text>
+<rect x="200.0" y="74" width="217.2" height="20" rx="5" fill="#b3261e" opacity="0.85"/>
+<text x="423.2" y="89" text-anchor="start" font-size="12.5" font-weight="700" fill="#b3261e">S. aureus</text>
+<rect x="200.0" y="104" width="217.2" height="20" rx="5" fill="#b3261e" opacity="0.85"/>
+<text x="423.2" y="119" text-anchor="start" font-size="12.5" font-weight="700" fill="#b3261e">B. cereus (emético)</text>
+<text x="14" y="172" font-size="14" font-weight="700" fill="#1f2933">Toxina producida en el intestino</text>
+<text x="14" y="189" font-size="12" fill="#52606d">diarrea acuosa, cólicos</text>
+<rect x="452.0" y="160" width="84.0" height="20" rx="5" fill="#b45309" opacity="0.85"/>
+<text x="542.0" y="175" text-anchor="start" font-size="12.5" font-weight="700" fill="#b45309">C. perfringens · B. cereus (diarreico)</text>
+<text x="14" y="228" font-size="14" font-weight="700" fill="#1f2933">Virus</text>
+<text x="14" y="245" font-size="12" fill="#52606d">vómitos + diarrea acuosa, brotes</text>
+<rect x="501.2" y="216" width="168.0" height="20" rx="5" fill="#6d28d9" opacity="0.85"/>
+<text x="675.2" y="231" text-anchor="start" font-size="12.5" font-weight="700" fill="#6d28d9">Norovirus</text>
+<text x="14" y="284" font-size="14" font-weight="700" fill="#1f2933">Bacterias invasoras o toxigénicas</text>
+<text x="14" y="301" font-size="12" fill="#52606d">fiebre, disentería posible</text>
+<rect x="501.2" y="272" width="217.2" height="20" rx="5" fill="#0f766e" opacity="0.85"/>
+<text x="495.2" y="287" text-anchor="end" font-size="12.5" font-weight="700" fill="#0f766e">Salmonella, Campylobacter, Shigella</text>
+<rect x="368.0" y="302" width="244.2" height="20" rx="5" fill="#12474f" opacity="0.85"/>
+<text x="618.2" y="317" text-anchor="start" font-size="12.5" font-weight="700" fill="#12474f">Vibrio parahaemolyticus (mariscos)</text>
+<rect x="718.3" y="332" width="118.9" height="20" rx="5" fill="#8a1c14" opacity="0.85"/>
+<text x="712.3" y="347" text-anchor="end" font-size="12.5" font-weight="700" fill="#8a1c14">E. coli productora de toxina Shiga</text>
+<text x="14" y="400" font-size="14" font-weight="700" fill="#1f2933">Parásitos</text>
+<text x="14" y="417" font-size="12" fill="#52606d">diarrea prolongada</text>
+<rect x="821.0" y="388" width="84.0" height="20" rx="5" fill="#374151" opacity="0.85"/>
+<text x="815.0" y="403" text-anchor="end" font-size="12.5" font-weight="700" fill="#374151">Giardia, Cryptosporidium, Cyclospora</text>
+<text x="14" y="554" font-size="11.5" fill="#52606d">Esquema propio con rangos aproximados. Vómitos a las pocas horas de comer = toxina preformada.</text>
+<text x="14" y="570" font-size="11.5" fill="#52606d">Diarrea con sangre a los 3–8 días = pensar en E. coli productora de toxina Shiga (riesgo de síndrome hemolítico urémico).</text>
+</svg>

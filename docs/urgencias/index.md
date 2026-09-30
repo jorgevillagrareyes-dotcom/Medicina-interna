@@ -78,7 +78,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.05.2.013 | Traumatismo torácico grave | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.2.014 | Traumatismo torácico simple | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 
-## Gastroenterología (7/12)
+## Gastroenterología (8/12)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.06.2.002 | Afagia aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.2.003 | Colangitis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](../gastroenterologia/litiasis-biliar-colecistitis-colangitis.md) |
 | 1.06.2.004 | Colecistitis aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](../gastroenterologia/litiasis-biliar-colecistitis-colangitis.md) |
-| 1.06.2.005 | Diarrea aguda | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.005 | Diarrea aguda | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](../gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md) |
 | 1.06.2.006 | Encefalopatía hepática | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](../gastroenterologia/cirrosis-y-complicaciones.md) |
 | 1.06.2.007 | Hemorragia digestiva alta y baja | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva alta](../gastroenterologia/hemorragia-digestiva-alta.md) · [Hemorragia digestiva baja](../gastroenterologia/hemorragia-digestiva-baja.md) |
 | 1.06.2.008 | Hepatitis aguda A complicada | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

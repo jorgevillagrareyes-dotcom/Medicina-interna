@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **6 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
+    **8 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -28,7 +28,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.1.006 | Celulitis bacteriana | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de piel y partes blandas](infecciones-piel-partes-blandas.md) |
 | 1.04.1.007 | Cólera | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.008 | Dengue | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.1.009 | Diarrea asociada a antibióticos | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.009 | Diarrea asociada a antibióticos | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](../gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md) |
 | 1.04.1.010 | Enfermedades de transmisión sexual | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.011 | Enfermedades eruptivas no complicadas (varicela, herpes zóster, etc.) | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.029 | Enfermedad leve moderada por SARS Cov 2 COVID 19 | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -46,7 +46,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.1.023 | Sífilis secundaria, terciaria y congénita | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.024 | Síndrome febril prolongado | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.025 | Síndrome mononucleósico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.1.026 | Toxicoinfección alimentaria | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.026 | Toxicoinfección alimentaria | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](../gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md) |
 | 1.04.1.027 | Triquinosis | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.028 | Tuberculosis extrapulmonar | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
