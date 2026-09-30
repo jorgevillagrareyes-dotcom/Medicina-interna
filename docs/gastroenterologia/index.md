@@ -8,13 +8,14 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **21 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
+    **23 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](abdomen-agudo.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](diarrea-aguda-y-clostridioides-difficile.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Disfagia y afagia aguda (impactación alimentaria y cuerpos extraños esofágicos)](disfagia-y-afagia-aguda.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva alta](hemorragia-digestiva-alta.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva baja](hemorragia-digestiva-baja.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hepatitis aguda e insuficiencia hepática aguda](hepatitis-aguda-e-insuficiencia-hepatica-aguda.md)
@@ -37,7 +38,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.06.1.010 | Diarrea asociada a antibióticos | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](diarrea-aguda-y-clostridioides-difficile.md) |
 | 1.06.1.011 | Diarrea crónica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.012 | Diarrea en inmunosuprimidos | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infección por VIH y SIDA, candidiasis orofaríngea y esofágica, y diarrea en inmunosuprimidos](../infectologia/infeccion-por-vih.md) |
-| 1.06.1.013 | Disfagia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.013 | Disfagia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Disfagia y afagia aguda (impactación alimentaria y cuerpos extraños esofágicos)](disfagia-y-afagia-aguda.md) |
 | 1.06.1.014 | Dispepsia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.015 | Enfermedad celiaca | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.016 | Enfermedad diverticular complicada | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](abdomen-agudo.md) |
@@ -61,7 +62,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.06.2.001 | Abdomen agudo | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](abdomen-agudo.md) |
-| 1.06.2.002 | Afagia aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.002 | Afagia aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Disfagia y afagia aguda (impactación alimentaria y cuerpos extraños esofágicos)](disfagia-y-afagia-aguda.md) |
 | 1.06.2.003 | Colangitis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](litiasis-biliar-colecistitis-colangitis.md) |
 | 1.06.2.004 | Colecistitis aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](litiasis-biliar-colecistitis-colangitis.md) |
 | 1.06.2.005 | Diarrea aguda | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](diarrea-aguda-y-clostridioides-difficile.md) |

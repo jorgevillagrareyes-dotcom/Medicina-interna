@@ -1214,6 +1214,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/disfagia-y-afagia-aguda.md
   - codigo: 1.06.1.014
     nombre: Dispepsia
     dx: Específico
@@ -1320,6 +1322,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/disfagia-y-afagia-aguda.md
   - codigo: 1.06.2.003
     nombre: Colangitis
     dx: Específico

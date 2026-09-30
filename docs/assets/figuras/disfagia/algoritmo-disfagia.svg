@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 760" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="980" height="760" fill="#ffffff"/>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52606d"/></marker></defs>
+<text x="490.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Enfrentamiento de la disfagia: ¿dónde está el problema y qué tipo es?</text>
+<rect x="365" y="44" width="250" height="44" rx="8" fill="#eef2f6" stroke="#52606d" stroke-width="1.6"/>
+<text x="490.0" y="71.6" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2933">Disfagia</text>
+<line x1="440" y1="88" x2="200" y2="118" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<line x1="540" y1="88" x2="700" y2="118" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="25" y="120" width="360" height="78" rx="8" fill="#f1ebf8" stroke="#6b3fa0" stroke-width="1.6"/>
+<text x="205.0" y="146.7" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2933">OROFARÍNGEA (de transferencia)</text>
+<text x="205.0" y="163.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">Cuesta iniciar la deglución: tos o atoro al tragar,</text>
+<text x="205.0" y="180.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">regurgitación nasal, voz húmeda, neumonías</text>
+<rect x="25" y="212" width="360" height="142" rx="8" fill="#ffffff" stroke="#6b3fa0" stroke-width="1.6"/>
+<text x="205.0" y="246.3" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Causas</text>
+<text x="205.0" y="262.8" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Neurológicas: ACV, Parkinson, demencia, ELA,</text>
+<text x="205.0" y="279.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">miastenia gravis, esclerosis múltiple</text>
+<text x="205.0" y="295.8" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Estructurales: divertículo de Zenker, tumores</text>
+<text x="205.0" y="312.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">de cabeza y cuello, osteofitos, radioterapia</text>
+<text x="205.0" y="328.8" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Sarcopenia, fármacos (sedantes), prótesis dental</text>
+<rect x="25" y="368" width="360" height="96" rx="8" fill="#ffffff" stroke="#6b3fa0" stroke-width="1.6"/>
+<text x="205.0" y="395.8" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Estudio</text>
+<text x="205.0" y="412.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Tamizaje: EAT-10, test de volumen-viscosidad</text>
+<text x="205.0" y="428.8" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Fonoaudiología, videofluoroscopia o</text>
+<text x="205.0" y="445.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">nasofibroscopia de la deglución (FEES)</text>
+<line x1="205" y1="198" x2="205" y2="212" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<line x1="205" y1="354" x2="205" y2="368" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="560" y="120" width="395" height="78" rx="8" fill="#e3f2fd" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="757.5" y="146.7" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2933">ESOFÁGICA</text>
+<text x="757.5" y="163.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">El alimento "se queda pegado" en el cuello</text>
+<text x="757.5" y="180.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">o detrás del esternón, segundos después de tragar</text>
+<rect x="610" y="214" width="300" height="40" rx="8" fill="#eef2f6" stroke="#52606d" stroke-width="1.6"/>
+<text x="760.0" y="238.9" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2933">¿Qué alimentos le cuesta tragar?</text>
+<line x1="757" y1="198" x2="757" y2="214" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<line x1="700" y1="254" x2="560" y2="290" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<text x="560" y="272" font-size="12.5" font-weight="700" fill="#52606d">Solo sólidos</text>
+<line x1="820" y1="254" x2="880" y2="290" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<text x="858" y="262" font-size="12.5" font-weight="700" fill="#52606d">Sólidos y líquidos</text>
+<rect x="410" y="292" width="290" height="172" rx="8" fill="#fff4d6" stroke="#c28a12" stroke-width="1.6"/>
+<text x="555.0" y="324.8" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">MECÁNICA (obstrucción)</text>
+<text x="555.0" y="341.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Intermitente, no progresiva:</text>
+<text x="555.0" y="357.8" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">anillo de Schatzki, membrana,</text>
+<text x="555.0" y="374.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">esofagitis eosinofílica (joven, atópico)</text>
+<text x="555.0" y="390.8" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Progresiva + pirosis: estenosis péptica</text>
+<text x="555.0" y="407.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Progresiva + baja de peso, > 50 años:</text>
+<text x="555.0" y="423.8" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">CÁNCER de esófago o de la unión</text>
+<text x="555.0" y="440.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">esofagogástrica</text>
+<rect x="712" y="292" width="243" height="172" rx="8" fill="#e3f5ea" stroke="#2e7d4f" stroke-width="1.6"/>
+<text x="833.5" y="324.8" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">MOTORA</text>
+<text x="833.5" y="341.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Progresiva + regurgitación</text>
+<text x="833.5" y="357.8" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">y baja de peso: ACALASIA</text>
+<text x="833.5" y="374.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Con pirosis y Raynaud:</text>
+<text x="833.5" y="390.8" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">esclerodermia</text>
+<text x="833.5" y="407.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">Intermitente con dolor</text>
+<text x="833.5" y="423.8" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">torácico: espasmo</text>
+<text x="833.5" y="440.3" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">esofágico distal</text>
+<rect x="410" y="480" width="545" height="76" rx="8" fill="#e3f2fd" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="682.5" y="506.1" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Estudio: ENDOSCOPÍA ALTA primero, con biopsias</text>
+<text x="682.5" y="522.5" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">(esofagitis eosinofílica, cáncer). Si es normal: esofagograma con bario</text>
+<text x="682.5" y="539.0" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2933">y manometría de alta resolución (Chicago: acalasia tipos I, II y III)</text>
+<line x1="555" y1="464" x2="555" y2="480" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<line x1="833" y1="464" x2="833" y2="480" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="25" y="580" width="440" height="120" rx="8" fill="#fff4d6" stroke="#c28a12" stroke-width="1.6"/>
+<text x="245.0" y="610.7" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2933">SIGNOS DE ALARMA: endoscopía precoz</text>
+<text x="245.0" y="627.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">Disfagia progresiva, baja de peso, anemia,</text>
+<text x="245.0" y="644.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">hemorragia digestiva, vómitos persistentes,</text>
+<text x="245.0" y="661.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">odinofagia, masa cervical, edad > 50 años</text>
+<text x="245.0" y="678.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">con disfagia de inicio reciente</text>
+<rect x="485" y="580" width="470" height="120" rx="8" fill="#fde7e5" stroke="#b3261e" stroke-width="1.6"/>
+<text x="720.0" y="610.7" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2933">AFAGIA AGUDA: urgencia</text>
+<text x="720.0" y="627.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">No puede tragar ni su saliva (sialorrea) tras comer</text>
+<text x="720.0" y="644.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">carne o tras ingerir un cuerpo extraño</text>
+<text x="720.0" y="661.7" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2933">Endoscopía EMERGENTE: idealmente ≤ 2 h, máximo 6 h</text>
+<text x="720.0" y="678.7" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f2933">(también pilas y objetos punzantes en el esófago)</text>
+<text x="955" y="746" text-anchor="end" font-size="11.5" fill="#7b8794">Esquema propio basado en ESGE 2016 (cuerpos extraños), ACG 2020 (acalasia), ACG 2025 (esofagitis eosinofílica) y la ESSD-EUGMS 2016.</text>
+</svg>

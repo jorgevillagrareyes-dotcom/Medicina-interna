@@ -78,12 +78,12 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.05.2.013 | Traumatismo torácico grave | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumotórax y trauma torácico](../respiratorio/neumotorax-y-trauma-toracico.md) |
 | 1.05.2.014 | Traumatismo torácico simple | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Neumotórax y trauma torácico](../respiratorio/neumotorax-y-trauma-toracico.md) |
 
-## Gastroenterología (11/12)
+## Gastroenterología (12/12)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.06.2.001 | Abdomen agudo | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](../gastroenterologia/abdomen-agudo.md) |
-| 1.06.2.002 | Afagia aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.002 | Afagia aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Disfagia y afagia aguda (impactación alimentaria y cuerpos extraños esofágicos)](../gastroenterologia/disfagia-y-afagia-aguda.md) |
 | 1.06.2.003 | Colangitis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](../gastroenterologia/litiasis-biliar-colecistitis-colangitis.md) |
 | 1.06.2.004 | Colecistitis aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](../gastroenterologia/litiasis-biliar-colecistitis-colangitis.md) |
 | 1.06.2.005 | Diarrea aguda | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](../gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md) |
