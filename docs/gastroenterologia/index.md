@@ -8,21 +8,22 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **1 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
+    **6 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
+- :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva alta](hemorragia-digestiva-alta.md)
 
 ## Situaciones clínicas
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.06.1.001 | Ascitis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.001 | Ascitis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md) |
 | 1.06.1.002 | Cáncer de páncreas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.003 | Cáncer de vesícula y vías biliares | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.004 | Cáncer gástrico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.06.1.005 | Cirrosis hepática | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.005 | Cirrosis hepática | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md) |
 | 1.06.1.006 | Colelitiasis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.007 | Colestasia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.008 | Trastornos digestivos funcionales | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -58,13 +59,13 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.06.2.003 | Colangitis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.2.004 | Colecistitis aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.2.005 | Diarrea aguda | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.06.2.006 | Encefalopatía hepática | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.006 | Encefalopatía hepática | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md) |
 | 1.06.2.007 | Hemorragia digestiva alta y baja | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva alta](hemorragia-digestiva-alta.md) |
 | 1.06.2.008 | Hepatitis aguda A complicada | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.2.009 | Insuficiencia hepática aguda | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.2.010 | Pancreatitis aguda | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.06.2.011 | Peritonitis bacteriana espontánea del cirrótico | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.06.2.012 | Síndrome hepatorrenal | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.011 | Peritonitis bacteriana espontánea del cirrótico | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md) |
+| 1.06.2.012 | Síndrome hepatorrenal | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md) |
 
 ## Cómo leer los niveles EUNACOM
 

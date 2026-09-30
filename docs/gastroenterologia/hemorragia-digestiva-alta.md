@@ -61,7 +61,7 @@ La **hemorragia digestiva alta (HDA)** es el sangrado del tubo digestivo que se 
     - No existen cifras nacionales confiables de incidencia. En el Hospital Clínico de la Universidad de Chile (2015–2017), el **72 %** de las HDA fue **no variceal** (principal causa: **úlcera péptica**) y la **mortalidad intrahospitalaria fue 6,8 %**, mayor en la HDA variceal.
     - ***H. pylori***: prevalencia de hasta **~ 70 % en adultos** chilenos, de las más altas de la región.
     - Chile tiene una de las **tasas de cáncer gástrico más altas de América**: siempre considéralo como causa de HDA, sobre todo en mayores de 40 años.
-    - **GES relacionados**: **tratamiento de erradicación de *H. pylori*** (en úlcera péptica), **cáncer gástrico** y **cirrosis hepática** (incorporada al GES por el Decreto 29 de diciembre de 2025).
+    - **GES relacionados**: **tratamiento de erradicación de *H. pylori*** (en úlcera péptica), **cáncer gástrico** y **tratamiento farmacológico tras el alta hospitalaria por cirrosis hepática** (problema GES 88, incorporado por el Decreto GES 2025–2028, vigente desde el 1 de diciembre de 2025).
     - El **consumo de alcohol** y la **enfermedad hepática grasa metabólica** son las principales causas de cirrosis y, por lo tanto, de HDA variceal.
 
 ## Etiología y factores de riesgo

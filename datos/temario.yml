@@ -1014,6 +1014,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/cirrosis-y-complicaciones.md
   - codigo: 1.06.1.002
     nombre: Cáncer de páncreas
     dx: Sospecha
@@ -1034,6 +1036,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/cirrosis-y-complicaciones.md
   - codigo: 1.06.1.006
     nombre: Colelitiasis
     dx: Específico
@@ -1190,6 +1194,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/cirrosis-y-complicaciones.md
   - codigo: 1.06.2.007
     nombre: Hemorragia digestiva alta y baja
     dx: Sospecha
@@ -1217,11 +1223,15 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Derivar
+    resumen:
+    - gastroenterologia/cirrosis-y-complicaciones.md
   - codigo: 1.06.2.012
     nombre: Síndrome hepatorrenal
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/cirrosis-y-complicaciones.md
 - codigo: '1.07'
   titulo: Geriatría
   carpeta: geriatria

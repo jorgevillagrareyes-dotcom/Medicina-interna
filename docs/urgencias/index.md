@@ -78,7 +78,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.05.2.013 | Traumatismo torácico grave | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.2.014 | Traumatismo torácico simple | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 
-## Gastroenterología (1/12)
+## Gastroenterología (4/12)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
@@ -87,13 +87,13 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.06.2.003 | Colangitis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.2.004 | Colecistitis aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.2.005 | Diarrea aguda | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.06.2.006 | Encefalopatía hepática | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.006 | Encefalopatía hepática | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](../gastroenterologia/cirrosis-y-complicaciones.md) |
 | 1.06.2.007 | Hemorragia digestiva alta y baja | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva alta](../gastroenterologia/hemorragia-digestiva-alta.md) |
 | 1.06.2.008 | Hepatitis aguda A complicada | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.2.009 | Insuficiencia hepática aguda | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.2.010 | Pancreatitis aguda | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.06.2.011 | Peritonitis bacteriana espontánea del cirrótico | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.06.2.012 | Síndrome hepatorrenal | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.2.011 | Peritonitis bacteriana espontánea del cirrótico | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](../gastroenterologia/cirrosis-y-complicaciones.md) |
+| 1.06.2.012 | Síndrome hepatorrenal | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](../gastroenterologia/cirrosis-y-complicaciones.md) |
 
 ## Geriatría (1/5)
 
