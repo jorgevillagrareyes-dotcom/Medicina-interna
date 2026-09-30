@@ -516,6 +516,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/urgencias-oncologicas.md
   - codigo: 1.03.2.005
     nombre: Tetania
     dx: Específico
@@ -1503,26 +1505,36 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/urgencias-oncologicas.md
   - codigo: 1.08.2.005
     nombre: Lisis tumoral aguda
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - hematologia/urgencias-oncologicas.md
   - codigo: 1.08.2.006
     nombre: Neutropenia febril
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/urgencias-oncologicas.md
   - codigo: 1.08.2.007
     nombre: Síndrome de compresión medular
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/urgencias-oncologicas.md
   - codigo: 1.08.2.008
     nombre: Síndrome vena cava superior
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/urgencias-oncologicas.md
   - codigo: 1.08.2.009
     nombre: Trombopenia severa
     dx: Sospecha

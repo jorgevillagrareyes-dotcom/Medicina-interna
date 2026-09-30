@@ -132,6 +132,7 @@ nav:
   - Hemato-oncología:
       - hematologia/index.md
       - "Anemias: enfoque, ferropénica, de enfermedades crónicas, megaloblástica y hemolítica": hematologia/anemias.md
+      - "Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior": hematologia/urgencias-oncologicas.md
   - Nefrología:
       - nefrologia/index.md
       - "Enfermedad renal crónica": nefrologia/enfermedad-renal-cronica.md

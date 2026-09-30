@@ -8,11 +8,12 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **4 de 28** situaciones clínicas de esta subespecialidad tienen resumen.
+    **9 de 28** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Anemias: enfoque, ferropénica, de enfermedades crónicas, megaloblástica y hemolítica](anemias.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](urgencias-oncologicas.md)
 
 ## Situaciones clínicas
 
@@ -45,11 +46,11 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.08.2.001 | Coagulación intravascular diseminada | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.08.2.002 | Coagulopatía adquirida | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.08.2.003 | Coagulopatía congénita sangrante | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.08.2.004 | Hipercalcemia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.08.2.005 | Lisis tumoral aguda | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.08.2.006 | Neutropenia febril | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.08.2.007 | Síndrome de compresión medular | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.08.2.008 | Síndrome vena cava superior | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.08.2.004 | Hipercalcemia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](urgencias-oncologicas.md) |
+| 1.08.2.005 | Lisis tumoral aguda | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](urgencias-oncologicas.md) |
+| 1.08.2.006 | Neutropenia febril | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](urgencias-oncologicas.md) |
+| 1.08.2.007 | Síndrome de compresión medular | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](urgencias-oncologicas.md) |
+| 1.08.2.008 | Síndrome vena cava superior | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](urgencias-oncologicas.md) |
 | 1.08.2.009 | Trombopenia severa | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
 ## Cómo leer los niveles EUNACOM
