@@ -149,6 +149,7 @@ nav:
       - "Pancreatitis aguda": gastroenterologia/pancreatitis-aguda.md
   - Geriatría:
       - geriatria/index.md
+      - "Agitación psicomotora y agresividad (con énfasis en el adulto mayor)": geriatria/agitacion-psicomotora-y-agresividad.md
       - "Delirium (síndrome confusional agudo)": geriatria/delirium.md
   - Hemato-oncología:
       - hematologia/index.md

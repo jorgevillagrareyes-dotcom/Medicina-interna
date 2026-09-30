@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 560" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="980" height="560" fill="#ffffff"/>
+<text x="490.0" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Manejo escalonado de la agitación: de lo menos a lo más restrictivo</text>
+<rect x="26" y="302" width="176" height="118" rx="10" fill="#2e7d4f"/>
+<text x="114.0" y="329" text-anchor="middle" font-size="15.5" font-weight="700" fill="#fff">1. Evaluar y proteger</text>
+<line x1="40" y1="340" x2="188" y2="340" stroke="#ffffff" stroke-opacity="0.5"/>
+<text x="114.0" y="362" text-anchor="middle" font-size="13" fill="#fff">Seguridad de todos</text>
+<text x="114.0" y="382" text-anchor="middle" font-size="13" fill="#fff">Buscar la causa orgánica</text>
+<text x="114.0" y="402" text-anchor="middle" font-size="13" fill="#fff">Graduar: RASS o BARS</text>
+<rect x="26" y="424" width="176" height="4" fill="#2e7d4f" opacity="0.15"/>
+<rect x="215" y="240" width="176" height="118" rx="10" fill="#3a8a6e"/>
+<text x="303.0" y="267" text-anchor="middle" font-size="15.5" font-weight="700" fill="#fff">2. Desescalar</text>
+<line x1="229" y1="278" x2="377" y2="278" stroke="#ffffff" stroke-opacity="0.5"/>
+<text x="303.0" y="300" text-anchor="middle" font-size="13" fill="#fff">Un interlocutor, voz calma</text>
+<text x="303.0" y="320" text-anchor="middle" font-size="13" fill="#fff">Escuchar, ofrecer opciones</text>
+<text x="303.0" y="340" text-anchor="middle" font-size="13" fill="#fff">Ambiente tranquilo</text>
+<rect x="215" y="362" width="176" height="66" fill="#3a8a6e" opacity="0.15"/>
+<rect x="404" y="178" width="176" height="118" rx="10" fill="#c28a12"/>
+<text x="492.0" y="205" text-anchor="middle" font-size="15.5" font-weight="700" fill="#fff">3. Fármaco oral</text>
+<line x1="418" y1="216" x2="566" y2="216" stroke="#ffffff" stroke-opacity="0.5"/>
+<text x="492.0" y="238" text-anchor="middle" font-size="13" fill="#fff">El paciente participa</text>
+<text x="492.0" y="258" text-anchor="middle" font-size="13" fill="#fff">Meta: calmar, no dormir</text>
+<text x="492.0" y="278" text-anchor="middle" font-size="13" fill="#fff">Según la causa</text>
+<rect x="404" y="300" width="176" height="128" fill="#c28a12" opacity="0.15"/>
+<rect x="593" y="116" width="176" height="118" rx="10" fill="#c8651b"/>
+<text x="681.0" y="143" text-anchor="middle" font-size="15.5" font-weight="700" fill="#fff">4. Fármaco IM</text>
+<line x1="607" y1="154" x2="755" y2="154" stroke="#ffffff" stroke-opacity="0.5"/>
+<text x="681.0" y="176" text-anchor="middle" font-size="13" fill="#fff">Tranquilización rápida</text>
+<text x="681.0" y="196" text-anchor="middle" font-size="13" fill="#fff">Dosis bajas si es mayor</text>
+<text x="681.0" y="216" text-anchor="middle" font-size="13" fill="#fff">Signos vitales y ECG</text>
+<rect x="593" y="238" width="176" height="190" fill="#c8651b" opacity="0.15"/>
+<rect x="782" y="54" width="176" height="118" rx="10" fill="#b3261e"/>
+<text x="870.0" y="81" text-anchor="middle" font-size="15.5" font-weight="700" fill="#fff">5. Contención física</text>
+<line x1="796" y1="92" x2="944" y2="92" stroke="#ffffff" stroke-opacity="0.5"/>
+<text x="870.0" y="114" text-anchor="middle" font-size="13" fill="#fff">Último recurso, indicación</text>
+<text x="870.0" y="134" text-anchor="middle" font-size="13" fill="#fff">médica, tiempo mínimo,</text>
+<text x="870.0" y="154" text-anchor="middle" font-size="13" fill="#fff">vigilancia y registro</text>
+<rect x="782" y="176" width="176" height="252" fill="#b3261e" opacity="0.15"/>
+<defs><marker id="fl" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52606d"/></marker></defs>
+<line x1="60" y1="95" x2="560" y2="95" stroke="#52606d" stroke-width="2.5" marker-end="url(#fl)"/>
+<text x="60" y="84" font-size="14" font-weight="600" fill="#52606d">Más restricción, más riesgo y más vigilancia</text>
+<text x="60" y="118" font-size="13" fill="#52606d">Pasar al siguiente paso solo si el anterior falla o el riesgo es inminente</text>
+<rect x="26" y="438" width="928" height="96" rx="8" fill="#eef4fb" stroke="#1f5f99" stroke-width="1.5"/>
+<text x="42" y="462" font-size="14" fill="#123a5c"><tspan font-weight="700">En todos los pasos:</tspan> buscar y tratar la causa (hipoxia, hipoglicemia, dolor, retención urinaria, fecaloma,</text>
+<text x="42" y="482" font-size="14" fill="#123a5c"><tspan font-weight="700"></tspan>fármacos, abstinencia, infección). En el adulto mayor, la agitación es delirium hasta demostrar lo contrario.</text>
+<text x="42" y="502" font-size="14" fill="#123a5c"><tspan font-weight="700">Evitar:</tspan> benzodiacepinas en el delirium (salvo abstinencia), haloperidol en Parkinson o cuerpos de Lewy,</text>
+<text x="42" y="522" font-size="14" fill="#123a5c"><tspan font-weight="700"></tspan>la posición prona en la contención y dejar al paciente contenido sin vigilancia. Registrar todo en la ficha.</text>
+<text x="954" y="554" text-anchor="end" font-size="11.5" fill="#7b8794">Esquema propio basado en Project BETA (Richmond 2012; Wilson 2012), NICE NG10 y la Ley 21.331.</text>
+</svg>

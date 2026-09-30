@@ -1509,6 +1509,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - geriatria/agitacion-psicomotora-y-agresividad.md
   - codigo: 1.07.2.005
     nombre: Síndrome confusional agudo / delirium
     dx: Específico
