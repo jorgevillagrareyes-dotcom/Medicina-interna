@@ -161,6 +161,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - endocrinologia/obesidad-y-sindrome-metabolico.md
   - codigo: 1.01.1.024
     nombre: Taquicardia paroxística supraventricular (TPSV)
     dx: Específico
@@ -308,11 +310,15 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - endocrinologia/obesidad-y-sindrome-metabolico.md
   - codigo: 1.02.1.013
     nombre: Obesidad mórbida
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/obesidad-y-sindrome-metabolico.md
   - codigo: 1.02.1.014
     nombre: Pie diabético y otras infecciones en diabetes
     dx: Específico
@@ -332,6 +338,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - endocrinologia/obesidad-y-sindrome-metabolico.md
   - codigo: 1.02.1.017
     nombre: Síndromes carenciales de vitaminas y minerales
     dx: Específico

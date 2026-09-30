@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **29 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
+    **30 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -49,7 +49,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.01.1.020 | Miocardiopatías | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.01.1.021 | Paciente con soplo | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Valvulopatías, paciente con soplo y fiebre reumática](valvulopatias-y-soplos.md) |
 | 1.01.1.022 | Pericarditis aguda | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Pericarditis aguda, derrame pericárdico y taponamiento cardíaco](pericarditis-y-taponamiento.md) |
-| 1.01.1.023 | Síndrome metabólico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.023 | Síndrome metabólico | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Obesidad, obesidad mórbida y síndrome metabólico](../endocrinologia/obesidad-y-sindrome-metabolico.md) |
 | 1.01.1.024 | Taquicardia paroxística supraventricular (TPSV) | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](paro-cardiorrespiratorio-y-arritmias.md) |
 
 ## Situaciones clínicas de urgencia
