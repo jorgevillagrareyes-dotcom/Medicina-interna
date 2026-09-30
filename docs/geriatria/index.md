@@ -8,18 +8,19 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **6 de 22** situaciones clínicas de esta subespecialidad tienen resumen.
+    **9 de 22** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Agitación psicomotora y agresividad (con énfasis en el adulto mayor)](agitacion-psicomotora-y-agresividad.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Caídas, hipotensión ortostática y fractura de cadera en el adulto mayor](caidas-hipotension-ortostatica-y-fractura-de-cadera.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Delirium (síndrome confusional agudo)](delirium.md)
 
 ## Situaciones clínicas
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.07.1.001 | Caídas | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.07.1.001 | Caídas | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Caídas, hipotensión ortostática y fractura de cadera en el adulto mayor](caidas-hipotension-ortostatica-y-fractura-de-cadera.md) |
 | 1.07.1.002 | Constipación y fecalomas | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.003 | Demencia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.004 | Depresión | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -28,7 +29,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.07.1.007 | Escaras o úlceras por presión | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.008 | Fragilidad | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.009 | Hipertensión arterial | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
-| 1.07.1.010 | Hipotensión postural | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.07.1.010 | Hipotensión postural | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Caídas, hipotensión ortostática y fractura de cadera en el adulto mayor](caidas-hipotension-ortostatica-y-fractura-de-cadera.md) |
 | 1.07.1.011 | Hipotermia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.012 | Incontinencia urinaria | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.013 | Inmovilidad | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -43,7 +44,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 |---|---|---|---|---|---|
 | 1.07.2.001 | Abdomen agudo en adulto mayor | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](../gastroenterologia/abdomen-agudo.md) |
 | 1.07.2.002 | Evento coronario en adulto mayor | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](../cardiologia/sindrome-coronario-agudo.md) |
-| 1.07.2.003 | Fractura de cadera | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.07.2.003 | Fractura de cadera | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Caídas, hipotensión ortostática y fractura de cadera en el adulto mayor](caidas-hipotension-ortostatica-y-fractura-de-cadera.md) |
 | 1.07.2.004 | Agitación y agresividad | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Agitación psicomotora y agresividad (con énfasis en el adulto mayor)](agitacion-psicomotora-y-agresividad.md) |
 | 1.07.2.005 | Síndrome confusional agudo / delirium | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Delirium (síndrome confusional agudo)](delirium.md) |
 

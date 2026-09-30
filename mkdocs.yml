@@ -150,6 +150,7 @@ nav:
   - Geriatría:
       - geriatria/index.md
       - "Agitación psicomotora y agresividad (con énfasis en el adulto mayor)": geriatria/agitacion-psicomotora-y-agresividad.md
+      - "Caídas, hipotensión ortostática y fractura de cadera en el adulto mayor": geriatria/caidas-hipotension-ortostatica-y-fractura-de-cadera.md
       - "Delirium (síndrome confusional agudo)": geriatria/delirium.md
   - Hemato-oncología:
       - hematologia/index.md

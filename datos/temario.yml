@@ -1400,6 +1400,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Derivar
+    resumen:
+    - geriatria/caidas-hipotension-ortostatica-y-fractura-de-cadera.md
   - codigo: 1.07.1.002
     nombre: Constipación y fecalomas
     dx: Específico
@@ -1449,6 +1451,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - geriatria/caidas-hipotension-ortostatica-y-fractura-de-cadera.md
   - codigo: 1.07.1.011
     nombre: Hipotermia
     dx: Específico
@@ -1504,6 +1508,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - geriatria/caidas-hipotension-ortostatica-y-fractura-de-cadera.md
   - codigo: 1.07.2.004
     nombre: Agitación y agresividad
     dx: Sospecha

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 600" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="980" height="600" fill="#ffffff"/>
+<text x="490.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Fracturas de cadera: localización, irrigación y tratamiento quirúrgico</text>
+<path d="M240,490 L234,408 Q210,392 214,380 Q220,368 232,370 Q208,322 170,280 A56 56 0 1 1 178,192 Q230,206 278,212 Q282,175 305,168 Q330,170 333,205 Q336,240 328,280 Q320,340 320,490" fill="#f3ead8" stroke="#8a7650" stroke-width="2.2"/>
+<path d="M240,490 L320,490" stroke="#f3ead8" stroke-width="3"/>
+<path d="M70,255 Q64,180 118,158 Q160,146 192,166" fill="none" stroke="#9aa5b1" stroke-width="10" stroke-linecap="round"/>
+<text x="32" y="152" font-size="12.5" fill="#7b8794">Acetábulo</text>
+<path d="M78,232 Q78,160 145,162 Q225,176 284,210 L234,376 Q185,340 148,304 Q84,294 78,232 Z" fill="none" stroke="#6b3fa0" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="30" y="332" font-size="12.5" fill="#6b3fa0">Cápsula articular</text>
+<path d="M216,412 Q180,362 170,318 Q166,292 150,280" fill="none" stroke="#c0392b" stroke-width="2.2"/>
+<text x="30" y="436" font-size="12.5" fill="#c0392b">Arteria circunfleja</text>
+<text x="30" y="452" font-size="12.5" fill="#c0392b">femoral medial</text>
+<line x1="186" y1="200" x2="176" y2="280" stroke="#b3261e" stroke-width="4" stroke-linecap="round"/>
+<line x1="225" y1="206" x2="200" y2="322" stroke="#d0492f" stroke-width="4" stroke-linecap="round"/>
+<line x1="268" y1="212" x2="228" y2="362" stroke="#e0782b" stroke-width="4" stroke-linecap="round"/>
+<line x1="316" y1="225" x2="226" y2="378" stroke="#1f5f99" stroke-width="4" stroke-linecap="round"/>
+<rect x="236" y="410" width="86" height="50" fill="#2e7d9a" opacity="0.22"/>
+<line x1="236" y1="428" x2="321" y2="440" stroke="#2e7d9a" stroke-width="4" stroke-linecap="round"/>
+<text x="332" y="458" font-size="12" fill="#2e7d9a">Hasta 5 cm bajo</text>
+<text x="332" y="472" font-size="12" fill="#2e7d9a">el trocánter menor</text>
+<circle cx="190" cy="176" r="12" fill="#ffffff" stroke="#b3261e" stroke-width="2.5"/>
+<text x="190" y="181" text-anchor="middle" font-size="14" font-weight="700" fill="#b3261e">1</text>
+<circle cx="228" cy="184" r="12" fill="#ffffff" stroke="#d0492f" stroke-width="2.5"/>
+<text x="228" y="189" text-anchor="middle" font-size="14" font-weight="700" fill="#d0492f">2</text>
+<circle cx="264" cy="190" r="12" fill="#ffffff" stroke="#e0782b" stroke-width="2.5"/>
+<text x="264" y="195" text-anchor="middle" font-size="14" font-weight="700" fill="#e0782b">3</text>
+<circle cx="300" cy="308" r="12" fill="#ffffff" stroke="#1f5f99" stroke-width="2.5"/>
+<text x="300" y="313" text-anchor="middle" font-size="14" font-weight="700" fill="#1f5f99">4</text>
+<circle cx="346" cy="432" r="12" fill="#ffffff" stroke="#2e7d9a" stroke-width="2.5"/>
+<text x="346" y="437" text-anchor="middle" font-size="14" font-weight="700" fill="#2e7d9a">5</text>
+<text x="320" y="158" font-size="12.5" fill="#7b8794">Trocánter mayor</text>
+<text x="210" y="398" text-anchor="end" font-size="12.5" fill="#7b8794">Trocánter menor</text>
+<rect x="460" y="52" width="500" height="250" rx="10" fill="#fdf1ef" stroke="#b3261e" stroke-width="1.5"/>
+<text x="474" y="76" font-size="16" font-weight="700" fill="#b3261e">Intracapsulares (cuello del fémur)</text>
+<text x="474" y="96" font-size="13.5" fill="#1f2933">Cortan la irrigación de la cabeza: riesgo de necrosis avascular</text>
+<text x="474" y="113" font-size="13.5" fill="#1f2933">y de no unión. Sangran poco (la cápsula contiene el hematoma).</text>
+<circle cx="484" cy="137" r="12" fill="#ffffff" stroke="#b3261e" stroke-width="2.5"/>
+<text x="484" y="142" text-anchor="middle" font-size="14" font-weight="700" fill="#b3261e">1</text>
+<text x="504" y="142" font-size="14.5" font-weight="700" fill="#b3261e">Subcapital</text>
+<circle cx="484" cy="161" r="12" fill="#ffffff" stroke="#d0492f" stroke-width="2.5"/>
+<text x="484" y="166" text-anchor="middle" font-size="14" font-weight="700" fill="#d0492f">2</text>
+<text x="504" y="166" font-size="14.5" font-weight="700" fill="#d0492f">Transcervical</text>
+<circle cx="484" cy="185" r="12" fill="#ffffff" stroke="#e0782b" stroke-width="2.5"/>
+<text x="484" y="190" text-anchor="middle" font-size="14" font-weight="700" fill="#e0782b">3</text>
+<text x="504" y="190" font-size="14.5" font-weight="700" fill="#e0782b">Basicervical</text>
+<text x="504" y="209" font-size="13.5" fill="#1f2933">Limítrofe: se comporta y se trata como extracapsular</text>
+<text x="474" y="238" font-size="13.5" fill="#1f2933"><tspan font-weight="700">Garden I–II</tspan> (no desplazada): osteosíntesis con tornillos canulados</text>
+<text x="474" y="258" font-size="13.5" fill="#1f2933"><tspan font-weight="700">Garden III–IV</tspan> (desplazada): artroplastia (hemiartroplastia,</text>
+<text x="474" y="276" font-size="13.5" fill="#1f2933">o prótesis total si camina sola y sin deterioro cognitivo)</text>
+<rect x="460" y="316" width="500" height="170" rx="10" fill="#eef4fb" stroke="#1f5f99" stroke-width="1.5"/>
+<text x="474" y="340" font-size="16" font-weight="700" fill="#1f5f99">Extracapsulares</text>
+<text x="474" y="360" font-size="13.5" fill="#1f2933">Hueso bien irrigado: consolidan bien, pero SANGRAN más (anemia).</text>
+<circle cx="484" cy="385" r="12" fill="#ffffff" stroke="#1f5f99" stroke-width="2.5"/>
+<text x="484" y="390" text-anchor="middle" font-size="14" font-weight="700" fill="#1f5f99">4</text>
+<text x="504" y="390" font-size="14.5" font-weight="700" fill="#1f5f99">Intertrocantérea (pertrocantérea)</text>
+<text x="504" y="409" font-size="13.5" fill="#1f2933">Estable: tornillo deslizante de cadera (DHS)</text>
+<text x="504" y="427" font-size="13.5" fill="#1f2933">Inestable: clavo endomedular</text>
+<circle cx="484" cy="445" r="12" fill="#ffffff" stroke="#2e7d9a" stroke-width="2.5"/>
+<text x="484" y="450" text-anchor="middle" font-size="14" font-weight="700" fill="#2e7d9a">5</text>
+<text x="504" y="450" font-size="14.5" font-weight="700" fill="#2e7d9a">Subtrocantérea</text>
+<text x="504" y="469" font-size="13.5" fill="#1f2933">Clavo endomedular</text>
+<rect x="20" y="500" width="940" height="68" rx="8" fill="#fff7e6" stroke="#e0a526" stroke-width="1.5"/>
+<text x="34" y="523" font-size="14" fill="#5c3d00"><tspan font-weight="700">Clínica:</tspan> dolor inguinal y no puede caminar tras una caída; pierna ACORTADA y en ROTACIÓN EXTERNA (más en la extracapsular).</text>
+<text x="34" y="545" font-size="14" fill="#5c3d00"><tspan font-weight="700">Imagen:</tspan> radiografía AP de pelvis y axial de cadera. Si es normal y la sospecha persiste: RM (o TC). Cirugía en ≤ 36–48 h.</text>
+<text x="960" y="590" text-anchor="end" font-size="11.5" fill="#7b8794">Esquema propio, no a escala, basado en NICE CG124 y AAOS 2021.</text>
+</svg>
