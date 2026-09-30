@@ -42,5 +42,5 @@ Ya están hechos (52 resúmenes): HTA, crisis hipertensiva, SCA, FA, TEP, EPOC, 
 1. Síndrome nefrótico/anasarca, glomerulonefritis rápidamente progresiva, cólico renal
 2. Abdomen agudo, insuficiencia hepática aguda, hepatitis A
 3. Neumonía nosocomial y en inmunosuprimidos · VIH
-4. Otras urgencias sin resumen: tétanos, absceso cerebral, flegmón de piso de boca, varicela complicada, tetania, fractura de cadera, agitación psicomotora, distonía aguda, encefalopatías tóxico-metabólicas
+4. Otras urgencias sin resumen: tétanos, absceso cerebral, flegmón de piso de boca, varicela complicada, tetania, afagia aguda, fractura de cadera, agitación y agresividad, distonía aguda y movimientos anormales por fármacos, encefalopatías tóxico-metabólicas
 5. Resto del temario (ítems sin `resumen` en `datos/temario.yml`)
