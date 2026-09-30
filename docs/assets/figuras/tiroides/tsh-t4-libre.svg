@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 700" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="960" height="700" fill="#ffffff"/>
+<text x="480.0" y="32" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2933">Interpretación de la TSH y la T4 libre</text>
+<rect x="154" y="104" width="252" height="177" rx="8" fill="#fde2c8" stroke="#ffffff"/>
+<text x="280.0" y="168.5" text-anchor="middle" font-size="16" font-weight="700" fill="#9a4a06">Hipotiroidismo primario</text>
+<text x="280.0" y="192.5" text-anchor="middle" font-size="13.5" fill="#1f2933">clínico (el más frecuente:</text>
+<text x="280.0" y="210.5" text-anchor="middle" font-size="13.5" fill="#1f2933">tiroiditis de Hashimoto)</text>
+<rect x="414" y="104" width="252" height="177" rx="8" fill="#fef0d9" stroke="#ffffff"/>
+<text x="540.0" y="158.5" text-anchor="middle" font-size="16" font-weight="700" fill="#9a4a06">Hipotiroidismo subclínico</text>
+<text x="540.0" y="182.5" text-anchor="middle" font-size="13.5" fill="#1f2933">repetir en 6–12 semanas;</text>
+<text x="540.0" y="200.5" text-anchor="middle" font-size="13.5" fill="#1f2933">o recuperación de enfermedad</text>
+<text x="540.0" y="218.5" text-anchor="middle" font-size="13.5" fill="#1f2933">no tiroidea, mala adherencia</text>
+<rect x="674" y="104" width="252" height="177" rx="8" fill="#ece7f6" stroke="#ffffff"/>
+<text x="800.0" y="158.5" text-anchor="middle" font-size="16" font-weight="700" fill="#5b3a99">Raro: TSH inapropiada</text>
+<text x="800.0" y="182.5" text-anchor="middle" font-size="13.5" fill="#1f2933">adenoma productor de TSH,</text>
+<text x="800.0" y="200.5" text-anchor="middle" font-size="13.5" fill="#1f2933">resistencia a hormona tiroidea,</text>
+<text x="800.0" y="218.5" text-anchor="middle" font-size="13.5" fill="#1f2933">interferencia, toma irregular de T4</text>
+<rect x="154" y="289" width="252" height="177" rx="8" fill="#ece7f6" stroke="#ffffff"/>
+<text x="280.0" y="343.5" text-anchor="middle" font-size="16" font-weight="700" fill="#5b3a99">Hipotiroidismo central</text>
+<text x="280.0" y="367.5" text-anchor="middle" font-size="13.5" fill="#1f2933">hipófisis o hipotálamo;</text>
+<text x="280.0" y="385.5" text-anchor="middle" font-size="13.5" fill="#1f2933">enfermedad no tiroidea,</text>
+<text x="280.0" y="403.5" text-anchor="middle" font-size="13.5" fill="#1f2933">fármacos</text>
+<rect x="414" y="289" width="252" height="177" rx="8" fill="#e3f2e7" stroke="#ffffff"/>
+<text x="540.0" y="363.5" text-anchor="middle" font-size="16" font-weight="700" fill="#1e6b3a">Eutiroideo</text>
+<text x="540.0" y="387.5" text-anchor="middle" font-size="13.5" fill="#1f2933">función tiroidea normal</text>
+<rect x="674" y="289" width="252" height="177" rx="8" fill="#f1f3f5" stroke="#ffffff"/>
+<text x="800.0" y="343.5" text-anchor="middle" font-size="16" font-weight="700" fill="#374151">T4 alta con TSH normal</text>
+<text x="800.0" y="367.5" text-anchor="middle" font-size="13.5" fill="#1f2933">amiodarona, heparina,</text>
+<text x="800.0" y="385.5" text-anchor="middle" font-size="13.5" fill="#1f2933">interferencia de laboratorio,</text>
+<text x="800.0" y="403.5" text-anchor="middle" font-size="13.5" fill="#1f2933">adenoma productor de TSH</text>
+<rect x="154" y="474" width="252" height="177" rx="8" fill="#ece7f6" stroke="#ffffff"/>
+<text x="280.0" y="528.5" text-anchor="middle" font-size="16" font-weight="700" fill="#5b3a99">TSH y T4 bajas</text>
+<text x="280.0" y="552.5" text-anchor="middle" font-size="13.5" fill="#1f2933">hipotiroidismo central,</text>
+<text x="280.0" y="570.5" text-anchor="middle" font-size="13.5" fill="#1f2933">enfermedad no tiroidea grave (UCI),</text>
+<text x="280.0" y="588.5" text-anchor="middle" font-size="13.5" fill="#1f2933">tras tratar un hipertiroidismo</text>
+<rect x="414" y="474" width="252" height="177" rx="8" fill="#fde7e4" stroke="#ffffff"/>
+<text x="540.0" y="528.5" text-anchor="middle" font-size="16" font-weight="700" fill="#8a1c14">Hipertiroidismo subclínico</text>
+<text x="540.0" y="552.5" text-anchor="middle" font-size="13.5" fill="#1f2933">medir T3 (T3-toxicosis);</text>
+<text x="540.0" y="570.5" text-anchor="middle" font-size="13.5" fill="#1f2933">corticoides, dopamina,</text>
+<text x="540.0" y="588.5" text-anchor="middle" font-size="13.5" fill="#1f2933">primer trimestre del embarazo</text>
+<rect x="674" y="474" width="252" height="177" rx="8" fill="#fbd2cc" stroke="#ffffff"/>
+<text x="800.0" y="528.5" text-anchor="middle" font-size="16" font-weight="700" fill="#8a1c14">Tirotoxicosis</text>
+<text x="800.0" y="552.5" text-anchor="middle" font-size="13.5" fill="#1f2933">Graves, bocio nodular tóxico,</text>
+<text x="800.0" y="570.5" text-anchor="middle" font-size="13.5" fill="#1f2933">tiroiditis, exceso de</text>
+<text x="800.0" y="588.5" text-anchor="middle" font-size="13.5" fill="#1f2933">levotiroxina</text>
+<text x="280.0" y="88" text-anchor="middle" font-size="15" font-weight="700" fill="#12474f">T4 libre baja</text>
+<text x="540.0" y="88" text-anchor="middle" font-size="15" font-weight="700" fill="#12474f">T4 libre normal</text>
+<text x="800.0" y="88" text-anchor="middle" font-size="15" font-weight="700" fill="#12474f">T4 libre alta</text>
+<text x="136" y="197.5" text-anchor="end" font-size="15" font-weight="700" fill="#12474f">TSH alta</text>
+<text x="136" y="382.5" text-anchor="end" font-size="15" font-weight="700" fill="#12474f">TSH normal</text>
+<text x="136" y="567.5" text-anchor="end" font-size="15" font-weight="700" fill="#12474f">TSH baja</text>
+<text x="14" y="686" font-size="12" fill="#52606d">Esquema propio. La TSH es el mejor examen inicial si el eje hipotálamo-hipófisis está sano; con sospecha de enfermedad hipofisaria, pedir siempre la T4 libre.</text>
+</svg>

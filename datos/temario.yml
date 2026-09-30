@@ -374,11 +374,15 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - endocrinologia/hipotiroidismo-e-hipertiroidismo.md
   - codigo: 1.03.1.003
     nombre: Hipertiroidismo
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/hipotiroidismo-e-hipertiroidismo.md
   - codigo: 1.03.1.004
     nombre: Cáncer del tiroides
     dx: Sospecha
@@ -389,6 +393,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - endocrinologia/hipotiroidismo-e-hipertiroidismo.md
   - codigo: 1.03.1.006
     nombre: Síndrome de Cushing
     dx: Sospecha
@@ -491,11 +497,15 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/hipotiroidismo-e-hipertiroidismo.md
   - codigo: 1.03.2.002
     nombre: Mixedema
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/hipotiroidismo-e-hipertiroidismo.md
   - codigo: 1.03.2.003
     nombre: Insuficiencia suprarrenal aguda
     dx: Específico

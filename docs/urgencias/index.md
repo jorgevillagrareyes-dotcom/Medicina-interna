@@ -33,12 +33,12 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.02.2.006 | Hipoglicemias | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipoglicemia](../endocrinologia/hipoglicemia.md) |
 | 1.02.2.007 | Síndrome hiperosmolar no cetósico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](../endocrinologia/cetoacidosis-y-estado-hiperosmolar.md) |
 
-## Endocrinología (0/5)
+## Endocrinología (2/5)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.03.2.001 | Tormenta tiroidea | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.03.2.002 | Mixedema | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.2.001 | Tormenta tiroidea | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipotiroidismo, hipertiroidismo y tiroiditis](../endocrinologia/hipotiroidismo-e-hipertiroidismo.md) |
+| 1.03.2.002 | Mixedema | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipotiroidismo, hipertiroidismo y tiroiditis](../endocrinologia/hipotiroidismo-e-hipertiroidismo.md) |
 | 1.03.2.003 | Insuficiencia suprarrenal aguda | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.2.004 | Hipercalcemia aguda | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.2.005 | Tetania | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
