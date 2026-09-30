@@ -8,11 +8,12 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **27 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
+    **31 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](cetoacidosis-y-estado-hiperosmolar.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones crónicas de la diabetes: nefropatía, retinopatía, neuropatía, enfermedad arterial periférica y pie diabético](complicaciones-cronicas-de-la-diabetes.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 2](diabetes-mellitus-tipo-2.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Dislipidemias e hipertrigliceridemia grave](dislipidemia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipoglicemia](hipoglicemia.md)
@@ -36,16 +37,16 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.02.1.007 | Dislipidemias | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Dislipidemias e hipertrigliceridemia grave](dislipidemia.md) |
 | 1.02.1.008 | Hipertensión arterial en diabetes tipo 2 | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
 | 1.02.1.009 | Insuficiencia renal y diabetes | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](../nefrologia/enfermedad-renal-cronica.md) |
-| 1.02.1.010 | Nefropatía incipiente | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.02.1.011 | Neuropatía diabética | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.010 | Nefropatía incipiente | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones crónicas de la diabetes: nefropatía, retinopatía, neuropatía, enfermedad arterial periférica y pie diabético](complicaciones-cronicas-de-la-diabetes.md) |
+| 1.02.1.011 | Neuropatía diabética | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones crónicas de la diabetes: nefropatía, retinopatía, neuropatía, enfermedad arterial periférica y pie diabético](complicaciones-cronicas-de-la-diabetes.md) |
 | 1.02.1.012 | Obesidad | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.02.1.013 | Obesidad mórbida | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.02.1.014 | Pie diabético y otras infecciones en diabetes | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de piel y partes blandas](../infectologia/infecciones-piel-partes-blandas.md) |
-| 1.02.1.015 | Retinopatía diabética | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.015 | Retinopatía diabética | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones crónicas de la diabetes: nefropatía, retinopatía, neuropatía, enfermedad arterial periférica y pie diabético](complicaciones-cronicas-de-la-diabetes.md) |
 | 1.02.1.016 | Síndrome metabólico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.02.1.017 | Síndromes carenciales de vitaminas y minerales | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.02.1.018 | Trastornos de conducta alimentaria | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.02.1.019 | Vasculopatía periférica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.019 | Vasculopatía periférica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones crónicas de la diabetes: nefropatía, retinopatía, neuropatía, enfermedad arterial periférica y pie diabético](complicaciones-cronicas-de-la-diabetes.md) |
 
 ### Situaciones clínicas de urgencia
 

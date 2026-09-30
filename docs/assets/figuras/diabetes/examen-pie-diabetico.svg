@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 560" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="980" height="560" fill="#ffffff"/>
+<text x="490.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Examen anual del pie diabético y categoría de riesgo (IWGDF 2023)</text>
+<path d="M150,470 C112,470 100,430 102,380 C104,330 96,290 94,250 C92,205 100,170 112,150 C124,130 150,122 176,126 C200,130 214,150 216,180 C218,220 206,260 204,300 C202,345 206,400 200,440 C196,462 178,472 150,470 Z" fill="#f6dcc8" stroke="#b08968" stroke-width="2.2"/>
+<ellipse cx="110" cy="118" rx="17" ry="22" fill="#f6dcc8" stroke="#b08968" stroke-width="2"/>
+<ellipse cx="138" cy="104" rx="12" ry="15" fill="#f6dcc8" stroke="#b08968" stroke-width="2"/>
+<ellipse cx="160" cy="100" rx="11" ry="14" fill="#f6dcc8" stroke="#b08968" stroke-width="2"/>
+<ellipse cx="180" cy="106" rx="10" ry="13" fill="#f6dcc8" stroke="#b08968" stroke-width="2"/>
+<ellipse cx="198" cy="118" rx="9" ry="12" fill="#f6dcc8" stroke="#b08968" stroke-width="2"/>
+<circle cx="112" cy="118" r="11" fill="#b3261e"/>
+<text x="112" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">1</text>
+<circle cx="112" cy="178" r="11" fill="#b3261e"/>
+<text x="112" y="183" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">2</text>
+<circle cx="200" cy="196" r="11" fill="#b3261e"/>
+<text x="200" y="201" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">3</text>
+<text x="150" y="500" text-anchor="middle" font-size="13.5" fill="#1f2933">Planta del pie derecho</text>
+<text x="150" y="518" text-anchor="middle" font-size="12.5" fill="#52606d">1: pulpejo del ortejo mayor</text>
+<text x="150" y="534" text-anchor="middle" font-size="12.5" fill="#52606d">2 y 3: cabezas del 1.º y 5.º metatarsiano</text>
+<rect x="270" y="52" width="300" height="468" rx="10" fill="#f7f8fa" stroke="#d9dee3"/>
+<text x="284" y="78" font-size="15.5" font-weight="700" fill="#1f5f99">Qué examinar cada año</text>
+<text x="284" y="104" font-size="14" font-weight="700" fill="#1f2933">Sensibilidad protectora</text>
+<text x="284" y="123" font-size="13" fill="#3e4c59">Monofilamento de 10 g (3 puntos</text>
+<text x="284" y="141" font-size="13" fill="#3e4c59">por pie, perpendicular hasta que se</text>
+<text x="284" y="159" font-size="13" fill="#3e4c59">curve, 1–2 s, sin mirar)</text>
+<text x="284" y="208" font-size="14" font-weight="700" fill="#1f2933">Más una de estas pruebas</text>
+<text x="284" y="227" font-size="13" fill="#3e4c59">Diapasón de 128 Hz en el dorso</text>
+<text x="284" y="245" font-size="13" fill="#3e4c59">del ortejo mayor, pinchazo, reflejo</text>
+<text x="284" y="263" font-size="13" fill="#3e4c59">aquiliano o sensibilidad térmica</text>
+<text x="284" y="312" font-size="14" font-weight="700" fill="#1f2933">Enfermedad arterial</text>
+<text x="284" y="331" font-size="13" fill="#3e4c59">Pulsos pedio y tibial posterior,</text>
+<text x="284" y="349" font-size="13" fill="#3e4c59">claudicación; índice tobillo-brazo</text>
+<text x="284" y="367" font-size="13" fill="#3e4c59">(y dedo-brazo si el ITB es > 1,4)</text>
+<text x="284" y="416" font-size="14" font-weight="700" fill="#1f2933">Piel, uñas y deformidades</text>
+<text x="284" y="435" font-size="13" fill="#3e4c59">Callos, grietas, micosis, uñas,</text>
+<text x="284" y="453" font-size="13" fill="#3e4c59">dedos en garra, hallux valgus,</text>
+<text x="284" y="471" font-size="13" fill="#3e4c59">pie de Charcot; calzado</text>
+<text x="775" y="78" text-anchor="middle" font-size="15.5" font-weight="700" fill="#1f5f99">Categoría de riesgo y control</text>
+<rect x="590" y="96" width="370" height="86" rx="9" fill="#e3f5ea" stroke="#2e7d4f" stroke-width="1.6"/>
+<text x="604" y="120" font-size="15" font-weight="700" fill="#2e7d4f">0 · Muy bajo</text>
+<text x="946" y="120" text-anchor="end" font-size="13.5" font-weight="700" fill="#1f2933">Anual</text>
+<text x="604" y="142" font-size="13.5" fill="#1f2933">Sin pérdida de sensibilidad protectora</text>
+<text x="604" y="160" font-size="13.5" fill="#1f2933">(PSP) ni enfermedad arterial (EAP)</text>
+<rect x="590" y="192" width="370" height="68" rx="9" fill="#fff4d6" stroke="#c28a12" stroke-width="1.6"/>
+<text x="604" y="216" font-size="15" font-weight="700" fill="#c28a12">1 · Bajo</text>
+<text x="946" y="216" text-anchor="end" font-size="13.5" font-weight="700" fill="#1f2933">Cada 6–12 meses</text>
+<text x="604" y="238" font-size="13.5" fill="#1f2933">PSP o EAP</text>
+<rect x="590" y="270" width="370" height="86" rx="9" fill="#fde8d8" stroke="#c8651b" stroke-width="1.6"/>
+<text x="604" y="294" font-size="15" font-weight="700" fill="#c8651b">2 · Moderado</text>
+<text x="946" y="294" text-anchor="end" font-size="13.5" font-weight="700" fill="#1f2933">Cada 3–6 meses</text>
+<text x="604" y="316" font-size="13.5" fill="#1f2933">PSP + EAP, o PSP + deformidad, o EAP +</text>
+<text x="604" y="334" font-size="13.5" fill="#1f2933">deformidad</text>
+<rect x="590" y="366" width="370" height="86" rx="9" fill="#fde7e5" stroke="#b3261e" stroke-width="1.6"/>
+<text x="604" y="390" font-size="15" font-weight="700" fill="#b3261e">3 · Alto</text>
+<text x="946" y="390" text-anchor="end" font-size="13.5" font-weight="700" fill="#1f2933">Cada 1–3 meses</text>
+<text x="604" y="412" font-size="13.5" fill="#1f2933">PSP o EAP + úlcera o amputación</text>
+<text x="604" y="430" font-size="13.5" fill="#1f2933">previa, o ERC terminal</text>
+<text x="590" y="476" font-size="12.5" fill="#52606d">Riesgo ≥ 1: educación, calzado adecuado y podología.</text>
+<text x="590" y="493" font-size="12.5" fill="#52606d">Úlcera activa, infección o isquemia: derivación urgente.</text>
+<text x="960" y="550" text-anchor="end" font-size="11.5" fill="#7b8794">Esquema propio basado en las guías prácticas IWGDF 2023 (Schaper 2024).</text>
+</svg>

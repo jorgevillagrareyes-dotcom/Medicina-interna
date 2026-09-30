@@ -294,11 +294,15 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - endocrinologia/complicaciones-cronicas-de-la-diabetes.md
   - codigo: 1.02.1.011
     nombre: Neuropatía diabética
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/complicaciones-cronicas-de-la-diabetes.md
   - codigo: 1.02.1.012
     nombre: Obesidad
     dx: Específico
@@ -321,6 +325,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/complicaciones-cronicas-de-la-diabetes.md
   - codigo: 1.02.1.016
     nombre: Síndrome metabólico
     dx: Específico
@@ -341,6 +347,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/complicaciones-cronicas-de-la-diabetes.md
   urgencias:
   - codigo: 1.02.2.001
     nombre: Acidosis láctica
