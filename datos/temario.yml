@@ -1358,6 +1358,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Derivar
+    resumen:
+    - geriatria/delirium.md
 - codigo: '1.08'
   titulo: Hemato-oncología
   carpeta: hematologia
