@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **26 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
+    **34 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -17,6 +17,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](trastornos-del-sodio.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Infección del tracto urinario](infeccion-urinaria.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos ácido-base](trastornos-acido-base.md)
 
 ## Situaciones clínicas
@@ -28,7 +29,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.09.1.003 | Alcalosis metabólica | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos ácido-base](trastornos-acido-base.md) |
 | 1.09.1.004 | Anemia en nefrópata | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
 | 1.09.1.005 | Bacteriuria asintomática | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infección del tracto urinario](infeccion-urinaria.md) |
-| 1.09.1.006 | Glomerulopatía lúpica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.1.006 | Glomerulopatía lúpica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md) |
 | 1.09.1.007 | Hipernatremia, poliuria | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](trastornos-del-sodio.md) |
 | 1.09.1.008 | Hipertensión arterial esencial | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
 | 1.09.1.009 | Hipertensión arterial secundaria | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
@@ -36,15 +37,15 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.09.1.011 | Infección urinaria baja (cistitis) | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infección del tracto urinario](infeccion-urinaria.md) |
 | 1.09.1.012 | Insuficiencia renal crónica | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
 | 1.09.1.013 | Nefritis intersticial no infecciosa (aguda o crónica) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
-| 1.09.1.014 | Nefropatía diabética | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.1.014 | Nefropatía diabética | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
 | 1.09.1.015 | Osteodistrofia en insuficiencia renal crónica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
 | 1.09.1.016 | Pielonefritis aguda no complicada | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infección del tracto urinario](infeccion-urinaria.md) |
 | 1.09.1.017 | Progresión de la IRC | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
-| 1.09.1.018 | Proteinuria | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.1.018 | Proteinuria | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md) · [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
 | 1.09.1.019 | Riñón poliquístico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.09.1.020 | Edema generalizado (anasarca) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.09.1.021 | Síndrome nefrítico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.09.1.022 | Síndrome nefrótico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.1.020 | Edema generalizado (anasarca) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md) |
+| 1.09.1.021 | Síndrome nefrítico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md) |
+| 1.09.1.022 | Síndrome nefrótico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md) |
 | 1.09.1.023 | Síndrome urémico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
 | 1.09.1.024 | Urolitiasis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.1.025 | Uropatía obstructiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
@@ -55,7 +56,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 |---|---|---|---|---|---|
 | 1.09.2.001 | Cólico nefrítico, urolitiasis y complicaciones: obstrucción, sepsis, insuficiencia renal | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.09.2.002 | Crisis hipertensivas, emergencias hipertensivas | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis hipertensiva](../cardiologia/crisis-hipertensiva.md) |
-| 1.09.2.003 | Edema generalizado grave (anasarca) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.003 | Edema generalizado grave (anasarca) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md) |
 | 1.09.2.004 | Enfermedad tubular aguda | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
 | 1.09.2.005 | Hiperkalemia grave | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipokalemia e hiperkalemia](trastornos-del-potasio.md) |
 | 1.09.2.006 | Hipokalemia | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipokalemia e hiperkalemia](trastornos-del-potasio.md) |
@@ -65,7 +66,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.09.2.010 | Insuficiencia renal aguda prerrenal | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
 | 1.09.2.011 | Pielonefritis aguda complicada | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infección del tracto urinario](infeccion-urinaria.md) |
 | 1.09.2.012 | Pre eclampsia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.09.2.013 | Vasculitis o glomerulonefritis rápidamente progresiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.013 | Vasculitis o glomerulonefritis rápidamente progresiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md) |
 
 ## Cómo leer los niveles EUNACOM
 

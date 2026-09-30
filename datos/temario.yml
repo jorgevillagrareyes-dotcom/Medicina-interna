@@ -1694,6 +1694,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/sindromes-glomerulares.md
   - codigo: 1.09.1.007
     nombre: Hipernatremia, poliuria
     dx: Sospecha
@@ -1748,6 +1750,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Completo
+    resumen:
+    - nefrologia/enfermedad-renal-cronica.md
   - codigo: 1.09.1.015
     nombre: Osteodistrofia en insuficiencia renal crónica
     dx: Sospecha
@@ -1774,6 +1778,9 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Completo
+    resumen:
+    - nefrologia/sindromes-glomerulares.md
+    - nefrologia/enfermedad-renal-cronica.md
   - codigo: 1.09.1.019
     nombre: Riñón poliquístico
     dx: Sospecha
@@ -1784,16 +1791,22 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/sindromes-glomerulares.md
   - codigo: 1.09.1.021
     nombre: Síndrome nefrítico
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/sindromes-glomerulares.md
   - codigo: 1.09.1.022
     nombre: Síndrome nefrótico
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/sindromes-glomerulares.md
   - codigo: 1.09.1.023
     nombre: Síndrome urémico
     dx: Específico
@@ -1831,6 +1844,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/sindromes-glomerulares.md
   - codigo: 1.09.2.004
     nombre: Enfermedad tubular aguda
     dx: Sospecha
@@ -1897,6 +1912,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/sindromes-glomerulares.md
 - codigo: '1.10'
   titulo: Neurología
   carpeta: neurologia
