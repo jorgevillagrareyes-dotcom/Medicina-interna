@@ -1941,6 +1941,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/preeclampsia-y-sindrome-hipertensivo-del-embarazo.md
   - codigo: 1.09.2.013
     nombre: Vasculitis o glomerulonefritis rápidamente progresiva
     dx: Sospecha

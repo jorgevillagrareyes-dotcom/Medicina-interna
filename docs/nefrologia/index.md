@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **36 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
+    **37 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -17,6 +17,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](trastornos-del-sodio.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Infección del tracto urinario](infeccion-urinaria.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Preeclampsia y síndrome hipertensivo del embarazo](preeclampsia-y-sindrome-hipertensivo-del-embarazo.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos ácido-base](trastornos-acido-base.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Urolitiasis y cólico renal](urolitiasis-y-colico-renal.md)
@@ -66,7 +67,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.09.2.009 | Insuficiencia renal aguda obstructiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
 | 1.09.2.010 | Insuficiencia renal aguda prerrenal | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md) |
 | 1.09.2.011 | Pielonefritis aguda complicada | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infección del tracto urinario](infeccion-urinaria.md) |
-| 1.09.2.012 | Pre eclampsia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.012 | Pre eclampsia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Preeclampsia y síndrome hipertensivo del embarazo](preeclampsia-y-sindrome-hipertensivo-del-embarazo.md) |
 | 1.09.2.013 | Vasculitis o glomerulonefritis rápidamente progresiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md) |
 
 ## Cómo leer los niveles EUNACOM

@@ -119,7 +119,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.08.2.008 | Síndrome vena cava superior | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](../hematologia/urgencias-oncologicas.md) |
 | 1.08.2.009 | Trombopenia severa | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trombocitopenia: enfoque, PTI, microangiopatías trombóticas (PTT y SHU) y trombocitopenia inducida por heparina](../hematologia/trombocitopenias.md) |
 
-## Nefrología (12/13)
+## Nefrología (13/13)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.09.2.009 | Insuficiencia renal aguda obstructiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](../nefrologia/lesion-renal-aguda.md) |
 | 1.09.2.010 | Insuficiencia renal aguda prerrenal | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](../nefrologia/lesion-renal-aguda.md) |
 | 1.09.2.011 | Pielonefritis aguda complicada | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infección del tracto urinario](../nefrologia/infeccion-urinaria.md) |
-| 1.09.2.012 | Pre eclampsia | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.2.012 | Pre eclampsia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Preeclampsia y síndrome hipertensivo del embarazo](../nefrologia/preeclampsia-y-sindrome-hipertensivo-del-embarazo.md) |
 | 1.09.2.013 | Vasculitis o glomerulonefritis rápidamente progresiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](../nefrologia/sindromes-glomerulares.md) |
 
 ## Neurología (18/21)
