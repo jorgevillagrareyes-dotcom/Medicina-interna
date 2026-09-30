@@ -43,7 +43,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.03.2.004 | Hipercalcemia aguda | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](../hematologia/urgencias-oncologicas.md) · [Trastornos del calcio, fósforo y magnesio: hipocalcemia, tetania e hipercalcemia](../endocrinologia/trastornos-del-calcio-fosforo-y-magnesio.md) |
 | 1.03.2.005 | Tetania | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos del calcio, fósforo y magnesio: hipocalcemia, tetania e hipercalcemia](../endocrinologia/trastornos-del-calcio-fosforo-y-magnesio.md) |
 
-## Enfermedades infecciosas (7/11)
+## Enfermedades infecciosas (8/11)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.04.2.007 | Sepsis y shock séptico | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](../infectologia/sepsis-y-shock-septico.md) |
 | 1.04.2.008 | Síndrome pulmonar por Hanta Virus | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome cardiopulmonar por hantavirus y leptospirosis](../infectologia/hantavirus-y-leptospirosis.md) |
 | 1.04.2.009 | Tétanos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.2.010 | Varicela complicada: neumonitis, cerebelitis, encefalitis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.010 | Varicela complicada: neumonitis, cerebelitis, encefalitis | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Varicela, herpes zóster y otros exantemas del adulto](../infectologia/varicela-y-herpes-zoster.md) |
 
 ## Enfermedades respiratorias (14/14)
 

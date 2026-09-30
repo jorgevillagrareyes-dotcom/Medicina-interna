@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **18 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
+    **20 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -20,6 +20,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía nosocomial, neumonía en inmunosuprimidos e infección asociada a catéter](neumonia-nosocomial-inmunosuprimidos-y-cateter.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](sepsis-y-shock-septico.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome cardiopulmonar por hantavirus y leptospirosis](hantavirus-y-leptospirosis.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Varicela, herpes zóster y otros exantemas del adulto](varicela-y-herpes-zoster.md)
 
 ## Situaciones clínicas
 
@@ -34,7 +35,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.1.008 | Dengue | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.009 | Diarrea asociada a antibióticos | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](../gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md) |
 | 1.04.1.010 | Enfermedades de transmisión sexual | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.1.011 | Enfermedades eruptivas no complicadas (varicela, herpes zóster, etc.) | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.011 | Enfermedades eruptivas no complicadas (varicela, herpes zóster, etc.) | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Varicela, herpes zóster y otros exantemas del adulto](varicela-y-herpes-zoster.md) |
 | 1.04.1.029 | Enfermedad leve moderada por SARS Cov 2 COVID 19 | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Influenza, COVID-19 y bronquitis aguda](influenza-y-covid-19.md) |
 | 1.04.1.012 | Fiebre tifoidea y paratifoidea | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.013 | Hidatidosis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -68,7 +69,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.2.007 | Sepsis y shock séptico | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](sepsis-y-shock-septico.md) |
 | 1.04.2.008 | Síndrome pulmonar por Hanta Virus | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome cardiopulmonar por hantavirus y leptospirosis](hantavirus-y-leptospirosis.md) |
 | 1.04.2.009 | Tétanos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.2.010 | Varicela complicada: neumonitis, cerebelitis, encefalitis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.2.010 | Varicela complicada: neumonitis, cerebelitis, encefalitis | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Varicela, herpes zóster y otros exantemas del adulto](varicela-y-herpes-zoster.md) |
 
 ## Cómo leer los niveles EUNACOM
 

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 520" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="980" height="520" fill="#ffffff"/>
+<text x="490.0" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Varicela, herpes zóster y mpox: cómo se ven las lesiones</text>
+<text x="30" y="70" font-size="15" font-weight="700" fill="#1f5f99">Varicela: la misma lesión evoluciona en ~ 24–48 h, y conviven todas las etapas ("cielo estrellado")</text>
+<rect x="40" y="140" width="140" height="60" fill="#f7e3d7"/>
+<line x1="40" y1="160" x2="180" y2="160" stroke="#d9b8a3" stroke-width="1.5"/>
+<ellipse cx="110" cy="160" rx="26" ry="5" fill="#e46b5d" opacity="0.8"/>
+<text x="110" y="222" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2933">Mácula</text>
+<text x="110" y="240" text-anchor="middle" font-size="12" fill="#52606d">roja, plana</text>
+<path d="M188,170 L214,170" stroke="#9aa5b1" stroke-width="2"/>
+<path d="M214,164 L222,170 L214,176 Z" fill="#9aa5b1"/>
+<rect x="225" y="140" width="140" height="60" fill="#f7e3d7"/>
+<line x1="225" y1="160" x2="365" y2="160" stroke="#d9b8a3" stroke-width="1.5"/>
+<ellipse cx="295" cy="160" rx="30" ry="6" fill="#e46b5d" opacity="0.55"/>
+<path d="M277,160 Q295,136 313,160 Z" fill="#d1493d"/>
+<text x="295" y="222" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2933">Pápula</text>
+<text x="295" y="240" text-anchor="middle" font-size="12" fill="#52606d">roja, solevantada</text>
+<path d="M373,170 L399,170" stroke="#9aa5b1" stroke-width="2"/>
+<path d="M399,164 L407,170 L399,176 Z" fill="#9aa5b1"/>
+<rect x="410" y="140" width="140" height="60" fill="#f7e3d7"/>
+<line x1="410" y1="160" x2="550" y2="160" stroke="#d9b8a3" stroke-width="1.5"/>
+<ellipse cx="480" cy="160" rx="34" ry="7" fill="#e46b5d" opacity="0.55"/>
+<path d="M460,160 Q480,124 500,160 Z" fill="#eaf4fb" stroke="#8fb3cc" stroke-width="1.5"/>
+<ellipse cx="474" cy="146" rx="4" ry="3" fill="#ffffff"/>
+<text x="480" y="222" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2933">Vesícula</text>
+<text x="480" y="240" text-anchor="middle" font-size="12" fill="#52606d">"gota de rocío" sobre base roja</text>
+<path d="M558,170 L584,170" stroke="#9aa5b1" stroke-width="2"/>
+<path d="M584,164 L592,170 L584,176 Z" fill="#9aa5b1"/>
+<rect x="595" y="140" width="140" height="60" fill="#f7e3d7"/>
+<line x1="595" y1="160" x2="735" y2="160" stroke="#d9b8a3" stroke-width="1.5"/>
+<ellipse cx="665" cy="160" rx="32" ry="7" fill="#e46b5d" opacity="0.5"/>
+<path d="M646,160 Q665,128 684,160 Z" fill="#f2df9b" stroke="#c9a94a" stroke-width="1.5"/>
+<text x="665" y="222" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2933">Pústula</text>
+<text x="665" y="240" text-anchor="middle" font-size="12" fill="#52606d">contenido turbio</text>
+<path d="M743,170 L769,170" stroke="#9aa5b1" stroke-width="2"/>
+<path d="M769,164 L777,170 L769,176 Z" fill="#9aa5b1"/>
+<rect x="780" y="140" width="140" height="60" fill="#f7e3d7"/>
+<line x1="780" y1="160" x2="920" y2="160" stroke="#d9b8a3" stroke-width="1.5"/>
+<path d="M832,160 Q838,144 850,145 Q864,143 868,160 Z" fill="#7a4a2e"/>
+<text x="850" y="222" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2933">Costra</text>
+<text x="850" y="240" text-anchor="middle" font-size="12" fill="#52606d">deja de contagiar</text>
+<rect x="30.0" y="275" width="292.7" height="200" rx="10" fill="#fbfcfd" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="44.0" y="300" font-size="14.5" font-weight="700" fill="#1f5f99">Varicela (primoinfección)</text>
+<text x="44.0" y="324" font-size="12.5" fill="#1f2933">Distribución centrípeta: tronco y cara</text>
+<text x="44.0" y="344" font-size="12.5" fill="#1f2933">más que extremidades; cuero cabelludo</text>
+<text x="44.0" y="364" font-size="12.5" fill="#1f2933">y mucosas</text>
+<text x="44.0" y="384" font-size="12.5" fill="#1f2933">Lesiones en distintas etapas a la vez</text>
+<text x="44.0" y="404" font-size="12.5" fill="#1f2933">Muy pruriginosa</text>
+<text x="44.0" y="424" font-size="12.5" fill="#1f2933">Contagia 1–2 días antes del exantema</text>
+<text x="44.0" y="444" font-size="12.5" fill="#1f2933">y hasta que todo es costra</text>
+<rect x="336.7" y="275" width="292.7" height="200" rx="10" fill="#fbfcfd" stroke="#b3261e" stroke-width="1.6"/>
+<text x="350.7" y="300" font-size="14.5" font-weight="700" fill="#b3261e">Herpes zóster (reactivación)</text>
+<text x="350.7" y="324" font-size="12.5" fill="#1f2933">Dolor, ardor o prurito 2–4 días antes</text>
+<text x="350.7" y="344" font-size="12.5" fill="#1f2933">Vesículas agrupadas sobre base roja</text>
+<text x="350.7" y="364" font-size="12.5" fill="#1f2933">en un dermatoma, unilateral, sin</text>
+<text x="350.7" y="384" font-size="12.5" fill="#1f2933">cruzar la línea media (T y V1 son los</text>
+<text x="350.7" y="404" font-size="12.5" fill="#1f2933">más frecuentes)</text>
+<text x="350.7" y="424" font-size="12.5" fill="#1f2933">Diseminado (> 3 dermatomas): pensar</text>
+<text x="350.7" y="444" font-size="12.5" fill="#1f2933">en inmunosupresión; contagia por aire</text>
+<rect x="643.3" y="275" width="292.7" height="200" rx="10" fill="#fbfcfd" stroke="#6b3fa0" stroke-width="1.6"/>
+<text x="657.3" y="300" font-size="14.5" font-weight="700" fill="#6b3fa0">Mpox (diferencial)</text>
+<text x="657.3" y="324" font-size="12.5" fill="#1f2933">Lesiones en la misma etapa,</text>
+<text x="657.3" y="344" font-size="12.5" fill="#1f2933">firmes y umbilicadas, a menudo</text>
+<text x="657.3" y="364" font-size="12.5" fill="#1f2933">genitales, perianales u orales;</text>
+<text x="657.3" y="384" font-size="12.5" fill="#1f2933">también palmas y plantas</text>
+<text x="657.3" y="404" font-size="12.5" fill="#1f2933">Adenopatías dolorosas</text>
+<text x="657.3" y="424" font-size="12.5" fill="#1f2933">Proctitis, faringitis</text>
+<text x="657.3" y="444" font-size="12.5" fill="#1f2933">Pedir PCR de la lesión</text>
+<text x="30" y="506" font-size="11.5" fill="#52606d">Esquema propio, ilustrativo. El diagnóstico es clínico; confirmar con PCR de VZV del líquido de la vesícula (o de mpox) si hay dudas o inmunosupresión.</text>
+</svg>

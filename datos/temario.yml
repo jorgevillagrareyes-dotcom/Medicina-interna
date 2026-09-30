@@ -610,6 +610,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - infectologia/varicela-y-herpes-zoster.md
   - codigo: 1.04.1.029
     nombre: Enfermedad leve moderada por SARS Cov 2 COVID 19
     dx: Específico
@@ -786,6 +788,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/varicela-y-herpes-zoster.md
 - codigo: '1.05'
   titulo: Enfermedades respiratorias
   carpeta: respiratorio
@@ -2009,6 +2013,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - infectologia/varicela-y-herpes-zoster.md
   - codigo: 1.10.1.010
     nombre: Lumbago mecánico
     dx: Específico
