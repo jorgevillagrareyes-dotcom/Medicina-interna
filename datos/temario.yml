@@ -185,6 +185,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Derivar
+    resumen:
+    - cardiologia/paro-cardiorrespiratorio-y-arritmias.md
   - codigo: 1.01.2.007
     nombre: Shock
     dx: Específico
@@ -202,6 +204,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/paro-cardiorrespiratorio-y-arritmias.md
 - codigo: '1.02'
   titulo: Diabetes y nutrición
   carpeta: endocrinologia
@@ -1014,6 +1018,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Derivar
+    resumen:
+    - cardiologia/paro-cardiorrespiratorio-y-arritmias.md
   - codigo: 1.05.2.013
     nombre: Traumatismo torácico grave
     dx: Específico

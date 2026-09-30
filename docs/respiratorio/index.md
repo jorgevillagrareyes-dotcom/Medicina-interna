@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **13 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
+    **14 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -75,7 +75,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.05.2.009 | Insuficiencia respiratoria aguda o crónica reagudizada que no requiere ventilación mecánica | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.2.010 | Intoxicación por monóxido de carbono | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.2.011 | Neumotórax hipertensivo | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.05.2.012 | Paro cardiorrespiratorio | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.012 | Paro cardiorrespiratorio | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](../cardiologia/paro-cardiorrespiratorio-y-arritmias.md) |
 | 1.05.2.013 | Traumatismo torácico grave | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.2.014 | Traumatismo torácico simple | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 

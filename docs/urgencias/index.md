@@ -7,7 +7,7 @@ hide:
 
 Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicina interna, agrupadas por subespecialidad. Útil para preparar los turnos.
 
-## Cardiología (5/9)
+## Cardiología (7/9)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
@@ -16,10 +16,10 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.01.2.003 | Embolia cardiogénica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Fibrilación y flutter auricular](../cardiologia/fibrilacion-auricular.md) |
 | 1.01.2.004 | Infarto agudo al miocardio | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome coronario agudo](../cardiologia/sindrome-coronario-agudo.md) |
 | 1.01.2.005 | Insuficiencia cardíaca aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](../cardiologia/insuficiencia-cardiaca.md) |
-| 1.01.2.006 | Paro cardiorrespiratorio | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.006 | Paro cardiorrespiratorio | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](../cardiologia/paro-cardiorrespiratorio-y-arritmias.md) |
 | 1.01.2.007 | Shock | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](../infectologia/sepsis-y-shock-septico.md) |
 | 1.01.2.008 | Taponamiento pericárdico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.01.2.009 | Taqui y bradiarritmia con compromiso hemodinámico | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.2.009 | Taqui y bradiarritmia con compromiso hemodinámico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](../cardiologia/paro-cardiorrespiratorio-y-arritmias.md) |
 
 ## Diabetes y nutrición (6/7)
 
@@ -59,7 +59,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.04.2.009 | Tétanos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.2.010 | Varicela complicada: neumonitis, cerebelitis, encefalitis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
-## Enfermedades respiratorias (3/14)
+## Enfermedades respiratorias (4/14)
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@ Todas las **situaciones clínicas de urgencia** del perfil EUNACOM v3 de medicin
 | 1.05.2.009 | Insuficiencia respiratoria aguda o crónica reagudizada que no requiere ventilación mecánica | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.2.010 | Intoxicación por monóxido de carbono | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.2.011 | Neumotórax hipertensivo | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.05.2.012 | Paro cardiorrespiratorio | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.2.012 | Paro cardiorrespiratorio | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](../cardiologia/paro-cardiorrespiratorio-y-arritmias.md) |
 | 1.05.2.013 | Traumatismo torácico grave | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.2.014 | Traumatismo torácico simple | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 
