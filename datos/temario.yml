@@ -2095,6 +2095,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/tec-e-hipertension-endocraneana.md
   - codigo: 1.10.2.010
     nombre: Movimientos anormales inducidos por fármacos
     dx: Sospecha
@@ -2161,11 +2163,15 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - neurologia/tec-e-hipertension-endocraneana.md
   - codigo: 1.10.2.020
     nombre: Traumatismo encefalocraneano grave
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/tec-e-hipertension-endocraneana.md
   - codigo: 1.10.2.021
     nombre: Traumatismo raquimedular
     dx: Sospecha
