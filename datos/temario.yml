@@ -60,16 +60,22 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - cardiologia/valvulopatias-y-soplos.md
   - codigo: 1.01.1.009
     nombre: Estenosis aórtica
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/valvulopatias-y-soplos.md
   - codigo: 1.01.1.010
     nombre: Estenosis mitral
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/valvulopatias-y-soplos.md
   - codigo: 1.01.1.011
     nombre: Extrasistolía ventricular benigna
     dx: Específico
@@ -115,6 +121,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/valvulopatias-y-soplos.md
   - codigo: 1.01.1.018
     nombre: Insuficiencia cardíaca
     dx: Específico
@@ -127,6 +135,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/valvulopatias-y-soplos.md
   - codigo: 1.01.1.020
     nombre: Miocardiopatías
     dx: Sospecha
@@ -137,6 +147,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/valvulopatias-y-soplos.md
   - codigo: 1.01.1.022
     nombre: Pericarditis aguda
     dx: Sospecha

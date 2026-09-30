@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 600" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="980" height="600" fill="#ffffff"/>
+<text x="490.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Soplos de las valvulopatías: dónde, cuándo y cómo suenan</text>
+<text x="437.5" y="62" text-anchor="middle" font-size="14" font-weight="700" fill="#b3261e">Sístole</text>
+<text x="602.5" y="62" text-anchor="middle" font-size="14" font-weight="700" fill="#1f5f99">Diástole</text>
+<text x="840" y="62" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2933">Pistas clínicas</text>
+<rect x="16" y="84" width="948" height="114" rx="10" fill="#f7f8fa" stroke="#e1e5ea"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#b3261e">Estenosis aórtica</text>
+<text x="30" y="138" font-size="13.5" fill="#1f2933">Foco aórtico (2.º espacio derecho)</text>
+<text x="30" y="158" font-size="13.5" fill="#52606d">Irradia al cuello (carótidas)</text>
+<line x1="340" y1="158" x2="705" y2="158" stroke="#9aa5b1" stroke-width="1.5"/>
+<rect x="356" y="112" width="8" height="46" fill="#1f2933"/>
+<text x="360" y="175" text-anchor="middle" font-size="12" fill="#52606d">R1</text>
+<rect x="511" y="136" width="8" height="22" fill="#1f2933"/>
+<text x="515" y="175" text-anchor="middle" font-size="12" fill="#52606d">R2</text>
+<rect x="686" y="112" width="8" height="46" fill="#1f2933"/>
+<text x="690" y="175" text-anchor="middle" font-size="12" fill="#52606d">R1</text>
+<polygon points="370,158 437.5,116 503,158" fill="#b3261e" opacity="0.55"/>
+<text x="437.5" y="110" text-anchor="middle" font-size="12" fill="#b3261e">creciente-decreciente</text>
+<text x="728" y="110" font-size="13.5" fill="#1f2933">Pulso parvus et tardus</text>
+<text x="728" y="130" font-size="13.5" fill="#1f2933">Segundo ruido débil</text>
+<text x="728" y="150" font-size="13.5" fill="#1f2933">Angina, síncope y disnea</text>
+<text x="728" y="170" font-size="13.5" fill="#1f2933">de esfuerzo</text>
+<rect x="16" y="208" width="948" height="114" rx="10" fill="#ffffff" stroke="#e1e5ea"/>
+<text x="30" y="238" font-size="16" font-weight="700" fill="#c8651b">Insuficiencia mitral</text>
+<text x="30" y="262" font-size="13.5" fill="#1f2933">Ápex (foco mitral)</text>
+<text x="30" y="282" font-size="13.5" fill="#52606d">Irradia a la axila</text>
+<line x1="340" y1="282" x2="705" y2="282" stroke="#9aa5b1" stroke-width="1.5"/>
+<rect x="356" y="236" width="8" height="46" fill="#1f2933"/>
+<text x="360" y="299" text-anchor="middle" font-size="12" fill="#52606d">R1</text>
+<rect x="511" y="236" width="8" height="46" fill="#1f2933"/>
+<text x="515" y="299" text-anchor="middle" font-size="12" fill="#52606d">R2</text>
+<rect x="686" y="236" width="8" height="46" fill="#1f2933"/>
+<text x="690" y="299" text-anchor="middle" font-size="12" fill="#52606d">R1</text>
+<rect x="366" y="250" width="143" height="32" fill="#c8651b" opacity="0.55"/>
+<text x="437.5" y="244" text-anchor="middle" font-size="12" fill="#c8651b">holosistólico</text>
+<text x="728" y="234" font-size="13.5" fill="#1f2933">Holosistólico, en meseta</text>
+<text x="728" y="254" font-size="13.5" fill="#1f2933">Aumenta con el puño cerrado</text>
+<text x="728" y="274" font-size="13.5" fill="#1f2933">Tercer ruido si es grave</text>
+<text x="728" y="294" font-size="13.5" fill="#1f2933">Disnea, fibrilación auricular</text>
+<rect x="16" y="332" width="948" height="114" rx="10" fill="#f7f8fa" stroke="#e1e5ea"/>
+<text x="30" y="362" font-size="16" font-weight="700" fill="#1f5f99">Insuficiencia aórtica</text>
+<text x="30" y="386" font-size="13.5" fill="#1f2933">Borde esternal izquierdo</text>
+<text x="30" y="406" font-size="13.5" fill="#52606d">Sentado, inclinado, en espiración</text>
+<line x1="340" y1="406" x2="705" y2="406" stroke="#9aa5b1" stroke-width="1.5"/>
+<rect x="356" y="360" width="8" height="46" fill="#1f2933"/>
+<text x="360" y="423" text-anchor="middle" font-size="12" fill="#52606d">R1</text>
+<rect x="511" y="360" width="8" height="46" fill="#1f2933"/>
+<text x="515" y="423" text-anchor="middle" font-size="12" fill="#52606d">R2</text>
+<rect x="686" y="360" width="8" height="46" fill="#1f2933"/>
+<text x="690" y="423" text-anchor="middle" font-size="12" fill="#52606d">R1</text>
+<polygon points="521,406 521,366 635,406" fill="#1f5f99" opacity="0.55"/>
+<text x="585" y="362" text-anchor="middle" font-size="12" fill="#1f5f99">decreciente</text>
+<text x="728" y="358" font-size="13.5" fill="#1f2933">Diastólico precoz, decreciente</text>
+<text x="728" y="378" font-size="13.5" fill="#1f2933">Pulso saltón (celer)</text>
+<text x="728" y="398" font-size="13.5" fill="#1f2933">PA diferencial amplia</text>
+<text x="728" y="418" font-size="13.5" fill="#1f2933">(ej.: 160/50 mmHg)</text>
+<rect x="16" y="456" width="948" height="114" rx="10" fill="#ffffff" stroke="#e1e5ea"/>
+<text x="30" y="486" font-size="16" font-weight="700" fill="#6b3fa0">Estenosis mitral</text>
+<text x="30" y="510" font-size="13.5" fill="#1f2933">Ápex, con la campana</text>
+<text x="30" y="530" font-size="13.5" fill="#52606d">Decúbito lateral izquierdo</text>
+<line x1="340" y1="530" x2="705" y2="530" stroke="#9aa5b1" stroke-width="1.5"/>
+<rect x="356" y="470" width="8" height="60" fill="#1f2933"/>
+<text x="360" y="547" text-anchor="middle" font-size="12" fill="#52606d">R1</text>
+<rect x="511" y="484" width="8" height="46" fill="#1f2933"/>
+<text x="515" y="547" text-anchor="middle" font-size="12" fill="#52606d">R2</text>
+<rect x="686" y="470" width="8" height="60" fill="#1f2933"/>
+<text x="690" y="547" text-anchor="middle" font-size="12" fill="#52606d">R1</text>
+<rect x="535" y="504" width="4" height="26" fill="#6b3fa0"/>
+<text x="537" y="498" text-anchor="middle" font-size="12" fill="#6b3fa0">CA</text>
+<polygon points="545,530 545,504 620,520 620,530" fill="#6b3fa0" opacity="0.55"/>
+<polygon points="638,530 680,500 680,530" fill="#6b3fa0" opacity="0.55"/>
+<text x="610" y="464" text-anchor="middle" font-size="12" fill="#6b3fa0">retumbo + refuerzo presistólico</text>
+<text x="728" y="482" font-size="13.5" fill="#1f2933">Primer ruido fuerte y chasquido</text>
+<text x="728" y="502" font-size="13.5" fill="#1f2933">de apertura; retumbo diastólico</text>
+<text x="728" y="522" font-size="13.5" fill="#1f2933">Fibrilación auricular, embolias,</text>
+<text x="728" y="542" font-size="13.5" fill="#1f2933">hemoptisis; causa: fiebre reumática</text>
+<text x="30" y="586" font-size="12" fill="#52606d">R1 y R2: primer y segundo ruido; CA: chasquido de apertura. Los soplos del corazón derecho aumentan con la inspiración.</text>
+<text x="960" y="586" text-anchor="end" font-size="11.5" fill="#7b8794">Esquema propio, ilustrativo.</text>
+</svg>
