@@ -2164,6 +2164,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: No requiere
+    resumen:
+    - neurologia/trastornos-del-movimiento-por-farmacos.md
   - codigo: 1.10.2.006
     nombre: Encefalopatías tóxico metabólicas (urémica, hepática, etc)
     dx: Específico
@@ -2195,6 +2197,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/trastornos-del-movimiento-por-farmacos.md
   - codigo: 1.10.2.011
     nombre: Paraplejia aguda
     dx: Sospecha
