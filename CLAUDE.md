@@ -37,21 +37,20 @@ Para actualizarlo: `mkdocs build --strict`, copiar `site/` a una carpeta tempora
 
 ## Prioridad de los próximos temas
 
-Ya están hechos (70 resúmenes): HTA, crisis hipertensiva, SCA, FA, TEP, EPOC, asma, LRA, sodio, potasio, ácido-base, CAD/EHH, hipoglicemia, sepsis, ITU, piel, meningitis/encefalitis, cirrosis, pancreatitis, HDA, HDB, delirium, ACV, anemias, dislipidemia, tiroides, urgencias oncológicas, epilepsia, PCR y arritmias, endocarditis, insuficiencia suprarrenal, litiasis biliar, diarrea y *C. difficile*, tuberculosis, monoartritis/gota, insuficiencia respiratoria aguda, cefalea, síndrome aórtico agudo, pericarditis/taponamiento, coagulopatías/CID/reversión de anticoagulantes, trombocitopenias, hantavirus/leptospirosis, influenza/COVID-19/bronquitis aguda, abstinencia alcohólica/Wernicke, Guillain-Barré/mielopatías/trauma raquimedular, TEC/hipertensión endocraneana, neumotórax/trauma torácico, CO/ahogamiento/cuerpo extraño, síndromes glomerulares (nefrótico/nefrítico/GNRP/nefritis lúpica), urolitiasis/cólico renal, abdomen agudo (incl. adulto mayor y diverticulitis), hepatitis aguda/insuficiencia hepática aguda, neumonía nosocomial/en inmunosuprimidos/infección asociada a catéter, VIH (con candidiasis orofaríngea y esofágica y diarrea en inmunosuprimidos), preeclampsia/síndrome hipertensivo del embarazo, calcio/fósforo/magnesio (tetania, hipercalcemia), varicela/herpes zóster/exantemas, flegmón cervical/absceso pulmonar/absceso cerebral, tétanos, trastornos del movimiento por fármacos (distonía aguda, SNM, serotoninérgico), encefalopatías tóxico-metabólicas, agitación psicomotora y agresividad, caídas/hipotensión ortostática/fractura de cadera, disfagia/afagia aguda, osteoporosis, dispepsia/úlcera péptica/H. pylori/cáncer gástrico.
+Ya están hechos (71 resúmenes): HTA, crisis hipertensiva, SCA, FA, TEP, EPOC, asma, LRA, sodio, potasio, ácido-base, CAD/EHH, hipoglicemia, sepsis, ITU, piel, meningitis/encefalitis, cirrosis, pancreatitis, HDA, HDB, delirium, ACV, anemias, dislipidemia, tiroides, urgencias oncológicas, epilepsia, PCR y arritmias, endocarditis, insuficiencia suprarrenal, litiasis biliar, diarrea y *C. difficile*, tuberculosis, monoartritis/gota, insuficiencia respiratoria aguda, cefalea, síndrome aórtico agudo, pericarditis/taponamiento, coagulopatías/CID/reversión de anticoagulantes, trombocitopenias, hantavirus/leptospirosis, influenza/COVID-19/bronquitis aguda, abstinencia alcohólica/Wernicke, Guillain-Barré/mielopatías/trauma raquimedular, TEC/hipertensión endocraneana, neumotórax/trauma torácico, CO/ahogamiento/cuerpo extraño, síndromes glomerulares (nefrótico/nefrítico/GNRP/nefritis lúpica), urolitiasis/cólico renal, abdomen agudo (incl. adulto mayor y diverticulitis), hepatitis aguda/insuficiencia hepática aguda, neumonía nosocomial/en inmunosuprimidos/infección asociada a catéter, VIH (con candidiasis orofaríngea y esofágica y diarrea en inmunosuprimidos), preeclampsia/síndrome hipertensivo del embarazo, calcio/fósforo/magnesio (tetania, hipercalcemia), varicela/herpes zóster/exantemas, flegmón cervical/absceso pulmonar/absceso cerebral, tétanos, trastornos del movimiento por fármacos (distonía aguda, SNM, serotoninérgico), encefalopatías tóxico-metabólicas, agitación psicomotora y agresividad, caídas/hipotensión ortostática/fractura de cadera, disfagia/afagia aguda, osteoporosis, dispepsia/úlcera péptica/H. pylori/cáncer gástrico, ERGE/Barrett.
 
 Todas las urgencias ya tienen resumen. Siguen las situaciones clínicas sin `resumen`, priorizando las de manejo "completo" y las más frecuentes:
 
-1. Reflujo gastroesofágico
-2. Angina crónica estable
-3. Valvulopatías y paciente con soplo (estenosis e insuficiencia aórtica y mitral, enfermedad reumática)
-4. Complicaciones crónicas de la diabetes (nefropatía incipiente, neuropatía, retinopatía, vasculopatía periférica)
-5. Obesidad, obesidad mórbida y síndrome metabólico
-6. Demencia y deterioro cognitivo reversible
-7. Lumbago mecánico, lumbociática, columna dolorosa, cervicalgia y lumbago infeccioso o tumoral
-8. Constipación y fecaloma; trastornos digestivos funcionales
-9. Derrame pleural (paraneumónico y neoplásico)
-10. Artritis reumatoide, poliartritis y oligoartritis; artrosis; LES y otras mesenquimopatías
-11. Bocio, nódulo y cáncer de tiroides
-12. Enfermedades de transmisión sexual y sífilis
-13. Parkinson, temblor y trastornos de la marcha; vértigo
-14. Resto (hemato-oncología, neumología, infecciosas, endocrinología)
+1. Angina crónica estable
+2. Valvulopatías y paciente con soplo (estenosis e insuficiencia aórtica y mitral, enfermedad reumática)
+3. Complicaciones crónicas de la diabetes (nefropatía incipiente, neuropatía, retinopatía, vasculopatía periférica)
+4. Obesidad, obesidad mórbida y síndrome metabólico
+5. Demencia y deterioro cognitivo reversible
+6. Lumbago mecánico, lumbociática, columna dolorosa, cervicalgia y lumbago infeccioso o tumoral
+7. Constipación y fecaloma; trastornos digestivos funcionales
+8. Derrame pleural (paraneumónico y neoplásico)
+9. Artritis reumatoide, poliartritis y oligoartritis; artrosis; LES y otras mesenquimopatías
+10. Bocio, nódulo y cáncer de tiroides
+11. Enfermedades de transmisión sexual y sífilis
+12. Parkinson, temblor y trastornos de la marcha; vértigo
+13. Resto (hemato-oncología, neumología, infecciosas, endocrinología)

@@ -1302,6 +1302,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - gastroenterologia/reflujo-gastroesofagico.md
   - codigo: 1.06.1.028
     nombre: Síndrome de malabsorción
     dx: Específico
