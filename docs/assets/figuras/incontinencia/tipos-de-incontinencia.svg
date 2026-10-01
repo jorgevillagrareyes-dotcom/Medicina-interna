@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Incontinencia urinaria: tipos, claves y primer tratamiento</text>
+<rect x="20" y="48" width="232" height="78" rx="10" fill="#e3f2fd" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="136.0" y="72" text-anchor="middle" font-size="14.5" font-weight="700" fill="#1f5f99">De esfuerzo</text>
+<text x="136.0" y="94" text-anchor="middle" font-size="12.8" fill="#1f2933">Escape al toser, reír,</text>
+<text x="136.0" y="112" text-anchor="middle" font-size="12.8" fill="#1f2933">estornudar o levantar peso</text>
+<rect x="20" y="138" width="232" height="112" rx="8" fill="#ffffff" stroke="#1f5f99"/>
+<text x="32" y="158" font-size="12.8" font-weight="700" fill="#1f5f99">Mecanismo</text>
+<text x="32" y="178" font-size="12.6" fill="#1f2933">Falla del esfínter o</text>
+<text x="32" y="196" font-size="12.6" fill="#1f2933">hipermovilidad uretral</text>
+<text x="32" y="214" font-size="12.6" fill="#1f2933">(partos, menopausia,</text>
+<text x="32" y="232" font-size="12.6" fill="#1f2933">prostatectomía)</text>
+<rect x="20" y="260" width="232" height="92" rx="8" fill="#ffffff" stroke="#1f5f99"/>
+<text x="32" y="280" font-size="12.8" font-weight="700" fill="#1f5f99">Clínica</text>
+<text x="32" y="300" font-size="12.6" fill="#1f2933">Pérdidas pequeñas, con</text>
+<text x="32" y="318" font-size="12.6" fill="#1f2933">el esfuerzo, sin urgencia</text>
+<text x="32" y="336" font-size="12.6" fill="#1f2933">Test de la tos positivo</text>
+<rect x="20" y="362" width="232" height="112" rx="8" fill="#ffffff" stroke="#1f5f99"/>
+<text x="32" y="382" font-size="12.8" font-weight="700" fill="#1f5f99">Primer paso</text>
+<text x="32" y="402" font-size="12.6" fill="#1f2933">Ejercicios del piso pélvico</text>
+<text x="32" y="420" font-size="12.6" fill="#1f2933">supervisados ≥ 3 meses</text>
+<text x="32" y="438" font-size="12.6" fill="#1f2933">Bajar de peso</text>
+<text x="32" y="456" font-size="12.6" fill="#1f2933">Cirugía: cinta suburetral</text>
+<rect x="264" y="48" width="232" height="78" rx="10" fill="#fff4d6" stroke="#c28a12" stroke-width="1.6"/>
+<text x="380.0" y="72" text-anchor="middle" font-size="13.2" font-weight="700" fill="#c28a12">De urgencia (vejiga hiperactiva)</text>
+<text x="380.0" y="94" text-anchor="middle" font-size="12.8" fill="#1f2933">Deseo súbito e imperioso</text>
+<text x="380.0" y="112" text-anchor="middle" font-size="12.8" fill="#1f2933">y escape antes de llegar</text>
+<rect x="264" y="138" width="232" height="112" rx="8" fill="#ffffff" stroke="#c28a12"/>
+<text x="276" y="158" font-size="12.8" font-weight="700" fill="#c28a12">Mecanismo</text>
+<text x="276" y="178" font-size="12.6" fill="#1f2933">Contracciones del detrusor</text>
+<text x="276" y="196" font-size="12.6" fill="#1f2933">no inhibidas (idiopática,</text>
+<text x="276" y="214" font-size="12.6" fill="#1f2933">ACV, Parkinson, demencia)</text>
+<rect x="264" y="260" width="232" height="92" rx="8" fill="#ffffff" stroke="#c28a12"/>
+<text x="276" y="280" font-size="12.8" font-weight="700" fill="#c28a12">Clínica</text>
+<text x="276" y="300" font-size="12.6" fill="#1f2933">Frecuencia, nicturia,</text>
+<text x="276" y="318" font-size="12.6" fill="#1f2933">pérdidas de volumen variable</text>
+<rect x="264" y="362" width="232" height="112" rx="8" fill="#ffffff" stroke="#c28a12"/>
+<text x="276" y="382" font-size="12.8" font-weight="700" fill="#c28a12">Primer paso</text>
+<text x="276" y="402" font-size="12.6" fill="#1f2933">Entrenamiento vesical</text>
+<text x="276" y="420" font-size="12.6" fill="#1f2933">Café, alcohol, líquidos</text>
+<text x="276" y="438" font-size="12.6" fill="#1f2933">Mirabegrón o antimuscarínico</text>
+<text x="276" y="456" font-size="12.6" fill="#1f2933">(evitar oxibutinina en mayores)</text>
+<rect x="508" y="48" width="232" height="78" rx="10" fill="#fde7e5" stroke="#b3261e" stroke-width="1.6"/>
+<text x="624.0" y="72" text-anchor="middle" font-size="14.5" font-weight="700" fill="#b3261e">Por rebalse</text>
+<text x="624.0" y="94" text-anchor="middle" font-size="12.8" fill="#1f2933">Goteo continuo con</text>
+<text x="624.0" y="112" text-anchor="middle" font-size="12.8" fill="#1f2933">vejiga distendida</text>
+<rect x="508" y="138" width="232" height="112" rx="8" fill="#ffffff" stroke="#b3261e"/>
+<text x="520" y="158" font-size="12.8" font-weight="700" fill="#b3261e">Mecanismo</text>
+<text x="520" y="178" font-size="12.6" fill="#1f2933">Obstrucción (HPB, estenosis)</text>
+<text x="520" y="196" font-size="12.6" fill="#1f2933">o detrusor hipocontráctil</text>
+<text x="520" y="214" font-size="12.6" fill="#1f2933">(diabetes, fármacos,</text>
+<text x="520" y="232" font-size="12.6" fill="#1f2933">lesión medular)</text>
+<rect x="508" y="260" width="232" height="92" rx="8" fill="#ffffff" stroke="#b3261e"/>
+<text x="520" y="280" font-size="12.8" font-weight="700" fill="#b3261e">Clínica</text>
+<text x="520" y="300" font-size="12.6" fill="#1f2933">Chorro débil, pujo, globo</text>
+<text x="520" y="318" font-size="12.6" fill="#1f2933">vesical; residuo posmiccional</text>
+<text x="520" y="336" font-size="12.6" fill="#1f2933">alto (&gt; 200 mL)</text>
+<rect x="508" y="362" width="232" height="112" rx="8" fill="#ffffff" stroke="#b3261e"/>
+<text x="520" y="382" font-size="12.8" font-weight="700" fill="#b3261e">Primer paso</text>
+<text x="520" y="402" font-size="12.6" fill="#1f2933">Sonda y tratar la causa</text>
+<text x="520" y="420" font-size="12.6" fill="#1f2933">Suspender anticolinérgicos</text>
+<text x="520" y="438" font-size="12.6" fill="#1f2933">HPB: tamsulosina</text>
+<text x="520" y="456" font-size="12.6" fill="#1f2933">Cateterismo intermitente</text>
+<rect x="752" y="48" width="232" height="78" rx="10" fill="#efeafa" stroke="#7c5cc4" stroke-width="1.6"/>
+<text x="868.0" y="72" text-anchor="middle" font-size="14.5" font-weight="700" fill="#7c5cc4">Funcional</text>
+<text x="868.0" y="94" text-anchor="middle" font-size="12.8" fill="#1f2933">Vía urinaria normal, no</text>
+<text x="868.0" y="112" text-anchor="middle" font-size="12.8" fill="#1f2933">llega o no reconoce el baño</text>
+<rect x="752" y="138" width="232" height="112" rx="8" fill="#ffffff" stroke="#7c5cc4"/>
+<text x="764" y="158" font-size="12.8" font-weight="700" fill="#7c5cc4">Mecanismo</text>
+<text x="764" y="178" font-size="12.6" fill="#1f2933">Inmovilidad, demencia,</text>
+<text x="764" y="196" font-size="12.6" fill="#1f2933">barreras, contenciones,</text>
+<text x="764" y="214" font-size="12.6" fill="#1f2933">sedación, falta de ayuda</text>
+<rect x="752" y="260" width="232" height="92" rx="8" fill="#ffffff" stroke="#7c5cc4"/>
+<text x="764" y="280" font-size="12.8" font-weight="700" fill="#7c5cc4">Clínica</text>
+<text x="764" y="300" font-size="12.6" fill="#1f2933">Examen urológico normal</text>
+<text x="764" y="318" font-size="12.6" fill="#1f2933">Depende de la función</text>
+<rect x="752" y="362" width="232" height="112" rx="8" fill="#ffffff" stroke="#7c5cc4"/>
+<text x="764" y="382" font-size="12.8" font-weight="700" fill="#7c5cc4">Primer paso</text>
+<text x="764" y="402" font-size="12.6" fill="#1f2933">Micción programada</text>
+<text x="764" y="420" font-size="12.6" fill="#1f2933">Baño accesible, chata,</text>
+<text x="764" y="438" font-size="12.6" fill="#1f2933">ayuda para ir</text>
+<text x="764" y="456" font-size="12.6" fill="#1f2933">Tratar la causa</text>
+<rect x="20" y="486" width="960" height="46" rx="8" fill="#f5f7fa" stroke="#cbd2d9"/>
+<text x="34" y="506" font-size="13" font-weight="700" fill="#1f5f99">Mixta = esfuerzo + urgencia (tratar el síntoma que más molesta). Antes de todo, buscar causas transitorias (DIAPPERS):</text>
+<text x="34" y="524" font-size="12.8" fill="#1f2933">Delirium · Infección · Atrofia vaginal · Psicofármacos y otros fármacos · Exceso de orina (glucosuria, diuréticos) · Restricción de movilidad · Fecaloma</text>
+<text x="980" y="552" text-anchor="end" font-size="11.5" fill="#7b8794">Esquema propio basado en la terminología ICS (Abrams 2002), EAU 2018, NICE NG123 (2019) y AUA/SUFU 2024.</text>
+</svg>

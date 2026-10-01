@@ -1546,6 +1546,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - geriatria/incontinencia-urinaria.md
   - codigo: 1.07.1.013
     nombre: Inmovilidad
     dx: Específico
