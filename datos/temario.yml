@@ -2294,6 +2294,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - neurologia/tumores-del-snc.md
   urgencias:
   - codigo: 1.10.2.001
     nombre: Cefalea aguda en urgencia

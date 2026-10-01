@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 556" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="556" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Lesión cerebral expansiva: enfoque inicial</text>
+<rect x="170" y="42" width="660" height="56" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="66.0" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Sospecha: crisis epiléptica nueva en un adulto, déficit focal progresivo,</text>
+<text x="500.0" y="83.0" text-anchor="middle" font-size="13" fill="#1f2933">cambio cognitivo o conductual, cefalea con signos de hipertensión endocraneana</text>
+<line x1="500" y1="98" x2="500" y2="116" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="250" y="116" width="500" height="40" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="140.5" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">TC de cerebro urgente → RM con gadolinio (examen de elección)</text>
+<line x1="500" y1="156" x2="500" y2="176" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="140" y="176" width="720" height="40" rx="8" fill="#ffc9c9" stroke="#b3261e" stroke-width="1.6"/>
+<text x="500.0" y="200.5" text-anchor="middle" font-size="12.8" font-weight="700" fill="#1f2933">¿Herniación o deterioro de conciencia? Cabecera a 30°, manitol o salino hipertónico y neurocirugía urgente</text>
+<line x1="500" y1="216" x2="500" y2="236" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<text x="500.0" y="252" text-anchor="middle" font-size="14" font-weight="700" fill="#1f5f99">¿Qué sugiere la imagen y el contexto?</text>
+<rect x="24" y="264" width="186" height="140" rx="8" fill="#ffffff" stroke="#495057" stroke-width="1.3"/>
+<rect x="24" y="264" width="186" height="26" rx="8" fill="#495057"/><rect x="24" y="278" width="186" height="12" fill="#495057"/>
+<text x="117.0" y="282" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">Metástasis</text>
+<text x="117.0" y="309" text-anchor="middle" font-size="12.6" fill="#1f2933">A menudo múltiples, en la</text>
+<text x="117.0" y="325" text-anchor="middle" font-size="12.6" fill="#1f2933">unión córtico-subcortical,</text>
+<text x="117.0" y="341" text-anchor="middle" font-size="12.6" fill="#1f2933">con mucho edema</text>
+<text x="117.0" y="357" text-anchor="middle" font-size="12.6" fill="#1f2933">Cáncer conocido o</text>
+<text x="117.0" y="373" text-anchor="middle" font-size="12.6" fill="#1f2933">fumador: TC de tórax,</text>
+<text x="117.0" y="389" text-anchor="middle" font-size="12.6" fill="#1f2933">abdomen y pelvis</text>
+<rect x="215" y="264" width="186" height="140" rx="8" fill="#ffffff" stroke="#495057" stroke-width="1.3"/>
+<rect x="215" y="264" width="186" height="26" rx="8" fill="#495057"/><rect x="215" y="278" width="186" height="12" fill="#495057"/>
+<text x="308.0" y="282" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">Glioma de alto grado</text>
+<text x="308.0" y="309" text-anchor="middle" font-size="12.6" fill="#1f2933">Lesión única con</text>
+<text x="308.0" y="325" text-anchor="middle" font-size="12.6" fill="#1f2933">realce en anillo</text>
+<text x="308.0" y="341" text-anchor="middle" font-size="12.6" fill="#1f2933">irregular y necrosis;</text>
+<text x="308.0" y="357" text-anchor="middle" font-size="12.6" fill="#1f2933">puede cruzar el</text>
+<text x="308.0" y="373" text-anchor="middle" font-size="12.6" fill="#1f2933">cuerpo calloso</text>
+<text x="308.0" y="389" text-anchor="middle" font-size="12.6" fill="#1f2933">("en alas de mariposa")</text>
+<rect x="406" y="264" width="186" height="140" rx="8" fill="#ffffff" stroke="#495057" stroke-width="1.3"/>
+<rect x="406" y="264" width="186" height="26" rx="8" fill="#495057"/><rect x="406" y="278" width="186" height="12" fill="#495057"/>
+<text x="499.0" y="282" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">Meningioma</text>
+<text x="499.0" y="309" text-anchor="middle" font-size="12.6" fill="#1f2933">Extraaxial, base dural</text>
+<text x="499.0" y="325" text-anchor="middle" font-size="12.6" fill="#1f2933">("cola dural"),</text>
+<text x="499.0" y="341" text-anchor="middle" font-size="12.6" fill="#1f2933">realce homogéneo;</text>
+<text x="499.0" y="357" text-anchor="middle" font-size="12.6" fill="#1f2933">mujer mayor; a</text>
+<text x="499.0" y="373" text-anchor="middle" font-size="12.6" fill="#1f2933">menudo hallazgo</text>
+<text x="499.0" y="389" text-anchor="middle" font-size="12.6" fill="#1f2933">(GES 43)</text>
+<rect x="597" y="264" width="186" height="140" rx="8" fill="#ffffff" stroke="#495057" stroke-width="1.3"/>
+<rect x="597" y="264" width="186" height="26" rx="8" fill="#495057"/><rect x="597" y="278" width="186" height="12" fill="#495057"/>
+<text x="690.0" y="282" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">Linfoma primario</text>
+<text x="690.0" y="309" text-anchor="middle" font-size="12.6" fill="#1f2933">Periventricular,</text>
+<text x="690.0" y="325" text-anchor="middle" font-size="12.6" fill="#1f2933">realce homogéneo;</text>
+<text x="690.0" y="341" text-anchor="middle" font-size="12.6" fill="#1f2933">VIH o inmunosupresión</text>
+<text x="690.0" y="357" text-anchor="middle" font-size="12.6" fill="#1f2933">No dar corticoides</text>
+<text x="690.0" y="373" text-anchor="middle" font-size="12.6" fill="#1f2933">antes de la biopsia</text>
+<text x="690.0" y="389" text-anchor="middle" font-size="12.6" fill="#1f2933">(pueden negativizarla)</text>
+<rect x="788" y="264" width="186" height="140" rx="8" fill="#ffffff" stroke="#495057" stroke-width="1.3"/>
+<rect x="788" y="264" width="186" height="26" rx="8" fill="#495057"/><rect x="788" y="278" width="186" height="12" fill="#495057"/>
+<text x="881.0" y="282" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">Infección</text>
+<text x="881.0" y="309" text-anchor="middle" font-size="12.6" fill="#1f2933">Absceso: anillo fino,</text>
+<text x="881.0" y="325" text-anchor="middle" font-size="12.6" fill="#1f2933">restricción en difusión,</text>
+<text x="881.0" y="341" text-anchor="middle" font-size="12.6" fill="#1f2933">fiebre</text>
+<text x="881.0" y="357" text-anchor="middle" font-size="12.6" fill="#1f2933">VIH: toxoplasmosis,</text>
+<text x="881.0" y="373" text-anchor="middle" font-size="12.6" fill="#1f2933">tuberculoma; también</text>
+<text x="881.0" y="389" text-anchor="middle" font-size="12.6" fill="#1f2933">neurocisticercosis</text>
+<line x1="500" y1="404" x2="500" y2="424" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<text x="500.0" y="440" text-anchor="middle" font-size="14" font-weight="700" fill="#2f9e44">Manejo inicial (antes de la neurocirugía)</text>
+<rect x="24" y="450" width="234" height="92" rx="8" fill="#f4fbf5" stroke="#2f9e44" stroke-width="1.3"/>
+<text x="141.0" y="472" text-anchor="middle" font-size="13.5" font-weight="700" fill="#2b8a3e">Edema sintomático</text>
+<text x="141.0" y="494" text-anchor="middle" font-size="12.6" fill="#1f2933">Dexametasona 4–8 mg/día</text>
+<text x="141.0" y="510" text-anchor="middle" font-size="12.6" fill="#1f2933">(hasta 16 mg/día si es</text>
+<text x="141.0" y="526" text-anchor="middle" font-size="12.6" fill="#1f2933">grave), lo más breve posible</text>
+<rect x="263" y="450" width="234" height="92" rx="8" fill="#f4fbf5" stroke="#2f9e44" stroke-width="1.3"/>
+<text x="380.0" y="472" text-anchor="middle" font-size="13.5" font-weight="700" fill="#2b8a3e">Crisis epilépticas</text>
+<text x="380.0" y="494" text-anchor="middle" font-size="12.6" fill="#1f2933">Antiepiléptico solo si hubo</text>
+<text x="380.0" y="510" text-anchor="middle" font-size="12.6" fill="#1f2933">crisis (levetiracetam);</text>
+<text x="380.0" y="526" text-anchor="middle" font-size="12.6" fill="#1f2933">no profilaxis primaria</text>
+<rect x="502" y="450" width="234" height="92" rx="8" fill="#f4fbf5" stroke="#2f9e44" stroke-width="1.3"/>
+<text x="619.0" y="472" text-anchor="middle" font-size="13.5" font-weight="700" fill="#2b8a3e">Derivar</text>
+<text x="619.0" y="494" text-anchor="middle" font-size="12.6" fill="#1f2933">Neurocirugía y comité</text>
+<text x="619.0" y="510" text-anchor="middle" font-size="12.6" fill="#1f2933">oncológico; biopsia o</text>
+<text x="619.0" y="526" text-anchor="middle" font-size="12.6" fill="#1f2933">resección para el diagnóstico</text>
+<rect x="741" y="450" width="234" height="92" rx="8" fill="#f4fbf5" stroke="#2f9e44" stroke-width="1.3"/>
+<text x="858.0" y="472" text-anchor="middle" font-size="13.5" font-weight="700" fill="#2b8a3e">Además</text>
+<text x="858.0" y="494" text-anchor="middle" font-size="12.6" fill="#1f2933">Tromboprofilaxis, glicemia</text>
+<text x="858.0" y="510" text-anchor="middle" font-size="12.6" fill="#1f2933">con corticoides, protección</text>
+<text x="858.0" y="526" text-anchor="middle" font-size="12.6" fill="#1f2933">gástrica, apoyo familiar</text>
+</svg>

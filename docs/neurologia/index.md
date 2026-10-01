@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **47 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
+    **48 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -26,6 +26,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome de abstinencia alcohólica, encefalopatía de Wernicke y complicaciones neurológicas de las sustancias](abstinencia-alcoholica-y-wernicke.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos del movimiento inducidos por fármacos: distonía aguda, acatisia, parkinsonismo, discinesia tardía, síndrome neuroléptico maligno y síndrome serotoninérgico](trastornos-del-movimiento-por-farmacos.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Traumatismo encefalocraneano e hipertensión endocraneana](tec-e-hipertension-endocraneana.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Tumores primarios y metastásicos del sistema nervioso central](tumores-del-snc.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Vértigo: síndromes vertiginosos periféricos y centrales](vertigo.md)
 
 ## Situaciones clínicas
@@ -60,7 +61,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.10.1.026 | Temblor esencial | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad de Parkinson, temblor, trastornos de la marcha y síndrome atáxico](parkinson-temblor-y-trastornos-de-la-marcha.md) |
 | 1.10.1.027 | Trastornos del sueño | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.028 | Tumores de región sellar | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.1.029 | Tumores primarios y metastásicos SNC | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.1.029 | Tumores primarios y metastásicos SNC | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tumores primarios y metastásicos del sistema nervioso central](tumores-del-snc.md) |
 
 ## Situaciones clínicas de urgencia
 
