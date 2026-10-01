@@ -2139,6 +2139,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - reumatologia/artrosis-y-reumatismos-de-partes-blandas.md
   - codigo: 1.10.1.015
     nombre: Parálisis (tetraparesia, hemiparesia, etc)
     dx: Sospecha
@@ -2397,6 +2399,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Completo
+    resumen:
+    - reumatologia/artrosis-y-reumatismos-de-partes-blandas.md
   - codigo: 1.11.1.005
     nombre: Cervicalgia
     dx: Específico
@@ -2423,6 +2427,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Completo
+    resumen:
+    - reumatologia/artrosis-y-reumatismos-de-partes-blandas.md
   - codigo: 1.11.1.009
     nombre: Esclerosis sistémica progresiva
     dx: Sospecha
@@ -2433,11 +2439,15 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/artrosis-y-reumatismos-de-partes-blandas.md
   - codigo: 1.11.1.011
     nombre: Hombro doloroso
     dx: Sospecha
     tto: Inicial
     seg: Completo
+    resumen:
+    - reumatologia/artrosis-y-reumatismos-de-partes-blandas.md
   - codigo: 1.11.1.012
     nombre: Lumbago infeccioso y tumoral
     dx: Sospecha
@@ -2512,11 +2522,15 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/artrosis-y-reumatismos-de-partes-blandas.md
   - codigo: 1.11.1.024
     nombre: Tendonitis y bursitis
     dx: Específico
     tto: Inicial
     seg: Completo
+    resumen:
+    - reumatologia/artrosis-y-reumatismos-de-partes-blandas.md
   - codigo: 1.11.1.025
     nombre: Vasculitis sistémicas
     dx: Sospecha

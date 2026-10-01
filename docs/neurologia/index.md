@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **34 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
+    **35 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -39,7 +39,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.10.1.011 | Lumbociáticas y cervicobraquialgias. | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](../reumatologia/lumbago-lumbociatica-y-cervicalgia.md) |
 | 1.10.1.012 | Migraña | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Cefalea: enfoque en urgencia, migraña, cefalea tensional y neuralgia del trigémino](cefalea.md) |
 | 1.10.1.013 | Neuralgia esencial del trigémino | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cefalea: enfoque en urgencia, migraña, cefalea tensional y neuralgia del trigémino](cefalea.md) |
-| 1.10.1.014 | Neuropatías por atrapamiento | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.1.014 | Neuropatías por atrapamiento | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](../reumatologia/artrosis-y-reumatismos-de-partes-blandas.md) |
 | 1.10.1.015 | Parálisis (tetraparesia, hemiparesia, etc) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.016 | Parálisis facial periférica | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.017 | Polineuropatías, radiculopatías, mononeuropatías, etc… | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
