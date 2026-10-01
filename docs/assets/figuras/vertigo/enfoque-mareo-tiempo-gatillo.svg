@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#52606d"/></marker></defs>
+<rect width="1000" height="640" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Mareo o vértigo agudo: clasificar por tiempo y gatillo</text>
+<rect x="300" y="44" width="400" height="44" rx="8" fill="#e3f2fd" stroke="#1f5f99" stroke-width="1.5"/>
+<text x="500" y="64" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f5f99">No preguntar solo "¿qué siente?" (vértigo, inestabilidad):</text>
+<text x="500" y="81" text-anchor="middle" font-size="13" fill="#1f2933">preguntar ¿cuánto dura? y ¿qué lo gatilla?</text>
+<line x1="500" y1="88" x2="170" y2="114" stroke="#52606d" stroke-width="1.6" marker-end="url(#a)"/>
+<rect x="20" y="116" width="300" height="78" rx="8" fill="#fde7e5" stroke="#b3261e" stroke-width="1.6"/>
+<text x="170" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#b3261e">Síndrome vestibular agudo</text>
+<text x="170" y="160" text-anchor="middle" font-size="12.8" fill="#1f2933">Continuo, días; náuseas, vómitos,</text>
+<text x="170" y="177" text-anchor="middle" font-size="12.8" fill="#1f2933">nistagmo, inestabilidad</text>
+<rect x="20" y="206" width="300" height="34" rx="6" fill="#e3f5ea" stroke="#2e7d4f"/>
+<text x="170" y="228" text-anchor="middle" font-size="13.2" font-weight="700" fill="#2e7d4f">Benigno: neuritis vestibular</text>
+<rect x="20" y="248" width="300" height="34" rx="6" fill="#fde7e5" stroke="#b3261e"/>
+<text x="170" y="270" text-anchor="middle" font-size="13.2" font-weight="700" fill="#b3261e">Grave: ACV de fosa posterior</text>
+<rect x="20" y="292" width="300" height="94" rx="8" fill="#ffffff" stroke="#b3261e"/>
+<text x="34" y="314" font-size="12.8" fill="#1f2933">HINTS (si está entrenado) + hipoacusia</text>
+<text x="34" y="333" font-size="12.8" fill="#1f2933">+ marcha: ¿puede caminar solo?</text>
+<text x="34" y="352" font-size="12.8" fill="#1f2933">No TC para descartar ACV isquémico</text>
+<text x="34" y="371" font-size="12.8" fill="#1f2933">RM con difusión si HINTS central o dudoso</text>
+<line x1="500" y1="88" x2="500" y2="114" stroke="#52606d" stroke-width="1.6" marker-end="url(#a)"/>
+<rect x="350" y="116" width="300" height="78" rx="8" fill="#fff4d6" stroke="#c28a12" stroke-width="1.6"/>
+<text x="500" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#c28a12">Episódico gatillado</text>
+<text x="500" y="160" text-anchor="middle" font-size="12.8" fill="#1f2933">Segundos a &lt; 1 minuto, al acostarse,</text>
+<text x="500" y="177" text-anchor="middle" font-size="12.8" fill="#1f2933">girar en la cama o mirar hacia arriba</text>
+<rect x="350" y="206" width="300" height="34" rx="6" fill="#e3f5ea" stroke="#2e7d4f"/>
+<text x="500" y="228" text-anchor="middle" font-size="13.2" font-weight="700" fill="#2e7d4f">Benigno: VPPB (y ortostatismo)</text>
+<rect x="350" y="248" width="300" height="34" rx="6" fill="#fde7e5" stroke="#b3261e"/>
+<text x="500" y="270" text-anchor="middle" font-size="13.2" font-weight="700" fill="#b3261e">Grave: vértigo posicional central</text>
+<rect x="350" y="292" width="300" height="94" rx="8" fill="#ffffff" stroke="#c28a12"/>
+<text x="364" y="314" font-size="12.8" fill="#1f2933">Dix-Hallpike (canal posterior) y</text>
+<text x="364" y="333" font-size="12.8" fill="#1f2933">prueba del giro supino (horizontal)</text>
+<text x="364" y="352" font-size="12.8" fill="#1f2933">Tratar con maniobra de Epley</text>
+<text x="364" y="371" font-size="12.8" fill="#1f2933">Sin imágenes si el cuadro es típico</text>
+<line x1="500" y1="88" x2="830" y2="114" stroke="#52606d" stroke-width="1.6" marker-end="url(#a)"/>
+<rect x="680" y="116" width="300" height="78" rx="8" fill="#efeafa" stroke="#7c5cc4" stroke-width="1.6"/>
+<text x="830" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#7c5cc4">Episódico espontáneo</text>
+<text x="830" y="160" text-anchor="middle" font-size="12.8" fill="#1f2933">Minutos a horas, sin gatillo;</text>
+<text x="830" y="177" text-anchor="middle" font-size="12.8" fill="#1f2933">asintomático entre episodios</text>
+<rect x="680" y="206" width="300" height="34" rx="6" fill="#e3f5ea" stroke="#2e7d4f"/>
+<text x="830" y="228" text-anchor="middle" font-size="13.2" font-weight="700" fill="#2e7d4f">Benigno: migraña vestibular, Ménière</text>
+<rect x="680" y="248" width="300" height="34" rx="6" fill="#fde7e5" stroke="#b3261e"/>
+<text x="830" y="270" text-anchor="middle" font-size="13.2" font-weight="700" fill="#b3261e">Grave: AIT vertebrobasilar</text>
+<rect x="680" y="292" width="300" height="94" rx="8" fill="#ffffff" stroke="#7c5cc4"/>
+<text x="694" y="314" font-size="12.8" fill="#1f2933">Buscar síntomas de isquemia (diplopía,</text>
+<text x="694" y="333" font-size="12.8" fill="#1f2933">disartria, debilidad) y factores de riesgo</text>
+<text x="694" y="352" font-size="12.8" fill="#1f2933">AngioTC o angioRM si se sospecha AIT</text>
+<text x="694" y="371" font-size="12.8" fill="#1f2933">Descartar arritmia e hipoglicemia</text>
+<text x="20" y="404" font-size="15" font-weight="700" fill="#1f5f99">HINTS en el síndrome vestibular agudo con nistagmo ("INFARCT" = central)</text>
+<rect x="20" y="416" width="960" height="30" fill="#e3f2fd" stroke="#cbd2d9"/>
+<text x="30" y="436" font-size="13" font-weight="700" fill="#1f5f99"></text>
+<text x="330" y="436" font-size="13" font-weight="700" fill="#1f5f99">Periférico (neuritis)</text>
+<text x="650" y="436" font-size="13" font-weight="700" fill="#1f5f99">Central (ACV)</text>
+<rect x="20" y="446" width="960" height="30" fill="#f5f7fa" stroke="#cbd2d9"/>
+<text x="30" y="466" font-size="13" font-weight="700" fill="#1f2933">Impulso cefálico (Head Impulse)</text>
+<text x="330" y="466" font-size="13" font-weight="400" fill="#2e7d4f">Anormal: sacada correctora</text>
+<text x="650" y="466" font-size="13" font-weight="400" fill="#b3261e">Normal (¡ojo!)</text>
+<rect x="20" y="476" width="960" height="30" fill="#ffffff" stroke="#cbd2d9"/>
+<text x="30" y="496" font-size="13" font-weight="700" fill="#1f2933">Nistagmo (Nystagmus)</text>
+<text x="330" y="496" font-size="13" font-weight="400" fill="#2e7d4f">Horizontal, unidireccional</text>
+<text x="650" y="496" font-size="13" font-weight="400" fill="#b3261e">Cambia de dirección con la mirada, vertical</text>
+<rect x="20" y="506" width="960" height="30" fill="#f5f7fa" stroke="#cbd2d9"/>
+<text x="30" y="526" font-size="13" font-weight="700" fill="#1f2933">Desviación oblicua (Test of Skew)</text>
+<text x="330" y="526" font-size="13" font-weight="400" fill="#2e7d4f">Ausente</text>
+<text x="650" y="526" font-size="13" font-weight="400" fill="#b3261e">Presente</text>
+<rect x="20" y="536" width="960" height="30" fill="#ffffff" stroke="#cbd2d9"/>
+<text x="30" y="556" font-size="13" font-weight="700" fill="#1f2933">Hipoacusia nueva (HINTS plus)</text>
+<text x="330" y="556" font-size="13" font-weight="400" fill="#2e7d4f">No (salvo laberintitis)</text>
+<text x="650" y="556" font-size="13" font-weight="400" fill="#b3261e">Sí: infarto de la AICA</text>
+<text x="20" y="586" font-size="12.8" fill="#1f2933">Sin nistagmo: evaluar la <tspan font-weight="700">marcha</tspan>. Si no puede caminar sin ayuda, es central hasta demostrar lo contrario. Un solo signo central basta para sospechar ACV.</text>
+<text x="20" y="604" font-size="12.8" fill="#1f2933">La RM con difusión puede ser <tspan font-weight="700">falsamente normal en 12–50 %</tspan> de los ACV de fosa posterior en las primeras 48 horas: la clínica manda.</text>
+<text x="980" y="632" text-anchor="end" font-size="11.5" fill="#7b8794">Esquema propio basado en GRACE-3 (Edlow 2023) y los criterios de vértigo vascular de la Sociedad Bárány (Kim 2022).</text>
+</svg>

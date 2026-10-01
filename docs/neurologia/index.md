@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **35 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
+    **40 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -18,9 +18,11 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Debilidad aguda: síndrome de Guillain-Barré, paraplejia y cuadriplejia aguda y trauma raquimedular](debilidad-aguda-guillain-barre-y-mielopatias.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Demencia, deterioro cognitivo leve y causas reversibles de deterioro cognitivo](demencia-y-deterioro-cognitivo.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Encefalopatías tóxico-metabólicas: urémica, hepática, hipercápnica, séptica, hipertensiva y por fármacos](encefalopatias-toxico-metabolicas.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad de Parkinson, temblor, trastornos de la marcha y síndrome atáxico](parkinson-temblor-y-trastornos-de-la-marcha.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome de abstinencia alcohólica, encefalopatía de Wernicke y complicaciones neurológicas de las sustancias](abstinencia-alcoholica-y-wernicke.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos del movimiento inducidos por fármacos: distonía aguda, acatisia, parkinsonismo, discinesia tardía, síndrome neuroléptico maligno y síndrome serotoninérgico](trastornos-del-movimiento-por-farmacos.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Traumatismo encefalocraneano e hipertensión endocraneana](tec-e-hipertension-endocraneana.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Vértigo: síndromes vertiginosos periféricos y centrales](vertigo.md)
 
 ## Situaciones clínicas
 
@@ -31,7 +33,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.10.1.003 | Cuadros de deterioro orgánico cerebral potencialmente reversibles (hipotiroidismo, déficit de vitamina B12, etc.) | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Demencia, deterioro cognitivo leve y causas reversibles de deterioro cognitivo](demencia-y-deterioro-cognitivo.md) |
 | 1.10.1.004 | Cuadros deficitarios de funciones cerebrales superiores (afasia, apraxia, agnosia, etc.) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Demencia, deterioro cognitivo leve y causas reversibles de deterioro cognitivo](demencia-y-deterioro-cognitivo.md) |
 | 1.10.1.005 | Demencia (enfermedad de Alzheimer, enfermedad cerebrovascular, VIH, etc.) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Demencia, deterioro cognitivo leve y causas reversibles de deterioro cognitivo](demencia-y-deterioro-cognitivo.md) |
-| 1.10.1.006 | Enfermedad de Parkinson y parkinsonismos | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.1.006 | Enfermedad de Parkinson y parkinsonismos | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad de Parkinson, temblor, trastornos de la marcha y síndrome atáxico](parkinson-temblor-y-trastornos-de-la-marcha.md) |
 | 1.10.1.007 | Epilepsia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md) |
 | 1.10.1.008 | Esclerosis múltiple | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.009 | Herpes zoster | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Varicela, herpes zóster y otros exantemas del adulto](../infectologia/varicela-y-herpes-zoster.md) |
@@ -43,15 +45,15 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.10.1.015 | Parálisis (tetraparesia, hemiparesia, etc) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.016 | Parálisis facial periférica | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.017 | Polineuropatías, radiculopatías, mononeuropatías, etc… | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.1.018 | Síndrome atáxico | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.1.018 | Síndrome atáxico | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad de Parkinson, temblor, trastornos de la marcha y síndrome atáxico](parkinson-temblor-y-trastornos-de-la-marcha.md) |
 | 1.10.1.019 | Síndrome de hipertensión endocraneana | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Traumatismo encefalocraneano e hipertensión endocraneana](tec-e-hipertension-endocraneana.md) |
 | 1.10.1.020 | Síndrome miasténico | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.021 | Síndrome miopático (distrofias musculares, polimiositis) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.022 | Síndromes convulsivos sintomáticos (traumático, tumores del SNC, metabólico, etc.) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md) |
 | 1.10.1.023 | Síndromes sensitivos (polineuropatía, hemihipoestesia, dolor talámico, etc.) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.1.024 | Síndromes vertiginosos centrales | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.1.025 | Síndromes vertiginosos periféricos | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.10.1.026 | Temblor esencial | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.1.024 | Síndromes vertiginosos centrales | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Vértigo: síndromes vertiginosos periféricos y centrales](vertigo.md) |
+| 1.10.1.025 | Síndromes vertiginosos periféricos | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Vértigo: síndromes vertiginosos periféricos y centrales](vertigo.md) |
+| 1.10.1.026 | Temblor esencial | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad de Parkinson, temblor, trastornos de la marcha y síndrome atáxico](parkinson-temblor-y-trastornos-de-la-marcha.md) |
 | 1.10.1.027 | Trastornos del sueño | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.028 | Tumores de región sellar | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.029 | Tumores primarios y metastásicos SNC | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

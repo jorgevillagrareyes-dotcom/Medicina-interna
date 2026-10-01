@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **13 de 22** situaciones clínicas de esta subespecialidad tienen resumen.
+    **15 de 22** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -35,8 +35,8 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.07.1.013 | Inmovilidad | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.014 | Malnutrición | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.07.1.015 | Osteoporosis | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Osteoporosis primaria y secundaria](../endocrinologia/osteoporosis.md) |
-| 1.07.1.016 | Temblor | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.07.1.017 | Trastornos de la marcha | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.07.1.016 | Temblor | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad de Parkinson, temblor, trastornos de la marcha y síndrome atáxico](../neurologia/parkinson-temblor-y-trastornos-de-la-marcha.md) |
+| 1.07.1.017 | Trastornos de la marcha | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad de Parkinson, temblor, trastornos de la marcha y síndrome atáxico](../neurologia/parkinson-temblor-y-trastornos-de-la-marcha.md) |
 
 ## Situaciones clínicas de urgencia
 

@@ -1560,11 +1560,15 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/parkinson-temblor-y-trastornos-de-la-marcha.md
   - codigo: 1.07.1.017
     nombre: Trastornos de la marcha
     dx: Específico
     tto: Completo
     seg: Derivar
+    resumen:
+    - neurologia/parkinson-temblor-y-trastornos-de-la-marcha.md
   urgencias:
   - codigo: 1.07.2.001
     nombre: Abdomen agudo en adulto mayor
@@ -2097,6 +2101,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/parkinson-temblor-y-trastornos-de-la-marcha.md
   - codigo: 1.10.1.007
     nombre: Epilepsia
     dx: Sospecha
@@ -2171,6 +2177,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/parkinson-temblor-y-trastornos-de-la-marcha.md
   - codigo: 1.10.1.019
     nombre: Síndrome de hipertensión endocraneana
     dx: Sospecha
@@ -2205,16 +2213,22 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/vertigo.md
   - codigo: 1.10.1.025
     nombre: Síndromes vertiginosos periféricos
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - neurologia/vertigo.md
   - codigo: 1.10.1.026
     nombre: Temblor esencial
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/parkinson-temblor-y-trastornos-de-la-marcha.md
   - codigo: 1.10.1.027
     nombre: Trastornos del sueño
     dx: Sospecha
