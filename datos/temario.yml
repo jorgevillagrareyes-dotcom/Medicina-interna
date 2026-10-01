@@ -1509,6 +1509,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Completo
+    resumen:
+    - geriatria/inmovilidad-y-ulceras-por-presion.md
   - codigo: 1.07.1.008
     nombre: Fragilidad
     dx: Específico
@@ -1545,6 +1547,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - geriatria/inmovilidad-y-ulceras-por-presion.md
   - codigo: 1.07.1.014
     nombre: Malnutrición
     dx: Específico

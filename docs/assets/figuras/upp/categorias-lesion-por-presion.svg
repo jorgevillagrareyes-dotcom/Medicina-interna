@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="430" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Lesiones por presión: categorías según la profundidad</text>
+<rect x="30" y="90" width="148" height="8" fill="#f3d2b5"/>
+<rect x="30" y="98" width="148" height="26" fill="#e9b48f"/>
+<rect x="30" y="124" width="148" height="34" fill="#f7e08a"/>
+<rect x="30" y="158" width="148" height="34" fill="#c8574d"/>
+<rect x="30" y="192" width="148" height="30" fill="#ece6d8"/>
+<rect x="64.0" y="90" width="80" height="34" fill="#d9480f" opacity="0.55"/>
+<rect x="30" y="90" width="148" height="132" fill="none" stroke="#7b8794"/>
+<text x="104.0" y="72" text-anchor="middle" font-size="14" font-weight="700" fill="#b3261e">Categoría 1</text>
+<text x="104.0" y="244" text-anchor="middle" font-size="12.8" font-weight="700" fill="#1f2933">Eritema que no palidece</text>
+<text x="104.0" y="262" text-anchor="middle" font-size="12.5" fill="#1f2933">piel intacta</text>
+<rect x="192" y="90" width="148" height="8" fill="#f3d2b5"/>
+<rect x="192" y="98" width="148" height="26" fill="#e9b48f"/>
+<rect x="192" y="124" width="148" height="34" fill="#f7e08a"/>
+<rect x="192" y="158" width="148" height="34" fill="#c8574d"/>
+<rect x="192" y="192" width="148" height="30" fill="#ece6d8"/>
+<path d="M228.0,90 L304.0,90 L294.0,110 L238.0,110 Z" fill="#ffffff" stroke="#b3261e" stroke-width="1.4"/>
+<path d="M240.0,92 L292.0,92 L286.0,107 L246.0,107 Z" fill="#f28b8b"/>
+<rect x="192" y="90" width="148" height="132" fill="none" stroke="#7b8794"/>
+<text x="266.0" y="72" text-anchor="middle" font-size="14" font-weight="700" fill="#b3261e">Categoría 2</text>
+<text x="266.0" y="244" text-anchor="middle" font-size="12.8" font-weight="700" fill="#1f2933">Pérdida parcial de piel</text>
+<text x="266.0" y="262" text-anchor="middle" font-size="12.5" fill="#1f2933">lecho rosado; flictena</text>
+<rect x="354" y="90" width="148" height="8" fill="#f3d2b5"/>
+<rect x="354" y="98" width="148" height="26" fill="#e9b48f"/>
+<rect x="354" y="124" width="148" height="34" fill="#f7e08a"/>
+<rect x="354" y="158" width="148" height="34" fill="#c8574d"/>
+<rect x="354" y="192" width="148" height="30" fill="#ece6d8"/>
+<path d="M386.0,90 L470.0,90 L458.0,148 L398.0,148 Z" fill="#ffffff" stroke="#b3261e" stroke-width="1.4"/>
+<path d="M400.0,134 L456.0,134 L458.0,148 L398.0,148 Z" fill="#f7e08a" opacity="0.9"/>
+<rect x="354" y="90" width="148" height="132" fill="none" stroke="#7b8794"/>
+<text x="428.0" y="72" text-anchor="middle" font-size="14" font-weight="700" fill="#b3261e">Categoría 3</text>
+<text x="428.0" y="244" text-anchor="middle" font-size="12.8" font-weight="700" fill="#1f2933">Pérdida total de piel</text>
+<text x="428.0" y="262" text-anchor="middle" font-size="12.5" fill="#1f2933">se ve grasa, no hueso</text>
+<rect x="516" y="90" width="148" height="8" fill="#f3d2b5"/>
+<rect x="516" y="98" width="148" height="26" fill="#e9b48f"/>
+<rect x="516" y="124" width="148" height="34" fill="#f7e08a"/>
+<rect x="516" y="158" width="148" height="34" fill="#c8574d"/>
+<rect x="516" y="192" width="148" height="30" fill="#ece6d8"/>
+<path d="M546.0,90 L634.0,90 L620.0,198 L560.0,198 Z" fill="#ffffff" stroke="#b3261e" stroke-width="1.4"/>
+<rect x="560.0" y="192" width="60" height="10" fill="#ece6d8" stroke="#7b8794"/>
+<rect x="516" y="90" width="148" height="132" fill="none" stroke="#7b8794"/>
+<text x="590.0" y="72" text-anchor="middle" font-size="14" font-weight="700" fill="#b3261e">Categoría 4</text>
+<text x="590.0" y="244" text-anchor="middle" font-size="12.8" font-weight="700" fill="#1f2933">Pérdida total de tejidos</text>
+<text x="590.0" y="262" text-anchor="middle" font-size="12.5" fill="#1f2933">hueso, tendón o músculo</text>
+<rect x="678" y="90" width="148" height="8" fill="#f3d2b5"/>
+<rect x="678" y="98" width="148" height="26" fill="#e9b48f"/>
+<rect x="678" y="124" width="148" height="34" fill="#f7e08a"/>
+<rect x="678" y="158" width="148" height="34" fill="#c8574d"/>
+<rect x="678" y="192" width="148" height="30" fill="#ece6d8"/>
+<path d="M710.0,90 L794.0,90 L782.0,154 L722.0,154 Z" fill="#ffffff" stroke="#b3261e" stroke-width="1.4"/>
+<path d="M710.0,90 L794.0,90 L790.0,112 L714.0,112 Z" fill="#3e2723"/>
+<path d="M716.0,112 L788.0,112 L785.0,126 L719.0,126 Z" fill="#e8d26a"/>
+<rect x="678" y="90" width="148" height="132" fill="none" stroke="#7b8794"/>
+<text x="752.0" y="72" text-anchor="middle" font-size="14" font-weight="700" fill="#b3261e">No clasificable</text>
+<text x="752.0" y="244" text-anchor="middle" font-size="12.8" font-weight="700" fill="#1f2933">Lecho cubierto por</text>
+<text x="752.0" y="262" text-anchor="middle" font-size="12.5" fill="#1f2933">esfacelo o escara</text>
+<rect x="840" y="90" width="148" height="8" fill="#f3d2b5"/>
+<rect x="840" y="98" width="148" height="26" fill="#e9b48f"/>
+<rect x="840" y="124" width="148" height="34" fill="#f7e08a"/>
+<rect x="840" y="158" width="148" height="34" fill="#c8574d"/>
+<rect x="840" y="192" width="148" height="30" fill="#ece6d8"/>
+<ellipse cx="914.0" cy="160" rx="44" ry="34" fill="#6a1b9a" opacity="0.55"/>
+<rect x="874.0" y="90" width="80" height="8" fill="#7b3f8c" opacity="0.8"/>
+<rect x="840" y="90" width="148" height="132" fill="none" stroke="#7b8794"/>
+<text x="914.0" y="72" text-anchor="middle" font-size="14" font-weight="700" fill="#b3261e">Tejidos profundos</text>
+<text x="914.0" y="244" text-anchor="middle" font-size="12.8" font-weight="700" fill="#1f2933">Piel púrpura o granate</text>
+<text x="914.0" y="262" text-anchor="middle" font-size="12.5" fill="#1f2933">que no palidece</text>
+<text x="30" y="286" font-size="13" font-weight="700" fill="#1f5f99">Capas:</text>
+<rect x="82" y="274" width="16" height="14" fill="#f3d2b5" stroke="#7b8794"/>
+<text x="104" y="286" font-size="12.8" fill="#1f2933">Epidermis</text>
+<rect x="193" y="274" width="16" height="14" fill="#e9b48f" stroke="#7b8794"/>
+<text x="215" y="286" font-size="12.8" fill="#1f2933">Dermis</text>
+<rect x="283" y="274" width="16" height="14" fill="#f7e08a" stroke="#7b8794"/>
+<text x="305" y="286" font-size="12.8" fill="#1f2933">Tejido subcutáneo</text>
+<rect x="450" y="274" width="16" height="14" fill="#c8574d" stroke="#7b8794"/>
+<text x="472" y="286" font-size="12.8" fill="#1f2933">Músculo</text>
+<rect x="547" y="274" width="16" height="14" fill="#ece6d8" stroke="#7b8794"/>
+<text x="569" y="286" font-size="12.8" fill="#1f2933">Hueso</text>
+<text x="30" y="312" font-size="12.8" fill="#1f2933"><tspan font-weight="700">Categoría 1:</tspan> palpar y presionar; en piel oscura buscar cambios de temperatura, consistencia o dolor.</text>
+<text x="30" y="332" font-size="12.8" fill="#1f2933"><tspan font-weight="700">No clasificable:</tspan> la profundidad real se conoce al retirar el esfacelo o la escara (será categoría 3 o 4).</text>
+<text x="30" y="352" font-size="12.8" fill="#1f2933"><tspan font-weight="700">Escara seca y estable en el talón:</tspan> no retirarla salvo que haya infección (protege; isquemia).</text>
+<text x="30" y="372" font-size="12.8" fill="#1f2933"><tspan font-weight="700">Lesión de tejidos profundos:</tspan> presión o cizalla sobre hueso; puede evolucionar rápido a una lesión profunda.</text>
+<text x="30" y="392" font-size="12.8" fill="#1f2933"><tspan font-weight="700">Otras:</tspan> lesión por dispositivos médicos (sondas, mascarillas) y de mucosas (no se categorizan igual).</text>
+<text x="980" y="422" text-anchor="end" font-size="11.5" fill="#7b8794">Esquema propio basado en la clasificación NPIAP (Edsberg 2016) y la guía internacional EPUAP/NPIAP/PPPIA 2019 y 2025.</text>
+</svg>
