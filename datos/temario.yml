@@ -2210,6 +2210,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/neuropatias-perifericas-y-sindromes-sensitivos.md
   - codigo: 1.10.1.018
     nombre: Síndrome atáxico
     dx: Sospecha
@@ -2246,6 +2248,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/neuropatias-perifericas-y-sindromes-sensitivos.md
   - codigo: 1.10.1.024
     nombre: Síndromes vertiginosos centrales
     dx: Sospecha

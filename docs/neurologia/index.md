@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **41 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
+    **43 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -19,6 +19,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Demencia, deterioro cognitivo leve y causas reversibles de deterioro cognitivo](demencia-y-deterioro-cognitivo.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Encefalopatías tóxico-metabólicas: urémica, hepática, hipercápnica, séptica, hipertensiva y por fármacos](encefalopatias-toxico-metabolicas.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad de Parkinson, temblor, trastornos de la marcha y síndrome atáxico](parkinson-temblor-y-trastornos-de-la-marcha.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Neuropatías periféricas (polineuropatías, mononeuropatías y radiculopatías) y síndromes sensitivos](neuropatias-perifericas-y-sindromes-sensitivos.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Parálisis facial periférica (parálisis de Bell y síndrome de Ramsay Hunt)](paralisis-facial-periferica.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome de abstinencia alcohólica, encefalopatía de Wernicke y complicaciones neurológicas de las sustancias](abstinencia-alcoholica-y-wernicke.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos del movimiento inducidos por fármacos: distonía aguda, acatisia, parkinsonismo, discinesia tardía, síndrome neuroléptico maligno y síndrome serotoninérgico](trastornos-del-movimiento-por-farmacos.md)
@@ -45,13 +46,13 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.10.1.014 | Neuropatías por atrapamiento | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](../reumatologia/artrosis-y-reumatismos-de-partes-blandas.md) |
 | 1.10.1.015 | Parálisis (tetraparesia, hemiparesia, etc) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.016 | Parálisis facial periférica | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Parálisis facial periférica (parálisis de Bell y síndrome de Ramsay Hunt)](paralisis-facial-periferica.md) |
-| 1.10.1.017 | Polineuropatías, radiculopatías, mononeuropatías, etc… | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.1.017 | Polineuropatías, radiculopatías, mononeuropatías, etc… | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Neuropatías periféricas (polineuropatías, mononeuropatías y radiculopatías) y síndromes sensitivos](neuropatias-perifericas-y-sindromes-sensitivos.md) |
 | 1.10.1.018 | Síndrome atáxico | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad de Parkinson, temblor, trastornos de la marcha y síndrome atáxico](parkinson-temblor-y-trastornos-de-la-marcha.md) |
 | 1.10.1.019 | Síndrome de hipertensión endocraneana | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Traumatismo encefalocraneano e hipertensión endocraneana](tec-e-hipertension-endocraneana.md) |
 | 1.10.1.020 | Síndrome miasténico | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.021 | Síndrome miopático (distrofias musculares, polimiositis) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.10.1.022 | Síndromes convulsivos sintomáticos (traumático, tumores del SNC, metabólico, etc.) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md) |
-| 1.10.1.023 | Síndromes sensitivos (polineuropatía, hemihipoestesia, dolor talámico, etc.) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.1.023 | Síndromes sensitivos (polineuropatía, hemihipoestesia, dolor talámico, etc.) | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Neuropatías periféricas (polineuropatías, mononeuropatías y radiculopatías) y síndromes sensitivos](neuropatias-perifericas-y-sindromes-sensitivos.md) |
 | 1.10.1.024 | Síndromes vertiginosos centrales | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Vértigo: síndromes vertiginosos periféricos y centrales](vertigo.md) |
 | 1.10.1.025 | Síndromes vertiginosos periféricos | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Vértigo: síndromes vertiginosos periféricos y centrales](vertigo.md) |
 | 1.10.1.026 | Temblor esencial | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad de Parkinson, temblor, trastornos de la marcha y síndrome atáxico](parkinson-temblor-y-trastornos-de-la-marcha.md) |
