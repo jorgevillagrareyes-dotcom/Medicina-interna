@@ -2151,6 +2151,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/esclerosis-multiple.md
   - codigo: 1.10.1.009
     nombre: Herpes zoster
     dx: Específico

@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **46 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
+    **47 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -20,6 +20,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Demencia, deterioro cognitivo leve y causas reversibles de deterioro cognitivo](demencia-y-deterioro-cognitivo.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Encefalopatías tóxico-metabólicas: urémica, hepática, hipercápnica, séptica, hipertensiva y por fármacos](encefalopatias-toxico-metabolicas.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad de Parkinson, temblor, trastornos de la marcha y síndrome atáxico](parkinson-temblor-y-trastornos-de-la-marcha.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Esclerosis múltiple](esclerosis-multiple.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Neuropatías periféricas (polineuropatías, mononeuropatías y radiculopatías) y síndromes sensitivos](neuropatias-perifericas-y-sindromes-sensitivos.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Parálisis facial periférica (parálisis de Bell y síndrome de Ramsay Hunt)](paralisis-facial-periferica.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome de abstinencia alcohólica, encefalopatía de Wernicke y complicaciones neurológicas de las sustancias](abstinencia-alcoholica-y-wernicke.md)
@@ -38,7 +39,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.10.1.005 | Demencia (enfermedad de Alzheimer, enfermedad cerebrovascular, VIH, etc.) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Demencia, deterioro cognitivo leve y causas reversibles de deterioro cognitivo](demencia-y-deterioro-cognitivo.md) |
 | 1.10.1.006 | Enfermedad de Parkinson y parkinsonismos | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad de Parkinson, temblor, trastornos de la marcha y síndrome atáxico](parkinson-temblor-y-trastornos-de-la-marcha.md) |
 | 1.10.1.007 | Epilepsia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Crisis epiléptica, epilepsia y estado epiléptico](crisis-epileptica-y-estado-epileptico.md) |
-| 1.10.1.008 | Esclerosis múltiple | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.1.008 | Esclerosis múltiple | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Esclerosis múltiple](esclerosis-multiple.md) |
 | 1.10.1.009 | Herpes zoster | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Varicela, herpes zóster y otros exantemas del adulto](../infectologia/varicela-y-herpes-zoster.md) |
 | 1.10.1.010 | Lumbago mecánico | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](../reumatologia/lumbago-lumbociatica-y-cervicalgia.md) |
 | 1.10.1.011 | Lumbociáticas y cervicobraquialgias. | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](../reumatologia/lumbago-lumbociatica-y-cervicalgia.md) |
