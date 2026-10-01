@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 614" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="614" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Región selar: por qué un macroadenoma da síntomas visuales, de pares craneales y hormonales</text>
+<text x="300" y="56" text-anchor="middle" font-size="14" font-weight="700" fill="#495057">Corte coronal</text>
+<path d="M60,420 L60,330 L210,330 C215,380 245,410 300,410 C355,410 385,380 390,330 L540,330 L540,420 Z" fill="#e9ecef" stroke="#adb5bd" stroke-width="1.5"/>
+<text x="130" y="385" text-anchor="middle" font-size="12.5" font-weight="400" fill="#495057">Seno esfenoidal</text>
+<rect x="88" y="200" width="124" height="128" rx="14" fill="#e7f5ff" stroke="#74c0fc" stroke-width="1.5"/>
+<circle cx="168" cy="275" r="20" fill="#ffc9c9" stroke="#c92a2a" stroke-width="1.5"/>
+<text x="168" y="280" text-anchor="middle" font-size="11.5" font-weight="700" fill="#c92a2a">ACI</text>
+<circle cx="104" cy="218" r="9" fill="#fff3bf" stroke="#e8a10c" stroke-width="1.2"/>
+<text x="104" y="222" text-anchor="middle" font-size="9.5" font-weight="700" fill="#1f2933">III</text>
+<circle cx="104" cy="244" r="9" fill="#fff3bf" stroke="#e8a10c" stroke-width="1.2"/>
+<text x="104" y="248" text-anchor="middle" font-size="9.5" font-weight="700" fill="#1f2933">IV</text>
+<circle cx="104" cy="270" r="9" fill="#fff3bf" stroke="#e8a10c" stroke-width="1.2"/>
+<text x="104" y="274" text-anchor="middle" font-size="9.5" font-weight="700" fill="#1f2933">V1</text>
+<circle cx="104" cy="296" r="9" fill="#fff3bf" stroke="#e8a10c" stroke-width="1.2"/>
+<text x="104" y="300" text-anchor="middle" font-size="9.5" font-weight="700" fill="#1f2933">V2</text>
+<circle cx="138" cy="240" r="9" fill="#fff3bf" stroke="#e8a10c" stroke-width="1.2"/>
+<text x="138" y="244" text-anchor="middle" font-size="9.5" font-weight="700" fill="#1f2933">VI</text>
+<rect x="388" y="200" width="124" height="128" rx="14" fill="#e7f5ff" stroke="#74c0fc" stroke-width="1.5"/>
+<circle cx="432" cy="275" r="20" fill="#ffc9c9" stroke="#c92a2a" stroke-width="1.5"/>
+<text x="432" y="280" text-anchor="middle" font-size="11.5" font-weight="700" fill="#c92a2a">ACI</text>
+<circle cx="496" cy="218" r="9" fill="#fff3bf" stroke="#e8a10c" stroke-width="1.2"/>
+<text x="496" y="222" text-anchor="middle" font-size="9.5" font-weight="700" fill="#1f2933">III</text>
+<circle cx="496" cy="244" r="9" fill="#fff3bf" stroke="#e8a10c" stroke-width="1.2"/>
+<text x="496" y="248" text-anchor="middle" font-size="9.5" font-weight="700" fill="#1f2933">IV</text>
+<circle cx="496" cy="270" r="9" fill="#fff3bf" stroke="#e8a10c" stroke-width="1.2"/>
+<text x="496" y="274" text-anchor="middle" font-size="9.5" font-weight="700" fill="#1f2933">V1</text>
+<circle cx="496" cy="296" r="9" fill="#fff3bf" stroke="#e8a10c" stroke-width="1.2"/>
+<text x="496" y="300" text-anchor="middle" font-size="9.5" font-weight="700" fill="#1f2933">V2</text>
+<circle cx="462" cy="240" r="9" fill="#fff3bf" stroke="#e8a10c" stroke-width="1.2"/>
+<text x="462" y="244" text-anchor="middle" font-size="9.5" font-weight="700" fill="#1f2933">VI</text>
+<text x="150" y="192" text-anchor="middle" font-size="12.5" font-weight="700" fill="#1c7ed6">Seno cavernoso</text>
+<text x="450" y="192" text-anchor="middle" font-size="12.5" font-weight="700" fill="#1c7ed6">Seno cavernoso</text>
+<path d="M222,330 C222,250 250,170 300,165 C350,170 378,250 378,330 C378,380 350,402 300,402 C250,402 222,380 222,330 Z" fill="#ffd8a8" stroke="#e8590c" stroke-width="2"/>
+<text x="300" y="300" text-anchor="middle" font-size="14" font-weight="700" fill="#d9480f">Macroadenoma</text>
+<text x="300" y="318" text-anchor="middle" font-size="12.5" font-weight="400" fill="#d9480f">(≥ 10 mm)</text>
+<rect x="294" y="110" width="12" height="50" fill="#f3d9fa" stroke="#ae3ec9" stroke-width="1.2"/>
+<path d="M190,118 C240,108 360,108 410,118 L410,140 C360,128 240,128 190,140 Z" fill="#ffec99" stroke="#f08c00" stroke-width="1.6"/>
+<text x="300" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#e67700">Quiasma óptico (desplazado hacia arriba)</text>
+<line x1="306" y1="150" x2="470" y2="150" stroke="#868e96" stroke-width="1.1"/>
+<text x="474" y="154" text-anchor="start" font-size="12.5" font-weight="400" fill="#862e9c">Tallo hipofisario</text>
+<path d="M150,90 C200,60 400,60 450,90" fill="none" stroke="#adb5bd" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="92" y="70" text-anchor="middle" font-size="12.3" font-weight="400" fill="#495057">Hipotálamo y</text>
+<text x="92" y="85" text-anchor="middle" font-size="12.3" font-weight="400" fill="#495057">3.er ventrículo</text>
+<text x="775" y="56" text-anchor="middle" font-size="14" font-weight="700" fill="#495057">Campos visuales: hemianopsia bitemporal</text>
+<circle cx="690" cy="150" r="62" fill="#ffffff" stroke="#495057" stroke-width="1.6"/>
+<path d="M690,88 A62,62 0 0,0 690,212 Z" fill="#343a40"/>
+<line x1="690" y1="88" x2="690" y2="212" stroke="#495057" stroke-width="1"/>
+<circle cx="860" cy="150" r="62" fill="#ffffff" stroke="#495057" stroke-width="1.6"/>
+<path d="M860,88 A62,62 0 0,1 860,212 Z" fill="#343a40"/>
+<line x1="860" y1="88" x2="860" y2="212" stroke="#495057" stroke-width="1"/>
+<text x="690" y="232" text-anchor="middle" font-size="12.5" font-weight="700" fill="#1f2933">Ojo izquierdo</text>
+<text x="860" y="232" text-anchor="middle" font-size="12.5" font-weight="700" fill="#1f2933">Ojo derecho</text>
+<text x="775" y="256" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Se pierden las mitades temporales (externas): choca con</text>
+<text x="775" y="272" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">las puertas y no ve a los lados al manejar</text>
+<rect x="40" y="424" width="920" height="174" rx="8" fill="#f8f9fa" stroke="#dee2e6"/>
+<text x="60" y="442" text-anchor="start" font-size="13" font-weight="700" fill="#495057">Estructura afectada</text>
+<text x="260" y="442" text-anchor="start" font-size="13" font-weight="700" fill="#495057">Consecuencia</text>
+<circle cx="64" cy="464" r="6" fill="#e67700"/>
+<text x="78" y="468" text-anchor="start" font-size="13" font-weight="700" fill="#e67700">Quiasma óptico</text>
+<text x="260" y="468" text-anchor="start" font-size="13" font-weight="400" fill="#1f2933">Hemianopsia bitemporal, baja de agudeza visual, atrofia óptica</text>
+<circle cx="64" cy="494" r="6" fill="#1c7ed6"/>
+<text x="78" y="498" text-anchor="start" font-size="13" font-weight="700" fill="#1c7ed6">Seno cavernoso</text>
+<text x="260" y="498" text-anchor="start" font-size="13" font-weight="400" fill="#1f2933">Diplopía y ptosis (III, IV, VI), dolor facial (V1, V2)</text>
+<circle cx="64" cy="524" r="6" fill="#862e9c"/>
+<text x="78" y="528" text-anchor="start" font-size="13" font-weight="700" fill="#862e9c">Tallo hipofisario</text>
+<text x="260" y="528" text-anchor="start" font-size="13" font-weight="400" fill="#1f2933">Hiperprolactinemia leve ("efecto tallo": se pierde la inhibición por dopamina)</text>
+<circle cx="64" cy="554" r="6" fill="#2f9e44"/>
+<text x="78" y="558" text-anchor="start" font-size="13" font-weight="700" fill="#2f9e44">Hipófisis normal</text>
+<text x="260" y="558" text-anchor="start" font-size="13" font-weight="400" fill="#1f2933">Hipopituitarismo: GH, LH y FSH, luego TSH y ACTH</text>
+<circle cx="64" cy="584" r="6" fill="#c92a2a"/>
+<text x="78" y="588" text-anchor="start" font-size="13" font-weight="700" fill="#c92a2a">Hemorragia o infarto</text>
+<text x="260" y="588" text-anchor="start" font-size="13" font-weight="400" fill="#1f2933">Apoplejía: cefalea súbita, alteración visual, insuficiencia suprarrenal aguda</text>
+</svg>

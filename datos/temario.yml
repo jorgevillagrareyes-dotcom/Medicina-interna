@@ -495,11 +495,15 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/hipofisis-tumores-hipopituitarismo-e-hiperprolactinemia.md
   - codigo: 1.03.1.014
     nombre: Hipopituitarismo
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/hipofisis-tumores-hipopituitarismo-e-hiperprolactinemia.md
   - codigo: 1.03.1.015
     nombre: Diabetes insípida
     dx: Sospecha
@@ -512,6 +516,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/hipofisis-tumores-hipopituitarismo-e-hiperprolactinemia.md
   - codigo: 1.03.1.017
     nombre: Síndrome de secreción inapropiada de ADH
     dx: Específico
@@ -2289,6 +2295,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/hipofisis-tumores-hipopituitarismo-e-hiperprolactinemia.md
   - codigo: 1.10.1.029
     nombre: Tumores primarios y metastásicos SNC
     dx: Sospecha
