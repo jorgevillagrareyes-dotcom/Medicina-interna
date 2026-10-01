@@ -2376,16 +2376,22 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/poliartritis-artritis-reumatoide-y-espondiloartritis.md
   - codigo: 1.11.1.002
     nombre: Artritis reactivas
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/poliartritis-artritis-reumatoide-y-espondiloartritis.md
   - codigo: 1.11.1.003
     nombre: Artritis reumatoide
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/poliartritis-artritis-reumatoide-y-espondiloartritis.md
   - codigo: 1.11.1.004
     nombre: Artrosis
     dx: Específico
@@ -2463,6 +2469,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/poliartritis-artritis-reumatoide-y-espondiloartritis.md
   - codigo: 1.11.1.017
     nombre: Osteoporosis
     dx: Específico
@@ -2475,11 +2483,15 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/poliartritis-artritis-reumatoide-y-espondiloartritis.md
   - codigo: 1.11.1.019
     nombre: Poliartritis
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/poliartritis-artritis-reumatoide-y-espondiloartritis.md
   - codigo: 1.11.1.020
     nombre: Polimiositis, dermatomiositis
     dx: Sospecha
