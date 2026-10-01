@@ -1091,6 +1091,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/tos-cronica.md
   - codigo: 1.05.1.036
     nombre: Tuberculosis pulmonar
     dx: Específico

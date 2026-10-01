@@ -232,7 +232,7 @@ flowchart TD
 | **Dolor facial** | Sinusitis, **dolor dental**, migraña o cefalea en racimos, neuralgia del trigémino, disfunción temporomandibular, arteritis de células gigantes (> 50 años) |
 | **Otalgia** | Otitis media o externa, otalgia **referida** (dental, faringe, temporomandibular, **cáncer de faringe o laringe** en el fumador), herpes zóster ótico (vesículas, parálisis facial) |
 | **Disfonía** | Laringitis viral, reflujo, abuso vocal, **parálisis de cuerda vocal**, **cáncer de laringe**, hipotiroidismo |
-| **Tos persistente tras un resfrío** | Tos posviral (hasta 3–8 semanas), coqueluche, asma, goteo posnasal, reflujo |
+| **Tos persistente tras un resfrío** | Tos posviral (hasta 3–8 semanas), coqueluche, asma, goteo posnasal, reflujo ([ver tos crónica](tos-cronica.md)) |
 
 ## Tratamiento
 
