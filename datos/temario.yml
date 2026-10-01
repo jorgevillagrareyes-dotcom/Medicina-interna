@@ -1263,6 +1263,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/colestasia.md
   - codigo: 1.06.1.008
     nombre: Trastornos digestivos funcionales
     dx: Específico

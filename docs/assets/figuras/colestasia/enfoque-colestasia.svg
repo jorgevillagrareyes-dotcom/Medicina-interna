@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 514" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="514" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Colestasia: enfoque diagnóstico</text>
+<rect x="30" y="44" width="940" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="64.9" text-anchor="middle" font-size="12.5" font-weight="700" fill="#1f5f99">Patrón colestásico: fosfatasa alcalina y GGT elevadas (± bilirrubina directa)</text>
+<text x="500.0" y="81.5" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">La GGT alta confirma el origen hepático de la fosfatasa alcalina (si es normal: hueso, embarazo, crecimiento)</text>
+<text x="500.0" y="98.1" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Historia: fármacos y hierbas, dolor biliar, fiebre, baja de peso, prurito, EII, embarazo, nutrición parenteral, sepsis</text>
+<line x1="500" y1="110" x2="500" y2="128" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="300" y="128" width="400" height="40" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="500.0" y="152.5" text-anchor="middle" font-size="13.5" font-weight="700" fill="#b35c00">Ecografía abdominal: ¿vía biliar dilatada?</text>
+<line x1="250" y1="186" x2="750" y2="186" stroke="#495057" stroke-width="1.6"/>
+<line x1="500" y1="168" x2="500" y2="186" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="250" y1="186" x2="250" y2="204" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="750" y1="186" x2="750" y2="204" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<text x="258" y="200" text-anchor="start" font-size="12.4" font-weight="700" fill="#c92a2a">Sí</text>
+<text x="742" y="200" text-anchor="end" font-size="12.4" font-weight="700" fill="#2f9e44">No</text>
+<rect x="30" y="204" width="440" height="112" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="250.0" y="231.3" text-anchor="middle" font-size="12.5" font-weight="700" fill="#c92a2a">Colestasia EXTRAHEPÁTICA (obstructiva)</text>
+<text x="250.0" y="247.9" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Coledocolitiasis · cáncer de páncreas o de la vía biliar</text>
+<text x="250.0" y="264.5" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Cáncer de vesícula, ampuloma · estenosis · Mirizzi</text>
+<text x="250.0" y="281.1" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Pancreatitis crónica · quiste hidatídico roto a la vía biliar</text>
+<text x="250.0" y="297.7" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Colangio-RM o endosonografía → CPRE si hay que tratar</text>
+<rect x="530" y="204" width="440" height="112" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="750.0" y="231.3" text-anchor="middle" font-size="12.5" font-weight="700" fill="#2f9e44">Colestasia INTRAHEPÁTICA</text>
+<text x="750.0" y="247.9" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Revisar fármacos (amoxicilina-clavulánico, estrógenos,</text>
+<text x="750.0" y="264.5" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">anabolizantes, cotrimoxazol, clorpromazina)</text>
+<text x="750.0" y="281.1" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Pedir anticuerpos antimitocondriales (AMA)</text>
+<text x="750.0" y="297.7" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">y colangio-RM</text>
+<line x1="250" y1="316" x2="250" y2="334" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="750" y1="316" x2="750" y2="334" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="334" width="440" height="104" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="250.0" y="357.3" text-anchor="middle" font-size="12.5" font-weight="700" fill="#e8590c">Alarma: colangitis</text>
+<text x="250.0" y="373.9" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Fiebre + ictericia + dolor (tríada de Charcot)</text>
+<text x="250.0" y="390.5" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Hemocultivos, antibióticos y drenaje biliar urgente (CPRE)</text>
+<text x="250.0" y="407.1" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Ictericia indolora + baja de peso + vesícula palpable:</text>
+<text x="250.0" y="423.7" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">cáncer periampular (TC de abdomen con contraste)</text>
+<rect x="530" y="334" width="140" height="104" rx="8" fill="#f3f0ff" stroke="#6741d9" stroke-width="1.5"/>
+<text x="600" y="352" text-anchor="middle" font-size="12.4" font-weight="700" fill="#6741d9">AMA +</text>
+<text x="600" y="371.0" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">Colangitis biliar</text>
+<text x="600" y="386.5" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">primaria (mujer)</text>
+<text x="600" y="402.0" text-anchor="middle" font-size="11.6" font-weight="700" fill="#1f2933">Ácido</text>
+<text x="600" y="417.5" text-anchor="middle" font-size="11.6" font-weight="700" fill="#1f2933">ursodesoxicólico</text>
+<rect x="680" y="334" width="140" height="104" rx="8" fill="#e7f5ff" stroke="#1c7ed6" stroke-width="1.5"/>
+<text x="750" y="352" text-anchor="middle" font-size="12.4" font-weight="700" fill="#1c7ed6">Colangio-RM alterada</text>
+<text x="750" y="371.0" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">Colangitis esclerosante</text>
+<text x="750" y="386.5" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">primaria (EII) o</text>
+<text x="750" y="402.0" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">por IgG4 (IgG4 alta)</text>
+<text x="750" y="417.5" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">Derivar</text>
+<rect x="830" y="334" width="140" height="104" rx="8" fill="#f8f9fa" stroke="#495057" stroke-width="1.5"/>
+<text x="900" y="352" text-anchor="middle" font-size="12.4" font-weight="700" fill="#495057">AMA − y RM normal</text>
+<text x="900" y="371.0" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">Fármacos, sepsis, NPT,</text>
+<text x="900" y="386.5" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">infiltración (TBC, linfoma,</text>
+<text x="900" y="402.0" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">amiloidosis, sarcoidosis),</text>
+<text x="900" y="417.5" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">embarazo → biopsia</text>
+<rect x="30" y="452" width="940" height="50" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500.0" y="473.2" text-anchor="middle" font-size="12.5" font-weight="700" fill="#495057">Siempre</text>
+<text x="500.0" y="489.8" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Vitaminas liposolubles (A, D, E, K) e INR · densitometría si es crónica · tratar el prurito (colestiramina) · estadificar la fibrosis</text>
+</svg>
