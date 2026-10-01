@@ -8,13 +8,14 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **15 de 22** situaciones clínicas de esta subespecialidad tienen resumen.
+    **16 de 22** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Agitación psicomotora y agresividad (con énfasis en el adulto mayor)](agitacion-psicomotora-y-agresividad.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Caídas, hipotensión ortostática y fractura de cadera en el adulto mayor](caidas-hipotension-ortostatica-y-fractura-de-cadera.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Delirium (síndrome confusional agudo)](delirium.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Fragilidad y sarcopenia](fragilidad-y-sarcopenia.md)
 
 ## Situaciones clínicas
 
@@ -27,7 +28,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.07.1.005 | Diabetes mellitus tipo 2 | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 2](../endocrinologia/diabetes-mellitus-tipo-2.md) |
 | 1.07.1.006 | Enfermedad cerebro-vascular | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Accidente cerebrovascular (ACV) y crisis isquémica transitoria](../neurologia/accidente-cerebrovascular.md) |
 | 1.07.1.007 | Escaras o úlceras por presión | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.07.1.008 | Fragilidad | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.07.1.008 | Fragilidad | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Fragilidad y sarcopenia](fragilidad-y-sarcopenia.md) |
 | 1.07.1.009 | Hipertensión arterial | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
 | 1.07.1.010 | Hipotensión postural | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Caídas, hipotensión ortostática y fractura de cadera en el adulto mayor](caidas-hipotension-ortostatica-y-fractura-de-cadera.md) |
 | 1.07.1.011 | Hipotermia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |

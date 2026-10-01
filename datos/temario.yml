@@ -1514,6 +1514,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - geriatria/fragilidad-y-sarcopenia.md
   - codigo: 1.07.1.009
     nombre: Hipertensión arterial
     dx: Específico
