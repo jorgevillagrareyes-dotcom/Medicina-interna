@@ -1541,6 +1541,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - geriatria/hipotermia.md
   - codigo: 1.07.1.012
     nombre: Incontinencia urinaria
     dx: Específico

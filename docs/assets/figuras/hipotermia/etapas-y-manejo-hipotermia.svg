@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 568" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="568" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Hipotermia accidental: etapas, riesgo de paro y manejo</text>
+<text x="22" y="69" font-size="13.5" font-weight="700" fill="#1f5f99">Etapa (sistema suizo)</text>
+<rect x="166" y="44" width="201" height="36" rx="5" fill="#2f9e44"/>
+<text x="266.5" y="67" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">HT I · leve</text>
+<rect x="371" y="44" width="201" height="36" rx="5" fill="#e8a10c"/>
+<text x="471.5" y="67" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">HT II · moderada</text>
+<rect x="576" y="44" width="201" height="36" rx="5" fill="#d9480f"/>
+<text x="676.5" y="67" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">HT III · grave</text>
+<rect x="781" y="44" width="201" height="36" rx="5" fill="#111111"/>
+<text x="881.5" y="67" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">HT IV · paro</text>
+<rect x="16" y="84" width="146" height="63.5" rx="4" fill="#e7f0f8"/>
+<text x="24" y="120.8" font-size="13" font-weight="700" fill="#1f5f99">Conciencia (AVPU)</text>
+<rect x="166" y="84" width="201" height="63.5" rx="4" fill="#ebfbee" stroke="#ced4da"/>
+<text x="266.5" y="112.0" text-anchor="middle" font-size="13" fill="#1f2933">Alerta</text>
+<text x="266.5" y="128.5" text-anchor="middle" font-size="13" fill="#1f2933">(GCS 15)</text>
+<rect x="371" y="84" width="201" height="63.5" rx="4" fill="#fff9db" stroke="#ced4da"/>
+<text x="471.5" y="112.0" text-anchor="middle" font-size="13" fill="#1f2933">Responde a la voz,</text>
+<text x="471.5" y="128.5" text-anchor="middle" font-size="13" fill="#1f2933">confuso (GCS 9–14)</text>
+<rect x="576" y="84" width="201" height="63.5" rx="4" fill="#fff4e6" stroke="#ced4da"/>
+<text x="676.5" y="103.8" text-anchor="middle" font-size="13" fill="#1f2933">Responde al dolor o</text>
+<text x="676.5" y="120.2" text-anchor="middle" font-size="13" fill="#1f2933">no responde (GCS &lt; 9)</text>
+<text x="676.5" y="136.8" text-anchor="middle" font-size="13" fill="#1f2933">con signos vitales</text>
+<rect x="781" y="84" width="201" height="63.5" rx="4" fill="#f1f3f5" stroke="#ced4da"/>
+<text x="881.5" y="103.8" text-anchor="middle" font-size="13" fill="#1f2933">No responde y</text>
+<text x="881.5" y="120.2" text-anchor="middle" font-size="13" fill="#1f2933">sin signos vitales</text>
+<text x="881.5" y="136.8" text-anchor="middle" font-size="13" fill="#1f2933">(buscarlos 1 minuto)</text>
+<rect x="16" y="151.5" width="146" height="47.0" rx="4" fill="#e7f0f8"/>
+<text x="24" y="172.0" font-size="13" font-weight="700" fill="#1f5f99">Temperatura</text>
+<text x="24" y="188.0" font-size="13" font-weight="700" fill="#1f5f99">central estimada</text>
+<rect x="166" y="151.5" width="201" height="47.0" rx="4" fill="#ebfbee" stroke="#ced4da"/>
+<text x="266.5" y="179.5" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">35–32 °C</text>
+<rect x="371" y="151.5" width="201" height="47.0" rx="4" fill="#fff9db" stroke="#ced4da"/>
+<text x="471.5" y="179.5" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">&lt; 32–28 °C</text>
+<rect x="576" y="151.5" width="201" height="47.0" rx="4" fill="#fff4e6" stroke="#ced4da"/>
+<text x="676.5" y="179.5" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">&lt; 28 °C</text>
+<rect x="781" y="151.5" width="201" height="47.0" rx="4" fill="#f1f3f5" stroke="#ced4da"/>
+<text x="881.5" y="171.2" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Variable</text>
+<text x="881.5" y="187.8" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">(clásicamente &lt; 24 °C)</text>
+<rect x="16" y="202.5" width="146" height="80.0" rx="4" fill="#e7f0f8"/>
+<text x="24" y="247.5" font-size="13" font-weight="700" fill="#1f5f99">Hallazgos típicos</text>
+<rect x="166" y="202.5" width="201" height="80.0" rx="4" fill="#ebfbee" stroke="#ced4da"/>
+<text x="266.5" y="222.2" text-anchor="middle" font-size="13" fill="#1f2933">Calofríos intensos,</text>
+<text x="266.5" y="238.8" text-anchor="middle" font-size="13" fill="#1f2933">taquicardia, taquipnea,</text>
+<text x="266.5" y="255.2" text-anchor="middle" font-size="13" fill="#1f2933">torpeza, disartria,</text>
+<text x="266.5" y="271.8" text-anchor="middle" font-size="13" fill="#1f2933">diuresis por frío</text>
+<rect x="371" y="202.5" width="201" height="80.0" rx="4" fill="#fff9db" stroke="#ced4da"/>
+<text x="471.5" y="222.2" text-anchor="middle" font-size="13" fill="#1f2933">Calofríos ↓ o ausentes,</text>
+<text x="471.5" y="238.8" text-anchor="middle" font-size="13" fill="#1f2933">bradicardia, FA, onda J</text>
+<text x="471.5" y="255.2" text-anchor="middle" font-size="13" fill="#1f2933">de Osborn, apatía,</text>
+<text x="471.5" y="271.8" text-anchor="middle" font-size="13" fill="#1f2933">hiporreflexia</text>
+<rect x="576" y="202.5" width="201" height="80.0" rx="4" fill="#fff4e6" stroke="#ced4da"/>
+<text x="676.5" y="222.2" text-anchor="middle" font-size="13" fill="#1f2933">Coma, rigidez, midriasis,</text>
+<text x="676.5" y="238.8" text-anchor="middle" font-size="13" fill="#1f2933">bradipnea, hipotensión,</text>
+<text x="676.5" y="255.2" text-anchor="middle" font-size="13" fill="#1f2933">bradicardia extrema;</text>
+<text x="676.5" y="271.8" text-anchor="middle" font-size="13" fill="#1f2933">FV con la manipulación</text>
+<rect x="781" y="202.5" width="201" height="80.0" rx="4" fill="#f1f3f5" stroke="#ced4da"/>
+<text x="881.5" y="222.2" text-anchor="middle" font-size="13" fill="#1f2933">FV, asistolia o AESP;</text>
+<text x="881.5" y="238.8" text-anchor="middle" font-size="13" fill="#1f2933">la rigidez y las pupilas</text>
+<text x="881.5" y="255.2" text-anchor="middle" font-size="13" fill="#1f2933">fijas no confirman</text>
+<text x="881.5" y="271.8" text-anchor="middle" font-size="13" fill="#1f2933">la muerte</text>
+<rect x="16" y="286.5" width="146" height="30.5" rx="4" fill="#e7f0f8"/>
+<text x="24" y="306.8" font-size="13" font-weight="700" fill="#1f5f99">Riesgo de paro</text>
+<rect x="166" y="286.5" width="201" height="30.5" rx="4" fill="#d3f9d8" stroke="#ced4da"/>
+<text x="266.5" y="306.2" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Bajo</text>
+<rect x="371" y="286.5" width="201" height="30.5" rx="4" fill="#ffec99" stroke="#ced4da"/>
+<text x="471.5" y="306.2" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Moderado</text>
+<rect x="576" y="286.5" width="201" height="30.5" rx="4" fill="#ffc9c9" stroke="#ced4da"/>
+<text x="676.5" y="306.2" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Alto</text>
+<rect x="781" y="286.5" width="201" height="30.5" rx="4" fill="#343a40" stroke="#ced4da"/>
+<text x="881.5" y="306.2" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Paro hipotérmico</text>
+<rect x="16" y="321.0" width="146" height="80.0" rx="4" fill="#e7f0f8"/>
+<text x="24" y="366.0" font-size="13" font-weight="700" fill="#1f5f99">Recalentamiento</text>
+<rect x="166" y="321.0" width="201" height="80.0" rx="4" fill="#ebfbee" stroke="#ced4da"/>
+<text x="266.5" y="340.8" text-anchor="middle" font-size="13" fill="#1f2933">Pasivo: ropa seca,</text>
+<text x="266.5" y="357.2" text-anchor="middle" font-size="13" fill="#1f2933">aislar, ambiente cálido;</text>
+<text x="266.5" y="373.8" text-anchor="middle" font-size="13" fill="#1f2933">bebidas tibias dulces</text>
+<text x="266.5" y="390.2" text-anchor="middle" font-size="13" fill="#1f2933">si traga bien</text>
+<rect x="371" y="321.0" width="201" height="80.0" rx="4" fill="#fff9db" stroke="#ced4da"/>
+<text x="471.5" y="340.8" text-anchor="middle" font-size="13" fill="#1f2933">Activo externo: aire</text>
+<text x="471.5" y="357.2" text-anchor="middle" font-size="13" fill="#1f2933">forzado, mantas térmicas;</text>
+<text x="471.5" y="373.8" text-anchor="middle" font-size="13" fill="#1f2933">sueros a 38–42 °C;</text>
+<text x="471.5" y="390.2" text-anchor="middle" font-size="13" fill="#1f2933">horizontal y con suavidad</text>
+<rect x="576" y="321.0" width="201" height="80.0" rx="4" fill="#fff4e6" stroke="#ced4da"/>
+<text x="676.5" y="340.8" text-anchor="middle" font-size="13" fill="#1f2933">Activo externo ± interno;</text>
+<text x="676.5" y="357.2" text-anchor="middle" font-size="13" fill="#1f2933">monitor y parches de</text>
+<text x="676.5" y="373.8" text-anchor="middle" font-size="13" fill="#1f2933">desfibrilación; ECMO</text>
+<text x="676.5" y="390.2" text-anchor="middle" font-size="13" fill="#1f2933">en espera</text>
+<rect x="781" y="321.0" width="201" height="80.0" rx="4" fill="#f1f3f5" stroke="#ced4da"/>
+<text x="881.5" y="340.8" text-anchor="middle" font-size="13" fill="#1f2933">RCP continua y ECMO</text>
+<text x="881.5" y="357.2" text-anchor="middle" font-size="13" fill="#1f2933">venoarterial; si no hay</text>
+<text x="881.5" y="373.8" text-anchor="middle" font-size="13" fill="#1f2933">ECMO en ~6 h, recalentar</text>
+<text x="881.5" y="390.2" text-anchor="middle" font-size="13" fill="#1f2933">sin circulación extracorpórea</text>
+<rect x="16" y="405.0" width="146" height="63.5" rx="4" fill="#e7f0f8"/>
+<text x="24" y="441.8" font-size="13" font-weight="700" fill="#1f5f99">Destino</text>
+<rect x="166" y="405.0" width="201" height="63.5" rx="4" fill="#ebfbee" stroke="#ced4da"/>
+<text x="266.5" y="424.8" text-anchor="middle" font-size="13" fill="#1f2933">Observar; alta si</text>
+<text x="266.5" y="441.2" text-anchor="middle" font-size="13" fill="#1f2933">se recalienta y no hay</text>
+<text x="266.5" y="457.8" text-anchor="middle" font-size="13" fill="#1f2933">causa secundaria</text>
+<rect x="371" y="405.0" width="201" height="63.5" rx="4" fill="#fff9db" stroke="#ced4da"/>
+<text x="471.5" y="433.0" text-anchor="middle" font-size="13" fill="#1f2933">Hospitalizar con</text>
+<text x="471.5" y="449.5" text-anchor="middle" font-size="13" fill="#1f2933">monitorización</text>
+<rect x="576" y="405.0" width="201" height="63.5" rx="4" fill="#fff4e6" stroke="#ced4da"/>
+<text x="676.5" y="424.8" text-anchor="middle" font-size="13" fill="#1f2933">Centro con ECMO si</text>
+<text x="676.5" y="441.2" text-anchor="middle" font-size="13" fill="#1f2933">PAS &lt; 90, FC &lt; 45, arritmia</text>
+<text x="676.5" y="457.8" text-anchor="middle" font-size="13" fill="#1f2933">ventricular o T &lt; 30 °C</text>
+<rect x="781" y="405.0" width="201" height="63.5" rx="4" fill="#f1f3f5" stroke="#ced4da"/>
+<text x="881.5" y="424.8" text-anchor="middle" font-size="13" fill="#1f2933">Directo a centro con</text>
+<text x="881.5" y="441.2" text-anchor="middle" font-size="13" fill="#1f2933">ECMO; decidir con el</text>
+<text x="881.5" y="457.8" text-anchor="middle" font-size="13" fill="#1f2933">puntaje HOPE</text>
+<text x="20" y="490.5" font-size="12.6" fill="#1f2933">• Si se puede, medir la temperatura central con termómetro de rango bajo: esofágica (intubado), vesical o rectal (hospital), epitimpánica (terreno).</text>
+<text x="20" y="511.5" font-size="12.6" fill="#1f2933">• Los calofríos suelen indicar &gt; 30 °C. Si otra causa altera la conciencia (alcohol, sedantes, TEC, sepsis, hipoglicemia), la etapa sobreestima la hipotermia.</text>
+<text x="20" y="532.5" font-size="12.6" fill="#1f2933">• Paro &lt; 30 °C: máximo 3 descargas y retener la adrenalina hasta ≥ 30 °C (1 mg si el ECMO se demora); 30–35 °C: adrenalina cada 6–10 min (ERC 2025).</text>
+</svg>
