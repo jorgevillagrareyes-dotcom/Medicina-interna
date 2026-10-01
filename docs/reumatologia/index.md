@@ -8,12 +8,13 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **21 de 27** situaciones clínicas de esta subespecialidad tienen resumen.
+    **27 de 27** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](artrosis-y-reumatismos-de-partes-blandas.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](lumbago-lumbociatica-y-cervicalgia.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Lupus eritematoso sistémico, síndrome antifosfolípidos, Sjögren, esclerosis sistémica, miopatías inflamatorias y vasculitis](lupus-y-otras-mesenquimopatias.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Monoartritis aguda: gota, artritis séptica y enfermedad por pirofosfato de calcio](monoartritis-gota-artritis-septica.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Poliartritis y oligoartritis: artritis reumatoide, espondiloartritis, artritis psoriásica y reactiva](poliartritis-artritis-reumatoide-y-espondiloartritis.md)
 
@@ -29,23 +30,23 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.11.1.006 | Columna dolorosa | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](lumbago-lumbociatica-y-cervicalgia.md) |
 | 1.11.1.007 | Condrocalcinosis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Monoartritis aguda: gota, artritis séptica y enfermedad por pirofosfato de calcio](monoartritis-gota-artritis-septica.md) |
 | 1.11.1.008 | Epicondilalgia, epitroclealgias | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](artrosis-y-reumatismos-de-partes-blandas.md) |
-| 1.11.1.009 | Esclerosis sistémica progresiva | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.009 | Esclerosis sistémica progresiva | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lupus eritematoso sistémico, síndrome antifosfolípidos, Sjögren, esclerosis sistémica, miopatías inflamatorias y vasculitis](lupus-y-otras-mesenquimopatias.md) |
 | 1.11.1.010 | Fibromialgia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](artrosis-y-reumatismos-de-partes-blandas.md) |
 | 1.11.1.011 | Hombro doloroso | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](artrosis-y-reumatismos-de-partes-blandas.md) |
 | 1.11.1.012 | Lumbago infeccioso y tumoral | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](lumbago-lumbociatica-y-cervicalgia.md) |
 | 1.11.1.013 | Lumbago mecánico | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](lumbago-lumbociatica-y-cervicalgia.md) |
-| 1.11.1.014 | Lupus eritematoso sistémico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.014 | Lupus eritematoso sistémico | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lupus eritematoso sistémico, síndrome antifosfolípidos, Sjögren, esclerosis sistémica, miopatías inflamatorias y vasculitis](lupus-y-otras-mesenquimopatias.md) |
 | 1.11.1.015 | Monoartritis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Monoartritis aguda: gota, artritis séptica y enfermedad por pirofosfato de calcio](monoartritis-gota-artritis-septica.md) |
 | 1.11.1.016 | Oligoartritis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Poliartritis y oligoartritis: artritis reumatoide, espondiloartritis, artritis psoriásica y reactiva](poliartritis-artritis-reumatoide-y-espondiloartritis.md) |
 | 1.11.1.017 | Osteoporosis | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Osteoporosis primaria y secundaria](../endocrinologia/osteoporosis.md) |
 | 1.11.1.018 | Pelviespondilopatías seronegativas | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Poliartritis y oligoartritis: artritis reumatoide, espondiloartritis, artritis psoriásica y reactiva](poliartritis-artritis-reumatoide-y-espondiloartritis.md) |
 | 1.11.1.019 | Poliartritis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Poliartritis y oligoartritis: artritis reumatoide, espondiloartritis, artritis psoriásica y reactiva](poliartritis-artritis-reumatoide-y-espondiloartritis.md) |
-| 1.11.1.020 | Polimiositis, dermatomiositis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.11.1.021 | Síndrome antifosfolípidos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.11.1.022 | Síndrome de Sjögren | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.020 | Polimiositis, dermatomiositis | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lupus eritematoso sistémico, síndrome antifosfolípidos, Sjögren, esclerosis sistémica, miopatías inflamatorias y vasculitis](lupus-y-otras-mesenquimopatias.md) |
+| 1.11.1.021 | Síndrome antifosfolípidos | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lupus eritematoso sistémico, síndrome antifosfolípidos, Sjögren, esclerosis sistémica, miopatías inflamatorias y vasculitis](lupus-y-otras-mesenquimopatias.md) |
+| 1.11.1.022 | Síndrome de Sjögren | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lupus eritematoso sistémico, síndrome antifosfolípidos, Sjögren, esclerosis sistémica, miopatías inflamatorias y vasculitis](lupus-y-otras-mesenquimopatias.md) |
 | 1.11.1.023 | Síndrome de túnel carpiano | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](artrosis-y-reumatismos-de-partes-blandas.md) |
 | 1.11.1.024 | Tendonitis y bursitis | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](artrosis-y-reumatismos-de-partes-blandas.md) |
-| 1.11.1.025 | Vasculitis sistémicas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.11.1.025 | Vasculitis sistémicas | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lupus eritematoso sistémico, síndrome antifosfolípidos, Sjögren, esclerosis sistémica, miopatías inflamatorias y vasculitis](lupus-y-otras-mesenquimopatias.md) |
 
 ## Situaciones clínicas de urgencia
 

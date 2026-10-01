@@ -2434,6 +2434,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/lupus-y-otras-mesenquimopatias.md
   - codigo: 1.11.1.010
     nombre: Fibromialgia
     dx: Sospecha
@@ -2467,6 +2469,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/lupus-y-otras-mesenquimopatias.md
   - codigo: 1.11.1.015
     nombre: Monoartritis
     dx: Específico
@@ -2507,16 +2511,22 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/lupus-y-otras-mesenquimopatias.md
   - codigo: 1.11.1.021
     nombre: Síndrome antifosfolípidos
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/lupus-y-otras-mesenquimopatias.md
   - codigo: 1.11.1.022
     nombre: Síndrome de Sjögren
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/lupus-y-otras-mesenquimopatias.md
   - codigo: 1.11.1.023
     nombre: Síndrome de túnel carpiano
     dx: Específico
@@ -2536,6 +2546,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - reumatologia/lupus-y-otras-mesenquimopatias.md
   urgencias:
   - codigo: 1.11.2.001
     nombre: Artritis séptica

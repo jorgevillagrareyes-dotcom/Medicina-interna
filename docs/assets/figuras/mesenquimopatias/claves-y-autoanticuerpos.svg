@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="650" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Mesenquimopatías y vasculitis: claves clínicas y autoanticuerpos</text>
+<text x="28" y="70" font-size="14" font-weight="700" fill="#1f5f99">Enfermedad</text>
+<text x="258" y="70" font-size="14" font-weight="700" fill="#1f5f99">Claves clínicas</text>
+<text x="618" y="70" font-size="14" font-weight="700" fill="#1f5f99">Exámenes que orientan</text>
+<rect x="20" y="82" width="960" height="68" rx="8" fill="#fde7e5" stroke="#b3261e" stroke-width="1.4"/>
+<rect x="20" y="82" width="8" height="68" rx="4" fill="#b3261e"/>
+<text x="38" y="111" font-size="14" font-weight="700" fill="#b3261e">Lupus eritematoso</text>
+<text x="38" y="129" font-size="14" font-weight="700" fill="#b3261e">sistémico</text>
+<text x="258" y="111" font-size="12.8" fill="#1f2933">Mujer joven; eritema malar fotosensible, úlceras orales,</text>
+<text x="258" y="129" font-size="12.8" fill="#1f2933">artritis no erosiva, serositis, citopenias, nefritis, SNC</text>
+<text x="618" y="111" font-size="12.8" fill="#1f2933">ANA (casi 100 %) · anti-DNAdc y anti-Sm (específicos)</text>
+<text x="618" y="129" font-size="12.8" fill="#1f2933">C3 y C4 bajos (actividad) · anti-histona: lupus por fármacos</text>
+<rect x="20" y="156" width="960" height="68" rx="8" fill="#efeafa" stroke="#7c5cc4" stroke-width="1.4"/>
+<rect x="20" y="156" width="8" height="68" rx="4" fill="#7c5cc4"/>
+<text x="38" y="185" font-size="14" font-weight="700" fill="#7c5cc4">Síndrome</text>
+<text x="38" y="203" font-size="14" font-weight="700" fill="#7c5cc4">antifosfolípidos</text>
+<text x="258" y="185" font-size="12.8" fill="#1f2933">Trombosis venosa o arterial, pérdidas fetales,</text>
+<text x="258" y="203" font-size="12.8" fill="#1f2933">preeclampsia grave, livedo, trombocitopenia</text>
+<text x="618" y="185" font-size="12.8" fill="#1f2933">Anticoagulante lúpico · anticardiolipinas ·</text>
+<text x="618" y="203" font-size="12.8" fill="#1f2933">anti-β2-glicoproteína I (2 veces, con ≥ 12 semanas)</text>
+<rect x="20" y="230" width="960" height="68" rx="8" fill="#e3f2fd" stroke="#1f5f99" stroke-width="1.4"/>
+<rect x="20" y="230" width="8" height="68" rx="4" fill="#1f5f99"/>
+<text x="38" y="268" font-size="14" font-weight="700" fill="#1f5f99">Síndrome de Sjögren</text>
+<text x="258" y="259" font-size="12.8" fill="#1f2933">Sequedad ocular y bucal, parotidomegalia, fatiga,</text>
+<text x="258" y="277" font-size="12.8" fill="#1f2933">artralgias; mayor riesgo de linfoma</text>
+<text x="618" y="259" font-size="12.8" fill="#1f2933">Anti-Ro/SSA · anti-La/SSB · FR · hipergamaglobulinemia</text>
+<text x="618" y="277" font-size="12.8" fill="#1f2933">Test de Schirmer, biopsia de glándula salival menor</text>
+<rect x="20" y="304" width="960" height="68" rx="8" fill="#fff4d6" stroke="#c28a12" stroke-width="1.4"/>
+<rect x="20" y="304" width="8" height="68" rx="4" fill="#c28a12"/>
+<text x="38" y="342" font-size="14" font-weight="700" fill="#c28a12">Esclerosis sistémica</text>
+<text x="258" y="333" font-size="12.8" fill="#1f2933">Raynaud, piel engrosada (esclerodactilia), úlceras digitales,</text>
+<text x="258" y="351" font-size="12.8" fill="#1f2933">ERGE, enfermedad pulmonar intersticial, HAP, crisis renal</text>
+<text x="618" y="333" font-size="12.8" fill="#1f2933">Anti-centrómero (limitada, HAP) · anti-topoisomerasa I</text>
+<text x="618" y="351" font-size="12.8" fill="#1f2933">(Scl-70: difusa, pulmón) · anti-ARN polimerasa III (crisis renal)</text>
+<rect x="20" y="378" width="960" height="68" rx="8" fill="#e3f5ea" stroke="#2e7d4f" stroke-width="1.4"/>
+<rect x="20" y="378" width="8" height="68" rx="4" fill="#2e7d4f"/>
+<text x="38" y="416" font-size="14" font-weight="700" fill="#2e7d4f">Miopatías inflamatorias</text>
+<text x="258" y="407" font-size="12.8" fill="#1f2933">Debilidad proximal simétrica, CK alta; dermatomiositis:</text>
+<text x="258" y="425" font-size="12.8" fill="#1f2933">heliotropo y pápulas de Gottron; buscar cáncer y pulmón</text>
+<text x="618" y="407" font-size="12.8" fill="#1f2933">Anti-Jo-1 (antisintetasa: pulmón, artritis) ·</text>
+<text x="618" y="425" font-size="12.8" fill="#1f2933">anti-TIF1γ (cáncer) · anti-MDA5 (pulmón grave)</text>
+<rect x="20" y="452" width="960" height="68" rx="8" fill="#fde7e5" stroke="#b3261e" stroke-width="1.4"/>
+<rect x="20" y="452" width="8" height="68" rx="4" fill="#b3261e"/>
+<text x="38" y="481" font-size="14" font-weight="700" fill="#b3261e">Vasculitis asociadas</text>
+<text x="38" y="499" font-size="14" font-weight="700" fill="#b3261e">a ANCA</text>
+<text x="258" y="481" font-size="12.8" fill="#1f2933">Granulomatosis con poliangeítis: nariz, senos,</text>
+<text x="258" y="499" font-size="12.8" fill="#1f2933">pulmón, riñón · microscópica: riñón y pulmón · EGPA: asma</text>
+<text x="618" y="481" font-size="12.8" fill="#1f2933">c-ANCA anti-PR3 (granulomatosis con poliangeítis)</text>
+<text x="618" y="499" font-size="12.8" fill="#1f2933">p-ANCA anti-MPO (microscópica, EGPA con eosinofilia)</text>
+<rect x="20" y="526" width="960" height="68" rx="8" fill="#eef2f6" stroke="#52606d" stroke-width="1.4"/>
+<rect x="20" y="526" width="8" height="68" rx="4" fill="#52606d"/>
+<text x="38" y="555" font-size="14" font-weight="700" fill="#52606d">Arteritis de</text>
+<text x="38" y="573" font-size="14" font-weight="700" fill="#52606d">células gigantes</text>
+<text x="258" y="555" font-size="12.8" fill="#1f2933">> 50 años, cefalea nueva, claudicación mandibular,</text>
+<text x="258" y="573" font-size="12.8" fill="#1f2933">alteración visual, polimialgia; urgencia (ceguera)</text>
+<text x="618" y="555" font-size="12.8" fill="#1f2933">VHS y PCR muy altas · ecografía o biopsia de la arteria</text>
+<text x="618" y="573" font-size="12.8" fill="#1f2933">temporal (no hay autoanticuerpo específico)</text>
+<text x="20" y="614" font-size="12.5" fill="#1f2933">ANA positivo de título bajo (≤ 1/160) sin clínica es frecuente en sanos: <tspan font-weight="700">no pedir autoanticuerpos sin sospecha clínica</tspan>. Anti-U1-RNP: enfermedad mixta del tejido conectivo.</text>
+<text x="980" y="642" text-anchor="end" font-size="11.5" fill="#7b8794">Esquema propio basado en los criterios EULAR/ACR 2019 (LES), ACR/EULAR 2023 (antifosfolípidos), 2016 (Sjögren), 2013 (esclerosis sistémica), 2017 (miopatías) y Chapel Hill 2012.</text>
+</svg>
