@@ -1338,6 +1338,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/enfermedad-inflamatoria-intestinal.md
   - codigo: 1.06.1.019
     nombre: Hepatitis aguda A no complicada
     dx: Específico

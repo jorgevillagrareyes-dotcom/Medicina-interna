@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **34 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
+    **35 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -19,6 +19,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Disfagia y afagia aguda (impactación alimentaria y cuerpos extraños esofágicos)](disfagia-y-afagia-aguda.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Dispepsia, úlcera péptica, *Helicobacter pylori* y cáncer gástrico](dispepsia-ulcera-peptica-y-cancer-gastrico.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad celíaca, intolerancia a la lactosa y síndrome de malabsorción](enfermedad-celiaca-intolerancia-a-la-lactosa-y-malabsorcion.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad inflamatoria intestinal: colitis ulcerosa y enfermedad de Crohn](enfermedad-inflamatoria-intestinal.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad por reflujo gastroesofágico (ERGE) y esófago de Barrett](reflujo-gastroesofagico.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva alta](hemorragia-digestiva-alta.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva baja](hemorragia-digestiva-baja.md)
@@ -47,7 +48,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.06.1.015 | Enfermedad celiaca | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad celíaca, intolerancia a la lactosa y síndrome de malabsorción](enfermedad-celiaca-intolerancia-a-la-lactosa-y-malabsorcion.md) |
 | 1.06.1.016 | Enfermedad diverticular complicada | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](abdomen-agudo.md) |
 | 1.06.1.017 | Enfermedad diverticular no complicada | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](abdomen-agudo.md) |
-| 1.06.1.018 | Enfermedad inflamatoria intestinal | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.018 | Enfermedad inflamatoria intestinal | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad inflamatoria intestinal: colitis ulcerosa y enfermedad de Crohn](enfermedad-inflamatoria-intestinal.md) |
 | 1.06.1.019 | Hepatitis aguda A no complicada | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hepatitis aguda e insuficiencia hepática aguda](hepatitis-aguda-e-insuficiencia-hepatica-aguda.md) |
 | 1.06.1.020 | Hepatitis agudas B, C, por otros virus, por drogas y tóxicas | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hepatitis aguda e insuficiencia hepática aguda](hepatitis-aguda-e-insuficiencia-hepatica-aguda.md) |
 | 1.06.1.021 | Hepatitis crónica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
