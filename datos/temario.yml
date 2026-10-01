@@ -417,6 +417,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/bocio-nodulo-y-cancer-de-tiroides.md
   - codigo: 1.03.1.002
     nombre: Hipotiroidismo
     dx: Específico
@@ -436,6 +438,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/bocio-nodulo-y-cancer-de-tiroides.md
   - codigo: 1.03.1.005
     nombre: Tiroiditis
     dx: Específico
@@ -537,6 +541,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/bocio-nodulo-y-cancer-de-tiroides.md
   - codigo: 1.03.1.022
     nombre: Incidentaloma suprarrenal
     dx: Específico

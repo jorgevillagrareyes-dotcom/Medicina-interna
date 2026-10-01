@@ -8,10 +8,11 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **34 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
+    **37 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
+- :material-check-circle:{ .ok title="Resumen disponible" } [Bocio, nódulo tiroideo y cáncer de tiroides](bocio-nodulo-y-cancer-de-tiroides.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](cetoacidosis-y-estado-hiperosmolar.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones crónicas de la diabetes: nefropatía, retinopatía, neuropatía, enfermedad arterial periférica y pie diabético](complicaciones-cronicas-de-la-diabetes.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 2](diabetes-mellitus-tipo-2.md)
@@ -67,10 +68,10 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.03.1.001 | Bocio | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.001 | Bocio | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Bocio, nódulo tiroideo y cáncer de tiroides](bocio-nodulo-y-cancer-de-tiroides.md) |
 | 1.03.1.002 | Hipotiroidismo | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipotiroidismo, hipertiroidismo y tiroiditis](hipotiroidismo-e-hipertiroidismo.md) |
 | 1.03.1.003 | Hipertiroidismo | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipotiroidismo, hipertiroidismo y tiroiditis](hipotiroidismo-e-hipertiroidismo.md) |
-| 1.03.1.004 | Cáncer del tiroides | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.004 | Cáncer del tiroides | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Bocio, nódulo tiroideo y cáncer de tiroides](bocio-nodulo-y-cancer-de-tiroides.md) |
 | 1.03.1.005 | Tiroiditis | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipotiroidismo, hipertiroidismo y tiroiditis](hipotiroidismo-e-hipertiroidismo.md) |
 | 1.03.1.006 | Síndrome de Cushing | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.007 | Insuficiencia suprarrenal crónica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia suprarrenal y crisis suprarrenal](insuficiencia-suprarrenal.md) |
@@ -87,7 +88,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.03.1.018 | Osteoporosis | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Osteoporosis primaria y secundaria](osteoporosis.md) |
 | 1.03.1.019 | Osteoporosis secundaria | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Osteoporosis primaria y secundaria](osteoporosis.md) |
 | 1.03.1.020 | Hipercalcemias e hipocalcemias | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos del calcio, fósforo y magnesio: hipocalcemia, tetania e hipercalcemia](trastornos-del-calcio-fosforo-y-magnesio.md) |
-| 1.03.1.021 | Nódulo tiroideo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.021 | Nódulo tiroideo | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Bocio, nódulo tiroideo y cáncer de tiroides](bocio-nodulo-y-cancer-de-tiroides.md) |
 | 1.03.1.022 | Incidentaloma suprarrenal | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.023 | Ginecomastia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 

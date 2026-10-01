@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 690" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="690" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Ecografía del nódulo tiroideo: puntaje ACR TI-RADS y conducta</text>
+<text x="20" y="56" font-size="15" font-weight="700" fill="#1f5f99">1. Sumar los puntos de las 5 características</text>
+<rect x="20" y="68" width="440" height="102" rx="8" fill="#f5f7fa" stroke="#cbd2d9"/>
+<text x="32" y="87" font-size="14" font-weight="700" fill="#1f2933">Composición</text>
+<text x="42" y="107" font-size="13" fill="#1f2933">Quístico o casi quístico</text>
+<circle cx="430" cy="102.5" r="9" fill="#2e7d4f"/>
+<text x="430" y="107" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">0</text>
+<text x="42" y="126" font-size="13" fill="#1f2933">Espongiforme</text>
+<circle cx="430" cy="121.5" r="9" fill="#2e7d4f"/>
+<text x="430" y="126" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">0</text>
+<text x="42" y="145" font-size="13" fill="#1f2933">Mixto sólido-quístico</text>
+<circle cx="430" cy="140.5" r="9" fill="#c28a12"/>
+<text x="430" y="145" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">1</text>
+<text x="42" y="164" font-size="13" fill="#1f2933">Sólido o casi sólido</text>
+<circle cx="430" cy="159.5" r="9" fill="#d9480f"/>
+<text x="430" y="164" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">2</text>
+<rect x="20" y="178" width="440" height="102" rx="8" fill="#f5f7fa" stroke="#cbd2d9"/>
+<text x="32" y="197" font-size="14" font-weight="700" fill="#1f2933">Ecogenicidad</text>
+<text x="42" y="217" font-size="13" fill="#1f2933">Anecoico</text>
+<circle cx="430" cy="212.5" r="9" fill="#2e7d4f"/>
+<text x="430" y="217" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">0</text>
+<text x="42" y="236" font-size="13" fill="#1f2933">Hiper o isoecoico</text>
+<circle cx="430" cy="231.5" r="9" fill="#c28a12"/>
+<text x="430" y="236" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">1</text>
+<text x="42" y="255" font-size="13" fill="#1f2933">Hipoecoico</text>
+<circle cx="430" cy="250.5" r="9" fill="#d9480f"/>
+<text x="430" y="255" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">2</text>
+<text x="42" y="274" font-size="13" fill="#1f2933">Muy hipoecoico</text>
+<circle cx="430" cy="269.5" r="9" fill="#b3261e"/>
+<text x="430" y="274" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">3</text>
+<rect x="20" y="288" width="440" height="64" rx="8" fill="#f5f7fa" stroke="#cbd2d9"/>
+<text x="32" y="307" font-size="14" font-weight="700" fill="#1f2933">Forma (corte transversal)</text>
+<text x="42" y="327" font-size="13" fill="#1f2933">Más ancho que alto</text>
+<circle cx="430" cy="322.5" r="9" fill="#2e7d4f"/>
+<text x="430" y="327" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">0</text>
+<text x="42" y="346" font-size="13" fill="#1f2933">Más alto que ancho</text>
+<circle cx="430" cy="341.5" r="9" fill="#b3261e"/>
+<text x="430" y="346" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">3</text>
+<rect x="20" y="360" width="440" height="83" rx="8" fill="#f5f7fa" stroke="#cbd2d9"/>
+<text x="32" y="379" font-size="14" font-weight="700" fill="#1f2933">Márgenes</text>
+<text x="42" y="399" font-size="13" fill="#1f2933">Lisos o mal definidos</text>
+<circle cx="430" cy="394.5" r="9" fill="#2e7d4f"/>
+<text x="430" y="399" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">0</text>
+<text x="42" y="418" font-size="13" fill="#1f2933">Lobulados o irregulares</text>
+<circle cx="430" cy="413.5" r="9" fill="#d9480f"/>
+<text x="430" y="418" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">2</text>
+<text x="42" y="437" font-size="13" fill="#1f2933">Extensión extratiroidea</text>
+<circle cx="430" cy="432.5" r="9" fill="#b3261e"/>
+<text x="430" y="437" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">3</text>
+<rect x="20" y="451" width="440" height="102" rx="8" fill="#f5f7fa" stroke="#cbd2d9"/>
+<text x="32" y="470" font-size="14" font-weight="700" fill="#1f2933">Focos ecogénicos</text>
+<text x="42" y="490" font-size="13" fill="#1f2933">Ninguno o cola de cometa grande</text>
+<circle cx="430" cy="485.5" r="9" fill="#2e7d4f"/>
+<text x="430" y="490" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">0</text>
+<text x="42" y="509" font-size="13" fill="#1f2933">Macrocalcificaciones</text>
+<circle cx="430" cy="504.5" r="9" fill="#c28a12"/>
+<text x="430" y="509" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">1</text>
+<text x="42" y="528" font-size="13" fill="#1f2933">Calcificación periférica (anillo)</text>
+<circle cx="430" cy="523.5" r="9" fill="#d9480f"/>
+<text x="430" y="528" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">2</text>
+<text x="42" y="547" font-size="13" fill="#1f2933">Focos puntiformes (microcalcif.)</text>
+<circle cx="430" cy="542.5" r="9" fill="#b3261e"/>
+<text x="430" y="547" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">3</text>
+<text x="20" y="569" font-size="12" fill="#52606d">Espongiforme: 0 puntos y no se suman otras características.</text>
+<text x="20" y="585" font-size="12" fill="#52606d">Mixto: se puntúa la ecogenicidad del componente sólido.</text>
+<text x="490" y="56" font-size="15" font-weight="700" fill="#1f5f99">2. Nivel TR y tamaño para PAAF o seguimiento</text>
+<rect x="490" y="68" width="490" height="74" rx="8" fill="#e3f5ea" stroke="#2e7d4f" stroke-width="1.4"/>
+<rect x="490" y="68" width="74" height="74" rx="8" fill="#2e7d4f"/>
+<text x="527" y="102" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">TR1</text>
+<text x="527" y="122" text-anchor="middle" font-size="12" fill="#ffffff">0 puntos</text>
+<text x="578" y="90" font-size="14" font-weight="700" fill="#2e7d4f">Benigno</text>
+<text x="578" y="111" font-size="13.5" font-weight="700" fill="#1f2933">No requiere PAAF</text>
+<rect x="490" y="150" width="490" height="74" rx="8" fill="#e3f5ea" stroke="#2e7d4f" stroke-width="1.4"/>
+<rect x="490" y="150" width="74" height="74" rx="8" fill="#2e7d4f"/>
+<text x="527" y="184" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">TR2</text>
+<text x="527" y="204" text-anchor="middle" font-size="12" fill="#ffffff">2 puntos</text>
+<text x="578" y="172" font-size="14" font-weight="700" fill="#2e7d4f">No sospechoso</text>
+<text x="578" y="193" font-size="13.5" font-weight="700" fill="#1f2933">No requiere PAAF</text>
+<rect x="490" y="232" width="490" height="74" rx="8" fill="#fff4d6" stroke="#c28a12" stroke-width="1.4"/>
+<rect x="490" y="232" width="74" height="74" rx="8" fill="#c28a12"/>
+<text x="527" y="266" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">TR3</text>
+<text x="527" y="286" text-anchor="middle" font-size="12" fill="#ffffff">3 puntos</text>
+<text x="578" y="254" font-size="14" font-weight="700" fill="#c28a12">Levemente sospechoso</text>
+<text x="578" y="275" font-size="13.5" font-weight="700" fill="#1f2933">PAAF si ≥ 2,5 cm</text>
+<text x="740" y="275" font-size="13.5" fill="#1f2933">Seguir si ≥ 1,5 cm</text>
+<text x="578" y="295" font-size="12.5" fill="#52606d">Ecografía a 1, 3 y 5 años</text>
+<rect x="490" y="314" width="490" height="74" rx="8" fill="#fde9dc" stroke="#d9480f" stroke-width="1.4"/>
+<rect x="490" y="314" width="74" height="74" rx="8" fill="#d9480f"/>
+<text x="527" y="348" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">TR4</text>
+<text x="527" y="368" text-anchor="middle" font-size="12" fill="#ffffff">4–6 puntos</text>
+<text x="578" y="336" font-size="14" font-weight="700" fill="#d9480f">Moderadamente sospechoso</text>
+<text x="578" y="357" font-size="13.5" font-weight="700" fill="#1f2933">PAAF si ≥ 1,5 cm</text>
+<text x="740" y="357" font-size="13.5" fill="#1f2933">Seguir si ≥ 1,0 cm</text>
+<text x="578" y="377" font-size="12.5" fill="#52606d">Ecografía a 1, 2, 3 y 5 años</text>
+<rect x="490" y="396" width="490" height="74" rx="8" fill="#fde7e5" stroke="#b3261e" stroke-width="1.4"/>
+<rect x="490" y="396" width="74" height="74" rx="8" fill="#b3261e"/>
+<text x="527" y="430" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">TR5</text>
+<text x="527" y="450" text-anchor="middle" font-size="12" fill="#ffffff">≥ 7 puntos</text>
+<text x="578" y="418" font-size="14" font-weight="700" fill="#b3261e">Altamente sospechoso</text>
+<text x="578" y="439" font-size="13.5" font-weight="700" fill="#1f2933">PAAF si ≥ 1,0 cm</text>
+<text x="740" y="439" font-size="13.5" fill="#1f2933">Seguir si ≥ 0,5 cm</text>
+<text x="578" y="459" font-size="12.5" fill="#52606d">Ecografía anual hasta 5 años</text>
+<rect x="490" y="482" width="490" height="132" rx="8" fill="#e3f2fd" stroke="#1f5f99" stroke-width="1.4"/>
+<text x="504" y="504" font-size="14" font-weight="700" fill="#1f5f99">Equivalente europeo (EU-TIRADS, ETA 2023): PAAF si</text>
+<text x="504" y="526" font-size="13.5" fill="#1f2933"><tspan font-weight="700">EU-TIRADS 3</tspan> (iso o hiperecoico): &gt; 20 mm</text>
+<text x="504" y="545" font-size="13.5" fill="#1f2933"><tspan font-weight="700">EU-TIRADS 4</tspan> (levemente hipoecoico): &gt; 15 mm</text>
+<text x="504" y="564" font-size="13.5" fill="#1f2933"><tspan font-weight="700">EU-TIRADS 5</tspan> (≥ 1 rasgo de alto riesgo): &gt; 10 mm</text>
+<text x="504" y="588" font-size="12.5" fill="#52606d">Alto riesgo: forma no ovalada, márgenes irregulares,</text>
+<text x="504" y="604" font-size="12.5" fill="#52606d">microcalcificaciones o marcada hipoecogenicidad.</text>
+<text x="490" y="636" font-size="12.8" fill="#b3261e" font-weight="700">Con adenopatía sospechosa o extensión extratiroidea:</text>
+<text x="490" y="653" font-size="12.8" fill="#b3261e" font-weight="700">PAAF (del nódulo o del ganglio) sin importar el tamaño.</text>
+<text x="980" y="682" text-anchor="end" font-size="11.5" fill="#7b8794">Esquema propio basado en Tessler FN et al. J Am Coll Radiol 2017 (ACR TI-RADS) y Durante C et al. Eur Thyroid J 2023 (ETA).</text>
+</svg>
