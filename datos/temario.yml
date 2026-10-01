@@ -603,6 +603,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - infectologia/sindrome-mononucleosico-y-adenitis.md
   - codigo: 1.04.1.003
     nombre: Ántrax
     dx: Sospecha
@@ -753,6 +755,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - infectologia/sindrome-mononucleosico-y-adenitis.md
   - codigo: 1.04.1.026
     nombre: Toxicoinfección alimentaria
     dx: Específico

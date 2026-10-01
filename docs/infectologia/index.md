@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **29 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
+    **31 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -24,6 +24,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Parasitosis intestinales](parasitosis-intestinales.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](sepsis-y-shock-septico.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome cardiopulmonar por hantavirus y leptospirosis](hantavirus-y-leptospirosis.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome mononucleósico, adenopatías y adenitis](sindrome-mononucleosico-y-adenitis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Triquinosis e hidatidosis](triquinosis-e-hidatidosis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Tétanos](tetanos.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Varicela, herpes zóster y otros exantemas del adulto](varicela-y-herpes-zoster.md)
@@ -32,7 +33,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.04.1.001 | Adenitis, adenoflegmón | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.001 | Adenitis, adenoflegmón | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome mononucleósico, adenopatías y adenitis](sindrome-mononucleosico-y-adenitis.md) |
 | 1.04.1.003 | Ántrax | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.004 | Brucelosis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.005 | Candidiasis oral y esofágica | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infección por VIH y SIDA, candidiasis orofaríngea y esofágica, y diarrea en inmunosuprimidos](infeccion-por-vih.md) |
@@ -56,7 +57,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.1.022 | Parasitosis intestinales | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Parasitosis intestinales](parasitosis-intestinales.md) |
 | 1.04.1.023 | Sífilis secundaria, terciaria y congénita | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de transmisión sexual y sífilis](infecciones-de-transmision-sexual-y-sifilis.md) |
 | 1.04.1.024 | Síndrome febril prolongado | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.1.025 | Síndrome mononucleósico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.025 | Síndrome mononucleósico | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome mononucleósico, adenopatías y adenitis](sindrome-mononucleosico-y-adenitis.md) |
 | 1.04.1.026 | Toxicoinfección alimentaria | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](../gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md) |
 | 1.04.1.027 | Triquinosis | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Triquinosis e hidatidosis](triquinosis-e-hidatidosis.md) |
 | 1.04.1.028 | Tuberculosis extrapulmonar | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tuberculosis](../respiratorio/tuberculosis.md) |

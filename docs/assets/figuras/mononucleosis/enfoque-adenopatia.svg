@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 542" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="542" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Enfoque del adulto con adenopatías</text>
+<rect x="330" y="44" width="340" height="52" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="66.0" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Adenopatía palpable</text>
+<text x="500.0" y="83.0" text-anchor="middle" font-size="13" fill="#1f2933">anormal: &gt; 1 cm (epitroclear &gt; 0,5 cm; inguinal &gt; 2 cm)</text>
+<line x1="500" y1="96" x2="500" y2="122" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="330" y="122" width="340" height="46" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="500.0" y="141.0" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">¿Generalizada?</text>
+<text x="500.0" y="158.0" text-anchor="middle" font-size="13" fill="#1f2933">≥ 2 grupos no contiguos</text>
+<line x1="330" y1="145" x2="236" y2="145" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<text x="262" y="138" font-size="12.5" font-weight="700" fill="#495057">Sí</text>
+<rect x="16" y="112" width="220" height="196" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="126.0" y="163.5" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Generalizada</text>
+<text x="126.0" y="180.5" text-anchor="middle" font-size="13" fill="#1f2933">Síndrome mononucleósico:</text>
+<text x="126.0" y="197.5" text-anchor="middle" font-size="13" fill="#1f2933">VEB, CMV, VIH agudo,</text>
+<text x="126.0" y="214.5" text-anchor="middle" font-size="13" fill="#1f2933">toxoplasmosis</text>
+<text x="126.0" y="231.5" text-anchor="middle" font-size="13" fill="#1f2933">Sífilis secundaria, TBC</text>
+<text x="126.0" y="248.5" text-anchor="middle" font-size="13" fill="#1f2933">LES, sarcoidosis, fármacos</text>
+<text x="126.0" y="265.5" text-anchor="middle" font-size="13" fill="#1f2933">Linfoma, leucemia</text>
+<rect x="16" y="318" width="220" height="110" rx="8" fill="#ffffff" stroke="#868e96" stroke-width="1.6"/>
+<text x="126.0" y="343.5" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Pedir</text>
+<text x="126.0" y="360.5" text-anchor="middle" font-size="13" fill="#1f2933">Hemograma y frotis</text>
+<text x="126.0" y="377.5" text-anchor="middle" font-size="13" fill="#1f2933">VIH, VEB, CMV, VDRL</text>
+<text x="126.0" y="394.5" text-anchor="middle" font-size="13" fill="#1f2933">Rx de tórax, LDH</text>
+<text x="126.0" y="411.5" text-anchor="middle" font-size="13" fill="#1f2933">Biopsia si no se aclara</text>
+<line x1="670" y1="145" x2="790" y2="145" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<text x="684" y="138" font-size="12.5" font-weight="700" fill="#495057">No: localizada</text>
+<rect x="790" y="112" width="194" height="120" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="887.0" y="142.5" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Buscar la causa regional</text>
+<text x="887.0" y="159.5" text-anchor="middle" font-size="13" fill="#1f2933">Revisar el territorio</text>
+<text x="887.0" y="176.5" text-anchor="middle" font-size="13" fill="#1f2933">de drenaje: faringe, dientes,</text>
+<text x="887.0" y="193.5" text-anchor="middle" font-size="13" fill="#1f2933">piel, cuero cabelludo,</text>
+<text x="887.0" y="210.5" text-anchor="middle" font-size="13" fill="#1f2933">mamas, genitales</text>
+<line x1="500" y1="168" x2="500" y2="196" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="300" y="196" width="400" height="150" rx="8" fill="#fff5f5" stroke="#b3261e" stroke-width="1.6"/>
+<text x="500.0" y="233.0" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">¿Signos de alarma?</text>
+<text x="500.0" y="250.0" text-anchor="middle" font-size="13" fill="#1f2933">Edad &gt; 40 años · supraclavicular (siempre anormal)</text>
+<text x="500.0" y="267.0" text-anchor="middle" font-size="13" fill="#1f2933">&gt; 2 cm · dura, pétrea o adherida · indolora y creciente</text>
+<text x="500.0" y="284.0" text-anchor="middle" font-size="13" fill="#1f2933">Fiebre, sudoración nocturna, baja de peso</text>
+<text x="500.0" y="301.0" text-anchor="middle" font-size="13" fill="#1f2933">Hepatoesplenomegalia · citopenias</text>
+<text x="500.0" y="318.0" text-anchor="middle" font-size="13" fill="#1f2933">Persiste &gt; 4 semanas</text>
+<line x1="400" y1="346" x2="330" y2="392" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<text x="340" y="372" font-size="12.5" font-weight="700" fill="#b3261e">Sí</text>
+<rect x="250" y="392" width="230" height="70" rx="8" fill="#ffc9c9" stroke="#b3261e" stroke-width="1.6"/>
+<text x="365.0" y="414.5" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Biopsia</text>
+<text x="365.0" y="431.5" text-anchor="middle" font-size="13" fill="#1f2933">excisional del ganglio más</text>
+<text x="365.0" y="448.5" text-anchor="middle" font-size="13" fill="#1f2933">anormal (no solo PAAF)</text>
+<line x1="600" y1="346" x2="670" y2="392" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<text x="646" y="372" font-size="12.5" font-weight="700" fill="#2f9e44">No</text>
+<rect x="560" y="392" width="260" height="70" rx="8" fill="#d3f9d8" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="690.0" y="414.5" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2933">Tratar la causa u observar</text>
+<text x="690.0" y="431.5" text-anchor="middle" font-size="13" fill="#1f2933">4 semanas; si persiste</text>
+<text x="690.0" y="448.5" text-anchor="middle" font-size="13" fill="#1f2933">o crece: biopsia</text>
+<line x1="887" y1="232" x2="790" y2="392" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="16" y="474" width="968" height="56" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="498.0" text-anchor="middle" font-size="12.8" fill="#1f2933">Ganglio caliente, rojo y doloroso (adenitis aguda): S. aureus o S. pyogenes; si fluctúa (adenoflegmón), ecografía y drenaje + antibiótico.</text>
+<text x="500.0" y="515.0" text-anchor="middle" font-size="12.8" fill="#1f2933">No dar corticoides antes del diagnóstico: pueden ocultar un linfoma o una leucemia.</text>
+</svg>
