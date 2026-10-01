@@ -18,7 +18,7 @@ EASL 2025: hepatitis B · MINSAL 2021: orientación técnica de hepatitis B · A
 Nomenclatura de la enfermedad hepática esteatósica (Rinella 2023) · Epidemiología mundial de la MASLD (Younossi 2023) · MAESTRO-NASH (2024) y ESSENCE (2025) · ENS 2009–2010 · Prevalencia de hígado graso en Chile (Riquelme 2009)
 
 **GES**
-Sí: **hepatitis crónica por virus B** (problema 69) y **hepatitis crónica por virus C** (problema 70), ambas desde 2010. Evaluación inicial dentro de **30 días** desde la confirmación y tratamiento dentro de **30 días** desde la indicación. El tratamiento farmacológico tras el alta por **cirrosis** es el problema 88 ([ver cirrosis](cirrosis-y-complicaciones.md)).
+Sí: **hepatitis crónica por virus B** y **hepatitis crónica por virus C**, ambas desde 2010. Evaluación inicial dentro de **30 días** desde la confirmación y tratamiento dentro de **30 días** desde la indicación. El tratamiento farmacológico tras el alta por **cirrosis** es el problema 88 ([ver cirrosis](cirrosis-y-complicaciones.md)).
 
 **EUNACOM**
 1.06.1.021 Hepatitis crónica (específico, inicial, derivar) · 1.06.1.022 Insuficiencia hepática crónica (específico, inicial, derivar)

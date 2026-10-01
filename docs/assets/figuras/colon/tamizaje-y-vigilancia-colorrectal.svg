@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 434" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="434" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Cáncer colorrectal: ¿a quién y cómo estudiar?</text>
+<rect x="30" y="44" width="300" height="150" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="180.0" y="65" text-anchor="middle" font-size="13.5" font-weight="700" fill="#c92a2a">Con síntomas: NO es tamizaje</text>
+<text x="180.0" y="85" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Rectorragia, cambio del hábito</text>
+<text x="180.0" y="101" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">intestinal, anemia ferropénica,</text>
+<text x="180.0" y="117" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">baja de peso, masa, obstrucción</text>
+<text x="180.0" y="133" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">→ COLONOSCOPÍA diagnóstica</text>
+<text x="180.0" y="149" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">(GES: confirmación en 45 días)</text>
+<text x="180.0" y="165" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Anemia ferropénica (hombre o mujer</text>
+<text x="180.0" y="181" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">posmenopáusica): endoscopía alta y baja</text>
+<rect x="350" y="44" width="300" height="150" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="500.0" y="65" text-anchor="middle" font-size="13.5" font-weight="700" fill="#2f9e44">Riesgo promedio (asintomático)</text>
+<text x="500.0" y="85" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Desde los 45–50 hasta los 75 años</text>
+<text x="500.0" y="101" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Test inmunoquímico fecal (FIT)</text>
+<text x="500.0" y="117" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">anual o cada 2 años:</text>
+<text x="500.0" y="133" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">si es positivo → colonoscopía</text>
+<text x="500.0" y="149" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">o colonoscopía cada 10 años</text>
+<text x="500.0" y="165" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">76–85 años: individualizar</text>
+<text x="500.0" y="181" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">&gt; 85 años: no tamizar</text>
+<rect x="670" y="44" width="300" height="150" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="820.0" y="65" text-anchor="middle" font-size="13.5" font-weight="700" fill="#e8590c">Riesgo aumentado</text>
+<text x="820.0" y="85" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Familiar de 1.er grado con cáncer</text>
+<text x="820.0" y="101" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">o adenoma avanzado &lt; 60 años:</text>
+<text x="820.0" y="117" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">colonoscopía desde los 40 (o 10 años</text>
+<text x="820.0" y="133" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">antes del caso) cada 5 años</text>
+<text x="820.0" y="149" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">EII: desde los 8 años de evolución</text>
+<text x="820.0" y="165" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Lynch: desde los 20–25 años, cada 1–2</text>
+<text x="820.0" y="181" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">PAF: desde los 10–12 años, anual</text>
+<text x="500.0" y="222" text-anchor="middle" font-size="14.5" font-weight="700" fill="#1f5f99">Vigilancia después de la colonoscopía (US Multi-Society Task Force 2020)</text>
+<rect x="30" y="244" width="940" height="176" rx="8" fill="#f8f9fa" stroke="#dee2e6"/>
+<rect x="32" y="250" width="936" height="28" fill="#e7f0f8" opacity="0.6"/>
+<text x="50" y="268" text-anchor="start" font-size="12.8" font-weight="400" fill="#1f2933">Sin pólipos o ≤ 20 hiperplásicos &lt; 10 mm en el rectosigmoides</text>
+<text x="900" y="268" text-anchor="middle" font-size="13" font-weight="700" fill="#1f5f99">10 años</text>
+<text x="50" y="296" text-anchor="start" font-size="12.8" font-weight="400" fill="#1f2933">1–2 adenomas tubulares &lt; 10 mm</text>
+<text x="900" y="296" text-anchor="middle" font-size="13" font-weight="700" fill="#1f5f99">7–10 años</text>
+<rect x="32" y="306" width="936" height="28" fill="#e7f0f8" opacity="0.6"/>
+<text x="50" y="324" text-anchor="start" font-size="12.8" font-weight="400" fill="#1f2933">3–4 adenomas tubulares &lt; 10 mm</text>
+<text x="900" y="324" text-anchor="middle" font-size="13" font-weight="700" fill="#1f5f99">3–5 años</text>
+<text x="50" y="352" text-anchor="start" font-size="12.8" font-weight="400" fill="#1f2933">5–10 adenomas, adenoma ≥ 10 mm, velloso o con displasia de alto grado</text>
+<text x="900" y="352" text-anchor="middle" font-size="13" font-weight="700" fill="#1f5f99">3 años</text>
+<rect x="32" y="362" width="936" height="28" fill="#e7f0f8" opacity="0.6"/>
+<text x="50" y="380" text-anchor="start" font-size="12.8" font-weight="400" fill="#1f2933">Más de 10 adenomas (considerar un síndrome hereditario)</text>
+<text x="900" y="380" text-anchor="middle" font-size="13" font-weight="700" fill="#1f5f99">1 año</text>
+<text x="50" y="408" text-anchor="start" font-size="12.8" font-weight="400" fill="#1f2933">Adenoma ≥ 20 mm resecado en fragmentos</text>
+<text x="900" y="408" text-anchor="middle" font-size="13" font-weight="700" fill="#1f5f99">6 meses</text>
+</svg>

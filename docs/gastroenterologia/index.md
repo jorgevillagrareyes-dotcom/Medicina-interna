@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **38 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
+    **40 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -27,7 +27,9 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hepatitis aguda e insuficiencia hepática aguda](hepatitis-aguda-e-insuficiencia-hepatica-aguda.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hepatitis crónica e insuficiencia hepática crónica](hepatitis-cronica-e-insuficiencia-hepatica-cronica.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](litiasis-biliar-colecistitis-colangitis.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Masa hepática y hepatocarcinoma](masa-hepatica-y-hepatocarcinoma.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Pancreatitis aguda](pancreatitis-aguda.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Tumores de colon y cáncer colorrectal](tumores-de-colon-y-cancer-colorrectal.md)
 
 ## Situaciones clínicas
 
@@ -56,12 +58,12 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.06.1.021 | Hepatitis crónica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hepatitis crónica e insuficiencia hepática crónica](hepatitis-cronica-e-insuficiencia-hepatica-cronica.md) |
 | 1.06.1.022 | Insuficiencia hepática crónica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hepatitis crónica e insuficiencia hepática crónica](hepatitis-cronica-e-insuficiencia-hepatica-cronica.md) |
 | 1.06.1.023 | Intolerancia a la lactosa | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad celíaca, intolerancia a la lactosa y síndrome de malabsorción](enfermedad-celiaca-intolerancia-a-la-lactosa-y-malabsorcion.md) |
-| 1.06.1.024 | Masa hepática | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.024 | Masa hepática | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Masa hepática y hepatocarcinoma](masa-hepatica-y-hepatocarcinoma.md) |
 | 1.06.1.025 | Pancreatitis crónica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.026 | Parasitosis intestinales | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Parasitosis intestinales](../infectologia/parasitosis-intestinales.md) |
 | 1.06.1.027 | Reflujo gastroesofágico | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad por reflujo gastroesofágico (ERGE) y esófago de Barrett](reflujo-gastroesofagico.md) |
 | 1.06.1.028 | Síndrome de malabsorción | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad celíaca, intolerancia a la lactosa y síndrome de malabsorción](enfermedad-celiaca-intolerancia-a-la-lactosa-y-malabsorcion.md) |
-| 1.06.1.029 | Tumores de colon | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.029 | Tumores de colon | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tumores de colon y cáncer colorrectal](tumores-de-colon-y-cancer-colorrectal.md) |
 | 1.06.1.030 | Úlcera péptica | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Dispepsia, úlcera péptica, *Helicobacter pylori* y cáncer gástrico](dispepsia-ulcera-peptica-y-cancer-gastrico.md) |
 
 ## Situaciones clínicas de urgencia

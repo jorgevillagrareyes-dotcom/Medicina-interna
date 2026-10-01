@@ -1382,6 +1382,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/masa-hepatica-y-hepatocarcinoma.md
   - codigo: 1.06.1.025
     nombre: Pancreatitis crónica
     dx: Sospecha
@@ -1413,6 +1415,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/tumores-de-colon-y-cancer-colorrectal.md
   - codigo: 1.06.1.030
     nombre: Úlcera péptica
     dx: Específico
