@@ -1359,11 +1359,15 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/hepatitis-cronica-e-insuficiencia-hepatica-cronica.md
   - codigo: 1.06.1.022
     nombre: Insuficiencia hepática crónica
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/hepatitis-cronica-e-insuficiencia-hepatica-cronica.md
   - codigo: 1.06.1.023
     nombre: Intolerancia a la lactosa
     dx: Específico

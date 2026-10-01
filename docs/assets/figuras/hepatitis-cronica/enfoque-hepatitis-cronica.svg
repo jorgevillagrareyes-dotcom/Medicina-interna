@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 624" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="624" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Hepatitis crónica: enfoque etiológico y estadificación de la fibrosis</text>
+<rect x="30" y="44" width="940" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="64.9" text-anchor="middle" font-size="12.5" font-weight="700" fill="#1f5f99">Transaminasas elevadas por más de 6 meses (o hallazgo de esteatosis o de una serología positiva)</text>
+<text x="500.0" y="81.5" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Historia: alcohol (gramos por día, AUDIT), fármacos y hierbas, peso, diabetes, factores de riesgo de virus, antecedentes familiares</text>
+<text x="500.0" y="98.1" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Patrón colestásico (fosfatasa alcalina y GGT predominantes): estudiar como colestasia</text>
+<line x1="500" y1="110" x2="500" y2="128" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="128" width="940" height="50" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="500.0" y="149.2" text-anchor="middle" font-size="12.3" font-weight="700" fill="#b35c00">Exámenes de primera línea</text>
+<text x="500.0" y="165.8" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">HBsAg y anti-HBc · anti-VHC · glicemia, HbA1c y lípidos · ferritina y saturación de transferrina · ANA, anti-músculo liso e IgG · TSH · serología celíaca · CK · ecografía</text>
+<line x1="500" y1="178" x2="500" y2="196" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="196" width="226" height="148" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="143.0" y="217" text-anchor="middle" font-size="14" font-weight="700" fill="#2f9e44">MASLD</text>
+<text x="143.0" y="238" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Esteatosis + ≥ 1 factor</text>
+<text x="143.0" y="255" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">cardiometabólico, sin</text>
+<text x="143.0" y="272" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">consumo de riesgo de alcohol</text>
+<text x="143.0" y="289" text-anchor="middle" font-size="12.3" font-weight="700" fill="#2f9e44">Bajar 7–10 % del peso;</text>
+<text x="143.0" y="306" text-anchor="middle" font-size="12.3" font-weight="700" fill="#2f9e44">resmetirom o semaglutida</text>
+<text x="143.0" y="323" text-anchor="middle" font-size="12.3" font-weight="700" fill="#2f9e44">en MASH F2–F3</text>
+<rect x="268" y="196" width="226" height="148" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="381.0" y="217" text-anchor="middle" font-size="14" font-weight="700" fill="#e8590c">Alcohol</text>
+<text x="381.0" y="238" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">&gt; 50 g/día (mujer) o</text>
+<text x="381.0" y="255" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">&gt; 60 g/día (hombre)</text>
+<text x="381.0" y="272" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">AST/ALT &gt; 2, GGT y VCM altos</text>
+<text x="381.0" y="289" text-anchor="middle" font-size="12.3" font-weight="700" fill="#e8590c">Abstinencia completa;</text>
+<text x="381.0" y="306" text-anchor="middle" font-size="12.3" font-weight="700" fill="#e8590c">tratar el trastorno</text>
+<text x="381.0" y="323" text-anchor="middle" font-size="12.3" font-weight="700" fill="#e8590c">por consumo</text>
+<rect x="506" y="196" width="226" height="148" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="619.0" y="217" text-anchor="middle" font-size="14" font-weight="700" fill="#c92a2a">Hepatitis B (GES)</text>
+<text x="619.0" y="238" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">HBsAg + por &gt; 6 meses</text>
+<text x="619.0" y="255" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">HBeAg, carga viral, ALT</text>
+<text x="619.0" y="272" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">y fibrosis definen la fase</text>
+<text x="619.0" y="289" text-anchor="middle" font-size="12.3" font-weight="700" fill="#c92a2a">Tenofovir o entecavir</text>
+<text x="619.0" y="306" text-anchor="middle" font-size="12.3" font-weight="700" fill="#c92a2a">si hay hepatitis activa,</text>
+<text x="619.0" y="323" text-anchor="middle" font-size="12.3" font-weight="700" fill="#c92a2a">fibrosis o cirrosis</text>
+<rect x="744" y="196" width="226" height="148" rx="8" fill="#f3f0ff" stroke="#6741d9" stroke-width="1.6"/>
+<text x="857.0" y="217" text-anchor="middle" font-size="14" font-weight="700" fill="#6741d9">Hepatitis C (GES)</text>
+<text x="857.0" y="238" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Anti-VHC +</text>
+<text x="857.0" y="255" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Confirmar con ARN-VHC</text>
+<text x="857.0" y="272" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">(carga viral)</text>
+<text x="857.0" y="289" text-anchor="middle" font-size="12.3" font-weight="700" fill="#6741d9">Sofosbuvir/velpatasvir</text>
+<text x="857.0" y="306" text-anchor="middle" font-size="12.3" font-weight="700" fill="#6741d9">12 semanas: cura</text>
+<text x="857.0" y="323" text-anchor="middle" font-size="12.3" font-weight="700" fill="#6741d9">&gt; 95 %</text>
+<rect x="30" y="356" width="226" height="148" rx="8" fill="#e7f5ff" stroke="#1c7ed6" stroke-width="1.6"/>
+<text x="143.0" y="377" text-anchor="middle" font-size="14" font-weight="700" fill="#1c7ed6">Autoinmune</text>
+<text x="143.0" y="398" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Mujer, IgG alta,</text>
+<text x="143.0" y="415" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">ANA o anti-músculo liso</text>
+<text x="143.0" y="432" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Biopsia hepática</text>
+<text x="143.0" y="449" text-anchor="middle" font-size="12.3" font-weight="700" fill="#1c7ed6">Prednisona + azatioprina</text>
+<text x="143.0" y="466" text-anchor="middle" font-size="12.3" font-weight="700" fill="#1c7ed6">(budesonida si no</text>
+<text x="143.0" y="483" text-anchor="middle" font-size="12.3" font-weight="700" fill="#1c7ed6">hay cirrosis)</text>
+<rect x="268" y="356" width="226" height="148" rx="8" fill="#fff0f6" stroke="#a61e4d" stroke-width="1.6"/>
+<text x="381.0" y="377" text-anchor="middle" font-size="14" font-weight="700" fill="#a61e4d">Hemocromatosis</text>
+<text x="381.0" y="398" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Saturación de transferrina</text>
+<text x="381.0" y="415" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">&gt; 45 % + ferritina alta</text>
+<text x="381.0" y="432" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Gen HFE (C282Y)</text>
+<text x="381.0" y="449" text-anchor="middle" font-size="12.3" font-weight="700" fill="#a61e4d">Flebotomías semanales</text>
+<text x="381.0" y="466" text-anchor="middle" font-size="12.3" font-weight="700" fill="#a61e4d">hasta ferritina ~50 µg/L,</text>
+<text x="381.0" y="483" text-anchor="middle" font-size="12.3" font-weight="700" fill="#a61e4d">luego 50–100 µg/L</text>
+<rect x="506" y="356" width="226" height="148" rx="8" fill="#e3fafc" stroke="#0c8599" stroke-width="1.6"/>
+<text x="619.0" y="377" text-anchor="middle" font-size="14" font-weight="700" fill="#0c8599">Wilson</text>
+<text x="619.0" y="398" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">&lt; 40 años, ceruloplasmina</text>
+<text x="619.0" y="415" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">baja, cobre urinario alto,</text>
+<text x="619.0" y="432" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Kayser-Fleischer; hígado y SNC</text>
+<text x="619.0" y="449" text-anchor="middle" font-size="12.3" font-weight="700" fill="#0c8599">Quelantes (penicilamina</text>
+<text x="619.0" y="466" text-anchor="middle" font-size="12.3" font-weight="700" fill="#0c8599">o trientina) o zinc,</text>
+<text x="619.0" y="483" text-anchor="middle" font-size="12.3" font-weight="700" fill="#0c8599">de por vida</text>
+<rect x="744" y="356" width="226" height="148" rx="8" fill="#f8f9fa" stroke="#495057" stroke-width="1.6"/>
+<text x="857.0" y="377" text-anchor="middle" font-size="14" font-weight="700" fill="#495057">Otras</text>
+<text x="857.0" y="398" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Fármacos y hierbas</text>
+<text x="857.0" y="415" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Celíaca · hipotiroidismo</text>
+<text x="857.0" y="432" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Déficit de α1-antitripsina</text>
+<text x="857.0" y="449" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Hepatopatía congestiva</text>
+<text x="857.0" y="466" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Músculo (CK alta)</text>
+<text x="857.0" y="483" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Colangitis biliar primaria</text>
+<line x1="500" y1="512" x2="500" y2="530" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="530" width="940" height="82" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500.0" y="550.6" text-anchor="middle" font-size="12.2" font-weight="700" fill="#495057">Estadificar la fibrosis en todos</text>
+<text x="500.0" y="567.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">FIB-4 &lt; 1,3 (&lt; 2,0 si &gt; 65 años): bajo riesgo de fibrosis avanzada, repetir cada 1–3 años · ≥ 1,3: elastografía</text>
+<text x="500.0" y="583.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Elastografía &lt; 8 kPa: bajo riesgo · ≥ 8 kPa: derivar a hepatología (&gt; 12 kPa: fibrosis avanzada probable; ≥ 15 kPa: enfermedad crónica avanzada)</text>
+<text x="500.0" y="600.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Fibrosis avanzada o cirrosis: derivar a hepatología, vigilancia de hepatocarcinoma cada 6 meses y búsqueda de várices</text>
+</svg>

@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **35 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
+    **37 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -24,6 +24,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva alta](hemorragia-digestiva-alta.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hemorragia digestiva baja](hemorragia-digestiva-baja.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hepatitis aguda e insuficiencia hepática aguda](hepatitis-aguda-e-insuficiencia-hepatica-aguda.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Hepatitis crónica e insuficiencia hepática crónica](hepatitis-cronica-e-insuficiencia-hepatica-cronica.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](litiasis-biliar-colecistitis-colangitis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Pancreatitis aguda](pancreatitis-aguda.md)
 
@@ -51,8 +52,8 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.06.1.018 | Enfermedad inflamatoria intestinal | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad inflamatoria intestinal: colitis ulcerosa y enfermedad de Crohn](enfermedad-inflamatoria-intestinal.md) |
 | 1.06.1.019 | Hepatitis aguda A no complicada | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hepatitis aguda e insuficiencia hepática aguda](hepatitis-aguda-e-insuficiencia-hepatica-aguda.md) |
 | 1.06.1.020 | Hepatitis agudas B, C, por otros virus, por drogas y tóxicas | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hepatitis aguda e insuficiencia hepática aguda](hepatitis-aguda-e-insuficiencia-hepatica-aguda.md) |
-| 1.06.1.021 | Hepatitis crónica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.06.1.022 | Insuficiencia hepática crónica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.021 | Hepatitis crónica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hepatitis crónica e insuficiencia hepática crónica](hepatitis-cronica-e-insuficiencia-hepatica-cronica.md) |
+| 1.06.1.022 | Insuficiencia hepática crónica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hepatitis crónica e insuficiencia hepática crónica](hepatitis-cronica-e-insuficiencia-hepatica-cronica.md) |
 | 1.06.1.023 | Intolerancia a la lactosa | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad celíaca, intolerancia a la lactosa y síndrome de malabsorción](enfermedad-celiaca-intolerancia-a-la-lactosa-y-malabsorcion.md) |
 | 1.06.1.024 | Masa hepática | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.025 | Pancreatitis crónica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
