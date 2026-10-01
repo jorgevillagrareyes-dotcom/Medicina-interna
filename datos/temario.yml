@@ -670,6 +670,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - infectologia/fiebre-tifoidea-y-paratifoidea.md
   - codigo: 1.04.1.013
     nombre: Hidatidosis
     dx: Sospecha
