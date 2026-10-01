@@ -732,6 +732,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - infectologia/parasitosis-intestinales.md
   - codigo: 1.04.1.023
     nombre: Sífilis secundaria, terciaria y congénita
     dx: Sospecha
@@ -1356,6 +1358,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - infectologia/parasitosis-intestinales.md
   - codigo: 1.06.1.027
     nombre: Reflujo gastroesofágico
     dx: Específico

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 488" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="488" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Parasitosis intestinales: del síntoma al parásito</text>
+<rect x="16" y="46" width="316" height="176" rx="8" fill="#ffffff" stroke="#1f5f99" stroke-width="1.6"/>
+<rect x="16" y="46" width="316" height="34" rx="8" fill="#1f5f99"/>
+<rect x="16" y="66" width="316" height="14" fill="#1f5f99"/>
+<text x="174.0" y="69" text-anchor="middle" font-size="14.5" font-weight="700" fill="#ffffff">Diarrea acuosa, distensión, malabsorción</text>
+<text x="28" y="102" font-size="13" fill="#1f2933" xml:space="preserve">• Giardia duodenalis (la patógena más frecuente)</text>
+<text x="28" y="123" font-size="13" fill="#1f2933" xml:space="preserve">• Cryptosporidium, Cyclospora</text>
+<text x="28" y="144" font-size="13" fill="#1f2933" xml:space="preserve">• Cystoisospora (inmunosuprimidos, VIH)</text>
+<text x="28" y="165" font-size="13" fill="#1f2933" xml:space="preserve">• Strongyloides (diarrea crónica, eosinofilia)</text>
+<line x1="26" y1="188" x2="322" y2="188" stroke="#dee2e6"/>
+<text x="28" y="209" font-size="12.4" font-style="italic" fill="#1f5f99">Examen: antígeno o PCR; parasitológico seriado</text>
+<rect x="346" y="46" width="316" height="176" rx="8" fill="#ffffff" stroke="#b3261e" stroke-width="1.6"/>
+<rect x="346" y="46" width="316" height="34" rx="8" fill="#b3261e"/>
+<rect x="346" y="66" width="316" height="14" fill="#b3261e"/>
+<text x="504.0" y="69" text-anchor="middle" font-size="14.5" font-weight="700" fill="#ffffff">Disentería o colitis (sangre y mucus)</text>
+<text x="358" y="102" font-size="13" fill="#1f2933" xml:space="preserve">• Entamoeba histolytica (y absceso hepático)</text>
+<text x="358" y="123" font-size="13" fill="#1f2933" xml:space="preserve">• Balantidium coli (contacto con cerdos)</text>
+<text x="358" y="144" font-size="13" fill="#1f2933" xml:space="preserve">• Trichuris trichiura masiva (niños)</text>
+<text x="358" y="165" font-size="13" fill="#1f2933" xml:space="preserve">• Descartar bacterias: Shigella, Campylobacter</text>
+<line x1="356" y1="188" x2="652" y2="188" stroke="#dee2e6"/>
+<text x="358" y="209" font-size="12.4" font-style="italic" fill="#b3261e">Examen: PCR o antígeno; serología si hay absceso</text>
+<rect x="676" y="46" width="316" height="176" rx="8" fill="#ffffff" stroke="#6741d9" stroke-width="1.6"/>
+<rect x="676" y="46" width="316" height="34" rx="8" fill="#6741d9"/>
+<rect x="676" y="66" width="316" height="14" fill="#6741d9"/>
+<text x="834.0" y="69" text-anchor="middle" font-size="14.5" font-weight="700" fill="#ffffff">Prurito anal nocturno</text>
+<text x="688" y="102" font-size="13" fill="#1f2933" xml:space="preserve">• Enterobius vermicularis (oxiuro)</text>
+<text x="688" y="123" font-size="13" fill="#1f2933" xml:space="preserve">• Niños y sus convivientes; vulvovaginitis</text>
+<text x="688" y="144" font-size="13" fill="#1f2933" xml:space="preserve">• Gusanos blancos de ~1 cm en el ano</text>
+<text x="688" y="165" font-size="13" fill="#1f2933" xml:space="preserve">• No da eosinofilia ni diarrea importante</text>
+<line x1="686" y1="188" x2="982" y2="188" stroke="#dee2e6"/>
+<text x="688" y="209" font-size="12.4" font-style="italic" fill="#6741d9">Examen: test de Graham al despertar (3 días)</text>
+<rect x="16" y="236" width="316" height="176" rx="8" fill="#ffffff" stroke="#a0522d" stroke-width="1.6"/>
+<rect x="16" y="236" width="316" height="34" rx="8" fill="#a0522d"/>
+<rect x="16" y="256" width="316" height="14" fill="#a0522d"/>
+<text x="174.0" y="259" text-anchor="middle" font-size="14.5" font-weight="700" fill="#ffffff">Elimina proglótidas o un "gusano"</text>
+<text x="28" y="292" font-size="13" fill="#1f2933" xml:space="preserve">• Taenia saginata (vacuno) y T. solium (cerdo)</text>
+<text x="28" y="313" font-size="13" fill="#1f2933" xml:space="preserve">• Dibothriocephalus latus (pescado de agua dulce</text>
+<text x="28" y="334" font-size="13" fill="#1f2933" xml:space="preserve">   o salmónidos crudos: sur de Chile)</text>
+<text x="28" y="355" font-size="13" fill="#1f2933" xml:space="preserve">• Ascaris lumbricoides (gusano de 15–35 cm)</text>
+<line x1="26" y1="378" x2="322" y2="378" stroke="#dee2e6"/>
+<text x="28" y="399" font-size="12.4" font-style="italic" fill="#a0522d">Examen: identificar la proglótida; huevos en heces</text>
+<rect x="346" y="236" width="316" height="176" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="1.6"/>
+<rect x="346" y="236" width="316" height="34" rx="8" fill="#d9480f"/>
+<rect x="346" y="256" width="316" height="14" fill="#d9480f"/>
+<text x="504.0" y="259" text-anchor="middle" font-size="14.5" font-weight="700" fill="#ffffff">Eosinofilia</text>
+<text x="358" y="292" font-size="13" fill="#1f2933" xml:space="preserve">• Helmintos con fase tisular: Strongyloides,</text>
+<text x="358" y="313" font-size="13" fill="#1f2933" xml:space="preserve">   Ascaris (síndrome de Löffler), uncinarias</text>
+<text x="358" y="334" font-size="13" fill="#1f2933" xml:space="preserve">• Extraintestinales: Toxocara, Fasciola, Trichinella</text>
+<text x="358" y="355" font-size="13" fill="#1f2933" xml:space="preserve">• Los protozoos casi nunca (salvo Cystoisospora)</text>
+<line x1="356" y1="378" x2="652" y2="378" stroke="#dee2e6"/>
+<text x="358" y="399" font-size="12.4" font-style="italic" fill="#d9480f">Examen: serología de Strongyloides; huevos</text>
+<rect x="676" y="236" width="316" height="176" rx="8" fill="#ffffff" stroke="#2f9e44" stroke-width="1.6"/>
+<rect x="676" y="236" width="316" height="34" rx="8" fill="#2f9e44"/>
+<rect x="676" y="256" width="316" height="14" fill="#2f9e44"/>
+<text x="834.0" y="259" text-anchor="middle" font-size="14.5" font-weight="700" fill="#ffffff">Anemia</text>
+<text x="688" y="292" font-size="13" fill="#1f2933" xml:space="preserve">• Dibothriocephalus: déficit de vitamina B12</text>
+<text x="688" y="313" font-size="13" fill="#1f2933" xml:space="preserve">   (anemia megaloblástica)</text>
+<text x="688" y="334" font-size="13" fill="#1f2933" xml:space="preserve">• Uncinarias y Trichuris masiva: ferropenia</text>
+<text x="688" y="355" font-size="13" fill="#1f2933" xml:space="preserve">• Giardia: malabsorción de fierro, B12 y folato</text>
+<line x1="686" y1="378" x2="982" y2="378" stroke="#dee2e6"/>
+<text x="688" y="399" font-size="12.4" font-style="italic" fill="#2f9e44">Examen: hemograma, VCM, ferritina, B12</text>
+<text x="18" y="444" font-size="12.6" fill="#1f2933">• Inmunosuprimido, antes de corticoides o de un trasplante, con eosinofilia o viaje a zonas cálidas: descartar Strongyloides (riesgo de hiperinfección).</text>
+<text x="18" y="466" font-size="12.6" fill="#1f2933">• Blastocystis es el parásito más encontrado en Chile y su patogenicidad es discutida: tratar solo si hay síntomas y no hay otra causa.</text>
+</svg>

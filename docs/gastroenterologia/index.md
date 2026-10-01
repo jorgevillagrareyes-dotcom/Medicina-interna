@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **30 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
+    **31 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -54,7 +54,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.06.1.023 | Intolerancia a la lactosa | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.024 | Masa hepática | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.025 | Pancreatitis crónica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.06.1.026 | Parasitosis intestinales | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.026 | Parasitosis intestinales | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Parasitosis intestinales](../infectologia/parasitosis-intestinales.md) |
 | 1.06.1.027 | Reflujo gastroesofágico | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad por reflujo gastroesofágico (ERGE) y esófago de Barrett](reflujo-gastroesofagico.md) |
 | 1.06.1.028 | Síndrome de malabsorción | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.06.1.029 | Tumores de colon | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
