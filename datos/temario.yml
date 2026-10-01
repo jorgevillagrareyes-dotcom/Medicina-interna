@@ -2198,6 +2198,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/debilidad-miastenia-y-miopatias.md
   - codigo: 1.10.1.016
     nombre: Parálisis facial periférica
     dx: Específico
@@ -2231,11 +2233,15 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/debilidad-miastenia-y-miopatias.md
   - codigo: 1.10.1.021
     nombre: Síndrome miopático (distrofias musculares, polimiositis)
     dx: Sospecha
     tto: Inicial
     seg: No requiere
+    resumen:
+    - neurologia/debilidad-miastenia-y-miopatias.md
   - codigo: 1.10.1.022
     nombre: Síndromes convulsivos sintomáticos (traumático, tumores del SNC, metabólico, etc.)
     dx: Sospecha

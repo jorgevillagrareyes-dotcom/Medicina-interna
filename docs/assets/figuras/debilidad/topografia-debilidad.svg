@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 648" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="648" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Debilidad: ¿dónde está la lesión?</text>
+<text x="500.0" y="48" text-anchor="middle" font-size="12.5" font-weight="400" fill="#495057">Sigue la vía motora desde la corteza hasta el músculo</text>
+<ellipse cx="155" cy="120" rx="115" ry="58" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<rect x="138" y="176" width="34" height="56" rx="10" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<rect x="141" y="230" width="28" height="300" rx="12" fill="#f1f3f5" stroke="#868e96" stroke-width="1.6"/>
+<path d="M100,112 C115,160 147,180 155,205 C163,222 161,240 160,250 L160,420" fill="none" stroke="#1f5f99" stroke-width="3"/>
+<circle cx="100" cy="112" r="6" fill="#1f5f99"/>
+<circle cx="160" cy="425" r="8" fill="#e8590c"/>
+<path d="M167,428 C195,440 215,450 245,465 L320,505" fill="none" stroke="#e8590c" stroke-width="3"/>
+<rect x="318" y="499" width="14" height="14" fill="#7048e8" transform="rotate(25 325 506)"/>
+<ellipse cx="367" cy="526" rx="38" ry="15" fill="#ffe3e3" stroke="#c92a2a" stroke-width="1.8" transform="rotate(25 367 526)"/>
+<circle cx="75" cy="92" r="11" fill="#1f5f99"/>
+<text x="75" y="96.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">1</text>
+<text x="91" y="96" text-anchor="start" font-size="12.5" font-weight="400" fill="#1f2933">Corteza y cápsula</text>
+<circle cx="119" cy="204" r="11" fill="#1f5f99"/>
+<text x="119" y="208.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">2</text>
+<text x="103" y="222" text-anchor="end" font-size="12.5" font-weight="400" fill="#1f2933">Tronco</text>
+<circle cx="119" cy="300" r="11" fill="#1f5f99"/>
+<text x="119" y="304.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">3</text>
+<text x="103" y="318" text-anchor="end" font-size="12.5" font-weight="400" fill="#1f2933">Médula</text>
+<circle cx="119" cy="425" r="11" fill="#e8590c"/>
+<text x="119" y="429.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">4</text>
+<text x="103" y="443" text-anchor="end" font-size="12.5" font-weight="400" fill="#1f2933">Asta anterior</text>
+<circle cx="213" cy="425" r="11" fill="#e8590c"/>
+<text x="213" y="429.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">5</text>
+<text x="229" y="429" text-anchor="start" font-size="12.5" font-weight="400" fill="#1f2933">Raíz y plexo</text>
+<circle cx="283" cy="466" r="11" fill="#e8590c"/>
+<text x="283" y="470.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">6</text>
+<text x="299" y="470" text-anchor="start" font-size="12.5" font-weight="400" fill="#1f2933">Nervio</text>
+<circle cx="305" cy="540" r="11" fill="#7048e8"/>
+<text x="305" y="544.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">7</text>
+<text x="289" y="545" text-anchor="end" font-size="12.5" font-weight="400" fill="#1f2933">Unión neuromuscular</text>
+<circle cx="377" cy="560" r="11" fill="#c92a2a"/>
+<text x="377" y="564.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">8</text>
+<text x="393" y="564" text-anchor="start" font-size="12.5" font-weight="400" fill="#1f2933">Músculo</text>
+<path d="M35,70 L27,70 L27,400 L35,400" fill="none" stroke="#1f5f99" stroke-width="2"/>
+<text transform="rotate(-90 19 235)" x="19" y="235" text-anchor="middle" font-size="12.5" font-weight="700" fill="#1f5f99">Motoneurona superior</text>
+<rect x="470" y="64" width="512" height="62" rx="7" fill="#ffffff" stroke="#1f5f99" stroke-width="1.3"/>
+<rect x="470" y="64" width="6" height="62" fill="#1f5f99"/>
+<circle cx="496" cy="85" r="11" fill="#1f5f99"/>
+<text x="496" y="89.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">1</text>
+<text x="514" y="89" text-anchor="start" font-size="14" font-weight="700" fill="#1f5f99">Corteza o cápsula interna</text>
+<text x="514" y="107" text-anchor="start" font-size="12.6" font-weight="400" fill="#1f2933">Hemiparesia con la cara del mismo lado; afasia o negligencia</text>
+<text x="514" y="122" text-anchor="start" font-size="12.6" font-weight="400" fill="#495057">Instalación en minutos: ACV hasta demostrar lo contrario</text>
+<rect x="470" y="130" width="512" height="62" rx="7" fill="#ffffff" stroke="#1f5f99" stroke-width="1.3"/>
+<rect x="470" y="130" width="6" height="62" fill="#1f5f99"/>
+<circle cx="496" cy="151" r="11" fill="#1f5f99"/>
+<text x="496" y="155.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">2</text>
+<text x="514" y="155" text-anchor="start" font-size="14" font-weight="700" fill="#1f5f99">Tronco</text>
+<text x="514" y="173" text-anchor="start" font-size="12.6" font-weight="400" fill="#1f2933">Pares craneales de un lado y hemiparesia del otro (cruzado)</text>
+<text x="514" y="188" text-anchor="start" font-size="12.6" font-weight="400" fill="#495057">Diplopía, disartria, disfagia, vértigo, ataxia</text>
+<rect x="470" y="196" width="512" height="62" rx="7" fill="#ffffff" stroke="#1f5f99" stroke-width="1.3"/>
+<rect x="470" y="196" width="6" height="62" fill="#1f5f99"/>
+<circle cx="496" cy="217" r="11" fill="#1f5f99"/>
+<text x="496" y="221.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">3</text>
+<text x="514" y="221" text-anchor="start" font-size="14" font-weight="700" fill="#1f5f99">Médula</text>
+<text x="514" y="239" text-anchor="start" font-size="12.6" font-weight="400" fill="#1f2933">Para o tetraparesia con nivel sensitivo, vejiga e intestino</text>
+<text x="514" y="254" text-anchor="start" font-size="12.6" font-weight="400" fill="#495057">Dolor de espalda o cáncer: compresión medular, RM urgente</text>
+<rect x="470" y="262" width="512" height="62" rx="7" fill="#ffffff" stroke="#e8590c" stroke-width="1.3"/>
+<rect x="470" y="262" width="6" height="62" fill="#e8590c"/>
+<circle cx="496" cy="283" r="11" fill="#e8590c"/>
+<text x="496" y="287.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">4</text>
+<text x="514" y="287" text-anchor="start" font-size="14" font-weight="700" fill="#e8590c">Asta anterior (ELA: superior e inferior)</text>
+<text x="514" y="305" text-anchor="start" font-size="12.6" font-weight="400" fill="#1f2933">Atrofia y fasciculaciones con reflejos vivos</text>
+<text x="514" y="320" text-anchor="start" font-size="12.6" font-weight="400" fill="#495057">Sin alteraciones sensitivas</text>
+<rect x="470" y="328" width="512" height="62" rx="7" fill="#ffffff" stroke="#e8590c" stroke-width="1.3"/>
+<rect x="470" y="328" width="6" height="62" fill="#e8590c"/>
+<circle cx="496" cy="349" r="11" fill="#e8590c"/>
+<text x="496" y="353.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">5</text>
+<text x="514" y="353" text-anchor="start" font-size="14" font-weight="700" fill="#e8590c">Raíz y plexo</text>
+<text x="514" y="371" text-anchor="start" font-size="12.6" font-weight="400" fill="#1f2933">Dolor irradiado; debilidad y sensibilidad de un miotoma y dermatoma</text>
+<text x="514" y="386" text-anchor="start" font-size="12.6" font-weight="400" fill="#495057">Reflejo de esa raíz disminuido</text>
+<rect x="470" y="394" width="512" height="62" rx="7" fill="#ffffff" stroke="#e8590c" stroke-width="1.3"/>
+<rect x="470" y="394" width="6" height="62" fill="#e8590c"/>
+<circle cx="496" cy="415" r="11" fill="#e8590c"/>
+<text x="496" y="419.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">6</text>
+<text x="514" y="419" text-anchor="start" font-size="14" font-weight="700" fill="#e8590c">Nervio periférico</text>
+<text x="514" y="437" text-anchor="start" font-size="12.6" font-weight="400" fill="#1f2933">Distal y simétrica, con hipoestesia en guante y calcetín</text>
+<text x="514" y="452" text-anchor="start" font-size="12.6" font-weight="400" fill="#495057">Guillain-Barré: ascendente en días, arreflexia</text>
+<rect x="470" y="460" width="512" height="62" rx="7" fill="#ffffff" stroke="#7048e8" stroke-width="1.3"/>
+<rect x="470" y="460" width="6" height="62" fill="#7048e8"/>
+<circle cx="496" cy="481" r="11" fill="#7048e8"/>
+<text x="496" y="485.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">7</text>
+<text x="514" y="485" text-anchor="start" font-size="14" font-weight="700" fill="#7048e8">Unión neuromuscular</text>
+<text x="514" y="503" text-anchor="start" font-size="12.6" font-weight="400" fill="#1f2933">Fatigable y fluctuante: ptosis, diplopía, disfagia</text>
+<text x="514" y="518" text-anchor="start" font-size="12.6" font-weight="400" fill="#495057">Sensibilidad y reflejos normales (miastenia)</text>
+<rect x="470" y="526" width="512" height="62" rx="7" fill="#ffffff" stroke="#c92a2a" stroke-width="1.3"/>
+<rect x="470" y="526" width="6" height="62" fill="#c92a2a"/>
+<circle cx="496" cy="547" r="11" fill="#c92a2a"/>
+<text x="496" y="551.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">8</text>
+<text x="514" y="551" text-anchor="start" font-size="14" font-weight="700" fill="#c92a2a">Músculo</text>
+<text x="514" y="569" text-anchor="start" font-size="12.6" font-weight="400" fill="#1f2933">Proximal y simétrica: subir escaleras, levantarse, peinarse</text>
+<text x="514" y="584" text-anchor="start" font-size="12.6" font-weight="400" fill="#495057">Sensibilidad normal, reflejos conservados; CK alta</text>
+<rect x="20" y="588" width="960" height="54" rx="8" fill="#f8f9fa" stroke="#dee2e6"/>
+<text x="40" y="606" text-anchor="start" font-size="13" font-weight="700" fill="#1f5f99">Motoneurona superior:</text>
+<text x="190" y="606" text-anchor="start" font-size="12.6" font-weight="400" fill="#1f2933">debilidad de patrón piramidal, tono y reflejos aumentados, Babinski, sin atrofia (en la fase aguda puede haber flacidez y arreflexia)</text>
+<text x="40" y="628" text-anchor="start" font-size="13" font-weight="700" fill="#e8590c">Motoneurona inferior:</text>
+<text x="190" y="628" text-anchor="start" font-size="12.6" font-weight="400" fill="#1f2933">tono y reflejos disminuidos, atrofia y fasciculaciones; unión neuromuscular y músculo: sin atrofia precoz ni fasciculaciones</text>
+</svg>

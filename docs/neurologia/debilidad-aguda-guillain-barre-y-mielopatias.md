@@ -220,7 +220,7 @@ flowchart TD
 | Cuadro | Claves para distinguirlo del Guillain-Barré |
 |---|---|
 | **Mielopatía aguda** | **Nivel sensitivo**, **esfínteres** precoces, hiperreflexia tardía; RM |
-| **Crisis miasténica** | Fatigabilidad, **ptosis y diplopía** fluctuantes, **reflejos conservados**, sin alteración sensitiva |
+| **Crisis miasténica** | Fatigabilidad, **ptosis y diplopía** fluctuantes, **reflejos conservados**, sin alteración sensitiva. Ver [miastenia](debilidad-miastenia-y-miopatias.md) |
 | **Botulismo** | Parálisis **descendente**, **midriasis**, compromiso bulbar precoz, sin alteración sensitiva; alimentos caseros en conserva |
 | **Parálisis periódica hipokalémica** | K muy bajo, episodios previos, tirotoxicosis, recuperación rápida con K |
 | **Polineuropatía o miopatía del paciente crítico** | Sepsis y UCI prolongada, dificultad para el destete del ventilador |

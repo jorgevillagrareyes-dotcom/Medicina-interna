@@ -268,7 +268,7 @@ flowchart TD
 | **Radiculopatía lumbar o estenosis del canal** | Dolor lumbar irradiado, asimétrico, claudicación neurogénica (alivia al flectar el tronco) |
 | **Enfermedad de motoneurona** (ELA) | Debilidad y atrofia **sin** alteraciones sensitivas, **fasciculaciones**, hiperreflexia |
 | **Miopatía** | Debilidad **proximal** simétrica, **sin** alteraciones sensitivas, CK elevada |
-| **Miastenia gravis** | Debilidad **fluctuante** y fatigable, ptosis, diplopía; sin alteraciones sensitivas |
+| **Miastenia gravis** | Debilidad **fluctuante** y fatigable, ptosis, diplopía; sin alteraciones sensitivas. Ver [miastenia](debilidad-miastenia-y-miopatias.md) |
 | **Enfermedad arterial periférica** | **Claudicación** al caminar que cede al detenerse; pulsos ausentes; índice tobillo-brazo |
 | **Síndrome de piernas inquietas** | Necesidad de mover las piernas en reposo y de noche, que **alivia al moverlas**; buscar déficit de hierro |
 | **Fibromialgia** | Dolor difuso, fatiga, sueño no reparador; examen neurológico **normal** |
