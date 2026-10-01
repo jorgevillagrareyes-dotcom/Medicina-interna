@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#52606d"/></marker></defs>
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Diagnóstico de la desnutrición: criterios GLIM</text>
+<rect x="20" y="50" width="300" height="110" rx="10" fill="#e3f2fd" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="170.0" y="74" text-anchor="middle" font-size="15" font-weight="700" fill="#1f5f99">1. Tamizaje de riesgo</text>
+<text x="34" y="98" font-size="13" fill="#1f2933">MNA-SF (adulto mayor): ≤ 11 riesgo</text>
+<text x="34" y="117" font-size="13" fill="#1f2933">NRS-2002 (hospital): ≥ 3 riesgo</text>
+<text x="34" y="136" font-size="13" fill="#1f2933">MUST, otros validados</text>
+<text x="34" y="155" font-size="13" fill="#1f2933">Al ingreso y en el control</text>
+<line x1="322" y1="105" x2="352" y2="105" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="355" y="50" width="625" height="245" rx="10" fill="#fff4d6" stroke="#c28a12" stroke-width="1.6"/>
+<text x="667.5" y="74" text-anchor="middle" font-size="15" font-weight="700" fill="#c28a12">2. Evaluación: ≥ 1 criterio fenotípico + ≥ 1 criterio etiológico</text>
+<text x="375" y="122" font-size="14" font-weight="700" fill="#1f2933">Fenotípicos</text>
+<text x="375" y="146" font-size="13" fill="#1f2933">• Baja de peso involuntaria: &gt; 5 % en 6 meses</text>
+<text x="375" y="166" font-size="13" fill="#1f2933">&#160;&#160;&#160;o &gt; 10 % en más de 6 meses</text>
+<text x="375" y="186" font-size="13" fill="#1f2933">• IMC bajo: &lt; 20 (&lt; 70 años) o &lt; 22 (≥ 70 años)</text>
+<text x="375" y="206" font-size="13" fill="#1f2933">• Masa muscular reducida (DXA, BIA,</text>
+<text x="375" y="226" font-size="13" fill="#1f2933">&#160;&#160;&#160;antropometría, prensión como apoyo)</text>
+<text x="680" y="122" font-size="14" font-weight="700" fill="#1f2933">Etiológicos</text>
+<text x="680" y="146" font-size="13" fill="#1f2933">• Ingesta ≤ 50 % de lo necesario</text>
+<text x="680" y="166" font-size="13" fill="#1f2933">&#160;&#160;&#160;&gt; 1 semana, o cualquier reducción</text>
+<text x="680" y="186" font-size="13" fill="#1f2933">&#160;&#160;&#160;&gt; 2 semanas, o malabsorción</text>
+<text x="680" y="206" font-size="13" fill="#1f2933">• Inflamación: enfermedad aguda,</text>
+<text x="680" y="226" font-size="13" fill="#1f2933">&#160;&#160;&#160;trauma o enfermedad crónica</text>
+<line x1="667" y1="108" x2="667" y2="280" stroke="#e0c27a" stroke-width="1.2"/>
+<line x1="667" y1="297" x2="667" y2="322" stroke="#52606d" stroke-width="1.8" marker-end="url(#a)"/>
+<rect x="355" y="325" width="625" height="150" rx="10" fill="#fde7e5" stroke="#b3261e" stroke-width="1.6"/>
+<text x="667" y="349" text-anchor="middle" font-size="15" font-weight="700" fill="#b3261e">3. Gravedad (según el criterio fenotípico)</text>
+<text x="370" y="372" font-size="13" font-weight="700" fill="#1f2933"></text>
+<text x="490" y="372" font-size="13" font-weight="700" fill="#1f2933">Moderada (etapa 1)</text>
+<text x="740" y="372" font-size="13" font-weight="700" fill="#1f2933">Grave (etapa 2)</text>
+<text x="370" y="396" font-size="13" font-weight="700" fill="#1f2933">Baja de peso</text>
+<text x="490" y="396" font-size="13" font-weight="400" fill="#1f2933">5–10 % en 6 meses o 10–20 % en más</text>
+<text x="740" y="396" font-size="13" font-weight="400" fill="#1f2933">&gt; 10 % en 6 meses o &gt; 20 % en más</text>
+<text x="370" y="420" font-size="13" font-weight="700" fill="#1f2933">IMC</text>
+<text x="490" y="420" font-size="13" font-weight="400" fill="#1f2933">&lt; 20 (&lt; 70 años) o &lt; 22 (≥ 70)</text>
+<text x="740" y="420" font-size="13" font-weight="400" fill="#1f2933">&lt; 18,5 (&lt; 70 años) o &lt; 20 (≥ 70)</text>
+<text x="370" y="444" font-size="13" font-weight="700" fill="#1f2933">Masa muscular</text>
+<text x="490" y="444" font-size="13" font-weight="400" fill="#1f2933">Déficit leve a moderado</text>
+<text x="740" y="444" font-size="13" font-weight="400" fill="#1f2933">Déficit grave</text>
+<rect x="20" y="185" width="315" height="290" rx="10" fill="#efeafa" stroke="#7c5cc4" stroke-width="1.6"/>
+<text x="177.5" y="209" text-anchor="middle" font-size="15" font-weight="700" fill="#7c5cc4">Tipos (ESPEN)</text>
+<text x="34" y="233" font-size="12.8" fill="#1f2933">Relacionada con la enfermedad</text>
+<text x="34" y="252" font-size="12.8" fill="#1f2933">con inflamación: aguda (UCI,</text>
+<text x="34" y="271" font-size="12.8" fill="#1f2933">sepsis, trauma) o crónica (caquexia:</text>
+<text x="34" y="290" font-size="12.8" fill="#1f2933">cáncer, IC, EPOC, ERC)</text>
+<text x="34" y="309" font-size="12.8" fill="#1f2933"></text>
+<text x="34" y="328" font-size="12.8" fill="#1f2933">Relacionada con la enfermedad</text>
+<text x="34" y="347" font-size="12.8" fill="#1f2933">sin inflamación (disfagia, anorexia</text>
+<text x="34" y="366" font-size="12.8" fill="#1f2933">nerviosa, malabsorción)</text>
+<text x="34" y="385" font-size="12.8" fill="#1f2933"></text>
+<text x="34" y="404" font-size="12.8" fill="#1f2933">Sin enfermedad: pobreza, aislamiento,</text>
+<text x="34" y="423" font-size="12.8" fill="#1f2933">dependencia, duelo</text>
+<text x="20" y="505" font-size="12.8" fill="#1f2933">En población asiática, los puntos de corte del IMC son menores (&lt; 18,5 y &lt; 20). La albúmina no es un criterio: refleja inflamación más que estado nutricional.</text>
+<text x="980" y="552" text-anchor="end" font-size="11.5" fill="#7b8794">Esquema propio basado en GLIM (Cederholm 2019; actualización 2025) y la terminología ESPEN (Cederholm 2017).</text>
+</svg>

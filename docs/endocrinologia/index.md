@@ -8,13 +8,14 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **37 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
+    **39 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Bocio, nódulo tiroideo y cáncer de tiroides](bocio-nodulo-y-cancer-de-tiroides.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](cetoacidosis-y-estado-hiperosmolar.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones crónicas de la diabetes: nefropatía, retinopatía, neuropatía, enfermedad arterial periférica y pie diabético](complicaciones-cronicas-de-la-diabetes.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Desnutrición, malnutrición y síndromes carenciales de vitaminas y minerales](desnutricion-y-sindromes-carenciales.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 2](diabetes-mellitus-tipo-2.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Dislipidemias e hipertrigliceridemia grave](dislipidemia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipoglicemia](hipoglicemia.md)
@@ -30,7 +31,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 1.02.1.001 | Desnutrición | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.001 | Desnutrición | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Desnutrición, malnutrición y síndromes carenciales de vitaminas y minerales](desnutricion-y-sindromes-carenciales.md) |
 | 1.02.1.002 | Diabetes gestacional | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.02.1.003 | Diabetes mellitus pregestacional | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.02.1.004 | Diabetes Mellitus tipo 1 | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -46,7 +47,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.02.1.014 | Pie diabético y otras infecciones en diabetes | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de piel y partes blandas](../infectologia/infecciones-piel-partes-blandas.md) |
 | 1.02.1.015 | Retinopatía diabética | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones crónicas de la diabetes: nefropatía, retinopatía, neuropatía, enfermedad arterial periférica y pie diabético](complicaciones-cronicas-de-la-diabetes.md) |
 | 1.02.1.016 | Síndrome metabólico | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Obesidad, obesidad mórbida y síndrome metabólico](obesidad-y-sindrome-metabolico.md) |
-| 1.02.1.017 | Síndromes carenciales de vitaminas y minerales | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.017 | Síndromes carenciales de vitaminas y minerales | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Desnutrición, malnutrición y síndromes carenciales de vitaminas y minerales](desnutricion-y-sindromes-carenciales.md) |
 | 1.02.1.018 | Trastornos de conducta alimentaria | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.02.1.019 | Vasculopatía periférica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones crónicas de la diabetes: nefropatía, retinopatía, neuropatía, enfermedad arterial periférica y pie diabético](complicaciones-cronicas-de-la-diabetes.md) |
 

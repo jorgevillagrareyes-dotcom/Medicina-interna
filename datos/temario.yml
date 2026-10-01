@@ -243,6 +243,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/desnutricion-y-sindromes-carenciales.md
   - codigo: 1.02.1.002
     nombre: Diabetes gestacional
     dx: Específico
@@ -345,6 +347,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/desnutricion-y-sindromes-carenciales.md
   - codigo: 1.02.1.018
     nombre: Trastornos de conducta alimentaria
     dx: Específico
@@ -1554,6 +1558,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Derivar
+    resumen:
+    - endocrinologia/desnutricion-y-sindromes-carenciales.md
   - codigo: 1.07.1.015
     nombre: Osteoporosis
     dx: Específico
