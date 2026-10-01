@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **27 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
+    **29 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -24,6 +24,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Parasitosis intestinales](parasitosis-intestinales.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](sepsis-y-shock-septico.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome cardiopulmonar por hantavirus y leptospirosis](hantavirus-y-leptospirosis.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Triquinosis e hidatidosis](triquinosis-e-hidatidosis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Tétanos](tetanos.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Varicela, herpes zóster y otros exantemas del adulto](varicela-y-herpes-zoster.md)
 
@@ -43,7 +44,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.1.011 | Enfermedades eruptivas no complicadas (varicela, herpes zóster, etc.) | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Varicela, herpes zóster y otros exantemas del adulto](varicela-y-herpes-zoster.md) |
 | 1.04.1.029 | Enfermedad leve moderada por SARS Cov 2 COVID 19 | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Influenza, COVID-19 y bronquitis aguda](influenza-y-covid-19.md) |
 | 1.04.1.012 | Fiebre tifoidea y paratifoidea | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Fiebre tifoidea y paratifoidea](fiebre-tifoidea-y-paratifoidea.md) |
-| 1.04.1.013 | Hidatidosis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.013 | Hidatidosis | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Triquinosis e hidatidosis](triquinosis-e-hidatidosis.md) |
 | 1.04.1.014 | Infección por virus de inmunodeficiencia humana (SIDA) | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infección por VIH y SIDA, candidiasis orofaríngea y esofágica, y diarrea en inmunosuprimidos](infeccion-por-vih.md) |
 | 1.04.1.015 | Infecciones asociadas a catéteres vasculares | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía nosocomial, neumonía en inmunosuprimidos e infección asociada a catéter](neumonia-nosocomial-inmunosuprimidos-y-cateter.md) |
 | 1.04.1.016 | Influenza | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Influenza, COVID-19 y bronquitis aguda](influenza-y-covid-19.md) |
@@ -57,7 +58,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.1.024 | Síndrome febril prolongado | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.025 | Síndrome mononucleósico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.026 | Toxicoinfección alimentaria | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](../gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md) |
-| 1.04.1.027 | Triquinosis | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.027 | Triquinosis | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Triquinosis e hidatidosis](triquinosis-e-hidatidosis.md) |
 | 1.04.1.028 | Tuberculosis extrapulmonar | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tuberculosis](../respiratorio/tuberculosis.md) |
 
 ## Situaciones clínicas de urgencia

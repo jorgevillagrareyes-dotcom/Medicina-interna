@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 512" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="512" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Quiste hidatídico: clasificación ecográfica OMS-IWGE y tratamiento según la etapa</text>
+<rect x="19.0" y="46" width="155.33333333333334" height="34" rx="5" fill="#2f9e44"/>
+<text x="96.66666666666667" y="62" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">CE1</text>
+<text x="96.66666666666667" y="76" text-anchor="middle" font-size="11.5" fill="#ffffff">Activo</text>
+<rect x="19.0" y="86" width="155.33333333333334" height="146" rx="5" fill="#1b1b1b"/>
+<circle cx="96.66666666666667" cy="158" r="58" fill="#000000" stroke="#d0d0d0" stroke-width="3"/>
+<circle cx="96.66666666666667" cy="158" r="52" fill="none" stroke="#9a9a9a" stroke-width="1.5"/>
+<text x="96.66666666666667" y="254" text-anchor="middle" font-size="12.5" fill="#1f2933">Unilocular, anecoico;</text>
+<text x="96.66666666666667" y="270" text-anchor="middle" font-size="12.5" fill="#1f2933">pared doble visible</text>
+<text x="96.66666666666667" y="286" text-anchor="middle" font-size="12.5" fill="#1f2933">signo de la doble línea</text>
+<rect x="180.33333333333334" y="46" width="155.33333333333334" height="34" rx="5" fill="#2f9e44"/>
+<text x="258.0" y="62" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">CE2</text>
+<text x="258.0" y="76" text-anchor="middle" font-size="11.5" fill="#ffffff">Activo</text>
+<rect x="180.33333333333334" y="86" width="155.33333333333334" height="146" rx="5" fill="#1b1b1b"/>
+<circle cx="258.0" cy="158" r="58" fill="#5a5a5a" stroke="#d0d0d0" stroke-width="3"/>
+<circle cx="236.0" cy="138" r="17" fill="#000000" stroke="#c8c8c8" stroke-width="2"/>
+<circle cx="274.0" cy="134" r="15" fill="#000000" stroke="#c8c8c8" stroke-width="2"/>
+<circle cx="232.0" cy="174" r="16" fill="#000000" stroke="#c8c8c8" stroke-width="2"/>
+<circle cx="268.0" cy="170" r="19" fill="#000000" stroke="#c8c8c8" stroke-width="2"/>
+<circle cx="290.0" cy="160" r="11" fill="#000000" stroke="#c8c8c8" stroke-width="2"/>
+<circle cx="254.0" cy="156" r="9" fill="#000000" stroke="#c8c8c8" stroke-width="2"/>
+<text x="258.0" y="254" text-anchor="middle" font-size="12.5" fill="#1f2933">Multivesicular:</text>
+<text x="258.0" y="270" text-anchor="middle" font-size="12.5" fill="#1f2933">vesículas hijas en</text>
+<text x="258.0" y="286" text-anchor="middle" font-size="12.5" fill="#1f2933">"panal de abejas"</text>
+<rect x="341.6666666666667" y="46" width="155.33333333333334" height="34" rx="5" fill="#e8a10c"/>
+<text x="419.33333333333337" y="62" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">CE3a</text>
+<text x="419.33333333333337" y="76" text-anchor="middle" font-size="11.5" fill="#ffffff">Transicional</text>
+<rect x="341.6666666666667" y="86" width="155.33333333333334" height="146" rx="5" fill="#1b1b1b"/>
+<circle cx="419.33333333333337" cy="158" r="58" fill="#000000" stroke="#d0d0d0" stroke-width="3"/>
+<path d="M379.33333333333337,168 C394.33333333333337,133 414.33333333333337,188 429.33333333333337,153 S454.33333333333337,183 461.33333333333337,150" fill="none" stroke="#e0e0e0" stroke-width="3"/>
+<path d="M384.33333333333337,186 C404.33333333333337,163 424.33333333333337,198 449.33333333333337,178" fill="none" stroke="#bdbdbd" stroke-width="2"/>
+<text x="419.33333333333337" y="254" text-anchor="middle" font-size="12.5" fill="#1f2933">Membrana germinal</text>
+<text x="419.33333333333337" y="270" text-anchor="middle" font-size="12.5" fill="#1f2933">desprendida flotando</text>
+<text x="419.33333333333337" y="286" text-anchor="middle" font-size="12.5" fill="#1f2933">("signo del camalote")</text>
+<rect x="503.0" y="46" width="155.33333333333334" height="34" rx="5" fill="#e8a10c"/>
+<text x="580.6666666666666" y="62" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">CE3b</text>
+<text x="580.6666666666666" y="76" text-anchor="middle" font-size="11.5" fill="#ffffff">Transicional</text>
+<rect x="503.0" y="86" width="155.33333333333334" height="146" rx="5" fill="#1b1b1b"/>
+<circle cx="580.6666666666666" cy="158" r="58" fill="#8a8a8a" stroke="#d0d0d0" stroke-width="3"/>
+<circle cx="550.6666666666666" cy="144" r="13" fill="#000000" stroke="#c8c8c8" stroke-width="2"/>
+<circle cx="604.6666666666666" cy="132" r="12" fill="#000000" stroke="#c8c8c8" stroke-width="2"/>
+<circle cx="608.6666666666666" cy="180" r="13" fill="#000000" stroke="#c8c8c8" stroke-width="2"/>
+<circle cx="562.6666666666666" cy="188" r="11" fill="#000000" stroke="#c8c8c8" stroke-width="2"/>
+<text x="580.6666666666666" y="254" text-anchor="middle" font-size="12.5" fill="#1f2933">Vesículas hijas en</text>
+<text x="580.6666666666666" y="270" text-anchor="middle" font-size="12.5" fill="#1f2933">una matriz sólida</text>
+<text x="580.6666666666666" y="286" text-anchor="middle" font-size="12.5" fill="#1f2933">(puede reactivarse)</text>
+<rect x="664.3333333333334" y="46" width="155.33333333333334" height="34" rx="5" fill="#868e96"/>
+<text x="742.0" y="62" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">CE4</text>
+<text x="742.0" y="76" text-anchor="middle" font-size="11.5" fill="#ffffff">Inactivo</text>
+<rect x="664.3333333333334" y="86" width="155.33333333333334" height="146" rx="5" fill="#1b1b1b"/>
+<circle cx="742.0" cy="158" r="58" fill="#9a9a9a" stroke="#d0d0d0" stroke-width="3"/>
+<path d="M704.0,128 C732.0,114 754.0,142 780.0,128" fill="none" stroke="#e6e6e6" stroke-width="2"/>
+<path d="M707.0,142 C732.0,128 754.0,156 777.0,142" fill="none" stroke="#e6e6e6" stroke-width="2"/>
+<path d="M710.0,156 C732.0,142 754.0,170 774.0,156" fill="none" stroke="#e6e6e6" stroke-width="2"/>
+<path d="M713.0,170 C732.0,156 754.0,184 771.0,170" fill="none" stroke="#e6e6e6" stroke-width="2"/>
+<path d="M716.0,184 C732.0,170 754.0,198 768.0,184" fill="none" stroke="#e6e6e6" stroke-width="2"/>
+<text x="742.0" y="254" text-anchor="middle" font-size="12.5" fill="#1f2933">Contenido heterogéneo</text>
+<text x="742.0" y="270" text-anchor="middle" font-size="12.5" fill="#1f2933">sólido, sin vesículas</text>
+<text x="742.0" y="286" text-anchor="middle" font-size="12.5" fill="#1f2933">("ovillo de lana")</text>
+<rect x="825.6666666666667" y="46" width="155.33333333333334" height="34" rx="5" fill="#868e96"/>
+<text x="903.3333333333334" y="62" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">CE5</text>
+<text x="903.3333333333334" y="76" text-anchor="middle" font-size="11.5" fill="#ffffff">Inactivo</text>
+<rect x="825.6666666666667" y="86" width="155.33333333333334" height="146" rx="5" fill="#1b1b1b"/>
+<circle cx="903.3333333333334" cy="158" r="58" fill="#7a7a7a" stroke="#ffffff" stroke-width="7"/>
+<path d="M845.3333333333334,170 L865.3333333333334,232 L941.3333333333334,232 L961.3333333333334,170 Z" fill="#000000" opacity="0.75"/>
+<text x="903.3333333333334" y="222" text-anchor="middle" font-size="10" fill="#bdbdbd">sombra acústica</text>
+<text x="903.3333333333334" y="254" text-anchor="middle" font-size="12.5" fill="#1f2933">Pared calcificada</text>
+<text x="903.3333333333334" y="270" text-anchor="middle" font-size="12.5" fill="#1f2933">total o parcialmente</text>
+<text x="903.3333333333334" y="286" text-anchor="middle" font-size="12.5" fill="#1f2933">("cáscara de huevo")</text>
+<text x="16" y="326" font-size="14" font-weight="700" fill="#1f5f99">Tratamiento (hígado, sin complicaciones)</text>
+<rect x="19.0" y="336" width="155.33333333333334" height="46" rx="6" fill="#1f5f99"/>
+<text x="96.66666666666667" y="356" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">&lt; 5 cm: albendazol</text>
+<text x="96.66666666666667" y="373" text-anchor="middle" font-size="12" fill="#ffffff">≥ 5 cm: PAIR o cirugía</text>
+<rect x="341.6666666666667" y="336" width="155.33333333333331" height="46" rx="6" fill="#1f5f99"/>
+<text x="419.33333333333337" y="356" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">&lt; 5 cm: albendazol</text>
+<text x="419.33333333333337" y="373" text-anchor="middle" font-size="12" fill="#ffffff">≥ 5 cm: PAIR o cirugía</text>
+<rect x="180.33333333333334" y="336" width="155.33333333333334" height="46" rx="6" fill="#b3261e"/>
+<text x="258.0" y="356" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">Cirugía</text>
+<text x="258.0" y="373" text-anchor="middle" font-size="12" fill="#ffffff">(+ albendazol)</text>
+<rect x="503.0" y="336" width="155.33333333333337" height="46" rx="6" fill="#b3261e"/>
+<text x="580.6666666666667" y="356" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">Cirugía</text>
+<text x="580.6666666666667" y="373" text-anchor="middle" font-size="12" fill="#ffffff">(+ albendazol)</text>
+<rect x="664.3333333333334" y="336" width="316.66666666666663" height="46" rx="6" fill="#495057"/>
+<text x="822.6666666666667" y="356" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">Observar sin tratar ("watch and wait")</text>
+<text x="822.6666666666667" y="373" text-anchor="middle" font-size="12" fill="#ffffff">control ecográfico; reactivación rara</text>
+<rect x="19.0" y="390" width="639.3333333333334" height="46" rx="6" fill="#2b8a3e"/>
+<text x="338.6666666666667" y="410" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">Albendazol antes y después de cualquier procedimiento</text>
+<text x="338.6666666666667" y="427" text-anchor="middle" font-size="12" fill="#ffffff">400 mg cada 12 h; reduce la siembra si el quiste se rompe</text>
+<text x="18" y="468" font-size="12.6" fill="#1f2933">• CL: lesión quística sin signos patognomónicos (diferencial con el quiste simple): estudiar con serología o repetir la imagen.</text>
+<text x="18" y="489" font-size="12.6" fill="#1f2933">• Pulmón: la cirugía es de elección y no se hace PAIR. Quistes complicados (rotura a la vía biliar, infección, compresión): cirugía.</text>
+</svg>

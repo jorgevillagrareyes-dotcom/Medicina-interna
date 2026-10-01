@@ -677,6 +677,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/triquinosis-e-hidatidosis.md
   - codigo: 1.04.1.014
     nombre: Infección por virus de inmunodeficiencia humana (SIDA)
     dx: Específico
@@ -763,6 +765,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - infectologia/triquinosis-e-hidatidosis.md
   - codigo: 1.04.1.028
     nombre: Tuberculosis extrapulmonar
     dx: Sospecha
@@ -983,6 +987,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/triquinosis-e-hidatidosis.md
   - codigo: 1.05.1.021
     nombre: Hipertensión pulmonar
     dx: Específico
