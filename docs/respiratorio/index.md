@@ -8,13 +8,14 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **40 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
+    **41 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Asma bronquial](asma.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Derrame pleural: paraneumónico, empiema, neoplásico y enfoque diagnóstico](derrame-pleural.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de las vías aéreas superiores](infecciones-de-vias-aereas-superiores.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia respiratoria aguda, soporte no invasivo, SDRA y hemoptisis](insuficiencia-respiratoria-aguda.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Intoxicación por monóxido de carbono, ahogamiento y cuerpo extraño en la vía aérea](intoxicacion-por-co-ahogamiento-y-cuerpo-extrano.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía adquirida en la comunidad](neumonia-adquirida-en-la-comunidad.md)
@@ -47,7 +48,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.05.1.019 | Hemoptisis leve y mediana | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia respiratoria aguda, soporte no invasivo, SDRA y hemoptisis](insuficiencia-respiratoria-aguda.md) |
 | 1.05.1.020 | Hidatidosis pulmonar | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Triquinosis e hidatidosis](../infectologia/triquinosis-e-hidatidosis.md) |
 | 1.05.1.021 | Hipertensión pulmonar | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.05.1.022 | Infecciones de las vías aéreas superiores | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.1.022 | Infecciones de las vías aéreas superiores | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de las vías aéreas superiores](infecciones-de-vias-aereas-superiores.md) |
 | 1.05.1.023 | Insuficiencia respiratoria crónica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md) |
 | 1.05.1.024 | Intoxicación leve por CO y otros gases | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Intoxicación por monóxido de carbono, ahogamiento y cuerpo extraño en la vía aérea](intoxicacion-por-co-ahogamiento-y-cuerpo-extrano.md) |
 | 1.05.1.025 | Metástasis pulmonares | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

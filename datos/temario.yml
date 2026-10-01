@@ -1003,6 +1003,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - respiratorio/infecciones-de-vias-aereas-superiores.md
   - codigo: 1.05.1.023
     nombre: Insuficiencia respiratoria crónica
     dx: Específico

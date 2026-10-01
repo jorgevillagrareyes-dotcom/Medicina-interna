@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="500" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Infecciones respiratorias altas: ¿cuándo pensar en bacterias y dar antibiótico?</text>
+<rect x="16" y="46" width="476" height="420" rx="10" fill="#ffffff" stroke="#b3261e" stroke-width="1.6"/>
+<rect x="16" y="46" width="476" height="36" rx="10" fill="#b3261e"/><rect x="16" y="66" width="476" height="16" fill="#b3261e"/>
+<text x="254.0" y="70" text-anchor="middle" font-size="15.5" font-weight="700" fill="#ffffff">Faringoamigdalitis: puntaje de Centor (McIsaac)</text>
+<rect x="30" y="91" width="448" height="25" rx="4" fill="#fff5f5"/>
+<text x="40" y="108" font-size="13.5" fill="#1f2933">Fiebre &gt; 38 °C</text>
+<text x="462" y="108" text-anchor="end" font-size="14" font-weight="700" fill="#b3261e">+1</text>
+<rect x="30" y="120" width="448" height="25" rx="4" fill="#fff5f5"/>
+<text x="40" y="137" font-size="13.5" fill="#1f2933">Exudado o aumento de volumen amigdalino</text>
+<text x="462" y="137" text-anchor="end" font-size="14" font-weight="700" fill="#b3261e">+1</text>
+<rect x="30" y="149" width="448" height="25" rx="4" fill="#fff5f5"/>
+<text x="40" y="166" font-size="13.5" fill="#1f2933">Adenopatías cervicales anteriores dolorosas</text>
+<text x="462" y="166" text-anchor="end" font-size="14" font-weight="700" fill="#b3261e">+1</text>
+<rect x="30" y="178" width="448" height="25" rx="4" fill="#fff5f5"/>
+<text x="40" y="195" font-size="13.5" fill="#1f2933">Ausencia de tos</text>
+<text x="462" y="195" text-anchor="end" font-size="14" font-weight="700" fill="#b3261e">+1</text>
+<rect x="30" y="207" width="448" height="25" rx="4" fill="#f8f9fa"/>
+<text x="40" y="224" font-size="13.5" fill="#1f2933">Edad 3–14 años</text>
+<text x="462" y="224" text-anchor="end" font-size="14" font-weight="700" fill="#b3261e">+1</text>
+<rect x="30" y="236" width="448" height="25" rx="4" fill="#f8f9fa"/>
+<text x="40" y="253" font-size="13.5" fill="#1f2933">Edad 15–44 años</text>
+<text x="462" y="253" text-anchor="end" font-size="14" font-weight="700" fill="#b3261e">0</text>
+<rect x="30" y="265" width="448" height="25" rx="4" fill="#f8f9fa"/>
+<text x="40" y="282" font-size="13.5" fill="#1f2933">Edad ≥ 45 años</text>
+<text x="462" y="282" text-anchor="end" font-size="14" font-weight="700" fill="#b3261e">−1</text>
+<rect x="30" y="299" width="448" height="30" rx="5" fill="#d3f9d8"/>
+<text x="46" y="319" font-size="14" font-weight="700" fill="#2b8a3e">0–1</text>
+<text x="92" y="319" font-size="13" fill="#1f2933">Probablemente viral: sin test ni antibiótico</text>
+<rect x="30" y="335" width="448" height="30" rx="5" fill="#fff3bf"/>
+<text x="46" y="355" font-size="14" font-weight="700" fill="#a07800">2–3</text>
+<text x="92" y="355" font-size="13" fill="#1f2933">Test rápido de antígeno (o cultivo): antibiótico solo si es positivo</text>
+<rect x="30" y="371" width="448" height="30" rx="5" fill="#ffc9c9"/>
+<text x="46" y="391" font-size="14" font-weight="700" fill="#b3261e">≥ 4</text>
+<text x="92" y="391" font-size="13" fill="#1f2933">Test rápido; si no hay test disponible, considerar tratar</text>
+<text x="34" y="431" font-size="12.6" fill="#495057">Rinorrea, tos, disfonía o úlceras orales: rasgos virales, no testear.</text>
+<text x="34" y="449" font-size="12.6" fill="#495057">Si se trata: penicilina o amoxicilina por 10 días (o penicilina benzatina IM).</text>
+<rect x="508" y="46" width="476" height="420" rx="10" fill="#ffffff" stroke="#1f5f99" stroke-width="1.6"/>
+<rect x="508" y="46" width="476" height="36" rx="10" fill="#1f5f99"/><rect x="508" y="66" width="476" height="16" fill="#1f5f99"/>
+<text x="746.0" y="70" text-anchor="middle" font-size="15.5" font-weight="700" fill="#ffffff">Rinosinusitis aguda: ¿bacteriana?</text>
+<text x="526" y="106" font-size="13.2" fill="#1f2933">Casi todas son virales y mejoran en 7–10 días. Sospechar bacteria si:</text>
+<circle cx="542" cy="144" r="14" fill="#1f5f99"/>
+<text x="542" y="149" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">1</text>
+<text x="566" y="140" font-size="13.8" font-weight="700" fill="#1f5f99">Persistencia</text>
+<text x="566" y="158" font-size="13" fill="#1f2933">síntomas ≥ 10 días sin mejoría</text>
+<circle cx="542" cy="194" r="14" fill="#1f5f99"/>
+<text x="542" y="199" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">2</text>
+<text x="566" y="190" font-size="13.8" font-weight="700" fill="#1f5f99">Inicio grave</text>
+<text x="566" y="208" font-size="13" fill="#1f2933">fiebre ≥ 39 °C + rinorrea purulenta o dolor facial ≥ 3–4 días</text>
+<circle cx="542" cy="244" r="14" fill="#1f5f99"/>
+<text x="542" y="249" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">3</text>
+<text x="566" y="240" font-size="13.8" font-weight="700" fill="#1f5f99">Doble empeoramiento</text>
+<text x="566" y="258" font-size="13" fill="#1f2933">empeora tras un resfrío que mejoraba (después de ~5 días)</text>
+<rect x="522" y="284" width="448" height="70" rx="6" fill="#e7f0f8"/>
+<text x="534" y="306" font-size="13.2" font-weight="700" fill="#1f5f99">Sin complicaciones: espera vigilada (AAO-HNS 2025)</text>
+<text x="534" y="326" font-size="12.8" fill="#1f2933">Si no mejora o empeora: amoxicilina ± clavulánico 5–7 días.</text>
+<text x="534" y="344" font-size="12.8" fill="#1f2933">Alivio: analgesia, lavado nasal salino, corticoide nasal.</text>
+<rect x="522" y="368" width="448" height="74" rx="6" fill="#fff5f5" stroke="#b3261e"/>
+<text x="534" y="390" font-size="13.2" font-weight="700" fill="#b3261e">Derivar de urgencia (complicación orbitaria o del SNC)</text>
+<text x="534" y="410" font-size="12.8" fill="#1f2933">Edema o eritema periorbitario, diplopía, proptosis, baja de visión;</text>
+<text x="534" y="428" font-size="12.8" fill="#1f2933">cefalea intensa, rigidez de nuca, compromiso de conciencia: TC.</text>
+<text x="526" y="456" font-size="12.6" fill="#495057">El color de la secreción no distingue viral de bacteriana.</text>
+<text x="18" y="488" font-size="12.6" fill="#1f2933">Resfrío común y bronquitis aguda: no dar antibióticos (ACP/CDC 2016). Volver a consultar si hay disnea, fiebre alta persistente o dolor intenso.</text>
+</svg>
