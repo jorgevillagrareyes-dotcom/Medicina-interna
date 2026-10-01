@@ -1087,6 +1087,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/apnea-del-sueno-y-trastornos-del-sueno.md
   - codigo: 1.05.1.034
     nombre: Síndromes mediastínicos
     dx: Sospecha
@@ -2290,6 +2292,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/apnea-del-sueno-y-trastornos-del-sueno.md
   - codigo: 1.10.1.028
     nombre: Tumores de región sellar
     dx: Sospecha

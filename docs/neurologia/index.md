@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **49 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
+    **50 de 50** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -59,7 +59,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.10.1.024 | Síndromes vertiginosos centrales | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Vértigo: síndromes vertiginosos periféricos y centrales](vertigo.md) |
 | 1.10.1.025 | Síndromes vertiginosos periféricos | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Vértigo: síndromes vertiginosos periféricos y centrales](vertigo.md) |
 | 1.10.1.026 | Temblor esencial | Sospecha | Inicial | No requiere | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad de Parkinson, temblor, trastornos de la marcha y síndrome atáxico](parkinson-temblor-y-trastornos-de-la-marcha.md) |
-| 1.10.1.027 | Trastornos del sueño | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.10.1.027 | Trastornos del sueño | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Apnea obstructiva del sueño y trastornos del sueño](../respiratorio/apnea-del-sueno-y-trastornos-del-sueno.md) |
 | 1.10.1.028 | Tumores de región sellar | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tumores hipofisiarios y de la región selar, hipopituitarismo e hiperprolactinemia](../endocrinologia/hipofisis-tumores-hipopituitarismo-e-hiperprolactinemia.md) |
 | 1.10.1.029 | Tumores primarios y metastásicos SNC | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tumores primarios y metastásicos del sistema nervioso central](tumores-del-snc.md) |
 

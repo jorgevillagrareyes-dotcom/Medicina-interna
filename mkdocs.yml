@@ -142,6 +142,7 @@ nav:
       - "Varicela, herpes zóster y otros exantemas del adulto": infectologia/varicela-y-herpes-zoster.md
   - Enfermedades respiratorias:
       - respiratorio/index.md
+      - "Apnea obstructiva del sueño y trastornos del sueño": respiratorio/apnea-del-sueno-y-trastornos-del-sueno.md
       - "Asma bronquial": respiratorio/asma.md
       - "Derrame pleural: paraneumónico, empiema, neoplásico y enfoque diagnóstico": respiratorio/derrame-pleural.md
       - "Enfermedad pulmonar obstructiva crónica (EPOC)": respiratorio/epoc.md
