@@ -160,7 +160,7 @@ flowchart TD
     - Frente, párpado superior y cuero cabelludo.
     - El **signo de Hutchinson** (vesículas en la **punta o el costado de la nariz**, rama nasociliar) predice el compromiso ocular: queratitis, uveítis, retinitis.
     - **Oftalmología urgente**.
-- **Síndrome de Ramsay Hunt**: vesículas en el **conducto auditivo externo** o el pabellón, **parálisis facial periférica**, hipoacusia, tinnitus y vértigo.
+- **Síndrome de Ramsay Hunt**: vesículas en el **conducto auditivo externo** o el pabellón, **parálisis facial periférica**, hipoacusia, tinnitus y vértigo. Ver [parálisis facial periférica](../neurologia/paralisis-facial-periferica.md).
 - **Zóster diseminado o visceral** en inmunosuprimidos: neumonía, hepatitis, encefalitis.
 - **Neuralgia posherpética**:
     - Dolor quemante, **alodinia** (el roce de la ropa duele), prurito.

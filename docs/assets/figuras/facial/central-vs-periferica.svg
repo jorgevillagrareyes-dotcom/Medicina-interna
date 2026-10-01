@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="640" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Parálisis facial central y periférica</text>
+<text x="500.0" y="50" text-anchor="middle" font-size="13" font-weight="400" fill="#495057">Pídele: «arrugue la frente», «cierre los ojos con fuerza», «muestre los dientes». Lado afectado: derecho del paciente (izquierda de la imagen)</text>
+<text x="300" y="80" text-anchor="middle" font-size="15" font-weight="700" fill="#1f5f99">Central (supranuclear): p. ej., ACV</text>
+<ellipse cx="300" cy="235" rx="108" ry="138" fill="#fdf3e7" stroke="#8a6d50" stroke-width="2"/>
+<path d="M236,135 Q300,125 364,135" fill="none" stroke="#8a6d50" stroke-width="1.8"/>
+<path d="M236,149 Q300,139 364,149" fill="none" stroke="#8a6d50" stroke-width="1.8"/>
+<path d="M236,163 Q300,153 364,163" fill="none" stroke="#8a6d50" stroke-width="1.8"/>
+<path d="M230,185 Q255,175 280,183" fill="none" stroke="#5c4632" stroke-width="4" stroke-linecap="round"/>
+<path d="M320,183 Q345,173 370,185" fill="none" stroke="#5c4632" stroke-width="4" stroke-linecap="round"/>
+<path d="M322,213 Q345,223 368,213" fill="none" stroke="#1f2933" stroke-width="2.6"/>
+<path d="M232,213 Q255,223 278,213" fill="none" stroke="#1f2933" stroke-width="2.6"/>
+<path d="M300,225 L292,267 Q300,275 310,267" fill="none" stroke="#8a6d50" stroke-width="2"/>
+<path d="M318,265 Q340,287 346,311" fill="none" stroke="#8a6d50" stroke-width="2"/>
+<path d="M282,267 Q266,287 260,315" fill="none" stroke="#8a6d50" stroke-width="1.2" stroke-dasharray="3 4" opacity="0.6"/>
+<path d="M256,329 Q300,319 352,299 Q322,351 256,329 Z" fill="#ffffff" stroke="#a33" stroke-width="2.4"/>
+<path d="M262,329 Q305,329 346,309" fill="none" stroke="#bbb" stroke-width="1.2"/>
+<line x1="272" y1="328.0" x2="272" y2="337.0" stroke="#ccc" stroke-width="1"/>
+<line x1="286" y1="324.5" x2="286" y2="333.5" stroke="#ccc" stroke-width="1"/>
+<line x1="300" y1="321.0" x2="300" y2="330.0" stroke="#ccc" stroke-width="1"/>
+<line x1="314" y1="317.5" x2="314" y2="326.5" stroke="#ccc" stroke-width="1"/>
+<line x1="328" y1="314.0" x2="328" y2="323.0" stroke="#ccc" stroke-width="1"/>
+<line x1="342" y1="310.5" x2="342" y2="319.5" stroke="#ccc" stroke-width="1"/>
+<line x1="250" y1="147" x2="150" y2="135" stroke="#868e96" stroke-width="1.2"/>
+<circle cx="250" cy="147" r="2.6" fill="#868e96"/>
+<text x="144" y="139" text-anchor="end" font-size="13" font-weight="700" fill="#1f5f99">Frente: se arruga</text>
+<text x="144" y="155" text-anchor="end" font-size="13" font-weight="400" fill="#1f5f99">en ambos lados</text>
+<line x1="240" y1="215" x2="150" y2="207" stroke="#868e96" stroke-width="1.2"/>
+<circle cx="240" cy="215" r="2.6" fill="#868e96"/>
+<text x="144" y="211" text-anchor="end" font-size="13" font-weight="700" fill="#1f5f99">Cierra el ojo</text>
+<text x="144" y="227" text-anchor="end" font-size="13" font-weight="400" fill="#1f5f99">(o casi)</text>
+<line x1="256" y1="329" x2="150" y2="315" stroke="#868e96" stroke-width="1.2"/>
+<circle cx="256" cy="329" r="2.6" fill="#868e96"/>
+<text x="144" y="319" text-anchor="end" font-size="13" font-weight="700" fill="#1f5f99">Comisura caída</text>
+<text x="144" y="335" text-anchor="end" font-size="13" font-weight="400" fill="#1f5f99">y surco borrado</text>
+<text x="760" y="80" text-anchor="middle" font-size="15" font-weight="700" fill="#b3261e">Periférica (nervio facial): p. ej., Bell</text>
+<ellipse cx="760" cy="235" rx="108" ry="138" fill="#fdf3e7" stroke="#8a6d50" stroke-width="2"/>
+<path d="M766,135 Q795,128 824,135" fill="none" stroke="#8a6d50" stroke-width="1.8"/>
+<path d="M766,149 Q795,142 824,149" fill="none" stroke="#8a6d50" stroke-width="1.8"/>
+<path d="M766,163 Q795,156 824,163" fill="none" stroke="#8a6d50" stroke-width="1.8"/>
+<path d="M690,195 Q715,189 740,195" fill="none" stroke="#5c4632" stroke-width="4" stroke-linecap="round"/>
+<path d="M780,183 Q805,173 830,185" fill="none" stroke="#5c4632" stroke-width="4" stroke-linecap="round"/>
+<path d="M782,213 Q805,223 828,213" fill="none" stroke="#1f2933" stroke-width="2.6"/>
+<clipPath id="ojo760"><path d="M686,213 Q715,189 744,213 Q715,237 686,213 Z"/></clipPath>
+<path d="M686,213 Q715,189 744,213 Q715,237 686,213 Z" fill="#ffffff" stroke="#1f2933" stroke-width="2"/>
+<g clip-path="url(#ojo760)"><circle cx="715" cy="197" r="10" fill="#4a6fa5"/><circle cx="715" cy="197" r="4" fill="#1f2933"/></g>
+<path d="M760,225 L752,267 Q760,275 770,267" fill="none" stroke="#8a6d50" stroke-width="2"/>
+<path d="M778,265 Q800,287 806,311" fill="none" stroke="#8a6d50" stroke-width="2"/>
+<path d="M742,267 Q726,287 720,315" fill="none" stroke="#8a6d50" stroke-width="1.2" stroke-dasharray="3 4" opacity="0.6"/>
+<path d="M716,329 Q760,319 812,299 Q782,351 716,329 Z" fill="#ffffff" stroke="#a33" stroke-width="2.4"/>
+<path d="M722,329 Q765,329 806,309" fill="none" stroke="#bbb" stroke-width="1.2"/>
+<line x1="732" y1="328.0" x2="732" y2="337.0" stroke="#ccc" stroke-width="1"/>
+<line x1="746" y1="324.5" x2="746" y2="333.5" stroke="#ccc" stroke-width="1"/>
+<line x1="760" y1="321.0" x2="760" y2="330.0" stroke="#ccc" stroke-width="1"/>
+<line x1="774" y1="317.5" x2="774" y2="326.5" stroke="#ccc" stroke-width="1"/>
+<line x1="788" y1="314.0" x2="788" y2="323.0" stroke="#ccc" stroke-width="1"/>
+<line x1="802" y1="310.5" x2="802" y2="319.5" stroke="#ccc" stroke-width="1"/>
+<line x1="710" y1="153" x2="610" y2="135" stroke="#868e96" stroke-width="1.2"/>
+<circle cx="710" cy="153" r="2.6" fill="#868e96"/>
+<text x="604" y="139" text-anchor="end" font-size="13" font-weight="700" fill="#b3261e">Frente lisa:</text>
+<text x="604" y="155" text-anchor="end" font-size="13" font-weight="400" fill="#b3261e">no se arruga</text>
+<line x1="686" y1="213" x2="610" y2="207" stroke="#868e96" stroke-width="1.2"/>
+<circle cx="686" cy="213" r="2.6" fill="#868e96"/>
+<text x="604" y="211" text-anchor="end" font-size="13" font-weight="700" fill="#b3261e">No cierra el ojo:</text>
+<text x="604" y="227" text-anchor="end" font-size="13" font-weight="400" fill="#b3261e">se ve el globo girar</text>
+<text x="604" y="243" text-anchor="end" font-size="13" font-weight="400" fill="#b3261e">hacia arriba (Bell)</text>
+<line x1="716" y1="329" x2="610" y2="315" stroke="#868e96" stroke-width="1.2"/>
+<circle cx="716" cy="329" r="2.6" fill="#868e96"/>
+<text x="604" y="319" text-anchor="end" font-size="13" font-weight="700" fill="#b3261e">Comisura caída</text>
+<text x="604" y="335" text-anchor="end" font-size="13" font-weight="400" fill="#b3261e">y surco borrado</text>
+<rect x="40" y="400" width="920" height="28" fill="#495057"/>
+<text x="437.5" y="419" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">Central</text>
+<text x="792.5" y="419" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">Periférica</text>
+<rect x="40" y="428" width="920" height="26" fill="#f8f9fa"/>
+<text x="52" y="446" text-anchor="start" font-size="13.5" font-weight="700" fill="#1f2933">Frente</text>
+<text x="437.5" y="446" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f5f99">Se arruga (inervación cortical bilateral)</text>
+<text x="792.5" y="446" text-anchor="middle" font-size="13.5" font-weight="400" fill="#b3261e">No se arruga</text>
+<rect x="40" y="454" width="920" height="26" fill="#ffffff"/>
+<text x="52" y="472" text-anchor="start" font-size="13.5" font-weight="700" fill="#1f2933">Cierre del ojo</text>
+<text x="437.5" y="472" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f5f99">Conservado o debilidad leve</text>
+<text x="792.5" y="472" text-anchor="middle" font-size="13.5" font-weight="400" fill="#b3261e">Incompleto (lagoftalmo)</text>
+<rect x="40" y="480" width="920" height="26" fill="#f8f9fa"/>
+<text x="52" y="498" text-anchor="start" font-size="13.5" font-weight="700" fill="#1f2933">Mitad inferior</text>
+<text x="437.5" y="498" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f5f99">Débil</text>
+<text x="792.5" y="498" text-anchor="middle" font-size="13.5" font-weight="400" fill="#b3261e">Débil</text>
+<rect x="40" y="506" width="920" height="26" fill="#ffffff"/>
+<text x="52" y="524" text-anchor="start" font-size="13.5" font-weight="700" fill="#1f2933">Instalación</text>
+<text x="437.5" y="524" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f5f99">Minutos (ACV)</text>
+<text x="792.5" y="524" text-anchor="middle" font-size="13.5" font-weight="400" fill="#b3261e">Horas; máximo a las 72 h (Bell)</text>
+<rect x="40" y="532" width="920" height="26" fill="#f8f9fa"/>
+<text x="52" y="550" text-anchor="start" font-size="13.5" font-weight="700" fill="#1f2933">Acompañantes</text>
+<text x="437.5" y="550" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f5f99">Hemiparesia, disartria, afasia</text>
+<text x="792.5" y="550" text-anchor="middle" font-size="13.5" font-weight="400" fill="#b3261e">Dolor retroauricular, hiperacusia,</text>
+<rect x="40" y="558" width="920" height="26" fill="#f8f9fa"/>
+<text x="52" y="576" text-anchor="start" font-size="13.5" font-weight="700" fill="#1f2933"></text>
+<text x="437.5" y="576" text-anchor="middle" font-size="13.5" font-weight="400" fill="#1f5f99"></text>
+<text x="792.5" y="576" text-anchor="middle" font-size="13.5" font-weight="400" fill="#b3261e">alteración del gusto, ojo seco</text>
+<rect x="40" y="400" width="920" height="184" fill="none" stroke="#adb5bd" stroke-width="1"/>
+<text x="500.0" y="608" text-anchor="middle" font-size="12.5" font-weight="400" fill="#495057">Ojo: una lesión del núcleo en la protuberancia da una parálisis de tipo periférico, pero con otros signos de tronco (VI par, hemiparesia contralateral).</text>
+<text x="500.0" y="626" text-anchor="middle" font-size="12.5" font-weight="400" fill="#495057">Un tumor de la parótida puede afectar solo algunas ramas y respetar la frente.</text>
+</svg>

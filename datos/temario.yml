@@ -2203,6 +2203,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - neurologia/paralisis-facial-periferica.md
   - codigo: 1.10.1.017
     nombre: Polineuropatías, radiculopatías, mononeuropatías, etc…
     dx: Sospecha

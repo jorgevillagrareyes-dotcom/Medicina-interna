@@ -267,7 +267,7 @@ flowchart TD
 | **Tumor cerebral** | Instalación progresiva, cefalea, crisis; puede sangrar y debutar en forma brusca |
 | **Encefalitis o absceso** | Fiebre, compromiso de conciencia, crisis |
 | **Vértigo periférico** | Vértigo aislado con nistagmo horizontal unidireccional, sin otros signos. El **HINTS** ayuda a diferenciarlo de un infarto cerebeloso |
-| **Parálisis facial periférica (Bell)** | Compromete **toda la hemicara**, incluida la frente (en el ACV se respeta la frente) |
+| **Parálisis facial periférica (Bell)** | Compromete **toda la hemicara**, incluida la frente (en el ACV se respeta la frente). Ver [parálisis facial periférica](paralisis-facial-periferica.md) |
 | **Trastorno funcional** | Inconsistencias en el examen (signo de Hoover) |
 | **Síncope** | Pérdida de conciencia transitoria **sin** déficit focal |
 
