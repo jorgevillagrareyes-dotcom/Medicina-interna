@@ -645,6 +645,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - infectologia/infecciones-de-transmision-sexual-y-sifilis.md
   - codigo: 1.04.1.011
     nombre: Enfermedades eruptivas no complicadas (varicela, herpes zóster, etc.)
     dx: Específico
@@ -729,6 +731,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/infecciones-de-transmision-sexual-y-sifilis.md
   - codigo: 1.04.1.024
     nombre: Síndrome febril prolongado
     dx: Sospecha

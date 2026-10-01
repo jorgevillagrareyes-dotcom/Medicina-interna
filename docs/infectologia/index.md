@@ -8,12 +8,13 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **23 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
+    **25 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Endocarditis infecciosa](endocarditis-infecciosa.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de piel y partes blandas](infecciones-piel-partes-blandas.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de transmisión sexual y sífilis](infecciones-de-transmision-sexual-y-sifilis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones por flora oral: flegmón del piso de la boca (angina de Ludwig), absceso pulmonar y absceso cerebral](flegmon-cervical-absceso-pulmonar-y-cerebral.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Infección por VIH y SIDA, candidiasis orofaríngea y esofágica, y diarrea en inmunosuprimidos](infeccion-por-vih.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Influenza, COVID-19 y bronquitis aguda](influenza-y-covid-19.md)
@@ -36,7 +37,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.1.007 | Cólera | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.008 | Dengue | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.009 | Diarrea asociada a antibióticos | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](../gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md) |
-| 1.04.1.010 | Enfermedades de transmisión sexual | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.010 | Enfermedades de transmisión sexual | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de transmisión sexual y sífilis](infecciones-de-transmision-sexual-y-sifilis.md) |
 | 1.04.1.011 | Enfermedades eruptivas no complicadas (varicela, herpes zóster, etc.) | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Varicela, herpes zóster y otros exantemas del adulto](varicela-y-herpes-zoster.md) |
 | 1.04.1.029 | Enfermedad leve moderada por SARS Cov 2 COVID 19 | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Influenza, COVID-19 y bronquitis aguda](influenza-y-covid-19.md) |
 | 1.04.1.012 | Fiebre tifoidea y paratifoidea | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -50,7 +51,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.1.020 | Neutropenia febril | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](../hematologia/urgencias-oncologicas.md) |
 | 1.04.1.021 | Osteomielitis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.022 | Parasitosis intestinales | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.1.023 | Sífilis secundaria, terciaria y congénita | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.023 | Sífilis secundaria, terciaria y congénita | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de transmisión sexual y sífilis](infecciones-de-transmision-sexual-y-sifilis.md) |
 | 1.04.1.024 | Síndrome febril prolongado | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.025 | Síndrome mononucleósico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.026 | Toxicoinfección alimentaria | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](../gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md) |

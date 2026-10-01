@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 712" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="712" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Sífilis sin tratamiento: etapas y comportamiento de la serología</text>
+<rect x="50" y="50" width="136" height="58" rx="8" fill="#eef2f6" stroke="#52606d" stroke-width="1.4"/>
+<text x="118.0" y="74" text-anchor="middle" font-size="14.5" font-weight="700" fill="#52606d">Incubación</text>
+<text x="118.0" y="94" text-anchor="middle" font-size="11.5" fill="#1f2933">10–90 días (~3 semanas)</text>
+<rect x="190" y="50" width="146" height="58" rx="8" fill="#fde7e5" stroke="#b3261e" stroke-width="1.4"/>
+<text x="263.0" y="74" text-anchor="middle" font-size="14.5" font-weight="700" fill="#b3261e">Primaria</text>
+<text x="263.0" y="94" text-anchor="middle" font-size="11.5" fill="#1f2933">chancro + adenopatía</text>
+<rect x="340" y="50" width="156" height="58" rx="8" fill="#fde9dc" stroke="#d9480f" stroke-width="1.4"/>
+<text x="418.0" y="74" text-anchor="middle" font-size="14.5" font-weight="700" fill="#d9480f">Secundaria</text>
+<text x="418.0" y="94" text-anchor="middle" font-size="11.5" fill="#1f2933">exantema palmoplantar</text>
+<rect x="500" y="50" width="146" height="58" rx="8" fill="#fff4d6" stroke="#c28a12" stroke-width="1.4"/>
+<text x="573.0" y="74" text-anchor="middle" font-size="14.5" font-weight="700" fill="#c28a12">Latente precoz</text>
+<text x="573.0" y="94" text-anchor="middle" font-size="11.5" fill="#1f2933">sin síntomas, &lt; 1 año</text>
+<rect x="650" y="50" width="146" height="58" rx="8" fill="#e3f2fd" stroke="#1f5f99" stroke-width="1.4"/>
+<text x="723.0" y="74" text-anchor="middle" font-size="14.5" font-weight="700" fill="#1f5f99">Latente tardía</text>
+<text x="723.0" y="94" text-anchor="middle" font-size="11.5" fill="#1f2933">sin síntomas, &gt; 1 año</text>
+<rect x="800" y="50" width="136" height="58" rx="8" fill="#efeafa" stroke="#7c5cc4" stroke-width="1.4"/>
+<text x="868.0" y="74" text-anchor="middle" font-size="14.5" font-weight="700" fill="#7c5cc4">Terciaria</text>
+<text x="868.0" y="94" text-anchor="middle" font-size="11.5" fill="#1f2933">años o décadas</text>
+<rect x="190" y="116" width="456" height="22" rx="5" fill="#b3261e"/>
+<text x="420.0" y="131" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">Sífilis precoz (&lt; 1 año): contagio sexual; lesiones húmedas muy infectantes</text>
+<rect x="650" y="116" width="286" height="22" rx="5" fill="#1f5f99"/>
+<text x="795.0" y="131" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">Sífilis tardía: no se contagia por vía sexual</text>
+<text x="50" y="156" font-size="12" fill="#52606d">La transmisión al feto ocurre en cualquier etapa (más en la precoz). La neurosífilis puede aparecer en cualquier etapa.</text>
+<line x1="50" y1="400" x2="940" y2="400" stroke="#52606d" stroke-width="1.5"/>
+<line x1="50" y1="180" x2="50" y2="400" stroke="#52606d" stroke-width="1.5"/>
+<text x="40" y="194" text-anchor="end" font-size="11.5" fill="#52606d" transform="rotate(-90 36 250)">Título / reactividad</text>
+<line x1="190" y1="180" x2="190" y2="400" stroke="#cbd2d9" stroke-dasharray="4 4"/>
+<line x1="340" y1="180" x2="340" y2="400" stroke="#cbd2d9" stroke-dasharray="4 4"/>
+<line x1="500" y1="180" x2="500" y2="400" stroke="#cbd2d9" stroke-dasharray="4 4"/>
+<line x1="650" y1="180" x2="650" y2="400" stroke="#cbd2d9" stroke-dasharray="4 4"/>
+<line x1="800" y1="180" x2="800" y2="400" stroke="#cbd2d9" stroke-dasharray="4 4"/>
+<path d="M 210 400 C 240 390, 260 230, 310 220 L 934 220" fill="none" stroke="#1f5f99" stroke-width="3.5"/>
+<path d="M 235 400 C 270 380, 300 260, 380 202 C 430 190, 470 200, 530 240 C 590 275, 690 320, 800 350 C 840 365, 880 370, 934 372" fill="none" stroke="#b3261e" stroke-width="3.5"/>
+<line x1="50" y1="462" x2="84" y2="462" stroke="#1f5f99" stroke-width="3.5"/>
+<text x="92" y="466" font-size="13" fill="#1f2933"><tspan font-weight="700">Treponémica</tspan> (MHA-TP, FTA-Abs, test rápido): reactiva de por vida, aun tratada</text>
+<line x1="570" y1="462" x2="604" y2="462" stroke="#b3261e" stroke-width="3.5"/>
+<text x="612" y="466" font-size="13" fill="#1f2933"><tspan font-weight="700">No treponémica</tspan> (VDRL, RPR): mide la actividad</text>
+<text x="196" y="418" font-size="11.5" fill="#b3261e">VDRL puede ser (−)</text>
+<text x="196" y="432" font-size="11.5" fill="#b3261e">los primeros ~10 días</text>
+<text x="346" y="418" font-size="11.5" fill="#b3261e">Títulos altos (Títulos altos (≥ 1:16)gt; 1:4)</text>
+<text x="346" y="432" font-size="11.5" fill="#b3261e">siempre reactivo</text>
+<text x="656" y="418" font-size="11.5" fill="#b3261e">Títulos bajos o</text>
+<text x="656" y="432" font-size="11.5" fill="#b3261e">no reactivo</text>
+<text x="50" y="500" font-size="15" font-weight="700" fill="#1f5f99">Tratamiento según la etapa (penicilina benzatina 2.400.000 UI IM)</text>
+<rect x="50" y="512" width="890" height="34" rx="6" fill="#fde7e5" stroke="#b3261e"/>
+<rect x="50" y="512" width="7" height="34" rx="3" fill="#b3261e"/>
+<text x="68" y="534" font-size="13.5" font-weight="700" fill="#b3261e">Precoz: primaria, secundaria, latente &lt; 1 año</text>
+<text x="480" y="534" font-size="13.5" fill="#1f2933">1 dosis (CDC 2021, OMS 2024) · norma chilena 2016: 1 dosis semanal × 2</text>
+<rect x="50" y="554" width="890" height="34" rx="6" fill="#e3f2fd" stroke="#1f5f99"/>
+<rect x="50" y="554" width="7" height="34" rx="3" fill="#1f5f99"/>
+<text x="68" y="576" font-size="13.5" font-weight="700" fill="#1f5f99">Tardía: latente &gt; 1 año o de duración desconocida</text>
+<text x="480" y="576" font-size="13.5" fill="#1f2933">1 dosis semanal × 3 (todas las guías)</text>
+<rect x="50" y="596" width="890" height="34" rx="6" fill="#efeafa" stroke="#7c5cc4"/>
+<rect x="50" y="596" width="7" height="34" rx="3" fill="#7c5cc4"/>
+<text x="68" y="618" font-size="13.5" font-weight="700" fill="#7c5cc4">Neurosífilis, sífilis ocular u ótica (cualquier etapa)</text>
+<text x="480" y="618" font-size="13.5" fill="#1f2933">Penicilina G sódica 3–4 millones UI EV cada 4 h × 10–14 días</text>
+<text x="50" y="652" font-size="12.5" fill="#1f2933">Respuesta: el VDRL o RPR cuantitativo (siempre la misma técnica) debe <tspan font-weight="700">bajar ≥ 2 diluciones</tspan> (4 veces). Control a los 1, 3, 6 y 12 meses (norma chilena).</text>
+<text x="50" y="670" font-size="12.5" fill="#1f2933">Reacción de <tspan font-weight="700">Jarisch-Herxheimer</tspan>: fiebre, cefalea y mialgias en las primeras 24 h del tratamiento, sobre todo en la sífilis precoz. No es alergia.</text>
+<text x="980" y="704" text-anchor="end" font-size="11.5" fill="#7b8794">Esquema propio basado en la Norma Técnica N.° 187 (MINSAL 2016), CDC 2021 y OMS 2024. Las curvas son ilustrativas.</text>
+</svg>
