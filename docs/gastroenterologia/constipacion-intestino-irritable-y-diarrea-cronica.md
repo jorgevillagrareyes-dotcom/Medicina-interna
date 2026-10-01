@@ -243,7 +243,7 @@ flowchart TD
 |---|---|
 | **Cáncer colorrectal** | > 45–50 años, cambio reciente del hábito, **sangrado**, **anemia ferropénica**, baja de peso. Colonoscopía (**GES 70**) |
 | **Enfermedad inflamatoria intestinal** | Adulto joven, diarrea con **sangre**, nocturna, baja de peso, manifestaciones extraintestinales, **calprotectina alta**, PCR alta |
-| **Enfermedad celíaca** | Diarrea o constipación, distensión, **anemia ferropénica**, osteoporosis, dermatitis herpetiforme; **IgA anti-transglutaminasa** |
+| **Enfermedad celíaca** | Diarrea o constipación, distensión, **anemia ferropénica**, osteoporosis, dermatitis herpetiforme; **IgA anti-transglutaminasa** ([ver celíaca y malabsorción](enfermedad-celiaca-intolerancia-a-la-lactosa-y-malabsorcion.md)) |
 | **Colitis microscópica** | Mujer > 50 años, **diarrea acuosa** crónica sin sangre, a veces nocturna, **AINE, IBP o ISRS**; colonoscopía normal con **biopsias** alteradas |
 | **Diarrea por ácidos biliares** | **Poscolecistectomía** o resección ileal; responde a la colestiramina |
 | **Intolerancia a la lactosa** | Síntomas con los lácteos; mejora al suspenderlos |

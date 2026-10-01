@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 590" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="590" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Síndrome de malabsorción: enfoque diagnóstico</text>
+<rect x="40" y="44" width="920" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="64.9" text-anchor="middle" font-size="12.6" font-weight="700" fill="#1f5f99">Sospecha</text>
+<text x="500.0" y="81.5" text-anchor="middle" font-size="12.6" font-weight="400" fill="#1f2933">Diarrea crónica con esteatorrea (deposiciones pálidas, voluminosas, grasosas, que flotan), baja de peso pese a comer bien, distensión</text>
+<text x="500.0" y="98.1" text-anchor="middle" font-size="12.6" font-weight="400" fill="#1f2933">Déficits: anemia (hierro, B12, folato), osteoporosis o tetania (calcio, vitamina D), equimosis e INR alto (vitamina K), edema (proteínas)</text>
+<line x1="500" y1="110" x2="500" y2="128" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="40" y="128" width="920" height="66" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="500.0" y="148.9" text-anchor="middle" font-size="12.6" font-weight="700" fill="#b35c00">Exámenes iniciales</text>
+<text x="500.0" y="165.5" text-anchor="middle" font-size="12.6" font-weight="400" fill="#1f2933">Hemograma, ferritina, B12, folato, albúmina, INR, calcio, fósforo, magnesio, vitamina D, zinc · IgA anti-transglutaminasa + IgA total</text>
+<text x="500.0" y="182.1" text-anchor="middle" font-size="12.6" font-weight="400" fill="#1f2933">Parasitológico y antígeno de Giardia · elastasa fecal · grasa fecal (Sudán III) si hay dudas de esteatorrea</text>
+<line x1="170" y1="212" x2="830" y2="212" stroke="#495057" stroke-width="1.6"/>
+<line x1="500" y1="194" x2="500" y2="212" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="170" y1="212" x2="170" y2="230" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="500" y1="212" x2="500" y2="230" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="830" y1="212" x2="830" y2="230" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="25" y="230" width="290" height="38" rx="8" fill="#e8590c" stroke="#e8590c"/>
+<text x="170.0" y="254" text-anchor="middle" font-size="14.5" font-weight="700" fill="#ffffff">Luminal (maldigestión)</text>
+<rect x="25" y="274" width="290" height="128" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.4"/>
+<text x="170.0" y="293" text-anchor="middle" font-size="12.5" font-weight="700" fill="#e8590c">Insuficiencia pancreática:</text>
+<text x="170.0" y="309" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">pancreatitis crónica, cáncer,</text>
+<text x="170.0" y="325" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">cirugía, fibrosis quística</text>
+<text x="170.0" y="341" text-anchor="middle" font-size="12.5" font-weight="700" fill="#e8590c">Déficit de sales biliares:</text>
+<text x="170.0" y="357" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">colestasia, resección ileal</text>
+<text x="170.0" y="373" text-anchor="middle" font-size="12.5" font-weight="700" fill="#e8590c">Sobrecrecimiento bacteriano:</text>
+<text x="170.0" y="389" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">cirugía, diabetes, esclerodermia</text>
+<rect x="25" y="408" width="290" height="92" rx="8" fill="#ffffff" stroke="#e8590c" stroke-width="1.4"/>
+<text x="170.0" y="428" text-anchor="middle" font-size="12.5" font-weight="700" fill="#e8590c">Cómo se estudia</text>
+<text x="170.0" y="446.0" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">Elastasa fecal &lt; 100 µg/g</text>
+<text x="170.0" y="461.5" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">TC o RM de páncreas</text>
+<text x="170.0" y="477.0" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">Test de aire espirado</text>
+<text x="170.0" y="492.5" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">(glucosa o lactulosa)</text>
+<rect x="355" y="230" width="290" height="38" rx="8" fill="#6741d9" stroke="#6741d9"/>
+<text x="500.0" y="254" text-anchor="middle" font-size="14.5" font-weight="700" fill="#ffffff">Mucosa</text>
+<rect x="355" y="274" width="290" height="128" rx="8" fill="#f3f0ff" stroke="#6741d9" stroke-width="1.4"/>
+<text x="500.0" y="293" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Enfermedad celíaca</text>
+<text x="500.0" y="309" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Intolerancia a la lactosa</text>
+<text x="500.0" y="325" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Giardiasis · enfermedad de Crohn</text>
+<text x="500.0" y="341" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Fármacos (olmesartán, AINE)</text>
+<text x="500.0" y="357" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Enfermedad de Whipple</text>
+<text x="500.0" y="373" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Enteritis actínica, amiloidosis</text>
+<text x="500.0" y="389" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">VIH, inmunodeficiencia común variable</text>
+<rect x="355" y="408" width="290" height="92" rx="8" fill="#ffffff" stroke="#6741d9" stroke-width="1.4"/>
+<text x="500.0" y="428" text-anchor="middle" font-size="12.5" font-weight="700" fill="#6741d9">Cómo se estudia</text>
+<text x="500.0" y="446.0" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">Endoscopía alta con</text>
+<text x="500.0" y="461.5" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">biopsias duodenales</text>
+<text x="500.0" y="477.0" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">Colonoscopía con ileoscopía</text>
+<text x="500.0" y="492.5" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">Test de aire con lactosa</text>
+<rect x="685" y="230" width="290" height="38" rx="8" fill="#1c7ed6" stroke="#1c7ed6"/>
+<text x="830.0" y="254" text-anchor="middle" font-size="14.5" font-weight="700" fill="#ffffff">Anatómica y posabsortiva</text>
+<rect x="685" y="274" width="290" height="128" rx="8" fill="#e7f5ff" stroke="#1c7ed6" stroke-width="1.4"/>
+<text x="830.0" y="293" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Intestino corto</text>
+<text x="830.0" y="309" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Gastrectomía o bypass</text>
+<text x="830.0" y="325" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">gástrico (asa ciega)</text>
+<text x="830.0" y="341" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Linfangiectasia intestinal</text>
+<text x="830.0" y="357" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Linfoma, tumores</text>
+<text x="830.0" y="373" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Fístulas enteroentéricas</text>
+<text x="830.0" y="389" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2933">Isquemia mesentérica crónica</text>
+<rect x="685" y="408" width="290" height="92" rx="8" fill="#ffffff" stroke="#1c7ed6" stroke-width="1.4"/>
+<text x="830.0" y="428" text-anchor="middle" font-size="12.5" font-weight="700" fill="#1c7ed6">Cómo se estudia</text>
+<text x="830.0" y="446.0" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">Antecedente quirúrgico</text>
+<text x="830.0" y="461.5" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">Entero-TC o entero-RM</text>
+<text x="830.0" y="477.0" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">Cápsula endoscópica</text>
+<text x="830.0" y="492.5" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">Enteroscopía con biopsias</text>
+<rect x="25" y="512" width="950" height="66" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="500.0" y="532.9" text-anchor="middle" font-size="12.6" font-weight="700" fill="#2f9e44">Tratamiento</text>
+<text x="500.0" y="549.5" text-anchor="middle" font-size="12.6" font-weight="400" fill="#1f2933">Tratar la causa: dieta sin gluten · enzimas pancreáticas (≥ 40 000 U de lipasa por comida) · antibiótico en el sobrecrecimiento · colestiramina</text>
+<text x="500.0" y="566.1" text-anchor="middle" font-size="12.6" font-weight="400" fill="#1f2933">Corregir los déficits (hierro, B12, folato, calcio, vitaminas D, A, E y K, zinc, magnesio) · nutricionista · no indicar dietas muy bajas en grasa</text>
+</svg>

@@ -1317,6 +1317,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - gastroenterologia/enfermedad-celiaca-intolerancia-a-la-lactosa-y-malabsorcion.md
   - codigo: 1.06.1.016
     nombre: Enfermedad diverticular complicada
     dx: Sospecha
@@ -1365,6 +1367,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - gastroenterologia/enfermedad-celiaca-intolerancia-a-la-lactosa-y-malabsorcion.md
   - codigo: 1.06.1.024
     nombre: Masa hepática
     dx: Sospecha
@@ -1394,6 +1398,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/enfermedad-celiaca-intolerancia-a-la-lactosa-y-malabsorcion.md
   - codigo: 1.06.1.029
     nombre: Tumores de colon
     dx: Específico
