@@ -1722,6 +1722,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/gammapatias-monoclonales-y-mieloma-multiple.md
   - codigo: 1.08.1.008
     nombre: Hipofunción medular
     dx: Sospecha
