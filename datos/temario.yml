@@ -1729,6 +1729,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/mielodisplasia-y-aplasia-medular.md
   - codigo: 1.08.1.009
     nombre: Leucemias agudas
     dx: Sospecha
@@ -1788,6 +1790,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/mielodisplasia-y-aplasia-medular.md
   - codigo: 1.08.1.018
     nombre: Síndromes mieloproliferativos crónicos
     dx: Sospecha
