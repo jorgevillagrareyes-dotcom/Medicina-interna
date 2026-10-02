@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 490" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="490" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Linfomas: de la adenopatía sospechosa al tratamiento</text>
+<rect x="30" y="44" width="940" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="65.1" text-anchor="middle" font-size="12.4" font-weight="700" fill="#1f5f99">Sospecha</text>
+<text x="500.0" y="81.5" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">Adenopatía &gt; 1–1,5 cm, firme, indolora, que persiste &gt; 4 semanas sin causa, o supraclavicular · síntomas B (fiebre, sudoración nocturna, baja de peso &gt; 10 %)</text>
+<text x="500.0" y="97.9" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">Esplenomegalia · masa mediastínica · prurito · citopenias · LDH alta · hipercalcemia · VIH, inmunosupresión o enfermedad autoinmune</text>
+<line x1="500" y1="110" x2="500" y2="128" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="128" width="940" height="66" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="500.0" y="149.1" text-anchor="middle" font-size="12.4" font-weight="700" fill="#b35c00">Diagnóstico: BIOPSIA ESCISIONAL del ganglio (o biopsia con aguja gruesa si no es posible)</text>
+<text x="500.0" y="165.5" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">La punción con aguja fina NO basta · inmunohistoquímica, citometría y genética en un laboratorio de referencia</text>
+<text x="500.0" y="181.9" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">Etapificación: PET-CT (o TC con contraste) · hemograma, LDH, VHS, β2-microglobulina, VIH, VHB, VHC · ecocardiograma antes de las antraciclinas</text>
+<line x1="142" y1="212" x2="858" y2="212" stroke="#495057" stroke-width="1.6"/>
+<line x1="500" y1="194" x2="500" y2="212" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="143.0" y1="212" x2="143.0" y2="230" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="230" width="226" height="168" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="143.0" y="252" text-anchor="middle" font-size="14" font-weight="700" fill="#7048e8">Linfoma de Hodgkin</text>
+<text x="143.0" y="272.0" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Células de Reed-Sternberg</text>
+<text x="143.0" y="287.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">CD30+ CD15+; jóvenes</text>
+<text x="143.0" y="303.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">y &gt; 55 años; mediastino</text>
+<text x="143.0" y="318.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Temprano: 2 ABVD + RT</text>
+<text x="143.0" y="334.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">o "2 + 2" guiado por PET</text>
+<text x="143.0" y="350.0" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Avanzado: BrECADD o</text>
+<text x="143.0" y="365.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">nivolumab + AVD</text>
+<text x="143.0" y="381.2" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f2933">→ se cura en &gt; 80–90 %</text>
+<line x1="381.0" y1="212" x2="381.0" y2="230" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="268" y="230" width="226" height="168" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="381.0" y="252" text-anchor="middle" font-size="14" font-weight="700" fill="#c92a2a">Linfoma B difuso</text>
+<text x="381.0" y="272.0" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">de células grandes (agresivo)</text>
+<text x="381.0" y="287.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">El más frecuente (~ 30–40 %)</text>
+<text x="381.0" y="303.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Masa de crecimiento rápido</text>
+<text x="381.0" y="318.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Pronóstico: IPI y SNC-IPI</text>
+<text x="381.0" y="334.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">R-CHOP × 6; Pola-R-CHP</text>
+<text x="381.0" y="350.0" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">si el IPI es ≥ 2</text>
+<text x="381.0" y="365.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Recaída: CAR-T o trasplante</text>
+<text x="381.0" y="381.2" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f2933">→ se cura en ~ 60–70 %</text>
+<line x1="619.0" y1="212" x2="619.0" y2="230" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="506" y="230" width="226" height="168" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="619.0" y="252" text-anchor="middle" font-size="14" font-weight="700" fill="#2f9e44">Linfomas indolentes</text>
+<text x="619.0" y="272.0" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Folicular, zona marginal,</text>
+<text x="619.0" y="287.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">linfocítico pequeño</text>
+<text x="619.0" y="303.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Lentos; avanzados al inicio</text>
+<text x="619.0" y="318.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Sin carga tumoral alta:</text>
+<text x="619.0" y="334.4" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f2933">OBSERVAR</text>
+<text x="619.0" y="350.0" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Con carga alta (GELF):</text>
+<text x="619.0" y="365.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">rituximab ± quimioterapia</text>
+<text x="619.0" y="381.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">MALT gástrico: erradicar H. pylori</text>
+<line x1="857.0" y1="212" x2="857.0" y2="230" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="744" y="230" width="226" height="168" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="857.0" y="252" text-anchor="middle" font-size="14" font-weight="700" fill="#e8590c">Otros agresivos y T</text>
+<text x="857.0" y="272.0" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Burkitt, linfoblástico,</text>
+<text x="857.0" y="287.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">del manto, linfomas T</text>
+<text x="857.0" y="303.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Burkitt y linfoblástico</text>
+<text x="857.0" y="318.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">crecen en días: URGENCIA</text>
+<text x="857.0" y="334.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Riesgo de lisis tumoral</text>
+<text x="857.0" y="350.0" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">y de compromiso del SNC</text>
+<text x="857.0" y="365.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Quimioterapia intensiva</text>
+<text x="857.0" y="381.2" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f2933">→ derivar el mismo día</text>
+<rect x="30" y="412" width="940" height="66" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500.0" y="433.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#495057">En todos los pacientes</text>
+<text x="500.0" y="449.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">GES 17: confirmación diagnóstica en 35 días, etapificación en 30 días y quimioterapia en 10 días · preservar la fertilidad · vacunas inactivadas</text>
+<text x="500.0" y="465.9" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Profilaxis del VHB con rituximab · prevenir la lisis tumoral · G-CSF y cotrimoxazol según el esquema · vigilar los efectos tardíos (corazón, mama, tiroides)</text>
+</svg>

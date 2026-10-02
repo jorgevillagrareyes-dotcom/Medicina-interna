@@ -1746,6 +1746,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/linfomas.md
   - codigo: 1.08.1.012
     nombre: Púrpuras trombopénicos
     dx: Sospecha
