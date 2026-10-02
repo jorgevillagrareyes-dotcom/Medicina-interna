@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **48 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
+    **50 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -22,6 +22,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Dislipidemias e hipertrigliceridemia grave](dislipidemia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipoglicemia](hipoglicemia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipotiroidismo, hipertiroidismo y tiroiditis](hipotiroidismo-e-hipertiroidismo.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Hirsutismo, amenorrea y síndrome de ovario poliquístico](hirsutismo-amenorrea-y-ovario-poliquistico.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia suprarrenal y crisis suprarrenal](insuficiencia-suprarrenal.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Obesidad, obesidad mórbida y síndrome metabólico](obesidad-y-sindrome-metabolico.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Osteoporosis primaria y secundaria](osteoporosis.md)
@@ -80,9 +81,9 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.03.1.005 | Tiroiditis | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipotiroidismo, hipertiroidismo y tiroiditis](hipotiroidismo-e-hipertiroidismo.md) |
 | 1.03.1.006 | Síndrome de Cushing | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome de Cushing e incidentaloma suprarrenal](sindrome-de-cushing-e-incidentaloma-suprarrenal.md) |
 | 1.03.1.007 | Insuficiencia suprarrenal crónica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia suprarrenal y crisis suprarrenal](insuficiencia-suprarrenal.md) |
-| 1.03.1.008 | Hirsutismo | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.008 | Hirsutismo | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hirsutismo, amenorrea y síndrome de ovario poliquístico](hirsutismo-amenorrea-y-ovario-poliquistico.md) |
 | 1.03.1.009 | Hipertensión arterial de origen endocrino | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
-| 1.03.1.010 | Amenorrea | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.010 | Amenorrea | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hirsutismo, amenorrea y síndrome de ovario poliquístico](hirsutismo-amenorrea-y-ovario-poliquistico.md) |
 | 1.03.1.011 | Síndrome climatérico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.012 | Hipogonadismo masculino | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.03.1.013 | Tumores hipofisiarios | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tumores hipofisiarios y de la región selar, hipopituitarismo e hiperprolactinemia](hipofisis-tumores-hipopituitarismo-e-hiperprolactinemia.md) |

@@ -478,6 +478,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Completo
+    resumen:
+    - endocrinologia/hirsutismo-amenorrea-y-ovario-poliquistico.md
   - codigo: 1.03.1.009
     nombre: Hipertensión arterial de origen endocrino
     dx: Sospecha
@@ -490,6 +492,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/hirsutismo-amenorrea-y-ovario-poliquistico.md
   - codigo: 1.03.1.011
     nombre: Síndrome climatérico
     dx: Específico

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 508" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="508" fill="#ffffff"/>
+<text x="500" y="28" text-anchor="middle" font-size="16.5" font-weight="700" fill="#1f2933">Enfoque del hirsutismo en la mujer premenopáusica (Endocrine Society 2018; guía internacional del SOP 2023)</text>
+<rect x="200" y="44" width="600" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="65.2" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">Hirsutismo: vello terminal con patrón masculino</text>
+<text x="500.0" y="81.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Ferriman-Gallwey modificado (9 zonas, 0–4 puntos cada una): anormal ≥ 4–6 según etnia</text>
+<text x="500.0" y="97.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Distinguir de hipertricosis (vello difuso no androgénico) y de vello local aislado</text>
+<line x1="260" y1="126" x2="740" y2="126" stroke="#495057" stroke-width="1.6"/>
+<line x1="500" y1="110" x2="500" y2="126" stroke="#495057" stroke-width="1.6"/>
+<line x1="260" y1="126" x2="260" y2="140" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="740" y1="126" x2="740" y2="140" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="140" width="460" height="112" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="260.0" y="159.9" text-anchor="middle" font-size="12" font-weight="700" fill="#c92a2a">¿SIGNOS DE ALARMA? (tumor productor de andrógenos)</text>
+<text x="260.0" y="176.1" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Inicio rápido (meses) o en la posmenopausia</text>
+<text x="260.0" y="192.3" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Virilización: clitoromegalia, voz grave, calvicie frontal,</text>
+<text x="260.0" y="208.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">aumento de masa muscular</text>
+<text x="260.0" y="224.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Testosterona muy alta o DHEA-S muy alta</text>
+<text x="260.0" y="240.9" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">→ ecografía transvaginal, TC o RM suprarrenal; derivar</text>
+<rect x="510" y="140" width="460" height="112" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="740.0" y="159.9" text-anchor="middle" font-size="12" font-weight="700" fill="#7048e8">ESTUDIO BÁSICO (si el puntaje es anormal)</text>
+<text x="740.0" y="176.1" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Testosterona total temprano en la mañana (fase folicular)</text>
+<text x="740.0" y="192.3" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Historia menstrual (ciclos irregulares = anovulación)</text>
+<text x="740.0" y="208.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">TSH y prolactina</text>
+<text x="740.0" y="224.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">17-OH-progesterona (hiperplasia suprarrenal congénita no clásica)</text>
+<text x="740.0" y="240.9" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Cushing solo si hay rasgos clínicos</text>
+<line x1="740" y1="252" x2="740" y2="268" stroke="#495057" stroke-width="1.6"/>
+<line x1="170" y1="268" x2="830" y2="268" stroke="#495057" stroke-width="1.6"/>
+<line x1="170" y1="268" x2="170" y2="282" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="500" y1="268" x2="500" y2="282" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="830" y1="268" x2="830" y2="282" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="282" width="280" height="96" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="170.0" y="310.1" text-anchor="middle" font-size="12" font-weight="700" fill="#b35c00">SOP (la causa más frecuente)</text>
+<text x="170.0" y="326.3" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Ciclos irregulares y/o</text>
+<text x="170.0" y="342.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">hiperandrogenismo ± ovarios</text>
+<text x="170.0" y="358.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">poliquísticos (o AMH alta)</text>
+<rect x="360" y="282" width="280" height="96" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="500.0" y="310.1" text-anchor="middle" font-size="12" font-weight="700" fill="#2f9e44">Hirsutismo idiopático</text>
+<text x="500.0" y="326.3" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Ciclos ovulatorios y</text>
+<text x="500.0" y="342.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">andrógenos normales</text>
+<text x="500.0" y="358.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">(diagnóstico de exclusión)</text>
+<rect x="690" y="282" width="280" height="96" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="830.0" y="310.1" text-anchor="middle" font-size="12" font-weight="700" fill="#495057">Otras causas</text>
+<text x="830.0" y="326.3" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">HSC no clásica · hiperprolactinemia ·</text>
+<text x="830.0" y="342.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">hipotiroidismo · Cushing · fármacos</text>
+<text x="830.0" y="358.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">(danazol, testosterona, anabólicos)</text>
+<rect x="30" y="394" width="940" height="104" rx="8" fill="#e6fcf5" stroke="#0c8599" stroke-width="1.6"/>
+<text x="500.0" y="418.0" text-anchor="middle" font-size="12" font-weight="700" fill="#0c8599">Tratamiento (si molesta a la paciente)</text>
+<text x="500.0" y="434.2" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Medidas cosméticas (rasurado, cera, láser o fotodepilación) ± farmacológico</text>
+<text x="500.0" y="450.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">1.ª línea: anticonceptivo oral combinado (al menos 6 meses, por el ciclo del folículo piloso)</text>
+<text x="500.0" y="466.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Si la respuesta es insuficiente a los 6 meses: agregar un antiandrógeno (espironolactona) — nunca sin anticoncepción (teratogénico)</text>
+<text x="500.0" y="482.8" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">No usar metformina para el hirsutismo; sí para el perfil metabólico en el SOP con IMC ≥ 25</text>
+</svg>

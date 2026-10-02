@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 452" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="452" fill="#ffffff"/>
+<text x="500" y="28" text-anchor="middle" font-size="16.5" font-weight="700" fill="#1f2933">Enfoque de la amenorrea secundaria (sin menstruación ≥ 3 meses, o ≥ 6 meses si los ciclos eran irregulares)</text>
+<rect x="250" y="44" width="500" height="50" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="65.3" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">1. Descartar EMBARAZO: β-hCG siempre</text>
+<text x="500.0" y="81.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Luego anamnesis: peso, ejercicio, estrés, fármacos, legrado, posparto, síntomas</text>
+<line x1="500" y1="94" x2="500" y2="110" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="150" y="110" width="700" height="50" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500.0" y="131.3" text-anchor="middle" font-size="12.2" font-weight="700" fill="#495057">2. Exámenes iniciales: FSH, LH, estradiol, prolactina y TSH</text>
+<text x="500.0" y="147.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">+ testosterona total (y DHEA-S) si hay hirsutismo, acné o virilización</text>
+<line x1="115" y1="176" x2="885" y2="176" stroke="#495057" stroke-width="1.6"/>
+<line x1="500" y1="160" x2="500" y2="176" stroke="#495057" stroke-width="1.6"/>
+<line x1="115" y1="176" x2="115" y2="190" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="307" y1="176" x2="307" y2="190" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="500" y1="176" x2="500" y2="190" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="693" y1="176" x2="693" y2="190" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="885" y1="176" x2="885" y2="190" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="25" y="190" width="180" height="110" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="115.0" y="208.9" text-anchor="middle" font-size="11.8" font-weight="700" fill="#7048e8">Prolactina alta</text>
+<text x="115.0" y="225.1" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Revisar fármacos</text>
+<text x="115.0" y="241.3" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">(antipsicóticos,</text>
+<text x="115.0" y="257.5" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">metoclopramida) e</text>
+<text x="115.0" y="273.7" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">hipotiroidismo → RM</text>
+<text x="115.0" y="289.9" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">de hipófisis</text>
+<rect x="217" y="190" width="180" height="110" rx="8" fill="#e6fcf5" stroke="#0c8599" stroke-width="1.6"/>
+<text x="307.0" y="217.0" text-anchor="middle" font-size="11.8" font-weight="700" fill="#0c8599">TSH alterada</text>
+<text x="307.0" y="233.2" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Hipotiroidismo o</text>
+<text x="307.0" y="249.4" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">hipertiroidismo</text>
+<text x="307.0" y="265.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">→ tratar y</text>
+<text x="307.0" y="281.8" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">reevaluar el ciclo</text>
+<rect x="410" y="190" width="180" height="110" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="500.0" y="208.9" text-anchor="middle" font-size="11.8" font-weight="700" fill="#c92a2a">FSH alta (&gt; 25 UI/L)</text>
+<text x="500.0" y="225.1" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Estradiol bajo; &lt; 40 años:</text>
+<text x="500.0" y="241.3" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">insuficiencia ovárica</text>
+<text x="500.0" y="257.5" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">prematura → cariotipo,</text>
+<text x="500.0" y="273.7" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">premutación FMR1,</text>
+<text x="500.0" y="289.9" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">anticuerpos 21-OH</text>
+<rect x="603" y="190" width="180" height="110" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="693.0" y="208.9" text-anchor="middle" font-size="11.8" font-weight="700" fill="#e8590c">FSH/LH bajas o normales</text>
+<text x="693.0" y="225.1" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Estradiol bajo:</text>
+<text x="693.0" y="241.3" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">amenorrea hipotalámica</text>
+<text x="693.0" y="257.5" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">(peso, ejercicio, estrés,</text>
+<text x="693.0" y="273.7" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">TCA) → RM de hipófisis</text>
+<text x="693.0" y="289.9" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">si no se explica</text>
+<rect x="795" y="190" width="180" height="110" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="885.0" y="208.9" text-anchor="middle" font-size="11.8" font-weight="700" fill="#b35c00">Andrógenos altos</text>
+<text x="885.0" y="225.1" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">o hirsutismo:</text>
+<text x="885.0" y="241.3" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">SOP (diagnóstico de</text>
+<text x="885.0" y="257.5" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">exclusión); descartar</text>
+<text x="885.0" y="273.7" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">HSC no clásica (17-OHP)</text>
+<text x="885.0" y="289.9" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">y tumor si virilización</text>
+<rect x="25" y="316" width="950" height="50" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500.0" y="337.3" text-anchor="middle" font-size="12" font-weight="700" fill="#495057">Hormonas normales y antecedente de legrado, infección o cirugía uterina</text>
+<text x="500.0" y="353.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">→ sospechar síndrome de Asherman (sinequias): ecografía, histerosonografía o histeroscopia</text>
+<rect x="25" y="378" width="950" height="64" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="500.0" y="398.2" text-anchor="middle" font-size="12" font-weight="700" fill="#2f9e44">Siempre: proteger el hueso y el endometrio</text>
+<text x="500.0" y="414.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Estrógeno bajo (hipotalámica, insuficiencia ovárica) → densitometría y reemplazo de estrógenos con progestágeno</text>
+<text x="500.0" y="430.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Estrógeno normal sin ovulación (SOP) → progestágeno cíclico o anticonceptivo combinado para proteger el endometrio</text>
+</svg>
