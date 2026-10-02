@@ -250,11 +250,15 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/diabetes-y-embarazo.md
   - codigo: 1.02.1.003
     nombre: Diabetes mellitus pregestacional
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - endocrinologia/diabetes-y-embarazo.md
   - codigo: 1.02.1.004
     nombre: Diabetes Mellitus tipo 1
     dx: Específico

@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **44 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
+    **46 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -18,6 +18,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Desnutrición, malnutrición y síndromes carenciales de vitaminas y minerales](desnutricion-y-sindromes-carenciales.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 1, otros tipos de diabetes (LADA, MODY) y diabetes por corticoides](diabetes-tipo-1-y-otros-tipos.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 2](diabetes-mellitus-tipo-2.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes y embarazo: diabetes gestacional y diabetes pregestacional](diabetes-y-embarazo.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Dislipidemias e hipertrigliceridemia grave](dislipidemia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipoglicemia](hipoglicemia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipotiroidismo, hipertiroidismo y tiroiditis](hipotiroidismo-e-hipertiroidismo.md)
@@ -34,8 +35,8 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.02.1.001 | Desnutrición | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Desnutrición, malnutrición y síndromes carenciales de vitaminas y minerales](desnutricion-y-sindromes-carenciales.md) |
-| 1.02.1.002 | Diabetes gestacional | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.02.1.003 | Diabetes mellitus pregestacional | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.002 | Diabetes gestacional | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes y embarazo: diabetes gestacional y diabetes pregestacional](diabetes-y-embarazo.md) |
+| 1.02.1.003 | Diabetes mellitus pregestacional | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes y embarazo: diabetes gestacional y diabetes pregestacional](diabetes-y-embarazo.md) |
 | 1.02.1.004 | Diabetes Mellitus tipo 1 | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 1, otros tipos de diabetes (LADA, MODY) y diabetes por corticoides](diabetes-tipo-1-y-otros-tipos.md) |
 | 1.02.1.005 | Diabetes mellitus tipo 2 | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 2](diabetes-mellitus-tipo-2.md) |
 | 1.02.1.006 | Diabetes por corticoides | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 1, otros tipos de diabetes (LADA, MODY) y diabetes por corticoides](diabetes-tipo-1-y-otros-tipos.md) |
