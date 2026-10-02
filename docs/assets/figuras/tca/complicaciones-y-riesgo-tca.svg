@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 436" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="436" fill="#ffffff"/>
+<text x="500" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Trastornos de la conducta alimentaria: complicaciones médicas y señales de riesgo alto</text>
+<rect x="30" y="44" width="460" height="196" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="260.0" y="81.6" text-anchor="middle" font-size="12" font-weight="700" fill="#e8590c">POR RESTRICCIÓN (desnutrición)</text>
+<text x="42" y="97.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Bradicardia, hipotensión, ortostatismo, QTc largo, arritmias</text>
+<text x="42" y="114.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Hipotermia, acrocianosis, lanugo, piel seca, carotenodermia</text>
+<text x="42" y="130.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Amenorrea hipotalámica, T3 baja, osteoporosis, fracturas</text>
+<text x="42" y="146.4" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Vaciamiento gástrico lento, constipación, transaminasas altas</text>
+<text x="42" y="162.6" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Leucopenia, anemia, trombocitopenia (médula ósea)</text>
+<text x="42" y="178.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Hipoglicemia, debilidad muscular, atrofia cerebral</text>
+<text x="42" y="195.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Al realimentar: HIPOFOSFATEMIA, hipokalemia, hipomagnesemia,</text>
+<text x="52" y="211.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">edema, insuficiencia cardíaca (síndrome de realimentación)</text>
+<rect x="510" y="44" width="460" height="196" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="740.0" y="81.6" text-anchor="middle" font-size="12" font-weight="700" fill="#7048e8">POR PURGAS (vómitos, laxantes, diuréticos)</text>
+<text x="522" y="97.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• HIPOKALEMIA → arritmias, debilidad, íleo, nefropatía</text>
+<text x="522" y="114.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Vómitos: alcalosis metabólica hipoclorémica</text>
+<text x="522" y="130.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Laxantes: acidosis metabólica (pérdida de bicarbonato)</text>
+<text x="522" y="146.4" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Deshidratación, LRA prerrenal, edema de rebote al suspender</text>
+<text x="522" y="162.6" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Hipertrofia de las parótidas (con amilasa alta)</text>
+<text x="522" y="178.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Erosión del esmalte dental, signo de Russell (callos en los nudillos)</text>
+<text x="522" y="195.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Esofagitis, Mallory-Weiss, rara vez rotura esofágica (Boerhaave)</text>
+<text x="522" y="211.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Hiponatremia por ingesta excesiva de agua</text>
+<rect x="30" y="256" width="940" height="170" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="500.0" y="296.8" text-anchor="middle" font-size="12.2" font-weight="700" fill="#c92a2a">SEÑALES DE RIESGO ALTO EN ADULTOS (MEED 2022): evaluación médica urgente u hospitalización</text>
+<text x="42" y="313.0" text-anchor="start" font-size="12.2" font-weight="400" fill="#1f2933">• IMC &lt; 13 kg/m² · baja de peso &gt; 1 kg por semana durante 2 semanas · rechazo de líquidos o deshidratación grave</text>
+<text x="42" y="329.2" text-anchor="start" font-size="12.2" font-weight="400" fill="#1f2933">• Frecuencia cardíaca &lt; 40 lpm · PAS &lt; 90 mmHg con síncope o caída postural · QTc prolongado u otras alteraciones del ECG</text>
+<text x="42" y="345.4" text-anchor="start" font-size="12.2" font-weight="400" fill="#1f2933">• Temperatura &lt; 35,5 °C · no puede sentarse desde acostado ni pararse desde la posición en cuclillas sin usar los brazos</text>
+<text x="42" y="361.6" text-anchor="start" font-size="12.2" font-weight="400" fill="#1f2933">• Potasio &lt; 2,5 mmol/L · glicemia &lt; 54 mg/dL (3,0 mmol/L) · hiponatremia, hipofosfatemia, hipocalcemia, hipoalbuminemia</text>
+<text x="42" y="377.8" text-anchor="start" font-size="12.2" font-weight="400" fill="#1f2933">• Transaminasas &gt; 3 veces el límite · anemia importante · purgas varias veces al día · hematemesis</text>
+<text x="42" y="394.0" text-anchor="start" font-size="12.2" font-weight="400" fill="#1f2933">• Riesgo suicida (1 de cada 5 muertes en la anorexia nerviosa es por suicidio)</text>
+</svg>

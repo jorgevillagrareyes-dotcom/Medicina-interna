@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **53 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
+    **54 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -29,6 +29,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Osteoporosis primaria y secundaria](osteoporosis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome climatérico y menopausia](climaterio-y-menopausia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome de Cushing e incidentaloma suprarrenal](sindrome-de-cushing-e-incidentaloma-suprarrenal.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos de la conducta alimentaria](trastornos-de-la-conducta-alimentaria.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos del calcio, fósforo y magnesio: hipocalcemia, tetania e hipercalcemia](trastornos-del-calcio-fosforo-y-magnesio.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Tumores hipofisiarios y de la región selar, hipopituitarismo e hiperprolactinemia](hipofisis-tumores-hipopituitarismo-e-hiperprolactinemia.md)
 
@@ -55,7 +56,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.02.1.015 | Retinopatía diabética | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones crónicas de la diabetes: nefropatía, retinopatía, neuropatía, enfermedad arterial periférica y pie diabético](complicaciones-cronicas-de-la-diabetes.md) |
 | 1.02.1.016 | Síndrome metabólico | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Obesidad, obesidad mórbida y síndrome metabólico](obesidad-y-sindrome-metabolico.md) |
 | 1.02.1.017 | Síndromes carenciales de vitaminas y minerales | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Desnutrición, malnutrición y síndromes carenciales de vitaminas y minerales](desnutricion-y-sindromes-carenciales.md) |
-| 1.02.1.018 | Trastornos de conducta alimentaria | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.018 | Trastornos de conducta alimentaria | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos de la conducta alimentaria](trastornos-de-la-conducta-alimentaria.md) |
 | 1.02.1.019 | Vasculopatía periférica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones crónicas de la diabetes: nefropatía, retinopatía, neuropatía, enfermedad arterial periférica y pie diabético](complicaciones-cronicas-de-la-diabetes.md) |
 
 ### Situaciones clínicas de urgencia

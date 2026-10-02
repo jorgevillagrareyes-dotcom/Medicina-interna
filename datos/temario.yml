@@ -362,6 +362,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/trastornos-de-la-conducta-alimentaria.md
   - codigo: 1.02.1.019
     nombre: Vasculopatía periférica
     dx: Sospecha
