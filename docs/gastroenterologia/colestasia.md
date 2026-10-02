@@ -140,7 +140,7 @@ flowchart TD
 - **Pistas por causa**:
     - **Coledocolitiasis**: **cólico biliar**, ictericia fluctuante, antecedente de cálculos; colangitis o pancreatitis.
     - **Colangitis aguda**: **fiebre con calofríos, ictericia y dolor** en el hipocondrio derecho (**Charcot**); con **confusión e hipotensión**, péntada de **Reynolds** (grave).
-    - **Cáncer periampular** (páncreas, colédoco distal, ampolla): **ictericia indolora** y **progresiva**, **baja de peso**, **vesícula palpable** no dolorosa (**signo de Courvoisier-Terrier**), DM de inicio reciente.
+    - **Cáncer periampular** (páncreas, colédoco distal, ampolla): **ictericia indolora** y **progresiva**, **baja de peso**, **vesícula palpable** no dolorosa (**signo de Courvoisier-Terrier**), DM de inicio reciente. Ver además [cáncer de páncreas y pancreatitis crónica](cancer-de-pancreas-y-pancreatitis-cronica.md).
     - **Colangitis biliar primaria**: mujer de edad media con **fatiga y prurito**, o **asintomática** con fosfatasa alcalina alta en un examen de rutina; **síndrome seco** (Sjögren) e hipotiroidismo asociados.
     - **Colangitis esclerosante primaria**: hombre joven con **colitis ulcerosa**, asintomático o con prurito, fatiga, **colangitis recurrente**.
     - **Por fármacos**: inicio de un **antibiótico** u otro fármaco en los 3 meses previos (la amoxicilina-ácido clavulánico puede manifestarse hasta **6 semanas después** de terminarla).

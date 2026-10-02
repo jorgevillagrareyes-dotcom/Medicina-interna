@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 478" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="478" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Cáncer de páncreas: del síntoma a la decisión de tratamiento</text>
+<rect x="30" y="44" width="940" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="65.1" text-anchor="middle" font-size="12.4" font-weight="700" fill="#1f5f99">Sospecha</text>
+<text x="500.0" y="81.5" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">Ictericia indolora · dolor epigástrico que se irradia al dorso · baja de peso · diabetes de inicio reciente con baja de peso en &gt; 50 años</text>
+<text x="500.0" y="97.9" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">Pancreatitis aguda sin causa en &gt; 50 años · tromboflebitis migratoria (Trousseau) · vesícula palpable (Courvoisier-Terrier)</text>
+<line x1="500" y1="110" x2="500" y2="128" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="128" width="940" height="66" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="500.0" y="149.1" text-anchor="middle" font-size="12.4" font-weight="700" fill="#b35c00">Estudio y etapificación</text>
+<text x="500.0" y="165.5" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">TC multifásica con protocolo de páncreas + TC de tórax · CA 19-9 (pronóstico; sube también con la colestasia)</text>
+<text x="500.0" y="181.9" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">Endosonografía con punción si la TC no es clara o para obtener la biopsia antes de la quimioterapia · comité oncológico</text>
+<line x1="142" y1="212" x2="858" y2="212" stroke="#495057" stroke-width="1.6"/>
+<line x1="500" y1="194" x2="500" y2="212" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="143.0" y1="212" x2="143.0" y2="230" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="230" width="226" height="140" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="143.0" y="252" text-anchor="middle" font-size="14" font-weight="700" fill="#2f9e44">Resecable</text>
+<text x="143.0" y="274.0" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Sin contacto arterial;</text>
+<text x="143.0" y="290.4" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">contacto venoso ≤ 180°</text>
+<text x="143.0" y="306.8" text-anchor="middle" font-size="12.3" font-weight="700" fill="#1f2933">→ CIRUGÍA (Whipple o</text>
+<text x="143.0" y="323.2" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">pancreatectomía distal)</text>
+<text x="143.0" y="339.6" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">+ mFOLFIRINOX adyuvante</text>
+<text x="143.0" y="356.0" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">por 6 meses</text>
+<line x1="381.0" y1="212" x2="381.0" y2="230" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="268" y="230" width="226" height="140" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="381.0" y="252" text-anchor="middle" font-size="14" font-weight="700" fill="#e8a10c">Limítrofe</text>
+<text x="381.0" y="274.0" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Contacto arterial ≤ 180°</text>
+<text x="381.0" y="290.4" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">o compromiso venoso</text>
+<text x="381.0" y="306.8" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">reconstruible</text>
+<text x="381.0" y="323.2" text-anchor="middle" font-size="12.3" font-weight="700" fill="#1f2933">→ NEOADYUVANCIA</text>
+<text x="381.0" y="339.6" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">(FOLFIRINOX) y luego</text>
+<text x="381.0" y="356.0" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">reevaluar la cirugía</text>
+<line x1="619.0" y1="212" x2="619.0" y2="230" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="506" y="230" width="226" height="140" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="619.0" y="252" text-anchor="middle" font-size="14" font-weight="700" fill="#e8590c">Localmente avanzado</text>
+<text x="619.0" y="274.0" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Envuelve &gt; 180° el tronco</text>
+<text x="619.0" y="290.4" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">celíaco o la arteria</text>
+<text x="619.0" y="306.8" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">mesentérica superior</text>
+<text x="619.0" y="323.2" text-anchor="middle" font-size="12.3" font-weight="700" fill="#1f2933">→ QUIMIOTERAPIA</text>
+<text x="619.0" y="339.6" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">± radioterapia; cirugía</text>
+<text x="619.0" y="356.0" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">de conversión si responde</text>
+<line x1="857.0" y1="212" x2="857.0" y2="230" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="744" y="230" width="226" height="140" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="857.0" y="252" text-anchor="middle" font-size="14" font-weight="700" fill="#c92a2a">Metastásico (~50 %)</text>
+<text x="857.0" y="274.0" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Hígado, peritoneo, pulmón</text>
+<text x="857.0" y="290.4" text-anchor="middle" font-size="12.3" font-weight="700" fill="#1f2933">→ FOLFIRINOX, NALIRIFOX</text>
+<text x="857.0" y="306.8" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">o gemcitabina +</text>
+<text x="857.0" y="323.2" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">nab-paclitaxel según</text>
+<text x="857.0" y="339.6" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">el estado funcional</text>
+<text x="857.0" y="356.0" text-anchor="middle" font-size="12.3" font-weight="400" fill="#1f2933">Olaparib si BRCA germinal</text>
+<rect x="30" y="384" width="940" height="82" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500.0" y="404.9" text-anchor="middle" font-size="12.2" font-weight="700" fill="#495057">En todos los pacientes</text>
+<text x="500.0" y="421.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Estudio genético germinal (BRCA1/2, PALB2, Lynch) · prótesis biliar metálica si hay colangitis o no se opera pronto</text>
+<text x="500.0" y="437.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Enzimas pancreáticas · control del dolor (opioides, neurólisis del plexo celíaco) · tratar la TVP (heparina o anticoagulante oral)</text>
+<text x="500.0" y="454.1" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Nutrición y cuidados paliativos precoces</text>
+</svg>

@@ -1230,6 +1230,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/cancer-de-pancreas-y-pancreatitis-cronica.md
   - codigo: 1.06.1.003
     nombre: Cáncer de vesícula y vías biliares
     dx: Sospecha
@@ -1389,6 +1391,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - gastroenterologia/cancer-de-pancreas-y-pancreatitis-cronica.md
   - codigo: 1.06.1.026
     nombre: Parasitosis intestinales
     dx: Específico

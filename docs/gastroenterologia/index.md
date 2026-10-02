@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **40 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
+    **42 de 42** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -16,6 +16,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Colestasia: colangitis biliar primaria, colangitis esclerosante y otras causas](colestasia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Constipación, fecaloma, síndrome de intestino irritable y diarrea crónica](constipacion-intestino-irritable-y-diarrea-cronica.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de páncreas y pancreatitis crónica](cancer-de-pancreas-y-pancreatitis-cronica.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](diarrea-aguda-y-clostridioides-difficile.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Disfagia y afagia aguda (impactación alimentaria y cuerpos extraños esofágicos)](disfagia-y-afagia-aguda.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Dispepsia, úlcera péptica, *Helicobacter pylori* y cáncer gástrico](dispepsia-ulcera-peptica-y-cancer-gastrico.md)
@@ -36,7 +37,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.06.1.001 | Ascitis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md) |
-| 1.06.1.002 | Cáncer de páncreas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.002 | Cáncer de páncreas | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de páncreas y pancreatitis crónica](cancer-de-pancreas-y-pancreatitis-cronica.md) |
 | 1.06.1.003 | Cáncer de vesícula y vías biliares | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](litiasis-biliar-colecistitis-colangitis.md) |
 | 1.06.1.004 | Cáncer gástrico | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Dispepsia, úlcera péptica, *Helicobacter pylori* y cáncer gástrico](dispepsia-ulcera-peptica-y-cancer-gastrico.md) |
 | 1.06.1.005 | Cirrosis hepática | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cirrosis hepática y sus complicaciones](cirrosis-y-complicaciones.md) |
@@ -59,7 +60,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.06.1.022 | Insuficiencia hepática crónica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hepatitis crónica e insuficiencia hepática crónica](hepatitis-cronica-e-insuficiencia-hepatica-cronica.md) |
 | 1.06.1.023 | Intolerancia a la lactosa | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad celíaca, intolerancia a la lactosa y síndrome de malabsorción](enfermedad-celiaca-intolerancia-a-la-lactosa-y-malabsorcion.md) |
 | 1.06.1.024 | Masa hepática | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Masa hepática y hepatocarcinoma](masa-hepatica-y-hepatocarcinoma.md) |
-| 1.06.1.025 | Pancreatitis crónica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.06.1.025 | Pancreatitis crónica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de páncreas y pancreatitis crónica](cancer-de-pancreas-y-pancreatitis-cronica.md) |
 | 1.06.1.026 | Parasitosis intestinales | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Parasitosis intestinales](../infectologia/parasitosis-intestinales.md) |
 | 1.06.1.027 | Reflujo gastroesofágico | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad por reflujo gastroesofágico (ERGE) y esófago de Barrett](reflujo-gastroesofagico.md) |
 | 1.06.1.028 | Síndrome de malabsorción | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad celíaca, intolerancia a la lactosa y síndrome de malabsorción](enfermedad-celiaca-intolerancia-a-la-lactosa-y-malabsorcion.md) |
