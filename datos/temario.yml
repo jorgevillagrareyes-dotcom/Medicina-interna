@@ -1785,6 +1785,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/sindromes-paraneoplasicos.md
   - codigo: 1.08.1.017
     nombre: Síndromes mielodisplásicos
     dx: Sospecha

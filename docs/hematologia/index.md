@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **27 de 28** situaciones clínicas de esta subespecialidad tienen resumen.
+    **28 de 28** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -19,6 +19,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Linfomas: linfoma de Hodgkin y linfomas no Hodgkin](linfomas.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Neoplasias mieloproliferativas crónicas: policitemia vera, trombocitemia esencial y mielofibrosis](neoplasias-mieloproliferativas.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndromes mielodisplásicos, aplasia medular y enfoque de la pancitopenia](mielodisplasia-y-aplasia-medular.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Síndromes paraneoplásicos](sindromes-paraneoplasicos.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Trombocitopenia: enfoque, PTI, microangiopatías trombóticas (PTT y SHU) y trombocitopenia inducida por heparina](trombocitopenias.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Trombofilias hereditarias y adquiridas](trombofilias.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](urgencias-oncologicas.md)
@@ -42,7 +43,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.08.1.013 | Púrpuras vasculares | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Coagulopatías, coagulación intravascular diseminada y reversión de anticoagulantes](coagulopatias-cid-y-reversion-de-anticoagulantes.md) |
 | 1.08.1.014 | Reacción leucemoide | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Leucemias agudas y crónicas, reacción leucemoide y síndrome leucoeritroblástico](leucemias-agudas-y-cronicas.md) |
 | 1.08.1.015 | Síndrome leucoeritroblástico | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Leucemias agudas y crónicas, reacción leucemoide y síndrome leucoeritroblástico](leucemias-agudas-y-cronicas.md) |
-| 1.08.1.016 | Síndrome paraneoplásico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.08.1.016 | Síndrome paraneoplásico | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndromes paraneoplásicos](sindromes-paraneoplasicos.md) |
 | 1.08.1.017 | Síndromes mielodisplásicos | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndromes mielodisplásicos, aplasia medular y enfoque de la pancitopenia](mielodisplasia-y-aplasia-medular.md) |
 | 1.08.1.018 | Síndromes mieloproliferativos crónicos | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neoplasias mieloproliferativas crónicas: policitemia vera, trombocitemia esencial y mielofibrosis](neoplasias-mieloproliferativas.md) |
 | 1.08.1.019 | Trombofilias | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trombofilias hereditarias y adquiridas](trombofilias.md) |

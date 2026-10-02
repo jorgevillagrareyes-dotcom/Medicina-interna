@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 558" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="558" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Síndromes paraneoplásicos frecuentes y el tumor que hay que buscar</text>
+<rect x="30" y="46" width="304" height="222" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="182.0" y="70" text-anchor="middle" font-size="14.2" font-weight="700" fill="#1f5f99">Endocrinos y metabólicos</text>
+<text x="46" y="96" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">SIADH (hiponatremia)</text>
+<text x="58" y="112" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ pulmón células pequeñas</text>
+<text x="46" y="132" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Hipercalcemia por PTHrP</text>
+<text x="58" y="148" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ escamosos, riñón, mama</text>
+<text x="46" y="168" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Hipercalcemia por calcitriol</text>
+<text x="58" y="184" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ linfomas</text>
+<text x="46" y="204" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Cushing por ACTH ectópica</text>
+<text x="58" y="220" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ pulmón, carcinoides</text>
+<text x="46" y="240" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Hipoglicemia por IGF-2</text>
+<text x="58" y="256" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ tumores fibrosos, hígado</text>
+<rect x="348" y="46" width="304" height="222" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="500.0" y="70" text-anchor="middle" font-size="14.2" font-weight="700" fill="#7048e8">Neurológicos</text>
+<text x="364" y="96" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Lambert-Eaton</text>
+<text x="376" y="112" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ pulmón células pequeñas</text>
+<text x="364" y="132" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Encefalitis límbica (Hu, Ma2)</text>
+<text x="376" y="148" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ pulmón, testículo</text>
+<text x="364" y="168" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Encefalitis anti-NMDAR</text>
+<text x="376" y="184" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ teratoma de ovario</text>
+<text x="364" y="204" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Degeneración cerebelosa (Yo, Tr)</text>
+<text x="376" y="220" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ ovario, mama, Hodgkin</text>
+<text x="364" y="240" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Miastenia gravis</text>
+<text x="376" y="256" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ timoma</text>
+<rect x="666" y="46" width="304" height="222" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="818.0" y="70" text-anchor="middle" font-size="14.2" font-weight="700" fill="#c92a2a">Hematológicos</text>
+<text x="682" y="96" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Tromboflebitis migratoria (Trousseau)</text>
+<text x="694" y="112" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ páncreas, pulmón</text>
+<text x="682" y="132" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">CID crónica</text>
+<text x="694" y="148" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ próstata, páncreas, LPA</text>
+<text x="682" y="168" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Eritrocitosis (EPO)</text>
+<text x="694" y="184" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ riñón, hígado</text>
+<text x="682" y="204" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Reacción leucemoide (G-CSF)</text>
+<text x="694" y="220" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ pulmón, riñón</text>
+<text x="682" y="240" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Hemólisis autoinmune, PTI</text>
+<text x="694" y="256" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ LLC, linfomas</text>
+<rect x="30" y="282" width="304" height="222" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="182.0" y="306" text-anchor="middle" font-size="14.2" font-weight="700" fill="#e8590c">Dermatológicos</text>
+<text x="46" y="332" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Dermatomiositis</text>
+<text x="58" y="348" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ ovario, pulmón, gástrico</text>
+<text x="46" y="368" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Acantosis nigricans maligna</text>
+<text x="58" y="384" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ gástrico</text>
+<text x="46" y="404" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Leser-Trélat (queratosis súbitas)</text>
+<text x="58" y="420" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ gástrico, colon</text>
+<text x="46" y="440" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Síndrome de Sweet</text>
+<text x="58" y="456" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ leucemia mieloide aguda</text>
+<text x="46" y="476" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Pénfigo paraneoplásico</text>
+<text x="58" y="492" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ linfomas, Castleman</text>
+<rect x="348" y="282" width="304" height="222" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="500.0" y="306" text-anchor="middle" font-size="14.2" font-weight="700" fill="#2f9e44">Reumatológicos y musculares</text>
+<text x="364" y="332" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Osteoartropatía hipertrófica</text>
+<text x="376" y="348" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ pulmón (no células pequeñas)</text>
+<text x="364" y="368" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Acropaquia de inicio reciente</text>
+<text x="376" y="384" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ pulmón, mesotelioma</text>
+<text x="364" y="404" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Polimialgia o artritis atípica</text>
+<text x="376" y="420" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ hematológicos, sólidos</text>
+<text x="364" y="440" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Fascitis palmar y poliartritis</text>
+<text x="376" y="456" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ ovario</text>
+<text x="364" y="476" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Caquexia</text>
+<text x="376" y="492" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ páncreas, gástrico, pulmón</text>
+<rect x="666" y="282" width="304" height="222" rx="8" fill="#fff9db" stroke="#b35c00" stroke-width="1.6"/>
+<text x="818.0" y="306" text-anchor="middle" font-size="14.2" font-weight="700" fill="#b35c00">Renales y otros</text>
+<text x="682" y="332" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Nefropatía membranosa</text>
+<text x="694" y="348" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ pulmón, gástrico, colon</text>
+<text x="682" y="368" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Cambios mínimos</text>
+<text x="694" y="384" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ linfoma de Hodgkin</text>
+<text x="682" y="404" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Fiebre tumoral</text>
+<text x="694" y="420" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ riñón, linfomas, hígado</text>
+<text x="682" y="440" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Amiloidosis AL</text>
+<text x="694" y="456" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ mieloma, gammapatías</text>
+<text x="682" y="476" text-anchor="start" font-size="12.4" font-weight="700" fill="#1f2933">Prurito generalizado</text>
+<text x="694" y="492" text-anchor="start" font-size="12.2" font-weight="400" fill="#495057">→ Hodgkin, policitemia vera</text>
+<rect x="30" y="512" width="940" height="36" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500" y="535" text-anchor="middle" font-size="12.4" font-weight="700" fill="#495057">Pueden aparecer meses o años ANTES que el cáncer: si no hay un tumor conocido, buscarlo y repetir la búsqueda</text>
+</svg>
