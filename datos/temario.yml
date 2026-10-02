@@ -1797,6 +1797,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/neoplasias-mieloproliferativas.md
   - codigo: 1.08.1.019
     nombre: Trombofilias
     dx: Sospecha
