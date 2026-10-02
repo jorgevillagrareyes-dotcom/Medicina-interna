@@ -464,6 +464,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/sindrome-de-cushing-e-incidentaloma-suprarrenal.md
   - codigo: 1.03.1.007
     nombre: Insuficiencia suprarrenal crónica
     dx: Sospecha
@@ -566,6 +568,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/sindrome-de-cushing-e-incidentaloma-suprarrenal.md
   - codigo: 1.03.1.023
     nombre: Ginecomastia
     dx: Específico

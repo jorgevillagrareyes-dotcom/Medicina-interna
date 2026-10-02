@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 712" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="712" fill="#ffffff"/>
+<text x="500" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Estudio del síndrome de Cushing (Endocrine Society 2008; Pituitary Society 2021)</text>
+<rect x="130" y="44" width="740" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="65.2" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">Sospecha clínica</text>
+<text x="500.0" y="81.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Rasgos que más discriminan: estrías violáceas &gt; 1 cm, equimosis fáciles, plétora facial, miopatía proximal</text>
+<text x="500.0" y="97.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Otros: HTA o DM2 de difícil control, osteoporosis precoz, rasgos múltiples y progresivos · incidentaloma suprarrenal</text>
+<line x1="500" y1="110" x2="500" y2="126" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="130" y="126" width="740" height="50" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500.0" y="147.3" text-anchor="middle" font-size="12.2" font-weight="700" fill="#495057">1. Descartar corticoides exógenos (la causa más frecuente de Cushing)</text>
+<text x="500.0" y="163.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Orales, inhalados, tópicos, intraarticulares, inyectables de depósito; también acetato de megestrol</text>
+<line x1="500" y1="176" x2="500" y2="192" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="192" width="940" height="134" rx="8" fill="#fffdf5" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="500" y="212" text-anchor="middle" font-size="13.2" font-weight="700" fill="#b35c00">2. Confirmar el hipercortisolismo: al menos 2 pruebas distintas alteradas (con endocrinología)</text>
+<rect x="45" y="222" width="295" height="66" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="192.5" y="243.2" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2933">Dexametasona 1 mg a las 23 h</text>
+<text x="192.5" y="259.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Cortisol a las 8 h &gt; 1,8 µg/dL = no suprime</text>
+<text x="192.5" y="275.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Falso +: estrógenos orales, inductores (CYP3A4)</text>
+<rect x="352" y="222" width="296" height="66" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="500.0" y="243.2" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2933">Cortisol salival nocturno</text>
+<text x="500.0" y="259.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Elevado en ≥ 2 muestras (23–24 h)</text>
+<text x="500.0" y="275.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Falso +: turnos de noche, tabaco, ancianos</text>
+<rect x="660" y="222" width="295" height="66" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="807.5" y="243.2" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2933">Cortisol libre urinario de 24 h</text>
+<text x="807.5" y="259.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">&gt; límite superior en ≥ 2 muestras</text>
+<text x="807.5" y="275.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Falso −: ERC; falso +: poliuria, ingesta alta</text>
+<text x="500" y="312" text-anchor="middle" font-size="12" font-weight="400" fill="#495057">Pseudo-Cushing (alcohol, depresión, obesidad grave, DM descompensada, embarazo): alteraciones leves, cortisol urinario &lt; 3 veces el límite</text>
+<line x1="500" y1="326" x2="500" y2="342" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="300" y="342" width="400" height="50" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="500.0" y="363.3" text-anchor="middle" font-size="12.2" font-weight="700" fill="#7048e8">3. ACTH plasmática (8 h)</text>
+<text x="500.0" y="379.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Define si el hipercortisolismo depende o no de la ACTH</text>
+<line x1="170" y1="408" x2="830" y2="408" stroke="#495057" stroke-width="1.6"/>
+<line x1="500" y1="392" x2="500" y2="408" stroke="#495057" stroke-width="1.6"/>
+<line x1="170" y1="408" x2="170" y2="424" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="500" y1="408" x2="500" y2="424" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="830" y1="408" x2="830" y2="424" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="40" y="424" width="260" height="82" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="170.0" y="445.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#2f9e44">ACTH &lt; 10 pg/mL</text>
+<text x="170.0" y="461.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">ACTH-INDEPENDIENTE (suprarrenal)</text>
+<text x="170.0" y="477.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">TC de suprarrenales: adenoma,</text>
+<text x="170.0" y="493.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">carcinoma, hiperplasia bilateral</text>
+<rect x="370" y="424" width="260" height="82" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500.0" y="445.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#495057">ACTH 10–20 pg/mL</text>
+<text x="500.0" y="461.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Zona gris</text>
+<text x="500.0" y="477.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Repetir; prueba de CRH o de</text>
+<text x="500.0" y="493.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">desmopresina en centro experto</text>
+<rect x="700" y="424" width="260" height="82" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="830.0" y="445.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#c92a2a">ACTH &gt; 20 pg/mL</text>
+<text x="830.0" y="461.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">ACTH-DEPENDIENTE</text>
+<text x="830.0" y="477.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">RM de hipófisis con gadolinio</text>
+<text x="830.0" y="493.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">(un tercio de las RM son normales)</text>
+<line x1="830" y1="506" x2="830" y2="518" stroke="#495057" stroke-width="1.6"/>
+<line x1="625" y1="518" x2="855" y2="518" stroke="#495057" stroke-width="1.6"/>
+<line x1="625" y1="518" x2="625" y2="534" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="855" y1="518" x2="855" y2="534" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="520" y="534" width="210" height="82" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="625.0" y="555.1" text-anchor="middle" font-size="12" font-weight="700" fill="#e8590c">Adenoma ≥ 10 mm</text>
+<text x="625.0" y="571.3" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">+ pruebas concordantes</text>
+<text x="625.0" y="587.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">→ ENFERMEDAD DE CUSHING</text>
+<text x="625.0" y="603.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">(no requiere cateterismo)</text>
+<rect x="745" y="534" width="215" height="82" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="852.5" y="555.1" text-anchor="middle" font-size="12" font-weight="700" fill="#e8590c">Sin lesión o &lt; 6 mm</text>
+<text x="852.5" y="571.3" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">(6–9 mm: la mayoría)</text>
+<text x="852.5" y="587.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">→ CATETERISMO DE SENOS</text>
+<text x="852.5" y="603.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">PETROSOS INFERIORES</text>
+<line x1="852" y1="616" x2="852" y2="632" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="520" y="632" width="440" height="66" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="740.0" y="653.2" text-anchor="middle" font-size="12" font-weight="700" fill="#c92a2a">Sin gradiente central/periférico de ACTH → CUSHING ECTÓPICO</text>
+<text x="740.0" y="669.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">TC de cuello a pelvis; PET con 68Ga-DOTATATE</text>
+<text x="740.0" y="685.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">(carcinoide bronquial, cáncer pulmonar de células pequeñas, TNE)</text>
+<rect x="40" y="522" width="460" height="176" rx="8" fill="#e6fcf5" stroke="#0c8599" stroke-width="1.6"/>
+<text x="270.0" y="549.6" text-anchor="middle" font-size="12" font-weight="700" fill="#0c8599">Tratamiento: cirugía de la causa (primera línea)</text>
+<text x="52" y="565.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Enfermedad de Cushing: cirugía transesfenoidal (remisión ~ 80 %</text>
+<text x="62" y="582.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">en microadenomas y ~ 60 % en macroadenomas)</text>
+<text x="52" y="598.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Suprarrenal: adrenalectomía laparoscópica</text>
+<text x="52" y="614.4" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Ectópico: resección del tumor</text>
+<text x="52" y="630.6" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Si no se puede operar o persiste: ketoconazol, metirapona u</text>
+<text x="62" y="646.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">osilodrostat; radioterapia; adrenalectomía bilateral</text>
+<text x="52" y="663.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Después de la cirugía: hidrocortisona hasta que se recupere el eje</text>
+<text x="52" y="679.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Tratar la HTA, la diabetes, la osteoporosis y prevenir trombosis</text>
+</svg>

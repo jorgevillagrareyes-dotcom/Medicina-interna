@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 668" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="668" fill="#ffffff"/>
+<text x="500" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Enfrentamiento del incidentaloma suprarrenal (ESE/ENSAT 2023)</text>
+<rect x="170" y="44" width="660" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="65.2" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">Masa suprarrenal ≥ 1 cm hallada en una imagen pedida por otro motivo</text>
+<text x="500.0" y="81.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Dos preguntas en TODOS: ¿puede ser maligna? y ¿produce hormonas?</text>
+<text x="500.0" y="97.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Estudio prioritario si &lt; 40 años o embarazada (más riesgo de cáncer y de exceso hormonal)</text>
+<line x1="260" y1="126" x2="740" y2="126" stroke="#495057" stroke-width="1.6"/>
+<line x1="500" y1="110" x2="500" y2="126" stroke="#495057" stroke-width="1.6"/>
+<line x1="260" y1="126" x2="260" y2="140" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="740" y1="126" x2="740" y2="140" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="140" width="460" height="40" rx="8" fill="#e9ecef" stroke="#495057" stroke-width="1.6"/>
+<text x="260.0" y="164.4" text-anchor="middle" font-size="13" font-weight="700" fill="#212529">¿MALIGNA? → TC sin contraste (unidades Hounsfield, UH)</text>
+<rect x="30" y="190" width="460" height="50" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="260.0" y="211.3" text-anchor="middle" font-size="12.2" font-weight="700" fill="#2f9e44">Homogénea y ≤ 10 UH (rica en lípidos)</text>
+<text x="260.0" y="227.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">ADENOMA BENIGNO a cualquier tamaño: no más imágenes</text>
+<rect x="30" y="248" width="460" height="66" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="260.0" y="269.2" text-anchor="middle" font-size="12.2" font-weight="700" fill="#b35c00">Homogénea, 11–20 UH y &lt; 4 cm</text>
+<text x="260.0" y="285.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Imagen adicional ahora (RM con desplazamiento químico,</text>
+<text x="260.0" y="301.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">TC con lavado de contraste) o TC sin contraste en 12 meses</text>
+<rect x="30" y="322" width="460" height="66" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="260.0" y="343.2" text-anchor="middle" font-size="12" font-weight="700" fill="#e8590c">Indeterminada: ≥ 4 cm con 11–20 UH, o &lt; 4 cm con &gt; 20 UH o heterogénea</text>
+<text x="260.0" y="359.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Comité multidisciplinario; si no se opera, imagen a los 6–12 meses:</text>
+<text x="260.0" y="375.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">cirugía si crece &gt; 20 % (y ≥ 5 mm)</text>
+<rect x="30" y="396" width="460" height="66" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="260.0" y="417.2" text-anchor="middle" font-size="12.2" font-weight="700" fill="#c92a2a">≥ 4 cm Y heterogénea o &gt; 20 UH</text>
+<text x="260.0" y="433.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Riesgo relevante de malignidad (carcinoma, metástasis)</text>
+<text x="260.0" y="449.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Comité multidisciplinario: en general, cirugía</text>
+<rect x="30" y="470" width="460" height="66" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="260.0" y="491.2" text-anchor="middle" font-size="12" font-weight="700" fill="#495057">Cáncer extrasuprarrenal conocido</text>
+<text x="260.0" y="507.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">PET-CT con FDG si la lesión es indeterminada; biopsia solo si cambia</text>
+<text x="260.0" y="523.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">el manejo, la masa no es benigna y ya se descartó feocromocitoma</text>
+<rect x="510" y="140" width="460" height="40" rx="8" fill="#e9ecef" stroke="#495057" stroke-width="1.6"/>
+<text x="740.0" y="164.4" text-anchor="middle" font-size="13" font-weight="700" fill="#212529">¿PRODUCE HORMONAS? → clínica + laboratorio</text>
+<rect x="510" y="190" width="460" height="66" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="740.0" y="211.2" text-anchor="middle" font-size="12.2" font-weight="700" fill="#7048e8">Cortisol tras 1 mg de dexametasona (en todos)</text>
+<text x="740.0" y="227.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">≤ 1,8 µg/dL: descarta la autonomía</text>
+<text x="740.0" y="243.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">&gt; 1,8 µg/dL sin rasgos de Cushing = MACS (repetirla; medir ACTH)</text>
+<rect x="510" y="264" width="460" height="66" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="740.0" y="285.2" text-anchor="middle" font-size="12.2" font-weight="700" fill="#c92a2a">Metanefrinas plasmáticas libres o urinarias fraccionadas</text>
+<text x="740.0" y="301.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Si la masa no es un adenoma típico (&gt; 10 UH)</text>
+<text x="740.0" y="317.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">y siempre antes de una biopsia o una cirugía</text>
+<rect x="510" y="338" width="460" height="50" rx="8" fill="#e6fcf5" stroke="#0c8599" stroke-width="1.6"/>
+<text x="740.0" y="359.3" text-anchor="middle" font-size="12.2" font-weight="700" fill="#0c8599">Aldosterona/renina</text>
+<text x="740.0" y="375.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Si hay HTA o hipokalemia (hiperaldosteronismo primario)</text>
+<rect x="510" y="396" width="460" height="66" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="740.0" y="417.2" text-anchor="middle" font-size="12.2" font-weight="700" fill="#e8590c">Andrógenos y precursores (DHEA-S, testosterona, otros)</text>
+<text x="740.0" y="433.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Si hay virilización o la imagen sugiere carcinoma</text>
+<text x="740.0" y="449.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">17-OH-progesterona si es bilateral (hiperplasia congénita)</text>
+<rect x="510" y="470" width="460" height="66" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="740.0" y="491.2" text-anchor="middle" font-size="12.2" font-weight="700" fill="#495057">Bilateral, metástasis grandes o hemorragia</text>
+<text x="740.0" y="507.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Buscar insuficiencia suprarrenal (cortisol 8 h ± ACTH)</text>
+<text x="740.0" y="523.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">No hacer adrenalectomía bilateral sin Cushing clínico</text>
+<rect x="30" y="552" width="940" height="104" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500" y="572" text-anchor="middle" font-size="13.2" font-weight="700" fill="#495057">Conducta y seguimiento</text>
+<rect x="42" y="582" width="296" height="64" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="190.0" y="602.2" text-anchor="middle" font-size="11.8" font-weight="700" fill="#2f9e44">Benigno no funcionante</text>
+<text x="190.0" y="618.4" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Alta de especialidad: sin más imágenes</text>
+<text x="190.0" y="634.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">ni exámenes hormonales (salvo clínica nueva)</text>
+<rect x="352" y="582" width="296" height="64" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="500.0" y="602.2" text-anchor="middle" font-size="11.8" font-weight="700" fill="#7048e8">MACS</text>
+<text x="500.0" y="618.4" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Buscar y tratar HTA, DM2, dislipidemia y</text>
+<text x="500.0" y="634.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">fracturas vertebrales; cirugía individualizada</text>
+<rect x="662" y="582" width="296" height="64" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="810.0" y="602.2" text-anchor="middle" font-size="11.8" font-weight="700" fill="#c92a2a">Funcionante o sospecha de cáncer</text>
+<text x="810.0" y="618.4" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Adrenalectomía (laparoscópica si ≤ 6 cm sin</text>
+<text x="810.0" y="634.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">invasión; abierta si hay invasión local)</text>
+</svg>
