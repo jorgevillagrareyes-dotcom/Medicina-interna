@@ -260,6 +260,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/diabetes-tipo-1-y-otros-tipos.md
   - codigo: 1.02.1.005
     nombre: Diabetes mellitus tipo 2
     dx: Específico
@@ -272,6 +274,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/diabetes-tipo-1-y-otros-tipos.md
   - codigo: 1.02.1.007
     nombre: Dislipidemias
     dx: Específico

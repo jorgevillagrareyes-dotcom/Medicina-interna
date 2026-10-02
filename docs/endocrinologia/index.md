@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **42 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
+    **44 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -16,6 +16,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Cetoacidosis diabética y estado hiperglicémico hiperosmolar](cetoacidosis-y-estado-hiperosmolar.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones crónicas de la diabetes: nefropatía, retinopatía, neuropatía, enfermedad arterial periférica y pie diabético](complicaciones-cronicas-de-la-diabetes.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Desnutrición, malnutrición y síndromes carenciales de vitaminas y minerales](desnutricion-y-sindromes-carenciales.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 1, otros tipos de diabetes (LADA, MODY) y diabetes por corticoides](diabetes-tipo-1-y-otros-tipos.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 2](diabetes-mellitus-tipo-2.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Dislipidemias e hipertrigliceridemia grave](dislipidemia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipoglicemia](hipoglicemia.md)
@@ -35,9 +36,9 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.02.1.001 | Desnutrición | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Desnutrición, malnutrición y síndromes carenciales de vitaminas y minerales](desnutricion-y-sindromes-carenciales.md) |
 | 1.02.1.002 | Diabetes gestacional | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.02.1.003 | Diabetes mellitus pregestacional | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.02.1.004 | Diabetes Mellitus tipo 1 | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.004 | Diabetes Mellitus tipo 1 | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 1, otros tipos de diabetes (LADA, MODY) y diabetes por corticoides](diabetes-tipo-1-y-otros-tipos.md) |
 | 1.02.1.005 | Diabetes mellitus tipo 2 | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 2](diabetes-mellitus-tipo-2.md) |
-| 1.02.1.006 | Diabetes por corticoides | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.02.1.006 | Diabetes por corticoides | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 1, otros tipos de diabetes (LADA, MODY) y diabetes por corticoides](diabetes-tipo-1-y-otros-tipos.md) |
 | 1.02.1.007 | Dislipidemias | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Dislipidemias e hipertrigliceridemia grave](dislipidemia.md) |
 | 1.02.1.008 | Hipertensión arterial en diabetes tipo 2 | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
 | 1.02.1.009 | Insuficiencia renal y diabetes | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](../nefrologia/enfermedad-renal-cronica.md) |
