@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 464" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="1000" height="464" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">¿A quién estudiar por trombofilia? (ASH 2023)</text>
+<text x="500.0" y="50" text-anchor="middle" font-size="12.6" font-weight="400" fill="#495057">Estudiar solo si el resultado cambia la conducta: duración de la anticoagulación, profilaxis o uso de estrógenos</text>
+<rect x="30" y="64" width="460" height="270" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="260" y="88" text-anchor="middle" font-size="15" font-weight="700" fill="#2f9e44">SE SUGIERE ESTUDIAR</text>
+<text x="48" y="116" text-anchor="start" font-size="15" font-weight="700" fill="#2f9e44">✓</text>
+<text x="70" y="116" text-anchor="start" font-size="12.5" font-weight="700" fill="#1f2933">TEV provocado por un factor transitorio mayor</text>
+<text x="70" y="133" text-anchor="start" font-size="12.2" font-weight="400" fill="#1f2933">no quirúrgico (p. ej., inmovilización, trauma)</text>
+<text x="48" y="159" text-anchor="start" font-size="15" font-weight="700" fill="#2f9e44">✓</text>
+<text x="70" y="159" text-anchor="start" font-size="12.5" font-weight="700" fill="#1f2933">TEV asociado al embarazo, al posparto</text>
+<text x="70" y="176" text-anchor="start" font-size="12.2" font-weight="400" fill="#1f2933">o a los anticonceptivos combinados</text>
+<text x="48" y="202" text-anchor="start" font-size="15" font-weight="700" fill="#2f9e44">✓</text>
+<text x="70" y="202" text-anchor="start" font-size="12.5" font-weight="700" fill="#1f2933">Trombosis de senos venosos cerebrales o esplácnica</text>
+<text x="70" y="219" text-anchor="start" font-size="12.2" font-weight="400" fill="#1f2933">si de otro modo se suspendería el anticoagulante</text>
+<text x="48" y="245" text-anchor="start" font-size="15" font-weight="700" fill="#2f9e44">✓</text>
+<text x="70" y="245" text-anchor="start" font-size="12.5" font-weight="700" fill="#1f2933">Familiar con déficit de antitrombina, proteína C o S</text>
+<text x="70" y="262" text-anchor="start" font-size="12.2" font-weight="400" fill="#1f2933">antes de estrógenos o ante un riesgo menor</text>
+<text x="48" y="288" text-anchor="start" font-size="15" font-weight="700" fill="#2f9e44">✓</text>
+<text x="70" y="288" text-anchor="start" font-size="12.5" font-weight="700" fill="#1f2933">Embarazada o que planea embarazo con familiar</text>
+<text x="70" y="305" text-anchor="start" font-size="12.2" font-weight="400" fill="#1f2933">con trombofilia de alto riesgo</text>
+<rect x="510" y="64" width="460" height="270" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="740" y="88" text-anchor="middle" font-size="15" font-weight="700" fill="#c92a2a">NO SE SUGIERE ESTUDIAR</text>
+<text x="528" y="116" text-anchor="start" font-size="15" font-weight="700" fill="#c92a2a">✗</text>
+<text x="550" y="116" text-anchor="start" font-size="12.5" font-weight="700" fill="#1f2933">TEV no provocado</text>
+<text x="550" y="133" text-anchor="start" font-size="12.2" font-weight="400" fill="#1f2933">se anticoagula de forma indefinida igual</text>
+<text x="528" y="159" text-anchor="start" font-size="15" font-weight="700" fill="#c92a2a">✗</text>
+<text x="550" y="159" text-anchor="start" font-size="12.5" font-weight="700" fill="#1f2933">TEV provocado por una cirugía</text>
+<text x="550" y="176" text-anchor="start" font-size="12.2" font-weight="400" fill="#1f2933">riesgo de recurrencia bajo; el resultado no cambia nada</text>
+<text x="528" y="202" text-anchor="start" font-size="15" font-weight="700" fill="#c92a2a">✗</text>
+<text x="550" y="202" text-anchor="start" font-size="12.5" font-weight="700" fill="#1f2933">Antes de indicar anticonceptivos combinados</text>
+<text x="550" y="219" text-anchor="start" font-size="12.2" font-weight="400" fill="#1f2933">en la población general (recomendación fuerte)</text>
+<text x="528" y="245" text-anchor="start" font-size="15" font-weight="700" fill="#c92a2a">✗</text>
+<text x="550" y="245" text-anchor="start" font-size="12.5" font-weight="700" fill="#1f2933">Familiar con factor V Leiden o mutación de la</text>
+<text x="550" y="262" text-anchor="start" font-size="12.2" font-weight="400" fill="#1f2933">protrombina heterocigotos (antes de estrógenos o riesgo menor)</text>
+<text x="528" y="288" text-anchor="start" font-size="15" font-weight="700" fill="#c92a2a">✗</text>
+<text x="550" y="288" text-anchor="start" font-size="12.5" font-weight="700" fill="#1f2933">Familiar con TEV, pero sin trombofilia conocida</text>
+<text x="550" y="305" text-anchor="start" font-size="12.2" font-weight="400" fill="#1f2933">antes de estrógenos o ante un riesgo menor</text>
+<rect x="30" y="348" width="940" height="104" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="500" y="370" text-anchor="middle" font-size="14" font-weight="700" fill="#b35c00">Si se estudia: qué y cuándo</text>
+<text x="500" y="391" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Panel: factor V Leiden y mutación de la protrombina (genéticos: se pueden pedir en cualquier momento) · antitrombina, proteína C y proteína S (funcionales)</text>
+<text x="500" y="409" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Anticuerpos antifosfolípidos: anticoagulante lúpico, anticardiolipinas y anti-β2-glicoproteína I, repetidos a las 12 semanas</text>
+<text x="500" y="427" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Las pruebas funcionales se alteran en la trombosis aguda y con los anticoagulantes (heparina baja la antitrombina; el TACO baja las proteínas C y S;</text>
+<text x="500" y="444" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">los anticoagulantes orales directos alteran el anticoagulante lúpico): idealmente, medirlas después de suspender el tratamiento. No pedir MTHFR</text>
+</svg>
