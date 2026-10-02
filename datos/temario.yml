@@ -499,6 +499,8 @@ grupos:
     dx: Específico
     tto: Completo
     seg: Completo
+    resumen:
+    - endocrinologia/climaterio-y-menopausia.md
   - codigo: 1.03.1.012
     nombre: Hipogonadismo masculino
     dx: Sospecha

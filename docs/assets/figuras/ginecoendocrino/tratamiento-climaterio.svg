@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 474" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="474" fill="#ffffff"/>
+<text x="500" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Tratamiento del síndrome climatérico (MINSAL 2014; Menopause Society 2022 y 2023)</text>
+<rect x="150" y="44" width="700" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="65.2" text-anchor="middle" font-size="12" font-weight="700" fill="#1f5f99">1. Evaluar: escala MRS (Menopause Rating Scale), riesgo cardiovascular, mamas, hueso, ánimo</text>
+<text x="500.0" y="81.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Terapia hormonal (TH) muy necesaria: MRS total ≥ 15 · adecuada: total ≥ 8, somático ≥ 8,</text>
+<text x="500.0" y="97.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">psicológico ≥ 6 o urogenital ≥ 3 · Estilo de vida para todas (peso, ejercicio, tabaco, calcio y vitamina D)</text>
+<line x1="500" y1="110" x2="500" y2="126" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="150" y="126" width="700" height="66" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="500.0" y="147.2" text-anchor="middle" font-size="12" font-weight="700" fill="#c92a2a">2. ¿Contraindicaciones para estrógenos?</text>
+<text x="500.0" y="163.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Sangrado genital no estudiado · cáncer de mama (actual o previo) o de endometrio activo ·</text>
+<text x="500.0" y="179.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">tromboembolismo · hepatopatía aguda · enfermedad coronaria o ACV · (relativas: LES, porfiria)</text>
+<line x1="260" y1="208" x2="740" y2="208" stroke="#495057" stroke-width="1.6"/>
+<line x1="500" y1="192" x2="500" y2="208" stroke="#495057" stroke-width="1.6"/>
+<line x1="260" y1="208" x2="260" y2="222" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="740" y1="208" x2="740" y2="222" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<text x="305" y="220" text-anchor="middle" font-size="12" font-weight="700" fill="#2f9e44">NO</text>
+<text x="700" y="220" text-anchor="middle" font-size="12" font-weight="700" fill="#c92a2a">SÍ</text>
+<rect x="30" y="222" width="460" height="178" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="260.0" y="250.6" text-anchor="middle" font-size="12" font-weight="700" fill="#2f9e44">TERAPIA HORMONAL</text>
+<text x="42" y="266.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Mejor balance: &lt; 60 años o &lt; 10 años desde la menopausia</text>
+<text x="42" y="283.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Con útero: estrógeno + progestágeno (protege el endometrio)</text>
+<text x="42" y="299.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Sin útero: estrógeno solo</text>
+<text x="42" y="315.4" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Transdérmica si obesidad, HTA, DM o riesgo de trombosis</text>
+<text x="42" y="331.6" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Dosis baja eficaz; reevaluar cada año (MRS: mejoría ~ 30 %)</text>
+<text x="42" y="347.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Insuficiencia ovárica prematura: hasta los ~ 50 años</text>
+<text x="42" y="364.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Solo síntomas genitourinarios: estrógeno VAGINAL</text>
+<text x="52" y="380.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">en dosis baja (no necesita progestágeno)</text>
+<rect x="510" y="222" width="460" height="178" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="740.0" y="250.6" text-anchor="middle" font-size="12" font-weight="700" fill="#7048e8">ALTERNATIVAS NO HORMONALES (bochornos)</text>
+<text x="522" y="266.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• ISRS o IRSN: paroxetina 7,5 mg, escitalopram, venlafaxina</text>
+<text x="532" y="283.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">(evitar paroxetina y fluoxetina con tamoxifeno)</text>
+<text x="522" y="299.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Gabapentina (útil si predominan los bochornos nocturnos)</text>
+<text x="522" y="315.4" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Antagonistas de neuroquinina: fezolinetant, elinzanetant</text>
+<text x="522" y="331.6" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Oxibutinina · terapia cognitivo-conductual · hipnosis</text>
+<text x="522" y="347.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Baja de peso si hay obesidad</text>
+<text x="522" y="364.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• NO recomendados: fitoestrógenos, hierbas, soya,</text>
+<text x="532" y="380.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">clonidina, acupuntura</text>
+<rect x="30" y="414" width="940" height="50" rx="8" fill="#e6fcf5" stroke="#0c8599" stroke-width="1.6"/>
+<text x="500.0" y="435.3" text-anchor="middle" font-size="12" font-weight="700" fill="#0c8599">Síndrome genitourinario en cualquier mujer: lubricantes e hidratantes vaginales → estrógeno vaginal en dosis baja</text>
+<text x="500.0" y="451.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Se puede usar incluso con antecedente de cáncer de mama, decidiéndolo con oncología</text>
+</svg>
