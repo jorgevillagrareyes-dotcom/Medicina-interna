@@ -1732,11 +1732,15 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/leucemias-agudas-y-cronicas.md
   - codigo: 1.08.1.010
     nombre: Leucemias crónicas
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/leucemias-agudas-y-cronicas.md
   - codigo: 1.08.1.011
     nombre: Linfomas
     dx: Sospecha
@@ -1761,11 +1765,15 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/leucemias-agudas-y-cronicas.md
   - codigo: 1.08.1.015
     nombre: Síndrome leucoeritroblástico
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - hematologia/leucemias-agudas-y-cronicas.md
   - codigo: 1.08.1.016
     nombre: Síndrome paraneoplásico
     dx: Sospecha

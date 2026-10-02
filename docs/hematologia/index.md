@@ -8,12 +8,13 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **17 de 28** situaciones clínicas de esta subespecialidad tienen resumen.
+    **21 de 28** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Anemias: enfoque, ferropénica, de enfermedades crónicas, megaloblástica y hemolítica](anemias.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Coagulopatías, coagulación intravascular diseminada y reversión de anticoagulantes](coagulopatias-cid-y-reversion-de-anticoagulantes.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Leucemias agudas y crónicas, reacción leucemoide y síndrome leucoeritroblástico](leucemias-agudas-y-cronicas.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Trombocitopenia: enfoque, PTI, microangiopatías trombóticas (PTT y SHU) y trombocitopenia inducida por heparina](trombocitopenias.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](urgencias-oncologicas.md)
 
@@ -29,13 +30,13 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.08.1.006 | Coagulopatías congénitas (hemofilias, von Willebrand) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Coagulopatías, coagulación intravascular diseminada y reversión de anticoagulantes](coagulopatias-cid-y-reversion-de-anticoagulantes.md) |
 | 1.08.1.007 | Disproteinemias (gammapatías M) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.08.1.008 | Hipofunción medular | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.08.1.009 | Leucemias agudas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.08.1.010 | Leucemias crónicas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.08.1.009 | Leucemias agudas | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Leucemias agudas y crónicas, reacción leucemoide y síndrome leucoeritroblástico](leucemias-agudas-y-cronicas.md) |
+| 1.08.1.010 | Leucemias crónicas | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Leucemias agudas y crónicas, reacción leucemoide y síndrome leucoeritroblástico](leucemias-agudas-y-cronicas.md) |
 | 1.08.1.011 | Linfomas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.08.1.012 | Púrpuras trombopénicos | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trombocitopenia: enfoque, PTI, microangiopatías trombóticas (PTT y SHU) y trombocitopenia inducida por heparina](trombocitopenias.md) |
 | 1.08.1.013 | Púrpuras vasculares | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Coagulopatías, coagulación intravascular diseminada y reversión de anticoagulantes](coagulopatias-cid-y-reversion-de-anticoagulantes.md) |
-| 1.08.1.014 | Reacción leucemoide | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.08.1.015 | Síndrome leucoeritroblástico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.08.1.014 | Reacción leucemoide | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Leucemias agudas y crónicas, reacción leucemoide y síndrome leucoeritroblástico](leucemias-agudas-y-cronicas.md) |
+| 1.08.1.015 | Síndrome leucoeritroblástico | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Leucemias agudas y crónicas, reacción leucemoide y síndrome leucoeritroblástico](leucemias-agudas-y-cronicas.md) |
 | 1.08.1.016 | Síndrome paraneoplásico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.08.1.017 | Síndromes mielodisplásicos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.08.1.018 | Síndromes mieloproliferativos crónicos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

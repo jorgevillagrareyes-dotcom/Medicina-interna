@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="500" fill="#ffffff"/>
+<text x="500.0" y="28" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Leucocitosis: ¿leucemia, reacción leucemoide o infiltración de la médula?</text>
+<rect x="30" y="44" width="940" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="65.1" text-anchor="middle" font-size="12.4" font-weight="700" fill="#1f5f99">Leucocitosis (&gt; 11 000/µL): repetir el hemograma con FROTIS revisado</text>
+<text x="500.0" y="81.5" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">¿Qué célula aumenta? ¿Hay anemia o trombocitopenia? ¿Hay blastos, eritroblastos o basofilia?</text>
+<text x="500.0" y="97.9" text-anchor="middle" font-size="12.4" font-weight="400" fill="#1f2933">Examen: fiebre, foco infeccioso, adenopatías, esplenomegalia, hepatomegalia, sangrado, baja de peso, sudoración nocturna</text>
+<line x1="122" y1="128" x2="878" y2="128" stroke="#495057" stroke-width="1.6"/>
+<line x1="500" y1="110" x2="500" y2="128" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="122.0" y1="128" x2="122.0" y2="146" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="32" y="146" width="180" height="66" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="122.0" y="168" text-anchor="middle" font-size="13.6" font-weight="700" fill="#c92a2a">Blastos</text>
+<text x="122.0" y="186.0" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">en el frotis, con</text>
+<text x="122.0" y="201.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">anemia y trombocitopenia</text>
+<line x1="122.0" y1="212" x2="122.0" y2="230" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="32" y="230" width="180" height="176" rx="8" fill="#ffffff" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="122.0" y="252.0" text-anchor="middle" font-size="12.8" font-weight="700" fill="#c92a2a">LEUCEMIA AGUDA</text>
+<text x="122.0" y="272.4" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Urgencia: hospitalizar</text>
+<text x="122.0" y="288.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">y derivar (GES 45)</text>
+<text x="122.0" y="304.8" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Mielograma, citometría</text>
+<text x="122.0" y="321.0" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">de flujo, citogenética</text>
+<text x="122.0" y="337.2" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">y estudio molecular</text>
+<text x="122.0" y="353.4" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Coagulación: si hay CID,</text>
+<text x="122.0" y="369.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">pensar en promielocítica</text>
+<text x="122.0" y="385.8" text-anchor="middle" font-size="11.8" font-weight="700" fill="#1f2933">→ ATRA de inmediato</text>
+<line x1="312.0" y1="128" x2="312.0" y2="146" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="222" y="146" width="180" height="66" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="312.0" y="168" text-anchor="middle" font-size="13.6" font-weight="700" fill="#7048e8">Linfocitosis madura</text>
+<text x="312.0" y="186.0" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">linfocitos pequeños,</text>
+<text x="312.0" y="201.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">sombras de Gumprecht</text>
+<line x1="312.0" y1="212" x2="312.0" y2="230" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="222" y="230" width="180" height="176" rx="8" fill="#ffffff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="312.0" y="252.0" text-anchor="middle" font-size="12.8" font-weight="700" fill="#7048e8">LEUCEMIA LINFÁTICA</text>
+<text x="312.0" y="268.4" text-anchor="middle" font-size="12.8" font-weight="700" fill="#7048e8">CRÓNICA (LLC)</text>
+<text x="312.0" y="288.8" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Linfocitos B clonales</text>
+<text x="312.0" y="305.0" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">≥ 5000/µL por 3 meses</text>
+<text x="312.0" y="321.2" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Citometría de flujo:</text>
+<text x="312.0" y="337.4" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">CD5+ CD19+ CD23+</text>
+<text x="312.0" y="353.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Descartar linfocitosis</text>
+<text x="312.0" y="369.8" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">reactiva (virus, tos</text>
+<text x="312.0" y="386.0" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">convulsiva, estrés)</text>
+<line x1="502.0" y1="128" x2="502.0" y2="146" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="412" y="146" width="180" height="66" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="502.0" y="168" text-anchor="middle" font-size="13.6" font-weight="700" fill="#e8590c">Neutrofilia + basofilia</text>
+<text x="502.0" y="186.0" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">desviación izquierda</text>
+<text x="502.0" y="201.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">completa, esplenomegalia</text>
+<line x1="502.0" y1="212" x2="502.0" y2="230" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="412" y="230" width="180" height="176" rx="8" fill="#ffffff" stroke="#e8590c" stroke-width="1.6"/>
+<text x="502.0" y="252.0" text-anchor="middle" font-size="12.8" font-weight="700" fill="#e8590c">LEUCEMIA MIELOIDE</text>
+<text x="502.0" y="268.4" text-anchor="middle" font-size="12.8" font-weight="700" fill="#e8590c">CRÓNICA (LMC)</text>
+<text x="502.0" y="288.8" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Mielocitos y metamielocitos</text>
+<text x="502.0" y="305.0" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">en el frotis; plaquetas</text>
+<text x="502.0" y="321.2" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">a menudo altas</text>
+<text x="502.0" y="337.4" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Confirmar con BCR::ABL1</text>
+<text x="502.0" y="353.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">(PCR cuantitativa) o</text>
+<text x="502.0" y="369.8" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">cromosoma Filadelfia</text>
+<text x="502.0" y="386.0" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">(cariograma o FISH)</text>
+<line x1="692.0" y1="128" x2="692.0" y2="146" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="602" y="146" width="180" height="66" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="692.0" y="168" text-anchor="middle" font-size="13.6" font-weight="700" fill="#2f9e44">Neutrofilia &gt; 50 000</text>
+<text x="692.0" y="186.0" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">con una causa clara,</text>
+<text x="692.0" y="201.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">sin basofilia ni blastos</text>
+<line x1="692.0" y1="212" x2="692.0" y2="230" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="602" y="230" width="180" height="176" rx="8" fill="#ffffff" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="692.0" y="252.0" text-anchor="middle" font-size="12.8" font-weight="700" fill="#2f9e44">REACCIÓN LEUCEMOIDE</text>
+<text x="692.0" y="272.4" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Infección grave, C. difficile,</text>
+<text x="692.0" y="288.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">hemorragia o hemólisis</text>
+<text x="692.0" y="304.8" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">aguda, corticoides,</text>
+<text x="692.0" y="321.0" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">G-CSF, tumores sólidos</text>
+<text x="692.0" y="337.2" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">(pulmón, riñón)</text>
+<text x="692.0" y="353.4" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Granulaciones tóxicas,</text>
+<text x="692.0" y="369.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">cuerpos de Döhle</text>
+<text x="692.0" y="385.8" text-anchor="middle" font-size="11.8" font-weight="700" fill="#1f2933">→ tratar la causa</text>
+<line x1="882.0" y1="128" x2="882.0" y2="146" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="792" y="146" width="180" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="882.0" y="168" text-anchor="middle" font-size="13.6" font-weight="700" fill="#1f5f99">Leucoeritroblastosis</text>
+<text x="882.0" y="186.0" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">mielocitos + eritroblastos</text>
+<text x="882.0" y="201.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">+ dacriocitos (lágrima)</text>
+<line x1="882.0" y1="212" x2="882.0" y2="230" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="792" y="230" width="180" height="176" rx="8" fill="#ffffff" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="882.0" y="252.0" text-anchor="middle" font-size="12.8" font-weight="700" fill="#1f5f99">INFILTRACIÓN O</text>
+<text x="882.0" y="268.4" text-anchor="middle" font-size="12.8" font-weight="700" fill="#1f5f99">FIBROSIS DE LA MÉDULA</text>
+<text x="882.0" y="288.8" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Metástasis (mama,</text>
+<text x="882.0" y="305.0" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">próstata, pulmón),</text>
+<text x="882.0" y="321.2" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">mielofibrosis, linfoma,</text>
+<text x="882.0" y="337.4" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">mieloma, tuberculosis</text>
+<text x="882.0" y="353.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">También en la sepsis</text>
+<text x="882.0" y="369.8" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">o la hemorragia graves</text>
+<text x="882.0" y="386.0" text-anchor="middle" font-size="11.8" font-weight="700" fill="#1f2933">→ biopsia de médula</text>
+<rect x="30" y="422" width="940" height="66" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="500.0" y="443.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#c92a2a">Derivación urgente al hematólogo</text>
+<text x="500.0" y="459.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Blastos en sangre · leucocitos &gt; 100 000/µL con disnea o compromiso neurológico (leucostasis) · CID o sangrado</text>
+<text x="500.0" y="475.9" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Fiebre con neutrófilos &lt; 500/µL · lisis tumoral (potasio, fósforo, ácido úrico y creatinina altos) · pancitopenia sin causa clara</text>
+</svg>
