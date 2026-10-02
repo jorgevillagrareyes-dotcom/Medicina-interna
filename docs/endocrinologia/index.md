@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **51 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
+    **53 de 54** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -21,6 +21,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes y embarazo: diabetes gestacional y diabetes pregestacional](diabetes-y-embarazo.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Dislipidemias e hipertrigliceridemia grave](dislipidemia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipoglicemia](hipoglicemia.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Hipogonadismo masculino y ginecomastia](hipogonadismo-masculino-y-ginecomastia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipotiroidismo, hipertiroidismo y tiroiditis](hipotiroidismo-e-hipertiroidismo.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hirsutismo, amenorrea y síndrome de ovario poliquístico](hirsutismo-amenorrea-y-ovario-poliquistico.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia suprarrenal y crisis suprarrenal](insuficiencia-suprarrenal.md)
@@ -86,7 +87,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.03.1.009 | Hipertensión arterial de origen endocrino | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](../cardiologia/hipertension-arterial.md) |
 | 1.03.1.010 | Amenorrea | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hirsutismo, amenorrea y síndrome de ovario poliquístico](hirsutismo-amenorrea-y-ovario-poliquistico.md) |
 | 1.03.1.011 | Síndrome climatérico | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome climatérico y menopausia](climaterio-y-menopausia.md) |
-| 1.03.1.012 | Hipogonadismo masculino | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.012 | Hipogonadismo masculino | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hipogonadismo masculino y ginecomastia](hipogonadismo-masculino-y-ginecomastia.md) |
 | 1.03.1.013 | Tumores hipofisiarios | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tumores hipofisiarios y de la región selar, hipopituitarismo e hiperprolactinemia](hipofisis-tumores-hipopituitarismo-e-hiperprolactinemia.md) |
 | 1.03.1.014 | Hipopituitarismo | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tumores hipofisiarios y de la región selar, hipopituitarismo e hiperprolactinemia](hipofisis-tumores-hipopituitarismo-e-hiperprolactinemia.md) |
 | 1.03.1.015 | Diabetes insípida | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hiponatremia e hipernatremia](../nefrologia/trastornos-del-sodio.md) |
@@ -97,7 +98,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.03.1.020 | Hipercalcemias e hipocalcemias | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos del calcio, fósforo y magnesio: hipocalcemia, tetania e hipercalcemia](trastornos-del-calcio-fosforo-y-magnesio.md) |
 | 1.03.1.021 | Nódulo tiroideo | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Bocio, nódulo tiroideo y cáncer de tiroides](bocio-nodulo-y-cancer-de-tiroides.md) |
 | 1.03.1.022 | Incidentaloma suprarrenal | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome de Cushing e incidentaloma suprarrenal](sindrome-de-cushing-e-incidentaloma-suprarrenal.md) |
-| 1.03.1.023 | Ginecomastia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.03.1.023 | Ginecomastia | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hipogonadismo masculino y ginecomastia](hipogonadismo-masculino-y-ginecomastia.md) |
 
 ### Situaciones clínicas de urgencia
 

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 584" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="584" fill="#ffffff"/>
+<text x="500" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Enfoque de la ginecomastia en el adulto (EAA 2019)</text>
+<rect x="140" y="44" width="720" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="65.2" text-anchor="middle" font-size="12" font-weight="700" fill="#1f5f99">1. ¿Es ginecomastia? Examen de la mama</text>
+<text x="500.0" y="81.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Ginecomastia: disco de tejido glandular firme, centrado bajo la areola, a menudo bilateral y sensible</text>
+<text x="500.0" y="97.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Pseudoginecomastia (lipomastia): solo grasa, sin disco glandular; obesidad</text>
+<line x1="500" y1="110" x2="500" y2="126" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="140" y="126" width="720" height="66" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="500.0" y="147.2" text-anchor="middle" font-size="12" font-weight="700" fill="#c92a2a">¿SOSPECHA DE CÁNCER DE MAMA?</text>
+<text x="500.0" y="163.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Masa dura, excéntrica o fija, unilateral, retracción del pezón, secreción con sangre, cambios de la piel,</text>
+<text x="500.0" y="179.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">adenopatías axilares → mamografía o ecografía y BIOPSIA con aguja gruesa (no esperar)</text>
+<line x1="500" y1="192" x2="500" y2="208" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="140" y="208" width="720" height="82" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="500.0" y="229.1" text-anchor="middle" font-size="12" font-weight="700" fill="#7048e8">2. Anamnesis y examen dirigidos</text>
+<text x="500.0" y="245.3" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Edad de inicio y evolución (puberal persistente), dolor · FÁRMACOS y sustancias (anabólicos, espironolactona,</text>
+<text x="500.0" y="261.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">finasterida, antiandrógenos, antirretrovirales, ketoconazol, marihuana, alcohol) · signos de hipogonadismo,</text>
+<text x="500.0" y="277.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">hepatopatía, nefropatía o hipertiroidismo · EXAMEN TESTICULAR + ECOGRAFÍA TESTICULAR (tumores)</text>
+<line x1="500" y1="290" x2="500" y2="306" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="140" y="306" width="720" height="50" rx="8" fill="#e9ecef" stroke="#495057" stroke-width="1.6"/>
+<text x="500.0" y="327.3" text-anchor="middle" font-size="12" font-weight="700" fill="#212529">3. Laboratorio: testosterona, estradiol, SHBG, LH, FSH, TSH, prolactina, β-hCG, alfafetoproteína,</text>
+<text x="500.0" y="343.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">pruebas hepáticas y función renal</text>
+<line x1="170" y1="372" x2="830" y2="372" stroke="#495057" stroke-width="1.6"/>
+<line x1="500" y1="356" x2="500" y2="372" stroke="#495057" stroke-width="1.6"/>
+<line x1="170" y1="372" x2="170" y2="386" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="500" y1="372" x2="500" y2="386" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="830" y1="372" x2="830" y2="386" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="386" width="280" height="108" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="170.0" y="412.0" text-anchor="middle" font-size="12" font-weight="700" fill="#c92a2a">β-hCG o estradiol muy altos</text>
+<text x="170.0" y="428.2" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Tumor testicular (Leydig o</text>
+<text x="170.0" y="444.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">germinal) o productor de hCG</text>
+<text x="170.0" y="460.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">(pulmón, hígado) → urología</text>
+<text x="170.0" y="476.8" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">u oncología</text>
+<rect x="360" y="386" width="280" height="108" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="500.0" y="412.0" text-anchor="middle" font-size="12" font-weight="700" fill="#e8590c">Testosterona baja</text>
+<text x="500.0" y="428.2" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Hipogonadismo primario</text>
+<text x="500.0" y="444.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">(LH alta) o secundario</text>
+<text x="500.0" y="460.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">(LH baja) → estudiar y tratar</text>
+<text x="500.0" y="476.8" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">la causa</text>
+<rect x="690" y="386" width="280" height="108" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="830.0" y="412.0" text-anchor="middle" font-size="12" font-weight="700" fill="#2f9e44">Todo normal</text>
+<text x="830.0" y="428.2" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Idiopática (la más frecuente)</text>
+<text x="830.0" y="444.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">o puberal persistente;</text>
+<text x="830.0" y="460.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">fármacos: suspender si se</text>
+<text x="830.0" y="476.8" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">puede y observar</text>
+<rect x="30" y="508" width="940" height="66" rx="8" fill="#e6fcf5" stroke="#0c8599" stroke-width="1.6"/>
+<text x="500.0" y="529.2" text-anchor="middle" font-size="12" font-weight="700" fill="#0c8599">4. Tratamiento</text>
+<text x="500.0" y="545.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Tratar la causa o suspender el fármaco → observar (la puberal regresa en &gt; 90 % en 2 años) · testosterona solo si hay déficit probado ·</text>
+<text x="500.0" y="561.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">no usar de rutina tamoxifeno ni inhibidores de la aromatasa · cirugía si es de larga evolución y no regresa</text>
+</svg>

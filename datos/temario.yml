@@ -506,6 +506,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Completo
+    resumen:
+    - endocrinologia/hipogonadismo-masculino-y-ginecomastia.md
   - codigo: 1.03.1.013
     nombre: Tumores hipofisiarios
     dx: Sospecha
@@ -581,6 +583,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - endocrinologia/hipogonadismo-masculino-y-ginecomastia.md
   urgencias:
   - codigo: 1.03.2.001
     nombre: Tormenta tiroidea
