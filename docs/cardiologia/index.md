@@ -8,12 +8,13 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **30 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
+    **31 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Angina crónica estable (síndrome coronario crónico)](angina-cronica-estable.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Crisis hipertensiva](crisis-hipertensiva.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Extrasistolía ventricular y supraventricular](extrasistolia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fibrilación y flutter auricular](fibrilacion-auricular.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipertensión arterial](hipertension-arterial.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia cardíaca](insuficiencia-cardiaca.md)
@@ -37,7 +38,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.01.1.008 | Enfermedad reumática activa | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Valvulopatías, paciente con soplo y fiebre reumática](valvulopatias-y-soplos.md) |
 | 1.01.1.009 | Estenosis aórtica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Valvulopatías, paciente con soplo y fiebre reumática](valvulopatias-y-soplos.md) |
 | 1.01.1.010 | Estenosis mitral | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Valvulopatías, paciente con soplo y fiebre reumática](valvulopatias-y-soplos.md) |
-| 1.01.1.011 | Extrasistolía ventricular benigna | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.011 | Extrasistolía ventricular benigna | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Extrasistolía ventricular y supraventricular](extrasistolia.md) |
 | 1.01.1.012 | Fibrilación auricular crónica | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Fibrilación y flutter auricular](fibrilacion-auricular.md) |
 | 1.01.1.013 | Fibrilación auricular paroxística | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Fibrilación y flutter auricular](fibrilacion-auricular.md) |
 | 1.01.1.014 | Flutter auricular | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Fibrilación y flutter auricular](fibrilacion-auricular.md) |

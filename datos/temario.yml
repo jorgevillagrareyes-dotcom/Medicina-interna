@@ -81,6 +81,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Completo
+    resumen:
+    - cardiologia/extrasistolia.md
   - codigo: 1.01.1.012
     nombre: Fibrilación auricular crónica
     dx: Específico
