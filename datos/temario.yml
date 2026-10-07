@@ -1134,6 +1134,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/sindromes-mediastinicos.md
   - codigo: 1.05.1.035
     nombre: Tos crónica
     dx: Específico
