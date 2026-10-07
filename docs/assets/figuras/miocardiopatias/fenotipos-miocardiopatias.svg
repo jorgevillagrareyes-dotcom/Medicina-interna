@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 530" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="530" fill="#ffffff"/>
+<text x="500" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Miocardiopatías: fenotipos (ESC 2023), causas y claves de manejo</text>
+<rect x="30" y="46" width="300" height="196" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="180.0" y="75.5" text-anchor="middle" font-size="11.8" font-weight="700" fill="#e8590c">HIPERTRÓFICA</text>
+<text x="42" y="91.7" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Pared del VI ≥ 15 mm (≥ 13 mm en</text>
+<text x="52" y="107.9" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">familiares) sin sobrecarga que la explique</text>
+<text x="42" y="124.1" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Genes del sarcómero (MYH7, MYBPC3)</text>
+<text x="42" y="140.3" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Obstrucción del tracto de salida (SAM)</text>
+<text x="42" y="156.5" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Soplo que AUMENTA con el Valsalva</text>
+<text x="42" y="172.7" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Muerte súbita en jóvenes y deportistas</text>
+<text x="42" y="188.9" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ Betabloqueador; inhibidor de miosina</text>
+<text x="42" y="205.1" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ Evitar deshidratación y vasodilatadores</text>
+<text x="42" y="221.3" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ DAI según el riesgo; FA: anticoagular</text>
+<rect x="350" y="46" width="300" height="196" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="75.5" text-anchor="middle" font-size="11.8" font-weight="700" fill="#1f5f99">DILATADA</text>
+<text x="362" y="91.7" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• VI dilatado con FEVI baja, sin</text>
+<text x="372" y="107.9" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">enfermedad coronaria ni sobrecarga</text>
+<text x="362" y="124.1" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Genética (titina, LMNA), alcohol,</text>
+<text x="372" y="140.3" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">antraciclinas, miocarditis previa,</text>
+<text x="372" y="156.5" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">Chagas, taquicardiomiopatía, periparto</text>
+<text x="362" y="172.7" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Insuficiencia cardíaca, arritmias,</text>
+<text x="372" y="188.9" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">embolias</text>
+<text x="362" y="205.1" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ Tratamiento de la IC con FE reducida</text>
+<text x="362" y="221.3" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ DAI/resincronización según el riesgo</text>
+<rect x="670" y="46" width="300" height="196" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="820.0" y="91.7" text-anchor="middle" font-size="11.8" font-weight="700" fill="#7048e8">VI NO DILATADO (nueva, 2023)</text>
+<text x="682" y="107.9" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Cicatriz no isquémica (realce tardío)</text>
+<text x="692" y="124.1" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">o hipocinesia global, SIN dilatación</text>
+<text x="682" y="140.3" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Genes LMNA, desmosomales, FLNC</text>
+<text x="682" y="156.5" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Puede debutar con arritmias</text>
+<text x="692" y="172.7" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">ventriculares o muerte súbita</text>
+<text x="682" y="188.9" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ RM cardíaca y estudio genético</text>
+<text x="682" y="205.1" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ Evaluar el riesgo arrítmico (DAI)</text>
+<rect x="30" y="256" width="300" height="196" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="180.0" y="293.6" text-anchor="middle" font-size="11.8" font-weight="700" fill="#c92a2a">ARRITMOGÉNICA DEL VD</text>
+<text x="42" y="309.8" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• VD dilatado y disfuncionante,</text>
+<text x="52" y="326.0" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">reemplazo fibroadiposo</text>
+<text x="42" y="342.2" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Genes desmosomales (PKP2)</text>
+<text x="42" y="358.4" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Ondas T negativas V1–V3, onda épsilon</text>
+<text x="42" y="374.6" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• TV con morfología de BRI, síncope,</text>
+<text x="52" y="390.8" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">muerte súbita al ejercicio</text>
+<text x="42" y="407.0" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ Suspender el deporte competitivo</text>
+<text x="42" y="423.2" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ Betabloqueador; DAI según el riesgo</text>
+<rect x="350" y="256" width="300" height="196" rx="8" fill="#e6fcf5" stroke="#0c8599" stroke-width="1.6"/>
+<text x="500.0" y="293.6" text-anchor="middle" font-size="11.8" font-weight="700" fill="#0c8599">RESTRICTIVA / INFILTRATIVA</text>
+<text x="362" y="309.8" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Ventrículos rígidos, aurículas grandes,</text>
+<text x="372" y="326.0" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">llenado restrictivo; FEVI conservada</text>
+<text x="362" y="342.2" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• AMILOIDOSIS (TTR y AL), sarcoidosis,</text>
+<text x="372" y="358.4" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">hemocromatosis, Fabry, radiación</text>
+<text x="362" y="374.6" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Bajo voltaje en el ECG con pared gruesa,</text>
+<text x="372" y="390.8" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">túnel carpiano bilateral, neuropatía</text>
+<text x="362" y="407.0" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ Cintigrafía ósea + cadenas livianas</text>
+<text x="362" y="423.2" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ ATTR: tafamidis, acoramidis, vutrisirán</text>
+<rect x="670" y="256" width="300" height="196" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="820.0" y="293.6" text-anchor="middle" font-size="11.8" font-weight="700" fill="#495057">ADQUIRIDAS ESPECÍFICAS</text>
+<text x="682" y="309.8" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Takotsubo: mujer posmenopáusica,</text>
+<text x="692" y="326.0" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">estrés, abalonamiento apical,</text>
+<text x="692" y="342.2" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">coronarias sin obstrucción; reversible</text>
+<text x="682" y="358.4" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Periparto: último mes del embarazo a</text>
+<text x="692" y="374.6" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">5 meses posparto, FEVI &lt; 45 %</text>
+<text x="682" y="390.8" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Chagas: BCRD + HBAI, aneurisma apical</text>
+<text x="682" y="407.0" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Alcohol, antraciclinas, cocaína</text>
+<text x="682" y="423.2" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Taquicardiomiopatía (FA rápida)</text>
+<rect x="30" y="466" width="940" height="50" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="500.0" y="487.3" text-anchor="middle" font-size="12" font-weight="700" fill="#2f9e44">Para todas: ECG, ecocardiograma, RM cardíaca con realce tardío, descartar enfermedad coronaria e hipertensión</text>
+<text x="500.0" y="503.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Historia familiar de 3 generaciones, estudio genético y TAMIZAJE de familiares de primer grado en las formas hereditarias</text>
+</svg>

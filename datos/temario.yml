@@ -144,6 +144,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/miocardiopatias.md
   - codigo: 1.01.1.021
     nombre: Paciente con soplo
     dx: Específico
