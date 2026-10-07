@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 496" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="496" fill="#ffffff"/>
+<text x="500" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Nódulo pulmonar incidental en adultos ≥ 35 años: seguimiento según Fleischner 2017</text>
+<text x="500" y="50" text-anchor="middle" font-size="12.4" font-weight="400" fill="#495057">No aplica a: tamizaje de cáncer (usar Lung-RADS), cáncer conocido, inmunosuprimidos ni menores de 35 años</text>
+<rect x="30" y="64" width="200" height="34" rx="6" fill="#343a40"/>
+<text x="130.0" y="86" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Tipo de nódulo</text>
+<rect x="236" y="64" width="240" height="34" rx="6" fill="#343a40"/>
+<text x="356.0" y="86" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">&lt; 6 mm (&lt; 100 mm³)</text>
+<rect x="482" y="64" width="240" height="34" rx="6" fill="#343a40"/>
+<text x="602.0" y="86" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">6–8 mm (100–250 mm³)</text>
+<rect x="728" y="64" width="242" height="34" rx="6" fill="#343a40"/>
+<text x="849.0" y="86" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">&gt; 8 mm (&gt; 250 mm³)</text>
+<rect x="30" y="104" width="200" height="56" rx="6" fill="#fff4e6" stroke="#e8590c" stroke-width="1.4"/>
+<text x="130" y="128" text-anchor="middle" font-size="12.6" font-weight="700" fill="#e8590c">SÓLIDO único</text>
+<text x="130" y="146" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">bajo riesgo</text>
+<rect x="236" y="104" width="240" height="56" rx="6" fill="#f8f9fa" stroke="#ced4da" stroke-width="1"/>
+<text x="356.0" y="137" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Sin seguimiento</text>
+<rect x="482" y="104" width="240" height="56" rx="6" fill="#f8f9fa" stroke="#ced4da" stroke-width="1"/>
+<text x="602.0" y="128" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">TC a los 6–12 meses;</text>
+<text x="602.0" y="145" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">luego considerar TC a los 18–24</text>
+<rect x="728" y="104" width="242" height="56" rx="6" fill="#f8f9fa" stroke="#ced4da" stroke-width="1"/>
+<text x="849.0" y="128" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">TC a los 3 meses, PET-CT</text>
+<text x="849.0" y="145" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">o biopsia</text>
+<rect x="30" y="166" width="200" height="56" rx="6" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.4"/>
+<text x="130" y="190" text-anchor="middle" font-size="12.6" font-weight="700" fill="#c92a2a">SÓLIDO único</text>
+<text x="130" y="208" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">alto riesgo*</text>
+<rect x="236" y="166" width="240" height="56" rx="6" fill="#f8f9fa" stroke="#ced4da" stroke-width="1"/>
+<text x="356.0" y="199" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">TC opcional a los 12 meses</text>
+<rect x="482" y="166" width="240" height="56" rx="6" fill="#f8f9fa" stroke="#ced4da" stroke-width="1"/>
+<text x="602.0" y="190" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">TC a los 6–12 meses</text>
+<text x="602.0" y="207" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">y a los 18–24 meses</text>
+<rect x="728" y="166" width="242" height="56" rx="6" fill="#f8f9fa" stroke="#ced4da" stroke-width="1"/>
+<text x="849.0" y="190" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">TC a los 3 meses, PET-CT</text>
+<text x="849.0" y="207" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">o biopsia</text>
+<rect x="30" y="228" width="200" height="56" rx="6" fill="#fff9db" stroke="#e8a10c" stroke-width="1.4"/>
+<text x="130" y="252" text-anchor="middle" font-size="12.6" font-weight="700" fill="#e8a10c">SÓLIDOS múltiples</text>
+<text x="130" y="270" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">bajo / alto riesgo</text>
+<rect x="236" y="228" width="240" height="56" rx="6" fill="#f8f9fa" stroke="#ced4da" stroke-width="1"/>
+<text x="356.0" y="252" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">Sin seguimiento / TC</text>
+<text x="356.0" y="269" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">opcional a los 12 meses</text>
+<rect x="482" y="228" width="240" height="56" rx="6" fill="#f8f9fa" stroke="#ced4da" stroke-width="1"/>
+<text x="602.0" y="252" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">TC a los 3–6 meses;</text>
+<text x="602.0" y="269" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">luego a los 18–24 meses</text>
+<rect x="728" y="228" width="242" height="56" rx="6" fill="#f8f9fa" stroke="#ced4da" stroke-width="1"/>
+<text x="849.0" y="252" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">TC a los 3–6 meses;</text>
+<text x="849.0" y="269" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">luego a los 18–24 meses</text>
+<rect x="30" y="290" width="200" height="56" rx="6" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.4"/>
+<text x="130" y="314" text-anchor="middle" font-size="12.6" font-weight="700" fill="#1f5f99">VIDRIO ESMERILADO</text>
+<text x="130" y="332" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">puro, único</text>
+<rect x="236" y="290" width="240" height="56" rx="6" fill="#f8f9fa" stroke="#ced4da" stroke-width="1"/>
+<text x="356.0" y="323" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Sin seguimiento</text>
+<rect x="482" y="290" width="240" height="56" rx="6" fill="#f8f9fa" stroke="#ced4da" stroke-width="1"/>
+<text x="602.0" y="314" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">TC a los 6–12 meses; luego cada 2 años</text>
+<text x="602.0" y="331" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">hasta los 5 años (≥ 6 mm)</text>
+<rect x="728" y="290" width="242" height="56" rx="6" fill="#f8f9fa" stroke="#ced4da" stroke-width="1"/>
+<text x="849.0" y="323" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Igual que 6–8 mm</text>
+<rect x="30" y="352" width="200" height="56" rx="6" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.4"/>
+<text x="130" y="376" text-anchor="middle" font-size="12.6" font-weight="700" fill="#7048e8">PARTE SÓLIDO</text>
+<text x="130" y="394" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">único</text>
+<rect x="236" y="352" width="240" height="56" rx="6" fill="#f8f9fa" stroke="#ced4da" stroke-width="1"/>
+<text x="356.0" y="385" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Sin seguimiento</text>
+<rect x="482" y="352" width="240" height="56" rx="6" fill="#f8f9fa" stroke="#ced4da" stroke-width="1"/>
+<text x="602.0" y="376" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">TC a los 3–6 meses; si persiste con</text>
+<text x="602.0" y="393" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">sólido &lt; 6 mm: TC anual por 5 años</text>
+<rect x="728" y="352" width="242" height="56" rx="6" fill="#f8f9fa" stroke="#ced4da" stroke-width="1"/>
+<text x="849.0" y="376" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">Igual; si el sólido es ≥ 6 mm: muy</text>
+<text x="849.0" y="393" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">sospechoso → PET-CT, biopsia, cirugía</text>
+<rect x="30" y="420" width="940" height="66" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500.0" y="441.2" text-anchor="middle" font-size="11.8" font-weight="700" fill="#495057">*Alto riesgo de cáncer: tabaquismo intenso, exposición a asbesto, radón o uranio, antecedente familiar de cáncer pulmonar, edad avanzada</text>
+<text x="500.0" y="457.4" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">Características sospechosas: borde espiculado, ubicación en lóbulo superior, enfisema, crecimiento. Benignidad: calcificación central, laminar o en "palomitas",</text>
+<text x="500.0" y="473.6" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">grasa (hamartoma), estabilidad de 2 años en un sólido. En el nódulo &gt; 8 mm, calcular la probabilidad de cáncer (modelo de Brock)</text>
+</svg>

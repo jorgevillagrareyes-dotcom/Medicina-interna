@@ -937,6 +937,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/nodulo-pulmonar-y-cancer-pulmonar.md
   - codigo: 1.05.1.008
     nombre: Corazón pulmonar crónico
     dx: Específico
@@ -1056,6 +1058,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/nodulo-pulmonar-y-cancer-pulmonar.md
   - codigo: 1.05.1.026
     nombre: Neumoconiosis
     dx: Sospecha
@@ -1108,6 +1112,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/nodulo-pulmonar-y-cancer-pulmonar.md
   - codigo: 1.05.1.033
     nombre: Síndrome de apnea del sueño
     dx: Sospecha

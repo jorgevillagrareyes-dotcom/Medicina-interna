@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **44 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
+    **47 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -22,6 +22,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Intoxicación por monóxido de carbono, ahogamiento y cuerpo extraño en la vía aérea](intoxicacion-por-co-ahogamiento-y-cuerpo-extrano.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía adquirida en la comunidad](neumonia-adquirida-en-la-comunidad.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Neumotórax y trauma torácico](neumotorax-y-trauma-toracico.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Nódulo pulmonar, cáncer pulmonar y metástasis pulmonares](nodulo-pulmonar-y-cancer-pulmonar.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Tos crónica](tos-cronica.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Tromboembolismo pulmonar](tromboembolismo-pulmonar.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Tuberculosis](tuberculosis.md)
@@ -36,7 +37,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.05.1.004 | Bronquiectasias | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Bronquiectasias](bronquiectasias.md) |
 | 1.05.1.005 | Bronquitis aguda | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Influenza, COVID-19 y bronquitis aguda](../infectologia/influenza-y-covid-19.md) |
 | 1.05.1.006 | Bronquitis crónica | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md) |
-| 1.05.1.007 | Cáncer bronquial primario | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.1.007 | Cáncer bronquial primario | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Nódulo pulmonar, cáncer pulmonar y metástasis pulmonares](nodulo-pulmonar-y-cancer-pulmonar.md) |
 | 1.05.1.008 | Corazón pulmonar crónico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md) |
 | 1.05.1.009 | Daño pulmonar secundario a drogas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.010 | Derrame pleural neoplásico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Derrame pleural: paraneumónico, empiema, neoplásico y enfoque diagnóstico](derrame-pleural.md) |
@@ -54,7 +55,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.05.1.022 | Infecciones de las vías aéreas superiores | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de las vías aéreas superiores](infecciones-de-vias-aereas-superiores.md) |
 | 1.05.1.023 | Insuficiencia respiratoria crónica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md) |
 | 1.05.1.024 | Intoxicación leve por CO y otros gases | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Intoxicación por monóxido de carbono, ahogamiento y cuerpo extraño en la vía aérea](intoxicacion-por-co-ahogamiento-y-cuerpo-extrano.md) |
-| 1.05.1.025 | Metástasis pulmonares | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.1.025 | Metástasis pulmonares | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Nódulo pulmonar, cáncer pulmonar y metástasis pulmonares](nodulo-pulmonar-y-cancer-pulmonar.md) |
 | 1.05.1.026 | Neumoconiosis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.027 | Neumonías adquiridas en la comunidad (tipo 4 de la Sociedad Chilena de Enfermedades Respiratorias) | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía adquirida en la comunidad](neumonia-adquirida-en-la-comunidad.md) |
 | 1.05.1.028 | Neumonías adquiridas en la comunidad (tipos 1, 2 y 3 de la Sociedad Chilena de Enfermedades Respiratorias) | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía adquirida en la comunidad](neumonia-adquirida-en-la-comunidad.md) |
@@ -62,7 +63,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.05.1.030 | Neumonías nosocomiales | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía nosocomial, neumonía en inmunosuprimidos e infección asociada a catéter](../infectologia/neumonia-nosocomial-inmunosuprimidos-y-cateter.md) |
 | 1.05.1.031 | Neumotórax moderado y grande | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumotórax y trauma torácico](neumotorax-y-trauma-toracico.md) |
 | 1.05.1.032 | Neumotórax pequeño | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumotórax y trauma torácico](neumotorax-y-trauma-toracico.md) |
-| 1.05.1.038 | Nódulos pulmonares | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.1.038 | Nódulos pulmonares | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Nódulo pulmonar, cáncer pulmonar y metástasis pulmonares](nodulo-pulmonar-y-cancer-pulmonar.md) |
 | 1.05.1.033 | Síndrome de apnea del sueño | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Apnea obstructiva del sueño y trastornos del sueño](apnea-del-sueno-y-trastornos-del-sueno.md) |
 | 1.05.1.034 | Síndromes mediastínicos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.05.1.035 | Tos crónica | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Tos crónica](tos-cronica.md) |
