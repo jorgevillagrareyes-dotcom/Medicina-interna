@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **37 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
+    **38 de 38** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -18,6 +18,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Infección del tracto urinario](infeccion-urinaria.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Lesión renal aguda](lesion-renal-aguda.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Preeclampsia y síndrome hipertensivo del embarazo](preeclampsia-y-sindrome-hipertensivo-del-embarazo.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Riñón poliquístico (poliquistosis renal autosómica dominante)](rinon-poliquistico.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Trastornos ácido-base](trastornos-acido-base.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Urolitiasis y cólico renal](urolitiasis-y-colico-renal.md)
@@ -44,7 +45,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.09.1.016 | Pielonefritis aguda no complicada | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infección del tracto urinario](infeccion-urinaria.md) |
 | 1.09.1.017 | Progresión de la IRC | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
 | 1.09.1.018 | Proteinuria | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md) · [Enfermedad renal crónica](enfermedad-renal-cronica.md) |
-| 1.09.1.019 | Riñón poliquístico | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.09.1.019 | Riñón poliquístico | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Riñón poliquístico (poliquistosis renal autosómica dominante)](rinon-poliquistico.md) |
 | 1.09.1.020 | Edema generalizado (anasarca) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md) |
 | 1.09.1.021 | Síndrome nefrítico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md) |
 | 1.09.1.022 | Síndrome nefrótico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome nefrótico, síndrome nefrítico y glomerulonefritis rápidamente progresiva](sindromes-glomerulares.md) |

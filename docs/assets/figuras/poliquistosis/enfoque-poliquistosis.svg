@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="520" fill="#ffffff"/>
+<text x="500" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Poliquistosis renal autosómica dominante: diagnóstico y manejo (KDIGO 2025)</text>
+<rect x="130" y="44" width="740" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="65.2" text-anchor="middle" font-size="12" font-weight="700" fill="#1f5f99">1. Sospechar</text>
+<text x="500.0" y="81.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Familiar con poliquistosis o en diálisis · HTA antes de los 35 años · dolor lumbar o abdominal, hematuria, masa en el flanco</text>
+<text x="500.0" y="97.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">infección de quistes, cálculos · ERC sin causa clara · quistes renales múltiples en una imagen hecha por otro motivo</text>
+<line x1="500" y1="110" x2="500" y2="126" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="126" width="940" height="66" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500.0" y="147.2" text-anchor="middle" font-size="12" font-weight="700" fill="#495057">2. Confirmar</text>
+<text x="500.0" y="163.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Con historia familiar: ECOGRAFÍA con criterios por edad (Pei 2009) · RM si la ecografía no es concluyente (más sensible)</text>
+<text x="500.0" y="179.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Estudio GENÉTICO si no hay historia familiar, la imagen es atípica, el paciente es joven o es un posible donante de riñón</text>
+<line x1="500" y1="192" x2="500" y2="208" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="208" width="940" height="50" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="500.0" y="229.3" text-anchor="middle" font-size="12" font-weight="700" fill="#7048e8">3. Estimar el riesgo de progresión</text>
+<text x="500.0" y="245.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Volumen renal total ajustado por talla (clasificación Mayo 1A–1E) · caída del VFGe · genotipo (PKD1 truncante peor) · HTA y síntomas precoces</text>
+<line x1="300" y1="258" x2="300" y2="274" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="700" y1="258" x2="700" y2="274" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="274" width="460" height="168" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="260.0" y="305.7" text-anchor="middle" font-size="12" font-weight="700" fill="#2f9e44">PARA TODOS</text>
+<text x="42" y="321.9" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• PA: IECA o ARA-II (no ambos) · meta ≤ 110/75 mmHg</text>
+<text x="52" y="338.1" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">en 18–49 años con VFGe &gt; 60; si no, sistólica &lt; 120</text>
+<text x="42" y="354.3" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Poca sal, peso saludable, sin tabaco, buena hidratación</text>
+<text x="42" y="370.5" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• EVITAR AINE y nefrotóxicos</text>
+<text x="42" y="386.7" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Manejo de la ERC (anemia, metabolismo mineral)</text>
+<text x="42" y="402.9" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Consejo genético: 50 % de riesgo para cada hijo</text>
+<text x="42" y="419.1" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Tamizaje de familiares con ecografía</text>
+<rect x="510" y="274" width="460" height="168" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="740.0" y="305.7" text-anchor="middle" font-size="12" font-weight="700" fill="#e8590c">PROGRESIÓN RÁPIDA (Mayo 1C–1E, caída del VFGe)</text>
+<text x="522" y="321.9" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• TOLVAPTÁN (antagonista del receptor V2) si</text>
+<text x="532" y="338.1" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">VFGe ≥ 25 mL/min/1,73 m²</text>
+<text x="522" y="354.3" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Dosis 45/15 mg → 90/30 mg (mañana/8 h después)</text>
+<text x="522" y="370.5" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Pruebas hepáticas MENSUALES por 18 meses,</text>
+<text x="532" y="386.7" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">luego cada 3 meses (hepatotoxicidad)</text>
+<text x="522" y="402.9" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Poliuria y sed: debe poder beber agua libremente</text>
+<text x="522" y="419.1" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Nefrólogo</text>
+<rect x="30" y="456" width="940" height="50" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="500.0" y="477.3" text-anchor="middle" font-size="12" font-weight="700" fill="#c92a2a">Manifestaciones extrarrenales: QUISTES HEPÁTICOS (la más frecuente) · ANEURISMAS intracraneales (angio-RM si hay antecedente personal o</text>
+<text x="500.0" y="493.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">familiar de aneurisma, hemorragia subaracnoídea o muerte súbita) · prolapso mitral · hernias · divertículos de colon · quistes pancreáticos</text>
+</svg>

@@ -2059,6 +2059,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - nefrologia/rinon-poliquistico.md
   - codigo: 1.09.1.020
     nombre: Edema generalizado (anasarca)
     dx: Sospecha
