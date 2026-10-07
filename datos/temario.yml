@@ -1036,6 +1036,8 @@ grupos:
     dx: Específico
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/hipertension-pulmonar.md
   - codigo: 1.05.1.022
     nombre: Infecciones de las vías aéreas superiores
     dx: Específico

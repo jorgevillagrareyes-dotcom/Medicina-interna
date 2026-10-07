@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="640" fill="#ffffff"/>
+<text x="500" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Hipertensión pulmonar: del síntoma al cateterismo derecho</text>
+<rect x="130" y="44" width="740" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="65.2" text-anchor="middle" font-size="12" font-weight="700" fill="#1f5f99">1. Sospechar</text>
+<text x="500.0" y="81.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Disnea de esfuerzo sin explicación · síncope o dolor torácico de esfuerzo · edema, ingurgitación yugular, hepatomegalia</text>
+<text x="500.0" y="97.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Grupos de riesgo: esclerosis sistémica, TEP previo, familiar con HAP, cirrosis, VIH, cardiopatía congénita, metanfetamina</text>
+<line x1="500" y1="110" x2="500" y2="126" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="126" width="940" height="50" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500.0" y="147.3" text-anchor="middle" font-size="12" font-weight="700" fill="#495057">2. Exámenes básicos</text>
+<text x="500.0" y="163.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">ECG (eje derecho, hipertrofia del VD, P pulmonar) · radiografía de tórax · NT-proBNP · espirometría y DLCO · gases arteriales · saturación</text>
+<line x1="500" y1="176" x2="500" y2="192" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<text x="500" y="206" text-anchor="middle" font-size="14" font-weight="700" fill="#495057">3. Ecocardiograma: probabilidad de hipertensión pulmonar</text>
+<rect x="30" y="216" width="300" height="84" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="180.0" y="238.1" text-anchor="middle" font-size="12" font-weight="700" fill="#2f9e44">BAJA</text>
+<text x="180.0" y="254.3" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Velocidad de insuficiencia</text>
+<text x="180.0" y="270.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">tricuspídea (VRT) ≤ 2,8 m/s</text>
+<text x="180.0" y="286.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">sin otros signos</text>
+<rect x="350" y="216" width="300" height="84" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="500.0" y="238.1" text-anchor="middle" font-size="12" font-weight="700" fill="#b07d00">INTERMEDIA</text>
+<text x="500.0" y="254.3" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">VRT 2,9–3,4 m/s sin otros signos</text>
+<text x="500.0" y="270.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">o VRT ≤ 2,8 m/s con otros signos</text>
+<text x="500.0" y="286.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">(VD dilatado, septum aplanado...)</text>
+<rect x="670" y="216" width="300" height="84" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="820.0" y="238.1" text-anchor="middle" font-size="12" font-weight="700" fill="#c92a2a">ALTA</text>
+<text x="820.0" y="254.3" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">VRT &gt; 3,4 m/s</text>
+<text x="820.0" y="270.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">o VRT 2,9–3,4 m/s</text>
+<text x="820.0" y="286.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">con otros signos</text>
+<line x1="180" y1="300" x2="180" y2="316" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="500" y1="300" x2="500" y2="316" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="820" y1="300" x2="820" y2="316" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="316" width="940" height="66" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="500.0" y="337.2" text-anchor="middle" font-size="12" font-weight="700" fill="#7048e8">4. Buscar las causas frecuentes (90–95 % de los casos)</text>
+<text x="500.0" y="353.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Grupo 2, corazón izquierdo: FEVI, valvulopatías, aurícula izquierda dilatada, FA · Grupo 3, pulmón: EPOC, enfermedad intersticial, apnea del sueño,</text>
+<text x="500.0" y="369.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">hipoventilación por obesidad · Cintigrafía V/Q en TODOS los casos sin causa clara: un V/Q normal descarta la hipertensión pulmonar tromboembólica crónica</text>
+<line x1="500" y1="382" x2="500" y2="398" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="398" width="940" height="66" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="500.0" y="419.2" text-anchor="middle" font-size="12" font-weight="700" fill="#e8590c">5. Derivar a un centro experto → cateterismo cardíaco derecho (único examen que confirma)</text>
+<text x="500.0" y="435.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Si la probabilidad es intermedia o alta y hay riesgo de HAP o HPTEC, o si la HP parece desproporcionada a la enfermedad cardíaca o pulmonar</text>
+<text x="500.0" y="451.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">DERIVACIÓN URGENTE: falla derecha, síncope, progresión rápida, gasto cardíaco bajo</text>
+<line x1="500" y1="464" x2="500" y2="480" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="480" width="940" height="50" rx="8" fill="#e6fcf5" stroke="#0c8599" stroke-width="1.6"/>
+<text x="500.0" y="501.3" text-anchor="middle" font-size="12" font-weight="700" fill="#0c8599">Definición hemodinámica (ESC/ERS 2022, Simposio Mundial 2024)</text>
+<text x="500.0" y="517.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">HP: PAPm &gt; 20 mmHg · Precapilar: PCP ≤ 15 mmHg y RVP &gt; 2 UW · Poscapilar aislada: PCP &gt; 15 y RVP ≤ 2 · Combinada: PCP &gt; 15 y RVP &gt; 2</text>
+<rect x="30" y="544" width="180" height="82" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="120.0" y="565.1" text-anchor="middle" font-size="11.6" font-weight="700" fill="#c92a2a">Grupo 1: HAP</text>
+<text x="120.0" y="581.3" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">Idiopática, hereditaria,</text>
+<text x="120.0" y="597.5" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">fármacos, mesenquimopatías,</text>
+<text x="120.0" y="613.7" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">portal, VIH, congénitas</text>
+<rect x="220" y="544" width="180" height="82" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="310.0" y="565.1" text-anchor="middle" font-size="11.6" font-weight="700" fill="#1f5f99">Grupo 2</text>
+<text x="310.0" y="581.3" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">Cardiopatía izquierda</text>
+<text x="310.0" y="597.5" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">(IC con FE reducida</text>
+<text x="310.0" y="613.7" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">o preservada, valvular)</text>
+<rect x="410" y="544" width="180" height="82" rx="8" fill="#e6fcf5" stroke="#0c8599" stroke-width="1.6"/>
+<text x="500.0" y="565.1" text-anchor="middle" font-size="11.6" font-weight="700" fill="#0c8599">Grupo 3</text>
+<text x="500.0" y="581.3" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">Enfermedad pulmonar</text>
+<text x="500.0" y="597.5" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">o hipoxia (EPOC, EPI,</text>
+<text x="500.0" y="613.7" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">SAHOS, altura)</text>
+<rect x="600" y="544" width="180" height="82" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="690.0" y="565.1" text-anchor="middle" font-size="11.6" font-weight="700" fill="#7048e8">Grupo 4: HPTEC</text>
+<text x="690.0" y="581.3" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">Obstrucción arterial</text>
+<text x="690.0" y="597.5" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">pulmonar crónica</text>
+<text x="690.0" y="613.7" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">(TEP no resuelto)</text>
+<rect x="790" y="544" width="180" height="82" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="880.0" y="565.1" text-anchor="middle" font-size="11.6" font-weight="700" fill="#495057">Grupo 5</text>
+<text x="880.0" y="581.3" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">Multifactorial o incierto:</text>
+<text x="880.0" y="597.5" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">hemoglobinopatías,</text>
+<text x="880.0" y="613.7" text-anchor="middle" font-size="11.6" font-weight="400" fill="#1f2933">sarcoidosis, ERC</text>
+</svg>
