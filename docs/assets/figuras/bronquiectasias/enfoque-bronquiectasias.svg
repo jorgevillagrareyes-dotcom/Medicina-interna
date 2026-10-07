@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 516" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="516" fill="#ffffff"/>
+<text x="500" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Bronquiectasias en el adulto: diagnóstico y tratamiento (ERS 2025)</text>
+<rect x="130" y="44" width="740" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="65.2" text-anchor="middle" font-size="12" font-weight="700" fill="#1f5f99">1. Sospechar</text>
+<text x="500.0" y="81.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Tos productiva crónica, infecciones respiratorias a repetición, hemoptisis · "asma" o "EPOC" con exacerbaciones</text>
+<text x="500.0" y="97.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">frecuentes o esputo purulento persistente · antecedente de TBC o neumonía grave · AR, EII, inmunodeficiencia</text>
+<line x1="500" y1="110" x2="500" y2="126" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="126" width="940" height="50" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="500.0" y="147.3" text-anchor="middle" font-size="12" font-weight="700" fill="#7048e8">2. Confirmar con TC de tórax de alta resolución</text>
+<text x="500.0" y="163.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Bronquio más ancho que su arteria (signo del anillo de sello), falta de afinamiento hacia la periferia, bronquios visibles a &lt; 1 cm de la pleura</text>
+<line x1="500" y1="176" x2="500" y2="192" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="192" width="940" height="66" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500.0" y="213.2" text-anchor="middle" font-size="12" font-weight="700" fill="#495057">3. Estudio estándar en todos</text>
+<text x="500.0" y="229.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Hemograma (eosinófilos), inmunoglobulinas (IgG, IgA, IgM), electroforesis de proteínas, IgE total e IgE/IgG específicas para Aspergillus (ABPA),</text>
+<text x="500.0" y="245.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">cultivo de esputo y CULTIVO DE MICOBACTERIAS · espirometría · otros según la clínica (FQ, discinesia ciliar, AR, EII)</text>
+<line x1="500" y1="258" x2="500" y2="274" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="274" width="300" height="168" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="180.0" y="305.7" text-anchor="middle" font-size="12" font-weight="700" fill="#2f9e44">PILARES (todos)</text>
+<text x="42" y="321.9" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Kinesioterapia respiratoria:</text>
+<text x="52" y="338.1" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">técnicas de limpieza de la vía aérea</text>
+<text x="42" y="354.3" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Rehabilitación pulmonar si hay disnea</text>
+<text x="42" y="370.5" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Vacunas (influenza, neumococo)</text>
+<text x="42" y="386.7" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Tratar la causa y las comorbilidades</text>
+<text x="42" y="402.9" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Mucoactivos (suero hipertónico)</text>
+<text x="52" y="419.1" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">si la limpieza no basta</text>
+<rect x="350" y="274" width="300" height="168" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="500.0" y="305.7" text-anchor="middle" font-size="12" font-weight="700" fill="#e8590c">ALTO RIESGO (≥ 3 exacerbaciones/año)</text>
+<text x="362" y="321.9" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Pseudomonas crónica: antibiótico</text>
+<text x="372" y="338.1" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">INHALADO de largo plazo</text>
+<text x="362" y="354.3" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Sin Pseudomonas o si falla:</text>
+<text x="372" y="370.5" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">MACRÓLIDO de largo plazo</text>
+<text x="372" y="386.7" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">(azitromicina; descartar antes</text>
+<text x="372" y="402.9" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">micobacterias y QTc largo)</text>
+<text x="362" y="419.1" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Brensocatib (inhibidor de DPP-1)</text>
+<rect x="670" y="274" width="300" height="168" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="820.0" y="305.7" text-anchor="middle" font-size="12" font-weight="700" fill="#c92a2a">EXACERBACIÓN</text>
+<text x="682" y="321.9" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Cultivo de esputo antes del</text>
+<text x="692" y="338.1" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">antibiótico</text>
+<text x="682" y="354.3" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Antibiótico por 14 días según</text>
+<text x="692" y="370.5" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">cultivos previos</text>
+<text x="682" y="386.7" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Sin corticoides sistémicos (salvo</text>
+<text x="692" y="402.9" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">asma o EPOC con broncoespasmo)</text>
+<text x="682" y="419.1" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Grave → hospitalizar, antibiótico EV</text>
+<rect x="30" y="456" width="940" height="50" rx="8" fill="#e6fcf5" stroke="#0c8599" stroke-width="1.6"/>
+<text x="500.0" y="477.3" text-anchor="middle" font-size="11.8" font-weight="700" fill="#0c8599">Primer aislamiento de Pseudomonas aeruginosa: ofrecer ERRADICACIÓN (ciprofloxacino 2 semanas ± antibiótico inhalado o EV) · Sin corticoides inhalados</text>
+<text x="500.0" y="493.5" text-anchor="middle" font-size="11.8" font-weight="400" fill="#1f2933">de rutina si no hay asma ni EPOC · Derivar si ≥ 2 exacerbaciones al año, Pseudomonas, micobacterias, ABPA, hemoptisis o deterioro</text>
+</svg>

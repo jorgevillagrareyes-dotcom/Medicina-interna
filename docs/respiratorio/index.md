@@ -8,12 +8,13 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **43 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
+    **44 de 52** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Apnea obstructiva del sueño y trastornos del sueño](apnea-del-sueno-y-trastornos-del-sueno.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Asma bronquial](asma.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Bronquiectasias](bronquiectasias.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Derrame pleural: paraneumónico, empiema, neoplásico y enfoque diagnóstico](derrame-pleural.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de las vías aéreas superiores](infecciones-de-vias-aereas-superiores.md)
@@ -32,7 +33,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.05.1.001 | Absceso pulmonar | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones por flora oral: flegmón del piso de la boca (angina de Ludwig), absceso pulmonar y absceso cerebral](../infectologia/flegmon-cervical-absceso-pulmonar-y-cerebral.md) |
 | 1.05.1.002 | Asma bronquial grave | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Asma bronquial](asma.md) |
 | 1.05.1.003 | Asma bronquial leve y moderada | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Asma bronquial](asma.md) |
-| 1.05.1.004 | Bronquiectasias | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.05.1.004 | Bronquiectasias | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Bronquiectasias](bronquiectasias.md) |
 | 1.05.1.005 | Bronquitis aguda | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Influenza, COVID-19 y bronquitis aguda](../infectologia/influenza-y-covid-19.md) |
 | 1.05.1.006 | Bronquitis crónica | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](epoc.md) |
 | 1.05.1.007 | Cáncer bronquial primario | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |

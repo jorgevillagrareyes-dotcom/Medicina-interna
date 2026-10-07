@@ -916,6 +916,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Completo
+    resumen:
+    - respiratorio/bronquiectasias.md
   - codigo: 1.05.1.005
     nombre: Bronquitis aguda
     dx: Específico
