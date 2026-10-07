@@ -951,6 +951,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/enfermedades-intersticiales-farmacos-y-neumoconiosis.md
   - codigo: 1.05.1.010
     nombre: Derrame pleural neoplásico
     dx: Específico
@@ -1013,6 +1015,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/enfermedades-intersticiales-farmacos-y-neumoconiosis.md
   - codigo: 1.05.1.019
     nombre: Hemoptisis leve y mediana
     dx: Sospecha
@@ -1065,6 +1069,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - respiratorio/enfermedades-intersticiales-farmacos-y-neumoconiosis.md
   - codigo: 1.05.1.027
     nombre: Neumonías adquiridas en la comunidad (tipo 4 de la Sociedad Chilena de Enfermedades Respiratorias)
     dx: Específico

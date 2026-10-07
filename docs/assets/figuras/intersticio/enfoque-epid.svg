@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 626" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="626" fill="#ffffff"/>
+<text x="500" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Enfoque del adulto con sospecha de enfermedad pulmonar intersticial</text>
+<rect x="130" y="44" width="740" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="65.2" text-anchor="middle" font-size="12" font-weight="700" fill="#1f5f99">1. Sospechar</text>
+<text x="500.0" y="81.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Disnea de esfuerzo progresiva y tos seca por meses · crépitos finos tipo "velcro" bibasales · hipocratismo digital</text>
+<text x="500.0" y="97.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">desaturación al caminar · Rx con patrón reticular · hallazgo en una TC hecha por otro motivo</text>
+<line x1="500" y1="110" x2="500" y2="126" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="126" width="940" height="66" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500.0" y="147.2" text-anchor="middle" font-size="12" font-weight="700" fill="#495057">2. Buscar la causa en la anamnesis (la mitad del diagnóstico)</text>
+<text x="500.0" y="163.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Trabajo: sílice (minería, túneles, canteras, cuarzo), asbesto, carbón, metales · Antígenos: aves, plumas, hongos, humedad · Fármacos: amiodarona,</text>
+<text x="500.0" y="179.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">nitrofurantoína, metotrexato, bleomicina, inmunoterapia · Autoinmune: artritis, Raynaud, debilidad proximal, ojo y boca secos · Tabaco · Familia</text>
+<line x1="500" y1="192" x2="500" y2="208" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="208" width="940" height="66" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="500.0" y="229.2" text-anchor="middle" font-size="12" font-weight="700" fill="#7048e8">3. Estudio inicial</text>
+<text x="500.0" y="245.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">TC de tórax de ALTA RESOLUCIÓN (sin contraste, con cortes en prono y en espiración) · espirometría, volúmenes y DLCO · test de marcha de 6 minutos</text>
+<text x="500.0" y="261.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">ANA, factor reumatoide y anti-CCP, anticuerpos de miositis (anti-Jo-1 y otros), anti-Ro, ANCA, CK · IgG específicas si se sospecha neumonitis por hipersensibilidad</text>
+<line x1="500" y1="274" x2="500" y2="290" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<text x="500" y="304" text-anchor="middle" font-size="14" font-weight="700" fill="#495057">4. Patrón en la TC de alta resolución</text>
+<rect x="30" y="314" width="227" height="150" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="143.5" y="344.8" text-anchor="middle" font-size="12" font-weight="700" fill="#c92a2a">NIU (UIP)</text>
+<text x="42" y="361.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Basal y subpleural</text>
+<text x="42" y="377.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Reticulación y PANAL</text>
+<text x="42" y="393.4" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Bronquiectasias por</text>
+<text x="52" y="409.6" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">tracción</text>
+<text x="42" y="425.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">→ FPI si no hay causa;</text>
+<text x="52" y="442.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">si no, UIP secundaria</text>
+<rect x="268" y="314" width="227" height="150" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="381.5" y="344.8" text-anchor="middle" font-size="12" font-weight="700" fill="#e8590c">NINE (NSIP)</text>
+<text x="280" y="361.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Vidrio esmerilado basal</text>
+<text x="290" y="377.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">y simétrico</text>
+<text x="280" y="393.4" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Puede respetar la</text>
+<text x="290" y="409.6" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">zona subpleural</text>
+<text x="280" y="425.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">→ Mesenquimopatía,</text>
+<text x="290" y="442.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">fármacos</text>
+<rect x="506" y="314" width="227" height="150" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="619.5" y="344.8" text-anchor="middle" font-size="12" font-weight="700" fill="#b07d00">Bronquiolocéntrico</text>
+<text x="518" y="361.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Nódulos centrolobulillares</text>
+<text x="518" y="377.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Mosaico y ATRAPAMIENTO</text>
+<text x="528" y="393.4" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">AÉREO en espiración</text>
+<text x="518" y="409.6" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Lóbulos superiores-medios</text>
+<text x="518" y="425.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">→ Neumonitis por</text>
+<text x="528" y="442.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">hipersensibilidad</text>
+<rect x="744" y="314" width="227" height="150" rx="8" fill="#e6fcf5" stroke="#0c8599" stroke-width="1.6"/>
+<text x="857.5" y="344.8" text-anchor="middle" font-size="12" font-weight="700" fill="#0c8599">Nódulos perilinfáticos</text>
+<text x="756" y="361.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Lóbulos SUPERIORES</text>
+<text x="756" y="377.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Adenopatías hiliares</text>
+<text x="766" y="393.4" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">(calcificación en cáscara</text>
+<text x="766" y="409.6" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">de huevo en la silicosis)</text>
+<text x="756" y="425.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">→ Silicosis, neumoconiosis</text>
+<text x="766" y="442.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">del carbón, sarcoidosis</text>
+<line x1="143.5" y1="464" x2="143.5" y2="480" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="381.5" y1="464" x2="381.5" y2="480" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="619.5" y1="464" x2="619.5" y2="480" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="857.5" y1="464" x2="857.5" y2="480" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="480" width="940" height="50" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500.0" y="501.3" text-anchor="middle" font-size="12" font-weight="700" fill="#495057">5. Discusión multidisciplinaria (broncopulmonar, radiólogo, patólogo y reumatólogo)</text>
+<text x="500.0" y="517.5" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Si el patrón y la clínica no bastan: lavado broncoalveolar (linfocitosis en la neumonitis por hipersensibilidad), criobiopsia o biopsia quirúrgica</text>
+<line x1="500" y1="530" x2="500" y2="546" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="546" width="940" height="66" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="500.0" y="567.2" text-anchor="middle" font-size="12" font-weight="700" fill="#2f9e44">6. Tratamiento según la causa</text>
+<text x="500.0" y="583.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Eliminar la exposición o suspender el fármaco · FPI y fibrosis pulmonar progresiva: ANTIFIBRÓTICO (nintedanib, pirfenidona, nerandomilast) · Mesenquimopatía,</text>
+<text x="500.0" y="599.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">hipersensibilidad o fármacos: corticoide e inmunosupresor (micofenolato) · Todos: oxígeno si desatura, rehabilitación, vacunas, sin tabaco, evaluar trasplante</text>
+</svg>
