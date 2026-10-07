@@ -98,6 +98,7 @@ nav:
   - Cardiología:
       - cardiologia/index.md
       - "Angina crónica estable (síndrome coronario crónico)": cardiologia/angina-cronica-estable.md
+      - "Cardiopatías congénitas en el adulto": cardiologia/cardiopatias-congenitas-del-adulto.md
       - "Crisis hipertensiva": cardiologia/crisis-hipertensiva.md
       - "Extrasistolía ventricular y supraventricular": cardiologia/extrasistolia.md
       - "Fibrilación y flutter auricular": cardiologia/fibrilacion-auricular.md

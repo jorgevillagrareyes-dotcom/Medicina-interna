@@ -8,11 +8,12 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **32 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
+    **33 de 33** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Angina crónica estable (síndrome coronario crónico)](angina-cronica-estable.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Cardiopatías congénitas en el adulto](cardiopatias-congenitas-del-adulto.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Crisis hipertensiva](crisis-hipertensiva.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Extrasistolía ventricular y supraventricular](extrasistolia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fibrilación y flutter auricular](fibrilacion-auricular.md)
@@ -31,7 +32,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 |---|---|---|---|---|---|
 | 1.01.1.001 | Angina crónica estable | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Angina crónica estable (síndrome coronario crónico)](angina-cronica-estable.md) |
 | 1.01.1.002 | Bloqueos aurículo-ventriculares | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](paro-cardiorrespiratorio-y-arritmias.md) |
-| 1.01.1.003 | Cardiopatía congénita en adulto | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.01.1.003 | Cardiopatía congénita en adulto | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cardiopatías congénitas en el adulto](cardiopatias-congenitas-del-adulto.md) |
 | 1.01.1.004 | Corazón pulmonar crónico | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad pulmonar obstructiva crónica (EPOC)](../respiratorio/epoc.md) |
 | 1.01.1.005 | Dislipidemias | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Dislipidemias e hipertrigliceridemia grave](../endocrinologia/dislipidemia.md) |
 | 1.01.1.006 | Embolia pulmonar | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tromboembolismo pulmonar](../respiratorio/tromboembolismo-pulmonar.md) |

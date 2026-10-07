@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 506" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="506" fill="#ffffff"/>
+<text x="500" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Cardiopatías congénitas más frecuentes en el adulto: pistas clínicas y conducta</text>
+<rect x="30" y="46" width="300" height="176" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="180.0" y="73.6" text-anchor="middle" font-size="11.8" font-weight="700" fill="#1f5f99">CIA (comunicación interauricular)</text>
+<text x="42" y="89.8" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Disnea, FA y flutter tras los 40 años</text>
+<text x="42" y="106.0" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• 2.º ruido con DESDOBLAMIENTO FIJO,</text>
+<text x="52" y="122.2" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">soplo eyectivo pulmonar</text>
+<text x="42" y="138.4" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• ECG: BCRD incompleto (eje derecho</text>
+<text x="52" y="154.6" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">en la tipo ostium secundum)</text>
+<text x="42" y="170.8" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• VD dilatado en el ecocardiograma</text>
+<text x="42" y="187.0" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ Cierre (percutáneo si es secundum)</text>
+<text x="52" y="203.2" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">si hay sobrecarga del VD y RVP &lt; 3 UW</text>
+<rect x="350" y="46" width="300" height="176" rx="8" fill="#e6fcf5" stroke="#0c8599" stroke-width="1.6"/>
+<text x="500.0" y="81.7" text-anchor="middle" font-size="11.8" font-weight="700" fill="#0c8599">CIV (comunicación interventricular)</text>
+<text x="362" y="97.9" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Pequeña: soplo HOLOSISTÓLICO intenso</text>
+<text x="372" y="114.1" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">paraesternal izquierdo, asintomática</text>
+<text x="362" y="130.3" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Grande no corregida: HP, Eisenmenger</text>
+<text x="362" y="146.5" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Riesgo de ENDOCARDITIS</text>
+<text x="362" y="162.7" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ Pequeña sin sobrecarga: control</text>
+<text x="362" y="178.9" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ Cierre si hay sobrecarga del VI</text>
+<text x="372" y="195.1" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">sin hipertensión pulmonar grave</text>
+<rect x="670" y="46" width="300" height="176" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="820.0" y="81.7" text-anchor="middle" font-size="11.8" font-weight="700" fill="#7048e8">DUCTUS ARTERIOSO PERSISTENTE</text>
+<text x="682" y="97.9" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Soplo CONTINUO "en maquinaria"</text>
+<text x="692" y="114.1" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">infraclavicular izquierdo</text>
+<text x="682" y="130.3" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Pulsos amplios (presión diferencial</text>
+<text x="692" y="146.5" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">aumentada)</text>
+<text x="682" y="162.7" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Sobrecarga del VI</text>
+<text x="682" y="178.9" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ Cierre percutáneo si hay sobrecarga</text>
+<text x="692" y="195.1" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">del VI o HP no grave</text>
+<rect x="30" y="236" width="300" height="176" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="180.0" y="271.7" text-anchor="middle" font-size="11.8" font-weight="700" fill="#c92a2a">COARTACIÓN AÓRTICA</text>
+<text x="42" y="287.9" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• HTA en el joven, pulsos femorales</text>
+<text x="52" y="304.1" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">DÉBILES y retrasados (radio-femoral)</text>
+<text x="42" y="320.3" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• PA de brazos &gt; piernas</text>
+<text x="42" y="336.5" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Rx: muescas costales, signo del "3"</text>
+<text x="42" y="352.7" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Asociada a válvula bicúspide y Turner</text>
+<text x="42" y="368.9" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ Stent o cirugía si hay HTA y gradiente</text>
+<text x="52" y="385.1" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">≥ 20 mmHg; control de por vida</text>
+<rect x="350" y="236" width="300" height="176" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="500.0" y="271.7" text-anchor="middle" font-size="11.8" font-weight="700" fill="#e8590c">VÁLVULA AÓRTICA BICÚSPIDE</text>
+<text x="362" y="287.9" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• La más frecuente (1–2 % de la población)</text>
+<text x="362" y="304.1" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Click de apertura, soplo eyectivo</text>
+<text x="362" y="320.3" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Estenosis o insuficiencia aórtica</text>
+<text x="372" y="336.5" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">precoz; DILATACIÓN de la aorta</text>
+<text x="362" y="352.7" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Endocarditis, disección</text>
+<text x="362" y="368.9" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ Ecocardiograma seriado, control de PA</text>
+<text x="362" y="385.1" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ Ecocardiograma a familiares de 1.er grado</text>
+<rect x="670" y="236" width="300" height="176" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="820.0" y="271.7" text-anchor="middle" font-size="11.8" font-weight="700" fill="#b07d00">TETRALOGÍA DE FALLOT OPERADA</text>
+<text x="682" y="287.9" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• Insuficiencia pulmonar residual →</text>
+<text x="692" y="304.1" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">dilatación y disfunción del VD</text>
+<text x="682" y="320.3" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">• BCRD; QRS muy ancho (≥ 180 ms) =</text>
+<text x="692" y="336.5" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">riesgo de TV y muerte súbita</text>
+<text x="682" y="352.7" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ RM cardíaca seriada</text>
+<text x="682" y="368.9" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">→ Reemplazo valvular pulmonar si el VD</text>
+<text x="692" y="385.1" text-anchor="start" font-size="11.8" font-weight="400" fill="#1f2933">se dilata o hay síntomas</text>
+<rect x="30" y="426" width="940" height="66" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500.0" y="447.2" text-anchor="middle" font-size="12" font-weight="700" fill="#495057">Síndrome de Eisenmenger: cortocircuito grande no corregido → hipertensión pulmonar irreversible → INVERSIÓN del cortocircuito</text>
+<text x="500.0" y="463.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Cianosis, hipocratismo, eritrocitosis secundaria · NO cerrar el defecto · embarazo CONTRAINDICADO · evitar deshidratación y altura · tratar la ferropenia</text>
+<text x="500.0" y="479.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Fármacos de HAP (bosentán) en centro experto · flebotomía solo con síntomas de hiperviscosidad · filtros de aire en las vías venosas</text>
+</svg>

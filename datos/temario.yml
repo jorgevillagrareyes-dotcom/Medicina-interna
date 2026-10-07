@@ -27,6 +27,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - cardiologia/cardiopatias-congenitas-del-adulto.md
   - codigo: 1.01.1.004
     nombre: Corazón pulmonar crónico
     dx: Específico
