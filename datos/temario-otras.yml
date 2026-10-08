@@ -82,6 +82,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/esofago-y-estomago/esofagitis-caustica.md
     - codigo: 4.01.2.004
       nombre: Hemorragia digestiva alta
       dx: Sospecha

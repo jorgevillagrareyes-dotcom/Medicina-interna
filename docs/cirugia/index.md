@@ -6,7 +6,7 @@ hide:
 # Cirugía
 
 !!! info "Avance"
-    **102 de 151** temas de cirugía del perfil EUNACOM v3 (2026) tienen resumen (14 páginas propias de la especialidad; el resto, en páginas de medicina interna que también cubren el tema).
+    **103 de 151** temas de cirugía del perfil EUNACOM v3 (2026) tienen resumen (15 páginas propias de la especialidad; el resto, en páginas de medicina interna que también cubren el tema).
 
 ## Subespecialidades
 
@@ -22,7 +22,7 @@ hide:
 
     ---
 
-    4 de 8 temas con resumen
+    5 de 8 temas con resumen
 
 -   **[Intestino delgado, colon y proctología](intestino-colon-y-proctologia/index.md)**
 
