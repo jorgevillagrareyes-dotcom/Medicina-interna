@@ -6,7 +6,12 @@ hide:
 # Cabeza y cuello, tiroides y mama
 
 !!! info "Avance"
-    **2 de 9** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **5 de 9** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+
+## Resúmenes disponibles
+
+- :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de mama y diagnóstico precoz](cancer-de-mama.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Patología mamaria benigna](patologia-mamaria-benigna.md)
 
 ## Situaciones clínicas
 
@@ -16,8 +21,8 @@ hide:
 | 4.01.1.032 | Masa cervical y tumores del cuello | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.01.1.033 | Cáncer del tiroides | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Bocio, nódulo tiroideo y cáncer de tiroides](../../endocrinologia/bocio-nodulo-y-cancer-de-tiroides.md) |
 | 4.01.1.034 | Patología benigna del tiroides | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Bocio, nódulo tiroideo y cáncer de tiroides](../../endocrinologia/bocio-nodulo-y-cancer-de-tiroides.md) |
-| 4.01.1.035 | Cáncer de mama | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.1.036 | Patología mamaria benigna | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.1.035 | Cáncer de mama | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de mama y diagnóstico precoz](cancer-de-mama.md) |
+| 4.01.1.036 | Patología mamaria benigna | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Patología mamaria benigna](patologia-mamaria-benigna.md) |
 
 ## Situaciones clínicas de urgencia
 
@@ -30,7 +35,7 @@ hide:
 
 | Código | Tema | Resumen |
 |---|---|---|
-| 4.01.3.012 | Diagnóstico precoz del cáncer mamario | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.3.012 | Diagnóstico precoz del cáncer mamario | :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de mama y diagnóstico precoz](cancer-de-mama.md) |
 
 La división de cirugía en subespecialidades es propia del sitio; los códigos y niveles son los del perfil EUNACOM.
 

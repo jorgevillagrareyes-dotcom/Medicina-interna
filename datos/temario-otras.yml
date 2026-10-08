@@ -362,11 +362,15 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/cabeza-cuello-tiroides-y-mama/cancer-de-mama.md
     - codigo: 4.01.1.036
       nombre: Patología mamaria benigna
       dx: Específico
       tto: Inicial
       seg: Completo
+      resumen:
+      - cirugia/cabeza-cuello-tiroides-y-mama/patologia-mamaria-benigna.md
     urgencias:
     - codigo: 4.01.2.014
       nombre: Heridas de cara
@@ -381,6 +385,8 @@ especialidades:
     generales:
     - codigo: 4.01.3.012
       nombre: Diagnóstico precoz del cáncer mamario
+      resumen:
+      - cirugia/cabeza-cuello-tiroides-y-mama/cancer-de-mama.md
   - carpeta: cirugia/torax
     titulo: Tórax
     situaciones:
