@@ -21,7 +21,7 @@ Informe anual de seguridad y salud en el trabajo 2024 (SUSESO, 2025) · Institut
 No aplica: las lesiones y enfermedades laborales se cubren por el seguro de la **Ley 16.744**, no por el GES.
 
 **EUNACOM**
-4.02.3.001 Accidentes del trabajo (conocimiento general) · Salud pública: 6.02.3.001 Accidentes del trabajo
+4.02.3.001 Accidentes del trabajo (conocimiento general)
 
 **Revisado**
 Octubre 2026

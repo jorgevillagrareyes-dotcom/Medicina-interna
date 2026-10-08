@@ -3216,8 +3216,6 @@ especialidades:
     generales:
     - codigo: 6.02.3.001
       nombre: Accidentes del trabajo
-      resumen:
-      - traumatologia/accidentes-del-trabajo-y-enfermedades-profesionales.md
     - codigo: 6.02.3.002
       nombre: Diabetes
     - codigo: 6.02.3.003
