@@ -1141,6 +1141,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - traumatologia/fractura-de-muneca-heridas-de-la-mano-y-lesiones-de-nervios.md
     - codigo: 4.02.2.006
       nombre: Fractura inestable de la pelvis
       dx: Sospecha
@@ -1165,11 +1167,15 @@ especialidades:
       dx: Específico
       tto: Completo
       seg: Completo
+      resumen:
+      - traumatologia/fractura-de-muneca-heridas-de-la-mano-y-lesiones-de-nervios.md
     - codigo: 4.02.2.010
       nombre: Lesiones de los nervios periféricos
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - traumatologia/fractura-de-muneca-heridas-de-la-mano-y-lesiones-de-nervios.md
     - codigo: 4.02.2.011
       nombre: Lesiones de partes blandas (contusiones, hematomas, desgarros)
       dx: Específico
