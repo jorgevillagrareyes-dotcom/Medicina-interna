@@ -8,13 +8,14 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **21 de 22** situaciones clínicas de esta subespecialidad tienen resumen.
+    **22 de 22** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Agitación psicomotora y agresividad (con énfasis en el adulto mayor)](agitacion-psicomotora-y-agresividad.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Caídas, hipotensión ortostática y fractura de cadera en el adulto mayor](caidas-hipotension-ortostatica-y-fractura-de-cadera.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Delirium (síndrome confusional agudo)](delirium.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Depresión (con énfasis en el adulto mayor)](depresion.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fragilidad y sarcopenia](fragilidad-y-sarcopenia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hipotermia accidental](hipotermia.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Incontinencia urinaria](incontinencia-urinaria.md)
@@ -27,7 +28,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.07.1.001 | Caídas | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Caídas, hipotensión ortostática y fractura de cadera en el adulto mayor](caidas-hipotension-ortostatica-y-fractura-de-cadera.md) |
 | 1.07.1.002 | Constipación y fecalomas | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Constipación, fecaloma, síndrome de intestino irritable y diarrea crónica](../gastroenterologia/constipacion-intestino-irritable-y-diarrea-cronica.md) |
 | 1.07.1.003 | Demencia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Demencia, deterioro cognitivo leve y causas reversibles de deterioro cognitivo](../neurologia/demencia-y-deterioro-cognitivo.md) |
-| 1.07.1.004 | Depresión | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.07.1.004 | Depresión | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Depresión (con énfasis en el adulto mayor)](depresion.md) |
 | 1.07.1.005 | Diabetes mellitus tipo 2 | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes mellitus tipo 2](../endocrinologia/diabetes-mellitus-tipo-2.md) |
 | 1.07.1.006 | Enfermedad cerebro-vascular | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Accidente cerebrovascular (ACV) y crisis isquémica transitoria](../neurologia/accidente-cerebrovascular.md) |
 | 1.07.1.007 | Escaras o úlceras por presión | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Inmovilidad y úlceras (lesiones) por presión](inmovilidad-y-ulceras-por-presion.md) |

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 534" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="1000" height="534" fill="#ffffff"/>
+<text x="500" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Depresión en el adulto mayor: detección y manejo</text>
+<rect x="130" y="44" width="740" height="66" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="500.0" y="65.2" text-anchor="middle" font-size="12" font-weight="700" fill="#1f5f99">1. Sospechar (a menudo se presenta de forma ATÍPICA)</text>
+<text x="500.0" y="81.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Quejas somáticas, dolor, fatiga, insomnio, baja de peso, quejas de memoria, irritabilidad, aislamiento, mala adherencia</text>
+<text x="500.0" y="97.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Gatillantes: duelo, ACV, infarto, cáncer, dolor crónico, institucionalización, jubilación, soledad, cuidador sobrecargado</text>
+<line x1="500" y1="110" x2="500" y2="126" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="126" width="940" height="66" rx="8" fill="#f8f9fa" stroke="#868e96" stroke-width="1.6"/>
+<text x="500.0" y="147.2" text-anchor="middle" font-size="12" font-weight="700" fill="#495057">2. Tamizaje y diagnóstico</text>
+<text x="500.0" y="163.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">PHQ-2 → PHQ-9 · escala de Yesavage (GDS-15; EMPAM: 0–5 normal, 6–9 depresión leve, ≥ 10 establecida)</text>
+<text x="500.0" y="179.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Confirmar con criterios DSM-5: ≥ 5 síntomas por ≥ 2 semanas, uno de ellos ánimo deprimido o anhedonia, con deterioro funcional</text>
+<line x1="500" y1="192" x2="500" y2="208" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="208" width="940" height="66" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="500.0" y="229.2" text-anchor="middle" font-size="12" font-weight="700" fill="#c92a2a">3. Descartar causas y comorbilidad + evaluar el RIESGO SUICIDA en todos</text>
+<text x="500.0" y="245.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">TSH, vitamina B12, hemograma, calcio, función renal y hepática, sodio · revisar fármacos (corticoides, levodopa, interferón) y alcohol</text>
+<text x="500.0" y="261.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Distinguir de demencia, delirium, duelo normal y bipolaridad · preguntar directamente por ideas de muerte, plan, medios e intentos previos</text>
+<line x1="180" y1="274" x2="180" y2="290" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="500" y1="274" x2="500" y2="290" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="820" y1="274" x2="820" y2="290" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="30" y="290" width="300" height="150" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="180.0" y="320.8" text-anchor="middle" font-size="12" font-weight="700" fill="#2f9e44">LEVE</text>
+<text x="42" y="337.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Psicoeducación y apoyo</text>
+<text x="42" y="353.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Actividad física, sueño,</text>
+<text x="52" y="369.4" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">activación conductual</text>
+<text x="42" y="385.6" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Psicoterapia (TCC, resolución</text>
+<text x="52" y="401.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">de problemas) en la APS</text>
+<text x="42" y="418.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Control en 2–4 semanas</text>
+<rect x="350" y="290" width="300" height="150" rx="8" fill="#fff9db" stroke="#e8a10c" stroke-width="1.6"/>
+<text x="500.0" y="320.8" text-anchor="middle" font-size="12" font-weight="700" fill="#b07d00">MODERADA</text>
+<text x="362" y="337.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Psicoterapia + ANTIDEPRESIVO</text>
+<text x="362" y="353.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• ISRS: sertralina o escitalopram</text>
+<text x="372" y="369.4" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">(dosis inicial baja, subir lento)</text>
+<text x="362" y="385.6" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Mirtazapina si hay insomnio</text>
+<text x="372" y="401.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">o baja de peso</text>
+<text x="362" y="418.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• GES: confirmar y tratar en la APS</text>
+<rect x="670" y="290" width="300" height="150" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="820.0" y="320.8" text-anchor="middle" font-size="12" font-weight="700" fill="#c92a2a">GRAVE / ALTO RIESGO</text>
+<text x="682" y="337.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Riesgo suicida, psicosis,</text>
+<text x="692" y="353.2" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">no come ni bebe, catatonia</text>
+<text x="682" y="369.4" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">→ PSIQUIATRÍA (GES: especialista</text>
+<text x="692" y="385.6" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">en ≤ 30 días; urgencia si hay riesgo)</text>
+<text x="682" y="401.8" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Hospitalización si hay riesgo vital</text>
+<text x="682" y="418.0" text-anchor="start" font-size="12" font-weight="400" fill="#1f2933">• Terapia electroconvulsiva</text>
+<rect x="30" y="454" width="940" height="66" rx="8" fill="#e6fcf5" stroke="#0c8599" stroke-width="1.6"/>
+<text x="500.0" y="475.2" text-anchor="middle" font-size="12" font-weight="700" fill="#0c8599">4. Seguimiento</text>
+<text x="500.0" y="491.4" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Mejoría ≥ 20 % a las 2–4 semanas; si no, subir la dosis o cambiar · SODIO en mayores de 60 años (hiponatremia por ISRS) · caídas y sangrado</text>
+<text x="500.0" y="507.6" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2933">Mantener el antidepresivo 6–12 meses tras la remisión (más tiempo si hay recurrencias o factores de riesgo) · retirar de forma gradual</text>
+</svg>

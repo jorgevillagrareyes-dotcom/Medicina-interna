@@ -1592,6 +1592,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - geriatria/depresion.md
   - codigo: 1.07.1.005
     nombre: Diabetes mellitus tipo 2
     dx: Específico
