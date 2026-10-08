@@ -6,12 +6,13 @@ hide:
 # Traumatología
 
 !!! info "Avance"
-    **15 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **16 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones de los traumatismos (sistémicas y vasculares) y de la inmovilización con yeso](complicaciones-de-los-traumatismos-y-del-yeso.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fracturas de diáfisis y metáfisis, y fracturas expuestas](fracturas-de-diafisis-y-metafisis-y-fracturas-expuestas.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Tumores óseos (benignos, malignos primarios y metástasis óseas)](tumores-oseos.md)
 
 ## Situaciones clínicas
 
@@ -25,7 +26,7 @@ hide:
 | 4.02.1.006 | Lumbociática radicular | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](../reumatologia/lumbago-lumbociatica-y-cervicalgia.md) |
 | 4.02.1.007 | Pie plano | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.1.008 | Síndrome de hombro doloroso | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](../reumatologia/artrosis-y-reumatismos-de-partes-blandas.md) |
-| 4.02.1.009 | Tumores óseos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.1.009 | Tumores óseos | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tumores óseos (benignos, malignos primarios y metástasis óseas)](tumores-oseos.md) |
 
 ## Situaciones clínicas de urgencia
 

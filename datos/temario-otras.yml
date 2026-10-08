@@ -1107,6 +1107,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - traumatologia/tumores-oseos.md
     urgencias:
     - codigo: 4.02.2.001
       nombre: 'Complicaciones de los traumatismos: sistémicas y vasculares'

@@ -53,7 +53,7 @@ Octubre 2026
 - **Metáfisis**: zona ensanchada entre la diáfisis y la epífisis, de hueso esponjoso. En el niño contiene la **fisis** (cartílago de crecimiento) en su límite con la epífisis.
 - **Fractura cerrada**: piel indemne o sin comunicación con el foco.
 - **Fractura expuesta (abierta)**: el foco de fractura o su hematoma **se comunica con el exterior** a través de una herida de la piel o las mucosas. Toda herida en el mismo segmento de una fractura se considera **expuesta hasta demostrar lo contrario**.
-- **Fractura patológica**: ocurre en un hueso debilitado (metástasis, tumor, osteoporosis grave) con un trauma mínimo.
+- **Fractura patológica**: ocurre en un hueso debilitado (metástasis, tumor, osteoporosis grave) con un trauma mínimo (ver [tumores óseos](tumores-oseos.md)).
 - **Fractura por estrés (fatiga)**: por cargas repetidas en un hueso normal (metatarsianos, tibia en deportistas o reclutas).
 
 ## Epidemiología
@@ -302,7 +302,7 @@ flowchart TD
 ??? repaso "6. Mujer de 72 años con una fractura de la diáfisis femoral tras tropezar en su casa. La radiografía muestra una lesión lítica en el foco. ¿Qué sospecha y qué estudia?"
     - **Fractura patológica**: trauma mínimo en un hueso con una lesión lítica.
     - Sospechar **metástasis** (mama, pulmón, riñón, tiroides, próstata) o un **mieloma múltiple**.
-    - Estudiar con hemograma, calcio, creatinina, **electroforesis de proteínas**, TC de tórax, abdomen y pelvis, y biopsia. Derivar a traumatología y oncología.
+    - Estudiar con hemograma, calcio, creatinina, **electroforesis de proteínas**, TC de tórax, abdomen y pelvis, y biopsia. Derivar a traumatología y oncología (ver [tumores óseos](tumores-oseos.md)).
 
 ## Referencias
 
