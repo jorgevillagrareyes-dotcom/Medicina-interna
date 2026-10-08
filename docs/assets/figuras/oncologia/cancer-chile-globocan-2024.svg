@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="960" height="560" fill="#ffffff"/>
+<text x="480.0" y="32" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Cáncer en Chile: los 10 más frecuentes (GLOBOCAN 2024, ambos sexos)</text>
+<rect x="190" y="50" width="16" height="12" fill="#1f5f99"/><text x="212" y="61" font-size="13" fill="#1f2933">Casos nuevos al año</text>
+<rect x="380" y="50" width="16" height="12" fill="#c92a2a"/><text x="402" y="61" font-size="13" fill="#1f2933">Muertes al año</text>
+<line x1="190.0" y1="84" x2="190.0" y2="510" stroke="#dee2e6" stroke-width="1"/>
+<text x="190.0" y="528" text-anchor="middle" font-size="12" fill="#495057">0</text>
+<line x1="262.2" y1="84" x2="262.2" y2="510" stroke="#dee2e6" stroke-width="1"/>
+<text x="262.2" y="528" text-anchor="middle" font-size="12" fill="#495057">1 000</text>
+<line x1="334.4" y1="84" x2="334.4" y2="510" stroke="#dee2e6" stroke-width="1"/>
+<text x="334.4" y="528" text-anchor="middle" font-size="12" fill="#495057">2 000</text>
+<line x1="406.7" y1="84" x2="406.7" y2="510" stroke="#dee2e6" stroke-width="1"/>
+<text x="406.7" y="528" text-anchor="middle" font-size="12" fill="#495057">3 000</text>
+<line x1="478.9" y1="84" x2="478.9" y2="510" stroke="#dee2e6" stroke-width="1"/>
+<text x="478.9" y="528" text-anchor="middle" font-size="12" fill="#495057">4 000</text>
+<line x1="551.1" y1="84" x2="551.1" y2="510" stroke="#dee2e6" stroke-width="1"/>
+<text x="551.1" y="528" text-anchor="middle" font-size="12" fill="#495057">5 000</text>
+<line x1="623.3" y1="84" x2="623.3" y2="510" stroke="#dee2e6" stroke-width="1"/>
+<text x="623.3" y="528" text-anchor="middle" font-size="12" fill="#495057">6 000</text>
+<line x1="695.6" y1="84" x2="695.6" y2="510" stroke="#dee2e6" stroke-width="1"/>
+<text x="695.6" y="528" text-anchor="middle" font-size="12" fill="#495057">7 000</text>
+<line x1="767.8" y1="84" x2="767.8" y2="510" stroke="#dee2e6" stroke-width="1"/>
+<text x="767.8" y="528" text-anchor="middle" font-size="12" fill="#495057">8 000</text>
+<line x1="840.0" y1="84" x2="840.0" y2="510" stroke="#dee2e6" stroke-width="1"/>
+<text x="840.0" y="528" text-anchor="middle" font-size="12" fill="#495057">9 000</text>
+<text x="180" y="112" text-anchor="end" font-size="14" font-weight="600" fill="#1f2933">Próstata</text>
+<rect x="190" y="93" width="632.5" height="16" fill="#1f5f99"/>
+<text x="828.5" y="106" font-size="12" fill="#1f2933">8 758</text>
+<rect x="190" y="111" width="188.1" height="14" fill="#c92a2a"/>
+<text x="384.1" y="123" font-size="12" fill="#1f2933">2 605</text>
+<text x="180" y="154" text-anchor="end" font-size="14" font-weight="600" fill="#1f2933">Colorrecto</text>
+<rect x="190" y="135" width="575.2" height="16" fill="#1f5f99"/>
+<text x="771.2" y="148" font-size="12" fill="#1f2933">7 965</text>
+<rect x="190" y="153" width="274.0" height="14" fill="#c92a2a"/>
+<text x="470.0" y="165" font-size="12" fill="#1f2933">3 794</text>
+<text x="180" y="196" text-anchor="end" font-size="14" font-weight="600" fill="#1f2933">Estómago</text>
+<rect x="190" y="177" width="396.8" height="16" fill="#1f5f99"/>
+<text x="592.8" y="190" font-size="12" fill="#1f2933">5 494</text>
+<rect x="190" y="195" width="253.6" height="14" fill="#c92a2a"/>
+<text x="449.6" y="207" font-size="12" fill="#1f2933">3 511</text>
+<text x="180" y="238" text-anchor="end" font-size="14" font-weight="600" fill="#1f2933">Mama</text>
+<rect x="190" y="219" width="371.3" height="16" fill="#1f5f99"/>
+<text x="567.3" y="232" font-size="12" fill="#1f2933">5 141</text>
+<rect x="190" y="237" width="132.1" height="14" fill="#c92a2a"/>
+<text x="328.1" y="249" font-size="12" fill="#1f2933">1 829</text>
+<text x="180" y="280" text-anchor="end" font-size="14" font-weight="600" fill="#1f2933">Pulmón</text>
+<rect x="190" y="261" width="315.5" height="16" fill="#1f5f99"/>
+<text x="511.5" y="274" font-size="12" fill="#1f2933">4 368</text>
+<rect x="190" y="279" width="286.4" height="14" fill="#c92a2a"/>
+<text x="482.4" y="291" font-size="12" fill="#1f2933">3 965</text>
+<text x="180" y="322" text-anchor="end" font-size="14" font-weight="600" fill="#1f2933">Riñón</text>
+<rect x="190" y="303" width="166.5" height="16" fill="#1f5f99"/>
+<text x="362.5" y="316" font-size="12" fill="#1f2933">2 306</text>
+<rect x="190" y="321" width="81.8" height="14" fill="#c92a2a"/>
+<text x="277.8" y="333" font-size="12" fill="#1f2933">1 132</text>
+<text x="180" y="364" text-anchor="end" font-size="14" font-weight="600" fill="#1f2933">Vesícula biliar</text>
+<rect x="190" y="345" width="149.4" height="16" fill="#1f5f99"/>
+<text x="345.4" y="358" font-size="12" fill="#1f2933">2 068</text>
+<rect x="190" y="363" width="83.5" height="14" fill="#c92a2a"/>
+<text x="279.5" y="375" font-size="12" fill="#1f2933">1 156</text>
+<text x="180" y="406" text-anchor="end" font-size="14" font-weight="600" fill="#1f2933">Cuello uterino</text>
+<rect x="190" y="387" width="137.6" height="16" fill="#1f5f99"/>
+<text x="333.6" y="400" font-size="12" fill="#1f2933">1 905</text>
+<rect x="190" y="405" width="60.9" height="14" fill="#c92a2a"/>
+<text x="256.9" y="417" font-size="12" fill="#1f2933">843</text>
+<text x="180" y="448" text-anchor="end" font-size="14" font-weight="600" fill="#1f2933">Hígado</text>
+<rect x="190" y="429" width="133.0" height="16" fill="#1f5f99"/>
+<text x="329.0" y="442" font-size="12" fill="#1f2933">1 842</text>
+<rect x="190" y="447" width="125.7" height="14" fill="#c92a2a"/>
+<text x="321.7" y="459" font-size="12" fill="#1f2933">1 741</text>
+<text x="180" y="490" text-anchor="end" font-size="14" font-weight="600" fill="#1f2933">Páncreas</text>
+<rect x="190" y="471" width="130.9" height="16" fill="#1f5f99"/>
+<text x="326.9" y="484" font-size="12" fill="#1f2933">1 813</text>
+<rect x="190" y="489" width="128.4" height="14" fill="#c92a2a"/>
+<text x="324.4" y="501" font-size="12" fill="#1f2933">1 778</text>
+<text x="480.0" y="554" text-anchor="middle" font-size="13" fill="#495057">Total: 59 887 casos nuevos y 31 498 muertes. El pulmón es la 1.ª causa de muerte por cáncer pese a ser el 5.º en casos.</text>
+</svg>

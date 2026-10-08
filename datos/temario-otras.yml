@@ -743,6 +743,8 @@ especialidades:
       - cirugia/anestesia-y-perioperatorio/preoperatorio-posoperatorio-y-complicaciones.md
     - codigo: 4.01.3.013
       nombre: Epidemiología del cáncer.
+      resumen:
+      - cirugia/anestesia-y-perioperatorio/epidemiologia-del-cancer.md
     - codigo: 4.01.3.014
       nombre: Evaluación nutricional
       resumen:

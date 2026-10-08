@@ -6,7 +6,7 @@ hide:
 # Urología
 
 !!! info "Avance"
-    **43 de 43** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **43 de 43** temas tienen resumen. Todos los temas del perfil EUNACOM v3 (2026) están cubiertos.
 
 ## Resúmenes disponibles
 

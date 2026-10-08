@@ -187,8 +187,12 @@ def main():
                 "---\nhide:\n  - toc\n---\n",
                 f"# {sec['titulo']}\n",
                 f'!!! info "Avance"\n    **{hechas} de {n}** temas tienen resumen. '
-                "Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, "
-                "según el perfil EUNACOM v3 (2026).\n",
+                + (
+                    "Todos los temas del perfil EUNACOM v3 (2026) están cubiertos.\n"
+                    if hechas == n
+                    else "Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, "
+                    "según el perfil EUNACOM v3 (2026).\n"
+                ),
             ]
             if paginas:
                 partes.append("## Resúmenes disponibles\n")
