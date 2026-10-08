@@ -6,17 +6,18 @@ hide:
 # Vascular periférico
 
 !!! info "Avance"
-    **5 de 11** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **7 de 11** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
+- :material-check-circle:{ .ok title="Resumen disponible" } [Aneurisma de aorta abdominal, torácica, femoral y poplítea](aneurismas-aorticos-y-perifericos.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia arterial aguda (embolia y trombosis) y trauma vascular](isquemia-arterial-aguda-y-trauma-vascular.md)
 
 ## Situaciones clínicas
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 4.01.1.044 | Aneurisma de aorta torácica, femoral y poplítea | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.1.044 | Aneurisma de aorta torácica, femoral y poplítea | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Aneurisma de aorta abdominal, torácica, femoral y poplítea](aneurismas-aorticos-y-perifericos.md) |
 | 4.01.1.045 | Enfermedad renovascular | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.01.1.046 | Insuficiencia cerebro vascular | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.01.1.047 | Insuficiencia arterial crónica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones crónicas de la diabetes: nefropatía, retinopatía, neuropatía, enfermedad arterial periférica y pie diabético](../../endocrinologia/complicaciones-cronicas-de-la-diabetes.md) |
@@ -30,7 +31,7 @@ hide:
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 4.01.2.021 | Insufic. arterial aguda: embolia, trombosis, traumatismos | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia arterial aguda (embolia y trombosis) y trauma vascular](isquemia-arterial-aguda-y-trauma-vascular.md) |
-| 4.01.2.022 | Aneurisma de aorta abdominal | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.2.022 | Aneurisma de aorta abdominal | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Aneurisma de aorta abdominal, torácica, femoral y poplítea](aneurismas-aorticos-y-perifericos.md) |
 | 4.01.2.023 | Traumatismos vasculares | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia arterial aguda (embolia y trombosis) y trauma vascular](isquemia-arterial-aguda-y-trauma-vascular.md) |
 
 La división de cirugía en subespecialidades es propia del sitio; los códigos y niveles son los del perfil EUNACOM.

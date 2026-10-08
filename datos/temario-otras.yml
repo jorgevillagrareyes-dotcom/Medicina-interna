@@ -481,6 +481,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/vascular/aneurismas-aorticos-y-perifericos.md
     - codigo: 4.01.1.045
       nombre: Enfermedad renovascular
       dx: Sospecha
@@ -535,6 +537,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/vascular/aneurismas-aorticos-y-perifericos.md
     - codigo: 4.01.2.023
       nombre: Traumatismos vasculares
       dx: Sospecha

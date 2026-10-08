@@ -292,6 +292,7 @@ nav:
           - cirugia/torax/index.md
       - "Vascular periférico":
           - cirugia/vascular/index.md
+          - "Aneurisma de aorta abdominal, torácica, femoral y poplítea": cirugia/vascular/aneurismas-aorticos-y-perifericos.md
           - "Insuficiencia arterial aguda (embolia y trombosis) y trauma vascular": cirugia/vascular/isquemia-arterial-aguda-y-trauma-vascular.md
       - "Piel, partes blandas, heridas y quemaduras":
           - cirugia/piel-partes-blandas-y-quemaduras/index.md
