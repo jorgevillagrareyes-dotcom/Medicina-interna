@@ -6,7 +6,7 @@ hide:
 # Urología
 
 !!! info "Avance"
-    **7 de 43** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **8 de 43** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Situaciones clínicas
 
@@ -62,7 +62,7 @@ hide:
 | 4.03.3.001 | Epidemiología del cáncer de próstata | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.03.3.002 | Epidemiología del adenoma de próstata | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.03.3.003 | Epidemiologia del cáncer testicular | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.03.3.004 | Factores de riesgo y prevención de ETS | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.03.3.004 | Factores de riesgo y prevención de ETS | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de transmisión sexual y sífilis](../../infectologia/infecciones-de-transmision-sexual-y-sifilis.md) |
 | 4.03.3.005 | Screening de cáncer de próstata | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.03.3.006 | Trasplante renal, indicaciones y complicaciones | :material-clock-outline:{ .pend title="Pendiente" } |
 

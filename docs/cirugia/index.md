@@ -6,7 +6,7 @@ hide:
 # Cirugía
 
 !!! info "Avance"
-    **56 de 151** temas de cirugía del perfil EUNACOM v3 (2026) tienen resumen (2 páginas propias de la especialidad; el resto, en páginas de medicina interna que también cubren el tema).
+    **64 de 151** temas de cirugía del perfil EUNACOM v3 (2026) tienen resumen (4 páginas propias de la especialidad; el resto, en páginas de medicina interna que también cubren el tema).
 
 ## Subespecialidades
 
@@ -28,7 +28,7 @@ hide:
 
     ---
 
-    7 de 19 temas con resumen
+    13 de 19 temas con resumen
 
 -   **[Hígado, vías biliares y páncreas](higado-vias-biliares-y-pancreas/index.md)**
 
@@ -58,7 +58,7 @@ hide:
 
     ---
 
-    2 de 11 temas con resumen
+    3 de 11 temas con resumen
 
 -   **[Trauma, shock y paciente quirúrgico grave](trauma-y-shock/index.md)**
 
@@ -76,6 +76,6 @@ hide:
 
     ---
 
-    7 de 43 temas con resumen
+    8 de 43 temas con resumen
 
 </div>

@@ -6,11 +6,13 @@ hide:
 # Intestino delgado, colon y proctología
 
 !!! info "Avance"
-    **7 de 19** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **13 de 19** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
+- :material-check-circle:{ .ok title="Resumen disponible" } [Abscesos y fístulas anorrectales, enfermedad pilonidal, prolapso rectal, cáncer anal y condilomas](abscesos-fistulas-y-otras-patologias-anorrectales.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Apendicitis aguda](apendicitis-aguda.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Hemorroides y fisura anal](hemorroides-y-fisura-anal.md)
 
 ## Situaciones clínicas
 
@@ -23,11 +25,11 @@ hide:
 | 4.01.1.013 | Enfermedad diverticular no complicada | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](../../gastroenterologia/abdomen-agudo.md) |
 | 4.01.1.014 | Pólipos de colon y recto | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tumores de colon y cáncer colorrectal](../../gastroenterologia/tumores-de-colon-y-cancer-colorrectal.md) |
 | 4.01.1.015 | Cáncer colorectal | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tumores de colon y cáncer colorrectal](../../gastroenterologia/tumores-de-colon-y-cancer-colorrectal.md) |
-| 4.01.1.016 | Hemorroides - fisura anal | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.1.017 | Abscesos y fístulas ano rectales | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.1.018 | Enfermedades del seno pilonidal | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.1.019 | Cáncer anal | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.1.020 | Fisura anorectal | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.1.016 | Hemorroides - fisura anal | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hemorroides y fisura anal](hemorroides-y-fisura-anal.md) |
+| 4.01.1.017 | Abscesos y fístulas ano rectales | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abscesos y fístulas anorrectales, enfermedad pilonidal, prolapso rectal, cáncer anal y condilomas](abscesos-fistulas-y-otras-patologias-anorrectales.md) |
+| 4.01.1.018 | Enfermedades del seno pilonidal | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Abscesos y fístulas anorrectales, enfermedad pilonidal, prolapso rectal, cáncer anal y condilomas](abscesos-fistulas-y-otras-patologias-anorrectales.md) |
+| 4.01.1.019 | Cáncer anal | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abscesos y fístulas anorrectales, enfermedad pilonidal, prolapso rectal, cáncer anal y condilomas](abscesos-fistulas-y-otras-patologias-anorrectales.md) |
+| 4.01.1.020 | Fisura anorectal | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hemorroides y fisura anal](hemorroides-y-fisura-anal.md) |
 
 ## Situaciones clínicas de urgencia
 
@@ -37,7 +39,7 @@ hide:
 | 4.01.2.006 | Apendicitis aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Apendicitis aguda](apendicitis-aguda.md) |
 | 4.01.2.007 | Isquemia mesentérica aguda | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](../../gastroenterologia/abdomen-agudo.md) |
 | 4.01.2.008 | Enfermedad diverticular complicada | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](../../gastroenterologia/abdomen-agudo.md) |
-| 4.01.2.009 | Prolapso rectal | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.2.009 | Prolapso rectal | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abscesos y fístulas anorrectales, enfermedad pilonidal, prolapso rectal, cáncer anal y condilomas](abscesos-fistulas-y-otras-patologias-anorrectales.md) |
 
 ## Conocimientos generales
 

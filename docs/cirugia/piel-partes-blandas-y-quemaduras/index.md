@@ -6,7 +6,7 @@ hide:
 # Piel, partes blandas, heridas y quemaduras
 
 !!! info "Avance"
-    **2 de 11** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **3 de 11** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Situaciones clínicas
 
@@ -18,7 +18,7 @@ hide:
 | 4.01.1.055 | Abscesos, forúnculos, panadizos, flegmones | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de piel y partes blandas](../../infectologia/infecciones-piel-partes-blandas.md) |
 | 4.01.1.056 | Secuelas de quemaduras | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.01.1.057 | Cicatrices viciosas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.1.058 | Condilomas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.1.058 | Condilomas | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abscesos y fístulas anorrectales, enfermedad pilonidal, prolapso rectal, cáncer anal y condilomas](../intestino-colon-y-proctologia/abscesos-fistulas-y-otras-patologias-anorrectales.md) |
 | 4.01.1.059 | Onicocriptosis | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 
 ## Situaciones clínicas de urgencia

@@ -139,26 +139,36 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Completo
+      resumen:
+      - cirugia/intestino-colon-y-proctologia/hemorroides-y-fisura-anal.md
     - codigo: 4.01.1.017
       nombre: Abscesos y fístulas ano rectales
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/intestino-colon-y-proctologia/abscesos-fistulas-y-otras-patologias-anorrectales.md
     - codigo: 4.01.1.018
       nombre: Enfermedades del seno pilonidal
       dx: Específico
       tto: Inicial
       seg: Completo
+      resumen:
+      - cirugia/intestino-colon-y-proctologia/abscesos-fistulas-y-otras-patologias-anorrectales.md
     - codigo: 4.01.1.019
       nombre: Cáncer anal
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/intestino-colon-y-proctologia/abscesos-fistulas-y-otras-patologias-anorrectales.md
     - codigo: 4.01.1.020
       nombre: Fisura anorectal
       dx: Específico
       tto: Inicial
       seg: Completo
+      resumen:
+      - cirugia/intestino-colon-y-proctologia/hemorroides-y-fisura-anal.md
     urgencias:
     - codigo: 4.01.2.005
       nombre: Obstrucción Intestinal
@@ -193,6 +203,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/intestino-colon-y-proctologia/abscesos-fistulas-y-otras-patologias-anorrectales.md
     generales:
     - codigo: 4.01.3.004
       nombre: Colostomías
@@ -533,6 +545,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/intestino-colon-y-proctologia/abscesos-fistulas-y-otras-patologias-anorrectales.md
     - codigo: 4.01.1.059
       nombre: Onicocriptosis
       dx: Específico
@@ -850,6 +864,8 @@ especialidades:
       nombre: Epidemiologia del cáncer testicular
     - codigo: 4.03.3.004
       nombre: Factores de riesgo y prevención de ETS
+      resumen:
+      - infectologia/infecciones-de-transmision-sexual-y-sifilis.md
     - codigo: 4.03.3.005
       nombre: Screening de cáncer de próstata
     - codigo: 4.03.3.006
