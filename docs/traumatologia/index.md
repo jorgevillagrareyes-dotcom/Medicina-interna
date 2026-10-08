@@ -6,7 +6,7 @@ hide:
 # Traumatología
 
 !!! info "Avance"
-    **28 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **29 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
@@ -17,6 +17,7 @@ hide:
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fractura de la muñeca, heridas de la mano y lesiones de los nervios periféricos](fractura-de-muneca-heridas-de-la-mano-y-lesiones-de-nervios.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fractura inestable de la pelvis](fractura-inestable-de-pelvis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fracturas de diáfisis y metáfisis, y fracturas expuestas](fracturas-de-diafisis-y-metafisis-y-fracturas-expuestas.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Fracturas y disyunciones epifisarias del niño](fracturas-y-disyunciones-del-nino.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Tumores óseos (benignos, malignos primarios y metástasis óseas)](tumores-oseos.md)
 
 ## Situaciones clínicas
@@ -38,7 +39,7 @@ hide:
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 4.02.2.001 | Complicaciones de los traumatismos: sistémicas y vasculares | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones de los traumatismos (sistémicas y vasculares) y de la inmovilización con yeso](complicaciones-de-los-traumatismos-y-del-yeso.md) |
-| 4.02.2.002 | Disyunción-fractura del niño | Sospecha | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.2.002 | Disyunción-fractura del niño | Sospecha | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Fracturas y disyunciones epifisarias del niño](fracturas-y-disyunciones-del-nino.md) |
 | 4.02.2.003 | Esguince grado1 (acromioclavicular, dedos, rodilla y tobillo) | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Esguinces, luxación del hombro, luxofractura del tobillo y lesiones de partes blandas](esguinces-luxaciones-y-lesiones-de-partes-blandas.md) |
 | 4.02.2.004 | Fractura de cadera | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Caídas, hipotensión ortostática y fractura de cadera en el adulto mayor](../geriatria/caidas-hipotension-ortostatica-y-fractura-de-cadera.md) |
 | 4.02.2.005 | Fractura de la muñeca | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Fractura de la muñeca, heridas de la mano y lesiones de los nervios periféricos](fractura-de-muneca-heridas-de-la-mano-y-lesiones-de-nervios.md) |

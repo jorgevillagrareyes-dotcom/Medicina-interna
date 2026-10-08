@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 430" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="960" height="430" fill="#ffffff"/>
+<text x="480.0" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2933">Clasificación de Salter-Harris de las lesiones fisarias</text>
+<rect x="38.33333333333333" y="70" width="130" height="80" rx="38" fill="#f1e3c8" stroke="#8a6d3b" stroke-width="1.5"/>
+<rect x="38.33333333333333" y="150" width="130" height="14" fill="#9ecae1" stroke="#1f5f99" stroke-width="1.2"/>
+<path d="M38.33333333333333,164 L168.33333333333334,164 L143.33333333333334,224 L143.33333333333334,284 L63.33333333333333,284 L63.33333333333333,224 Z" fill="#f1e3c8" stroke="#8a6d3b" stroke-width="1.5"/>
+<line x1="38.33333333333333" y1="157.0" x2="168.33333333333334" y2="157.0" stroke="#c92a2a" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+<text x="103.33333333333333" y="316" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2933">Tipo I</text>
+<text x="103.33333333333333" y="340" text-anchor="middle" font-size="13" fill="#1f2933">Separación a través</text>
+<text x="103.33333333333333" y="358" text-anchor="middle" font-size="13" fill="#1f2933">de la fisis</text>
+<rect x="226.66666666666669" y="70" width="130" height="80" rx="38" fill="#f1e3c8" stroke="#8a6d3b" stroke-width="1.5"/>
+<rect x="226.66666666666669" y="150" width="130" height="14" fill="#9ecae1" stroke="#1f5f99" stroke-width="1.2"/>
+<path d="M226.66666666666669,164 L356.6666666666667,164 L331.6666666666667,224 L331.6666666666667,284 L251.66666666666669,284 L251.66666666666669,224 Z" fill="#f1e3c8" stroke="#8a6d3b" stroke-width="1.5"/>
+<path d="M226.66666666666669,157.0 L301.6666666666667,157.0 L350.6666666666667,219" stroke="#c92a2a" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+<text x="291.6666666666667" y="316" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2933">Tipo II</text>
+<text x="291.6666666666667" y="340" text-anchor="middle" font-size="13" fill="#1f2933">Fisis + fragmento</text>
+<text x="291.6666666666667" y="358" text-anchor="middle" font-size="13" fill="#1f2933">metafisario (la más frecuente)</text>
+<rect x="415.0" y="70" width="130" height="80" rx="38" fill="#f1e3c8" stroke="#8a6d3b" stroke-width="1.5"/>
+<rect x="415.0" y="150" width="130" height="14" fill="#9ecae1" stroke="#1f5f99" stroke-width="1.2"/>
+<path d="M415.0,164 L545.0,164 L520.0,224 L520.0,284 L440.0,284 L440.0,224 Z" fill="#f1e3c8" stroke="#8a6d3b" stroke-width="1.5"/>
+<path d="M545.0,157.0 L480.0,157.0 L480.0,74" stroke="#c92a2a" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+<text x="480.0" y="316" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2933">Tipo III</text>
+<text x="480.0" y="340" text-anchor="middle" font-size="13" fill="#1f2933">Fisis + epífisis</text>
+<text x="480.0" y="358" text-anchor="middle" font-size="13" fill="#1f2933">(intraarticular)</text>
+<rect x="603.3333333333334" y="70" width="130" height="80" rx="38" fill="#f1e3c8" stroke="#8a6d3b" stroke-width="1.5"/>
+<rect x="603.3333333333334" y="150" width="130" height="14" fill="#9ecae1" stroke="#1f5f99" stroke-width="1.2"/>
+<path d="M603.3333333333334,164 L733.3333333333334,164 L708.3333333333334,224 L708.3333333333334,284 L628.3333333333334,284 L628.3333333333334,224 Z" fill="#f1e3c8" stroke="#8a6d3b" stroke-width="1.5"/>
+<path d="M660.3333333333334,74 L674.3333333333334,164 L725.3333333333334,214" stroke="#c92a2a" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+<text x="668.3333333333334" y="316" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2933">Tipo IV</text>
+<text x="668.3333333333334" y="340" text-anchor="middle" font-size="13" fill="#1f2933">Metáfisis, fisis y epífisis</text>
+<text x="668.3333333333334" y="358" text-anchor="middle" font-size="13" fill="#1f2933">(intraarticular)</text>
+<rect x="791.6666666666667" y="70" width="130" height="80" rx="38" fill="#f1e3c8" stroke="#8a6d3b" stroke-width="1.5"/>
+<rect x="791.6666666666667" y="150" width="130" height="14" fill="#9ecae1" stroke="#1f5f99" stroke-width="1.2"/>
+<path d="M791.6666666666667,164 L921.6666666666667,164 L896.6666666666667,224 L896.6666666666667,284 L816.6666666666667,284 L816.6666666666667,224 Z" fill="#f1e3c8" stroke="#8a6d3b" stroke-width="1.5"/>
+<rect x="791.6666666666667" y="150" width="130.0" height="14" fill="#c92a2a" opacity="0.75"/>
+<path d="M856.6666666666667,42 L856.6666666666667,64" stroke="#495057" stroke-width="2.4"/><path d="M849.6666666666667,56 L856.6666666666667,66 L863.6666666666667,56" fill="none" stroke="#495057" stroke-width="2.4"/>
+<text x="856.6666666666667" y="316" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2933">Tipo V</text>
+<text x="856.6666666666667" y="340" text-anchor="middle" font-size="13" fill="#1f2933">Compresión (aplastamiento)</text>
+<text x="856.6666666666667" y="358" text-anchor="middle" font-size="13" fill="#1f2933">de la fisis</text>
+<text x="18.333333333333332" y="416" font-size="12.5" fill="#495057">Epífisis arriba (beige), fisis (azul), metáfisis abajo. Rojo: trazo de fractura. Los tipos III–V tienen más riesgo de alteración del crecimiento.</text>
+</svg>

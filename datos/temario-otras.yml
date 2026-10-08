@@ -1128,6 +1128,8 @@ especialidades:
       dx: Sospecha
       tto: Completo
       seg: Completo
+      resumen:
+      - traumatologia/fracturas-y-disyunciones-del-nino.md
     - codigo: 4.02.2.003
       nombre: Esguince grado1 (acromioclavicular, dedos, rodilla y tobillo)
       dx: Específico
@@ -2352,6 +2354,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - traumatologia/fracturas-y-disyunciones-del-nino.md
     - codigo: 2.01.2.010
       nombre: Hemorragia digestiva
       dx: Específico

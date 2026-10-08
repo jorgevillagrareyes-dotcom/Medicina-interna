@@ -6,7 +6,7 @@ hide:
 # Pediatría
 
 !!! info "Avance"
-    **3 de 190** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **4 de 190** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Situaciones clínicas
 
@@ -170,7 +170,7 @@ hide:
 | 2.01.2.007 | Emergencia hipertensiva | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 2.01.2.008 | Epistaxis | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 2.01.2.027 | Estatus convulsivo en el niño | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 2.01.2.009 | Fracturas | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 2.01.2.009 | Fracturas | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Fracturas y disyunciones epifisarias del niño](../traumatologia/fracturas-y-disyunciones-del-nino.md) |
 | 2.01.2.010 | Hemorragia digestiva | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 2.01.2.011 | Hipertensión endocraneana | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 2.01.2.012 | Insuficiencia cardíaca. Edema pulmonar | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
