@@ -285,6 +285,7 @@ nav:
       - "Cabeza y cuello, tiroides y mama":
           - cirugia/cabeza-cuello-tiroides-y-mama/index.md
           - "Cáncer de mama y diagnóstico precoz": cirugia/cabeza-cuello-tiroides-y-mama/cancer-de-mama.md
+          - "Heridas de cara y trauma maxilofacial": cirugia/cabeza-cuello-tiroides-y-mama/heridas-de-cara-y-trauma-maxilofacial.md
           - "Patología de las glándulas salivales y masa cervical": cirugia/cabeza-cuello-tiroides-y-mama/glandulas-salivales-y-masa-cervical.md
           - "Patología mamaria benigna": cirugia/cabeza-cuello-tiroides-y-mama/patologia-mamaria-benigna.md
       - "Tórax":
@@ -293,6 +294,8 @@ nav:
           - cirugia/vascular/index.md
       - "Piel, partes blandas, heridas y quemaduras":
           - cirugia/piel-partes-blandas-y-quemaduras/index.md
+          - "Heridas y contusiones menores, mordeduras, profilaxis antitetánica y antirrábica, y onicocriptosis": cirugia/piel-partes-blandas-y-quemaduras/heridas-menores-mordeduras-y-onicocriptosis.md
+          - "Quemaduras, secuelas, cicatrices viciosas, injertos y colgajos": cirugia/piel-partes-blandas-y-quemaduras/quemaduras-secuelas-y-cicatrices.md
       - "Trauma, shock y paciente quirúrgico grave":
           - cirugia/trauma-y-shock/index.md
           - "Trauma abdominal abierto y cerrado": cirugia/trauma-y-shock/trauma-abdominal.md

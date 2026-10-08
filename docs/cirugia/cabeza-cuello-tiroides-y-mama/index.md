@@ -6,11 +6,12 @@ hide:
 # Cabeza y cuello, tiroides y mama
 
 !!! info "Avance"
-    **7 de 9** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **9 de 9** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de mama y diagnóstico precoz](cancer-de-mama.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Heridas de cara y trauma maxilofacial](heridas-de-cara-y-trauma-maxilofacial.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Patología de las glándulas salivales y masa cervical](glandulas-salivales-y-masa-cervical.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Patología mamaria benigna](patologia-mamaria-benigna.md)
 
@@ -29,8 +30,8 @@ hide:
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 4.01.2.014 | Heridas de cara | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.2.015 | Trauma maxilofacial | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.2.014 | Heridas de cara | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Heridas de cara y trauma maxilofacial](heridas-de-cara-y-trauma-maxilofacial.md) |
+| 4.01.2.015 | Trauma maxilofacial | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Heridas de cara y trauma maxilofacial](heridas-de-cara-y-trauma-maxilofacial.md) |
 
 ## Conocimientos generales
 

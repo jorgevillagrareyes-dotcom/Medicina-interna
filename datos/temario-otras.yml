@@ -381,11 +381,15 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/cabeza-cuello-tiroides-y-mama/heridas-de-cara-y-trauma-maxilofacial.md
     - codigo: 4.01.2.015
       nombre: Trauma maxilofacial
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/cabeza-cuello-tiroides-y-mama/heridas-de-cara-y-trauma-maxilofacial.md
     generales:
     - codigo: 4.01.3.012
       nombre: Diagnóstico precoz del cáncer mamario
@@ -567,11 +571,15 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/piel-partes-blandas-y-quemaduras/quemaduras-secuelas-y-cicatrices.md
     - codigo: 4.01.1.057
       nombre: Cicatrices viciosas
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/piel-partes-blandas-y-quemaduras/quemaduras-secuelas-y-cicatrices.md
     - codigo: 4.01.1.058
       nombre: Condilomas
       dx: Sospecha
@@ -584,20 +592,28 @@ especialidades:
       dx: Específico
       tto: Completo
       seg: Completo
+      resumen:
+      - cirugia/piel-partes-blandas-y-quemaduras/heridas-menores-mordeduras-y-onicocriptosis.md
     urgencias:
     - codigo: 4.01.2.025
       nombre: Heridas y contusiones menores
       dx: Específico
       tto: Completo
       seg: Completo
+      resumen:
+      - cirugia/piel-partes-blandas-y-quemaduras/heridas-menores-mordeduras-y-onicocriptosis.md
     - codigo: 4.01.2.026
       nombre: Quemaduras
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/piel-partes-blandas-y-quemaduras/quemaduras-secuelas-y-cicatrices.md
     generales:
     - codigo: 4.01.3.011
       nombre: Conceptos generales sobre injertos y colgajos
+      resumen:
+      - cirugia/piel-partes-blandas-y-quemaduras/quemaduras-secuelas-y-cicatrices.md
   - carpeta: cirugia/trauma-y-shock
     titulo: Trauma, shock y paciente quirúrgico grave
     situaciones: []
@@ -653,6 +669,7 @@ especialidades:
       nombre: Tratamiento antitetánico y antirrábico
       resumen:
       - infectologia/tetanos.md
+      - cirugia/piel-partes-blandas-y-quemaduras/heridas-menores-mordeduras-y-onicocriptosis.md
   - carpeta: cirugia/anestesia-y-perioperatorio
     titulo: Anestesia y perioperatorio
     situaciones: []

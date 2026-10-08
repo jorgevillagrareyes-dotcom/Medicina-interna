@@ -29,7 +29,7 @@ hide:
 | Código | Tema | Resumen |
 |---|---|---|
 | 4.01.3.008 | Conceptos de manejo en situación de catástrofe (triage, extricación, inmovilización y transporte) | :material-check-circle:{ .ok title="Resumen disponible" } [Trauma, politraumatizado y manejo en catástrofes](trauma-y-politraumatizado.md) |
-| 4.01.3.018 | Tratamiento antitetánico y antirrábico | :material-check-circle:{ .ok title="Resumen disponible" } [Tétanos](../../infectologia/tetanos.md) |
+| 4.01.3.018 | Tratamiento antitetánico y antirrábico | :material-check-circle:{ .ok title="Resumen disponible" } [Tétanos](../../infectologia/tetanos.md) · [Heridas y contusiones menores, mordeduras, profilaxis antitetánica y antirrábica, y onicocriptosis](../piel-partes-blandas-y-quemaduras/heridas-menores-mordeduras-y-onicocriptosis.md) |
 
 La división de cirugía en subespecialidades es propia del sitio; los códigos y niveles son los del perfil EUNACOM.
 
