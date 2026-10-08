@@ -6,7 +6,11 @@ hide:
 # Vascular periférico
 
 !!! info "Avance"
-    **3 de 11** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **5 de 11** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+
+## Resúmenes disponibles
+
+- :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia arterial aguda (embolia y trombosis) y trauma vascular](isquemia-arterial-aguda-y-trauma-vascular.md)
 
 ## Situaciones clínicas
 
@@ -25,9 +29,9 @@ hide:
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 4.01.2.021 | Insufic. arterial aguda: embolia, trombosis, traumatismos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.2.021 | Insufic. arterial aguda: embolia, trombosis, traumatismos | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia arterial aguda (embolia y trombosis) y trauma vascular](isquemia-arterial-aguda-y-trauma-vascular.md) |
 | 4.01.2.022 | Aneurisma de aorta abdominal | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.2.023 | Traumatismos vasculares | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.2.023 | Traumatismos vasculares | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia arterial aguda (embolia y trombosis) y trauma vascular](isquemia-arterial-aguda-y-trauma-vascular.md) |
 
 La división de cirugía en subespecialidades es propia del sitio; los códigos y niveles son los del perfil EUNACOM.
 

@@ -528,6 +528,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/vascular/isquemia-arterial-aguda-y-trauma-vascular.md
     - codigo: 4.01.2.022
       nombre: Aneurisma de aorta abdominal
       dx: Específico
@@ -538,6 +540,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/vascular/isquemia-arterial-aguda-y-trauma-vascular.md
     generales: []
   - carpeta: cirugia/piel-partes-blandas-y-quemaduras
     titulo: Piel, partes blandas, heridas y quemaduras
