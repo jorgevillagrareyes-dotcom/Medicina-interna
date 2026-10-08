@@ -5,8 +5,8 @@ hide:
 
 # Ginecología y obstetricia
 
-!!! info "En preparación"
-    **0 de 69** temas de ginecología y obstetricia tienen resumen. Esta es la lista de temas que se van a escribir, según el perfil EUNACOM v3 (2026); los temas pendientes están marcados con :material-clock-outline:.
+!!! info "Avance"
+    **10 de 69** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Situaciones clínicas
 
@@ -15,35 +15,35 @@ hide:
 | 3.01.1.001 | Aborto espontáneo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.002 | Anemia y embarazo | Específico | Completo | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.003 | Colestasia gravídica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 3.01.1.004 | Diabetes y embarazo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.004 | Diabetes y embarazo | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Diabetes y embarazo: diabetes gestacional y diabetes pregestacional](../endocrinologia/diabetes-y-embarazo.md) |
 | 3.01.1.005 | Embarazo con edad gestacional dudosa | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.006 | Embarazo ectópico no complicado | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.007 | Embarazo múltiple | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.008 | Enfermedad del trofoblasto | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.009 | Macrosomía fetal | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.010 | Restricción de crecimiento fetal | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 3.01.1.011 | Síndrome hipertensivo del embarazo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 3.01.1.012 | Amenorrea | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.011 | Síndrome hipertensivo del embarazo | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Preeclampsia y síndrome hipertensivo del embarazo](../nefrologia/preeclampsia-y-sindrome-hipertensivo-del-embarazo.md) |
+| 3.01.1.012 | Amenorrea | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hirsutismo, amenorrea y síndrome de ovario poliquístico](../endocrinologia/hirsutismo-amenorrea-y-ovario-poliquistico.md) |
 | 3.01.1.013 | Cáncer cervicouterino | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.014 | Dolor pelviano y dismenorrea | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.015 | Endometriosis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.016 | Enfermedad preinvasora del cuello uterino-Lesiones genitales intraepiteliales (NIE-HPV) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 3.01.1.017 | Enfermedades de transmisión sexual | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.017 | Enfermedades de transmisión sexual | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de transmisión sexual y sífilis](../infectologia/infecciones-de-transmision-sexual-y-sifilis.md) |
 | 3.01.1.018 | Hemorragia genital anormal | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.019 | Infecciones genitourinarias | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.020 | Infertilidad conyugal | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.021 | Mioma uterino | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 3.01.1.022 | Oligoanovulación crónica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.022 | Oligoanovulación crónica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hirsutismo, amenorrea y síndrome de ovario poliquístico](../endocrinologia/hirsutismo-amenorrea-y-ovario-poliquistico.md) |
 | 3.01.1.023 | Patología benigna del endometrio (hiperplasia, pólipos…) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.024 | Patología maligna del endometrio | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.025 | Proceso inflamatorio pelviano | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.026 | Prolapso genital | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 3.01.1.027 | Síndrome climatérico y menopausia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.027 | Síndrome climatérico y menopausia | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome climatérico y menopausia](../endocrinologia/climaterio-y-menopausia.md) |
 | 3.01.1.028 | Tumores ováricos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.029 | Patología benigna de mama | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.1.030 | Cáncer de mama | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 3.01.1.031 | VIH en ginecobstetricia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 3.01.1.032 | Incontinencia urinaria | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.031 | VIH en ginecobstetricia | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infección por VIH y SIDA, candidiasis orofaríngea y esofágica, y diarrea en inmunosuprimidos](../infectologia/infeccion-por-vih.md) |
+| 3.01.1.032 | Incontinencia urinaria | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Incontinencia urinaria](../geriatria/incontinencia-urinaria.md) |
 
 ## Situaciones clínicas de urgencia
 
@@ -51,8 +51,8 @@ hide:
 |---|---|---|---|---|---|
 | 3.01.2.001 | Aborto provocado | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.2.002 | Absceso glándula de Bartolino | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 3.01.2.003 | Crisis hipertensiva del embarazo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 3.01.2.004 | Eclampsia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.003 | Crisis hipertensiva del embarazo | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Preeclampsia y síndrome hipertensivo del embarazo](../nefrologia/preeclampsia-y-sindrome-hipertensivo-del-embarazo.md) |
+| 3.01.2.004 | Eclampsia | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Preeclampsia y síndrome hipertensivo del embarazo](../nefrologia/preeclampsia-y-sindrome-hipertensivo-del-embarazo.md) |
 | 3.01.2.005 | Embarazo ectópico complicado | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.2.006 | Endometritis puerperal | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 3.01.2.007 | Hiperemesis gravídica | Específico | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |

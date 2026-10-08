@@ -5,21 +5,21 @@ hide:
 
 # Traumatología
 
-!!! info "En preparación"
-    **0 de 31** temas de traumatología tienen resumen. Esta es la lista de temas que se van a escribir, según el perfil EUNACOM v3 (2026); los temas pendientes están marcados con :material-clock-outline:.
+!!! info "Avance"
+    **7 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Situaciones clínicas
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 4.02.1.001 | Artrosis primarias y secundarias | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.1.001 | Artrosis primarias y secundarias | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](../reumatologia/artrosis-y-reumatismos-de-partes-blandas.md) |
 | 4.02.1.002 | Displasia congénita de cadera | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.1.003 | Escoliosis y deformidades vertebrales | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.02.1.004 | Infecciones osteoarticulares | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.02.1.005 | Lumbago mecánico | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.02.1.006 | Lumbociática radicular | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.1.004 | Infecciones osteoarticulares | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Monoartritis aguda: gota, artritis séptica y enfermedad por pirofosfato de calcio](../reumatologia/monoartritis-gota-artritis-septica.md) · [Osteomielitis](../infectologia/osteomielitis.md) |
+| 4.02.1.005 | Lumbago mecánico | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](../reumatologia/lumbago-lumbociatica-y-cervicalgia.md) |
+| 4.02.1.006 | Lumbociática radicular | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](../reumatologia/lumbago-lumbociatica-y-cervicalgia.md) |
 | 4.02.1.007 | Pie plano | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.02.1.008 | Síndrome de hombro doloroso | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.1.008 | Síndrome de hombro doloroso | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](../reumatologia/artrosis-y-reumatismos-de-partes-blandas.md) |
 | 4.02.1.009 | Tumores óseos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 
 ## Situaciones clínicas de urgencia
@@ -29,7 +29,7 @@ hide:
 | 4.02.2.001 | Complicaciones de los traumatismos: sistémicas y vasculares | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.2.002 | Disyunción-fractura del niño | Sospecha | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.2.003 | Esguince grado1 (acromioclavicular, dedos, rodilla y tobillo) | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.02.2.004 | Fractura de cadera | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.2.004 | Fractura de cadera | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Caídas, hipotensión ortostática y fractura de cadera en el adulto mayor](../geriatria/caidas-hipotension-ortostatica-y-fractura-de-cadera.md) |
 | 4.02.2.005 | Fractura de la muñeca | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.2.006 | Fractura inestable de la pelvis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.2.007 | Fracturas de diáfisis y metáfisis | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -40,7 +40,7 @@ hide:
 | 4.02.2.012 | Luxación del hombro | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.2.013 | Luxofractura del tobillo | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.2.014 | Politraumatizado | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.02.2.015 | Trauma raquimedular | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.2.015 | Trauma raquimedular | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Debilidad aguda: síndrome de Guillain-Barré, paraplejia y cuadriplejia aguda y trauma raquimedular](../neurologia/debilidad-aguda-guillain-barre-y-mielopatias.md) |
 
 ## Conocimientos generales
 

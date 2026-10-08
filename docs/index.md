@@ -27,25 +27,43 @@ Usa el buscador (arriba) para saltar directo a un tema, un fármaco o un criteri
 
     ---
 
-    Cirugía general, anestesia y urología. En preparación · 151 temas pendientes
+    Digestiva, tórax, vascular, cabeza y cuello, trauma, anestesia y urología. En preparación · **54 de 151** temas con resumen
 
 -   :material-bone:{ .lg .middle } **[Traumatología](traumatologia/index.md)**
 
     ---
 
-    Fracturas, luxaciones, columna y ortopedia. En preparación · 31 temas pendientes
+    Fracturas, luxaciones, columna y ortopedia. En preparación · **7 de 31** temas con resumen
 
 -   :material-human-pregnant:{ .lg .middle } **[Ginecología y obstetricia](ginecologia-obstetricia/index.md)**
 
     ---
 
-    Embarazo, parto, puerperio y ginecología. En preparación · 69 temas pendientes
+    Embarazo, parto, puerperio y ginecología. En preparación · **10 de 69** temas con resumen
 
 -   :material-baby-face-outline:{ .lg .middle } **[Pediatría](pediatria/index.md)**
 
     ---
 
-    Recién nacido, niño y adolescente. En preparación · 190 temas pendientes
+    Recién nacido, niño y adolescente. En preparación · **0 de 190** temas con resumen
+
+-   :material-brain:{ .lg .middle } **[Psiquiatría](psiquiatria/index.md)**
+
+    ---
+
+    Trastornos del ánimo, ansiedad, psicosis y adicciones. En preparación · **7 de 52** temas con resumen
+
+-   :material-eye-outline:{ .lg .middle } **[Especialidades](especialidades/index.md)**
+
+    ---
+
+    Dermatología, oftalmología y otorrinolaringología. En preparación · **22 de 157** temas con resumen
+
+-   :material-account-group:{ .lg .middle } **[Salud pública](salud-publica/index.md)**
+
+    ---
+
+    Epidemiología, sistema de salud y gestión. En preparación · **0 de 55** temas con resumen
 
 </div>
 <!-- especialidades:fin -->

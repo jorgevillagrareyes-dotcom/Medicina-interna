@@ -264,12 +264,46 @@ nav:
       - Urgencias: urgencias/index.md
   - Cirugía:
       - cirugia/index.md
+      - "Abdomen agudo, pared abdominal y obesidad":
+          - cirugia/abdomen-agudo-y-pared/index.md
+      - "Esófago y estómago":
+          - cirugia/esofago-y-estomago/index.md
+      - "Intestino delgado, colon y proctología":
+          - cirugia/intestino-colon-y-proctologia/index.md
+      - "Hígado, vías biliares y páncreas":
+          - cirugia/higado-vias-biliares-y-pancreas/index.md
+      - "Cabeza y cuello, tiroides y mama":
+          - cirugia/cabeza-cuello-tiroides-y-mama/index.md
+      - "Tórax":
+          - cirugia/torax/index.md
+      - "Vascular periférico":
+          - cirugia/vascular/index.md
+      - "Piel, partes blandas, heridas y quemaduras":
+          - cirugia/piel-partes-blandas-y-quemaduras/index.md
+      - "Trauma, shock y paciente quirúrgico grave":
+          - cirugia/trauma-y-shock/index.md
+      - "Anestesia y perioperatorio":
+          - cirugia/anestesia-y-perioperatorio/index.md
+      - "Urología":
+          - cirugia/urologia/index.md
   - Traumatología:
       - traumatologia/index.md
   - Ginecología y obstetricia:
       - ginecologia-obstetricia/index.md
   - Pediatría:
       - pediatria/index.md
+  - Psiquiatría:
+      - psiquiatria/index.md
+  - Especialidades:
+      - especialidades/index.md
+      - "Dermatología":
+          - especialidades/dermatologia/index.md
+      - "Oftalmología":
+          - especialidades/oftalmologia/index.md
+      - "Otorrinolaringología":
+          - especialidades/otorrinolaringologia/index.md
+  - Salud pública:
+      - salud-publica/index.md
   - Acerca de:
       - Cómo se hacen los resúmenes: acerca/metodologia.md
       - Temas GES y etiquetas: acerca/etiquetas.md

@@ -5,8 +5,8 @@ hide:
 
 # Pediatría
 
-!!! info "En preparación"
-    **0 de 190** temas de pediatría tienen resumen. Esta es la lista de temas que se van a escribir, según el perfil EUNACOM v3 (2026); los temas pendientes están marcados con :material-clock-outline:.
+!!! info "Avance"
+    **0 de 190** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Situaciones clínicas
 

@@ -38,10 +38,13 @@ CARPETAS = OrderedDict(
 
 # Otras especialidades: carpeta -> (ícono, descripción corta). El temario está en datos/temario-otras.yml.
 ICONOS = {
-    "cirugia": ("medical-bag", "Cirugía general, anestesia y urología"),
+    "cirugia": ("medical-bag", "Digestiva, tórax, vascular, cabeza y cuello, trauma, anestesia y urología"),
     "traumatologia": ("bone", "Fracturas, luxaciones, columna y ortopedia"),
     "ginecologia-obstetricia": ("human-pregnant", "Embarazo, parto, puerperio y ginecología"),
     "pediatria": ("baby-face-outline", "Recién nacido, niño y adolescente"),
+    "psiquiatria": ("brain", "Trastornos del ánimo, ansiedad, psicosis y adicciones"),
+    "especialidades": ("eye-outline", "Dermatología, oftalmología y otorrinolaringología"),
+    "salud-publica": ("account-group", "Epidemiología, sistema de salud y gestión"),
 }
 
 OK = ':material-check-circle:{ .ok title="Resumen disponible" }'
@@ -167,43 +170,68 @@ def main():
     (DOCS / "urgencias").mkdir(exist_ok=True)
     (DOCS / "urgencias" / "index.md").write_text("\n".join(partes), encoding="utf-8")
 
-    # Otras especialidades
+    # Otras especialidades (datos/temario-otras.yml): cada una tiene una o más secciones
     otras = yaml.safe_load((RAIZ / "datos" / "temario-otras.yml").read_text(encoding="utf-8"))["especialidades"]
     resumen_otras = []
     for esp in otras:
-        carpeta, titulo = esp["carpeta"], esp["titulo"]
-        filas = [f for g in esp["grupos"] for k in ("situaciones", "urgencias", "generales") for f in g[k]]
-        hechas, n = contar(filas)
-        paginas = paginas_de(carpeta) if (DOCS / carpeta).exists() else []
-        resumen_otras.append((esp, hechas, n, len(paginas)))
-        partes = [
-            "---\nhide:\n  - toc\n---\n",
-            f"# {titulo}\n",
-            f'!!! info "En preparación"\n    **{hechas} de {n}** temas de {titulo.lower()} tienen resumen. '
-            "Esta es la lista de temas que se van a escribir, según el perfil EUNACOM v3 (2026); "
-            "los temas pendientes están marcados con :material-clock-outline:.\n",
-        ]
-        if paginas:
-            partes.append("## Resúmenes disponibles\n")
-            partes.append(
-                "\n".join(f"- {OK} [{titulo_pagina(f'{carpeta}/{p.name}')}]({p.name})" for p in paginas) + "\n"
-            )
-        varios = len(esp["grupos"]) > 1
-        for g in esp["grupos"]:
-            nivel = "###" if varios else "##"
-            if varios:
-                partes.append(f"## {g['titulo']} ({g['codigo']})\n")
-            partes.append(f"{nivel} Situaciones clínicas\n")
-            partes.append(tabla(carpeta, g["situaciones"]) + "\n")
-            if g["urgencias"]:
-                partes.append(f"{nivel} Situaciones clínicas de urgencia\n")
-                partes.append(tabla(carpeta, g["urgencias"]) + "\n")
-            if g["generales"]:
-                partes.append(f"{nivel} Conocimientos generales\n")
-                partes.append(tabla_generales(carpeta, g["generales"]) + "\n")
-        partes.append(LEYENDA)
-        (DOCS / carpeta).mkdir(exist_ok=True)
-        (DOCS / carpeta / "index.md").write_text("\n".join(partes), encoding="utf-8")
+        e_hechas = e_n = e_pag = 0
+        secciones = []
+        for sec in esp["secciones"]:
+            carpeta = sec["carpeta"]
+            filas = sec["situaciones"] + sec["urgencias"] + sec["generales"]
+            hechas, n = contar(filas)
+            paginas = paginas_de(carpeta) if (DOCS / carpeta).exists() else []
+            e_hechas, e_n, e_pag = e_hechas + hechas, e_n + n, e_pag + len(paginas)
+            secciones.append((sec, hechas, n, paginas))
+            partes = [
+                "---\nhide:\n  - toc\n---\n",
+                f"# {sec['titulo']}\n",
+                f'!!! info "Avance"\n    **{hechas} de {n}** temas tienen resumen. '
+                "Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, "
+                "según el perfil EUNACOM v3 (2026).\n",
+            ]
+            if paginas:
+                partes.append("## Resúmenes disponibles\n")
+                partes.append(
+                    "\n".join(f"- {OK} [{titulo_pagina(f'{carpeta}/{p.name}')}]({p.name})" for p in paginas) + "\n"
+                )
+            if sec["situaciones"]:
+                partes.append("## Situaciones clínicas\n")
+                partes.append(tabla(carpeta, sec["situaciones"]) + "\n")
+            if sec["urgencias"]:
+                partes.append("## Situaciones clínicas de urgencia\n")
+                partes.append(tabla(carpeta, sec["urgencias"]) + "\n")
+            if sec["generales"]:
+                partes.append("## Conocimientos generales\n")
+                partes.append(tabla_generales(carpeta, sec["generales"]) + "\n")
+            if esp["carpeta"] == "cirugia":
+                partes.append(
+                    "La división de cirugía en subespecialidades es propia del sitio; los códigos y niveles son los del perfil EUNACOM.\n"
+                )
+            partes.append(LEYENDA)
+            (DOCS / carpeta).mkdir(parents=True, exist_ok=True)
+            (DOCS / carpeta / "index.md").write_text("\n".join(partes), encoding="utf-8")
+
+        if len(esp["secciones"]) > 1:
+            # Página de entrada con una tarjeta por subespecialidad
+            partes = [
+                "---\nhide:\n  - toc\n---\n",
+                f"# {esp['titulo']}\n",
+                f'!!! info "Avance"\n    **{e_hechas} de {e_n}** temas de {esp["titulo"].lower()} del perfil EUNACOM v3 (2026) '
+                f"tienen resumen ({e_pag} páginas propias de la especialidad; el resto, en páginas de medicina interna "
+                "que también cubren el tema).\n",
+                "## Subespecialidades\n",
+                '<div class="grid cards" markdown>\n',
+            ]
+            for sec, hechas, n, paginas in secciones:
+                rel = os.path.relpath(DOCS / sec["carpeta"] / "index.md", DOCS / esp["carpeta"]).replace(os.sep, "/")
+                partes.append(
+                    f"-   **[{sec['titulo']}]({rel})**\n\n    ---\n\n    {hechas} de {n} temas con resumen\n"
+                )
+            partes.append("</div>\n")
+            (DOCS / esp["carpeta"]).mkdir(exist_ok=True)
+            (DOCS / esp["carpeta"] / "index.md").write_text("\n".join(partes), encoding="utf-8")
+        resumen_otras.append((esp, e_hechas, e_n, e_pag, secciones))
 
     # Bloque de avance en la página de medicina interna
     portada = DOCS / "medicina-interna" / "index.md"
@@ -226,9 +254,9 @@ def main():
         f"    **{n_paginas} resúmenes** · {total_hechas} de {total} temas EUNACOM · "
         "10 subespecialidades y urgencias\n",
     ]
-    for esp, hechas, n, n_pag in resumen_otras:
+    for esp, hechas, n, n_pag, _ in resumen_otras:
         icono, desc = ICONOS.get(esp["carpeta"], ("book-open-variant", ""))
-        estado = f"**{n_pag} resúmenes** · {hechas} de {n} temas" if n_pag else f"En preparación · {n} temas pendientes"
+        estado = f"En preparación · **{hechas} de {n}** temas con resumen"
         tarjetas.append(
             f"-   :material-{icono}:{{ .lg .middle }} **[{esp['titulo']}]({esp['carpeta']}/index.md)**\n\n    ---\n\n"
             f"    {desc}. {estado}\n"
@@ -248,12 +276,21 @@ def main():
         for p in paginas_de(carpeta):
             nav.append(f'          - "{titulo_pagina(f"{carpeta}/{p.name}")}": {carpeta}/{p.name}')
     nav.append("      - Urgencias: urgencias/index.md")
-    for esp, _, _, n_pag in resumen_otras:
-        carpeta = esp["carpeta"]
+    for esp, _, _, _, secciones in resumen_otras:
         nav.append(f"  - {esp['titulo']}:")
-        nav.append(f"      - {carpeta}/index.md")
-        for p in paginas_de(carpeta):
-            nav.append(f'      - "{titulo_pagina(f"{carpeta}/{p.name}")}": {carpeta}/{p.name}')
+        if len(secciones) == 1:
+            carpeta = secciones[0][0]["carpeta"]
+            nav.append(f"      - {carpeta}/index.md")
+            for p in secciones[0][3]:
+                nav.append(f'      - "{titulo_pagina(f"{carpeta}/{p.name}")}": {carpeta}/{p.name}')
+            continue
+        nav.append(f"      - {esp['carpeta']}/index.md")
+        for sec, _, _, paginas in secciones:
+            carpeta = sec["carpeta"]
+            nav.append(f"      - \"{sec['titulo']}\":")
+            nav.append(f"          - {carpeta}/index.md")
+            for p in paginas:
+                nav.append(f'          - "{titulo_pagina(f"{carpeta}/{p.name}")}": {carpeta}/{p.name}')
     nav += [
         "  - Acerca de:",
         "      - Cómo se hacen los resúmenes: acerca/metodologia.md",
