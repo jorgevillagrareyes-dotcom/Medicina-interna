@@ -73,6 +73,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/esofago-y-estomago/tumores-gastricos-benignos.md
     - codigo: 4.01.1.008
       nombre: Cáncer gástrico
       dx: Sospecha
