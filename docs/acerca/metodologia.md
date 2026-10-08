@@ -1,5 +1,9 @@
 # Cómo se hacen los resúmenes
 
+## Autor
+
+Los resúmenes fueron elaborados por **Jorge Villagra**, interno de medicina, como material de estudio para el internado y el EUNACOM, y se comparten libremente con sus compañeros. Se pueden usar y compartir para estudiar, sin fines comerciales y citando la fuente.
+
 ## Fuentes
 
 Cada resumen se construye a partir de, en este orden de prioridad:

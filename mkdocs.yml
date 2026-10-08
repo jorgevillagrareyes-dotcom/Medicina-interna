@@ -1,7 +1,7 @@
 site_name: Medicina Interna
 site_description: Resúmenes de patologías de medicina interna por subespecialidad, basados en las guías clínicas vigentes.
 site_author: Jorge Villagra Reyes
-copyright: Uso personal de estudio. Contenido generado con apoyo de IA a partir de guías clínicas; verificar siempre con la fuente original.
+copyright: "Resúmenes elaborados por Jorge Villagra, interno de medicina, con apoyo de IA a partir de guías clínicas. Material de estudio de uso libre y sin fines comerciales; verificar siempre con la fuente original."
 use_directory_urls: false
 
 theme:

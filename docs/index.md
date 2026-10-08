@@ -6,7 +6,7 @@ hide:
 
 # Medicina Interna
 
-Resúmenes de estudio para el internado de medicina interna, ordenados por subespecialidad. Cada patología sigue la misma estructura y se basa en la versión vigente de las guías clínicas internacionales y chilenas, citadas al final de cada página.
+Resúmenes de estudio para el internado de medicina interna, elaborados por **Jorge Villagra**, interno de medicina, y ordenados por subespecialidad. Cada patología sigue la misma estructura y se basa en la versión vigente de las guías clínicas internacionales y chilenas, citadas al final de cada página.
 
 Usa el buscador (arriba) para saltar directo a un tema, un fármaco o un criterio diagnóstico.
 
