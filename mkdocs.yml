@@ -1,7 +1,7 @@
 site_name: La Ficha
 site_description: Resúmenes de medicina interna para el internado y el EUNACOM, por Jorge Villagra. Basados en las guías clínicas vigentes y con datos chilenos.
-site_url: https://jorgevillagrareyes-dotcom.github.io/Medicina-interna/
-repo_url: https://github.com/jorgevillagrareyes-dotcom/Medicina-interna
+site_url: https://jorgevillagrareyes-dotcom.github.io/laficha/
+repo_url: https://github.com/jorgevillagrareyes-dotcom/laficha
 repo_name: Código fuente
 site_author: Jorge Villagra Reyes
 copyright: "Resúmenes elaborados por Jorge Villagra, interno de medicina, con apoyo de IA a partir de guías clínicas. Material de estudio de uso libre y sin fines comerciales; verificar siempre con la fuente original."
