@@ -574,11 +574,15 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/piel-partes-blandas-y-quemaduras/tumores-de-partes-blandas.md
     - codigo: 4.01.1.054
       nombre: Tumores malignos de partes blandas
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/piel-partes-blandas-y-quemaduras/tumores-de-partes-blandas.md
     - codigo: 4.01.1.055
       nombre: Abscesos, forúnculos, panadizos, flegmones
       dx: Específico

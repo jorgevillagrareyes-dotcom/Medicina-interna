@@ -6,20 +6,21 @@ hide:
 # Piel, partes blandas, heridas y quemaduras
 
 !!! info "Avance"
-    **9 de 11** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **11 de 11** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Heridas y contusiones menores, mordeduras, profilaxis antitetánica y antirrábica, y onicocriptosis](heridas-menores-mordeduras-y-onicocriptosis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Quemaduras, secuelas, cicatrices viciosas, injertos y colgajos](quemaduras-secuelas-y-cicatrices.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Tumores benignos y malignos de partes blandas](tumores-de-partes-blandas.md)
 
 ## Situaciones clínicas
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 4.01.1.052 | Escaras | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Inmovilidad y úlceras (lesiones) por presión](../../geriatria/inmovilidad-y-ulceras-por-presion.md) |
-| 4.01.1.053 | Tumores benignos de partes blandas | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.1.054 | Tumores malignos de partes blandas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.1.053 | Tumores benignos de partes blandas | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tumores benignos y malignos de partes blandas](tumores-de-partes-blandas.md) |
+| 4.01.1.054 | Tumores malignos de partes blandas | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tumores benignos y malignos de partes blandas](tumores-de-partes-blandas.md) |
 | 4.01.1.055 | Abscesos, forúnculos, panadizos, flegmones | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de piel y partes blandas](../../infectologia/infecciones-piel-partes-blandas.md) |
 | 4.01.1.056 | Secuelas de quemaduras | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Quemaduras, secuelas, cicatrices viciosas, injertos y colgajos](quemaduras-secuelas-y-cicatrices.md) |
 | 4.01.1.057 | Cicatrices viciosas | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Quemaduras, secuelas, cicatrices viciosas, injertos y colgajos](quemaduras-secuelas-y-cicatrices.md) |

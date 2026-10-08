@@ -6,7 +6,7 @@ hide:
 # Cirugía
 
 !!! info "Avance"
-    **136 de 151** temas de cirugía del perfil EUNACOM v3 (2026) tienen resumen (31 páginas propias de la especialidad; el resto, en páginas de medicina interna que también cubren el tema).
+    **138 de 151** temas de cirugía del perfil EUNACOM v3 (2026) tienen resumen (32 páginas propias de la especialidad; el resto, en páginas de medicina interna que también cubren el tema).
 
 ## Subespecialidades
 
@@ -58,7 +58,7 @@ hide:
 
     ---
 
-    9 de 11 temas con resumen
+    11 de 11 temas con resumen
 
 -   **[Trauma, shock y paciente quirúrgico grave](trauma-y-shock/index.md)**
 
