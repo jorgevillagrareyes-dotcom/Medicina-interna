@@ -6,7 +6,11 @@ hide:
 # Traumatología
 
 !!! info "Avance"
-    **11 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **13 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+
+## Resúmenes disponibles
+
+- :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones de los traumatismos (sistémicas y vasculares) y de la inmovilización con yeso](complicaciones-de-los-traumatismos-y-del-yeso.md)
 
 ## Situaciones clínicas
 
@@ -26,7 +30,7 @@ hide:
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 4.02.2.001 | Complicaciones de los traumatismos: sistémicas y vasculares | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.2.001 | Complicaciones de los traumatismos: sistémicas y vasculares | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones de los traumatismos (sistémicas y vasculares) y de la inmovilización con yeso](complicaciones-de-los-traumatismos-y-del-yeso.md) |
 | 4.02.2.002 | Disyunción-fractura del niño | Sospecha | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.2.003 | Esguince grado1 (acromioclavicular, dedos, rodilla y tobillo) | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.2.004 | Fractura de cadera | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Caídas, hipotensión ortostática y fractura de cadera en el adulto mayor](../geriatria/caidas-hipotension-ortostatica-y-fractura-de-cadera.md) |
@@ -47,7 +51,7 @@ hide:
 | Código | Tema | Resumen |
 |---|---|---|
 | 4.02.3.001 | Accidentes del trabajo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.02.3.002 | Complicaciones de la inmovilización con yeso | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.3.002 | Complicaciones de la inmovilización con yeso | :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones de los traumatismos (sistémicas y vasculares) y de la inmovilización con yeso](complicaciones-de-los-traumatismos-y-del-yeso.md) |
 | 4.02.3.003 | Factores de riesgo de artrosis | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](../reumatologia/artrosis-y-reumatismos-de-partes-blandas.md) |
 | 4.02.3.004 | Factores de riesgo de osteoporosis | :material-check-circle:{ .ok title="Resumen disponible" } [Osteoporosis primaria y secundaria](../endocrinologia/osteoporosis.md) |
 | 4.02.3.005 | Lumbociática radicular | :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](../reumatologia/lumbago-lumbociatica-y-cervicalgia.md) |

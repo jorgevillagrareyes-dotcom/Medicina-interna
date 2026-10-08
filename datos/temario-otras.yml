@@ -1113,6 +1113,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - traumatologia/complicaciones-de-los-traumatismos-y-del-yeso.md
     - codigo: 4.02.2.002
       nombre: Disyunción-fractura del niño
       dx: Sospecha
@@ -1194,6 +1196,8 @@ especialidades:
       nombre: Accidentes del trabajo
     - codigo: 4.02.3.002
       nombre: Complicaciones de la inmovilización con yeso
+      resumen:
+      - traumatologia/complicaciones-de-los-traumatismos-y-del-yeso.md
     - codigo: 4.02.3.003
       nombre: Factores de riesgo de artrosis
       resumen:
