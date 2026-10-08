@@ -127,6 +127,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/intestino-colon-y-proctologia/megacolon-y-ostomias.md
     - codigo: 4.01.1.013
       nombre: Enfermedad diverticular no complicada
       dx: Sospecha
@@ -222,8 +224,12 @@ especialidades:
     generales:
     - codigo: 4.01.3.004
       nombre: Colostomías
+      resumen:
+      - cirugia/intestino-colon-y-proctologia/megacolon-y-ostomias.md
     - codigo: 4.01.3.015
       nombre: Ileostomías
+      resumen:
+      - cirugia/intestino-colon-y-proctologia/megacolon-y-ostomias.md
   - carpeta: cirugia/higado-vias-biliares-y-pancreas
     titulo: Hígado, vías biliares y páncreas
     situaciones:

@@ -6,7 +6,7 @@ hide:
 # Intestino delgado, colon y proctología
 
 !!! info "Avance"
-    **16 de 19** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **19 de 19** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
@@ -14,6 +14,7 @@ hide:
 - :material-check-circle:{ .ok title="Resumen disponible" } [Apendicitis aguda](apendicitis-aguda.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Divertículo de Meckel, tumores y fístulas del intestino delgado](diverticulo-de-meckel-tumores-y-fistulas-del-intestino-delgado.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hemorroides y fisura anal](hemorroides-y-fisura-anal.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Megacolon, colostomías e ileostomías](megacolon-y-ostomias.md)
 
 ## Situaciones clínicas
 
@@ -22,7 +23,7 @@ hide:
 | 4.01.1.003 | Divertículo de Meckel | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Divertículo de Meckel, tumores y fístulas del intestino delgado](diverticulo-de-meckel-tumores-y-fistulas-del-intestino-delgado.md) |
 | 4.01.1.009 | Tumores del intestino delgado | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Divertículo de Meckel, tumores y fístulas del intestino delgado](diverticulo-de-meckel-tumores-y-fistulas-del-intestino-delgado.md) |
 | 4.01.1.011 | Fístulas del intestino delgado | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Divertículo de Meckel, tumores y fístulas del intestino delgado](diverticulo-de-meckel-tumores-y-fistulas-del-intestino-delgado.md) |
-| 4.01.1.012 | Megacolon | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.1.012 | Megacolon | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Megacolon, colostomías e ileostomías](megacolon-y-ostomias.md) |
 | 4.01.1.013 | Enfermedad diverticular no complicada | Sospecha | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](../../gastroenterologia/abdomen-agudo.md) |
 | 4.01.1.014 | Pólipos de colon y recto | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tumores de colon y cáncer colorrectal](../../gastroenterologia/tumores-de-colon-y-cancer-colorrectal.md) |
 | 4.01.1.015 | Cáncer colorectal | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tumores de colon y cáncer colorrectal](../../gastroenterologia/tumores-de-colon-y-cancer-colorrectal.md) |
@@ -46,8 +47,8 @@ hide:
 
 | Código | Tema | Resumen |
 |---|---|---|
-| 4.01.3.004 | Colostomías | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.3.015 | Ileostomías | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.3.004 | Colostomías | :material-check-circle:{ .ok title="Resumen disponible" } [Megacolon, colostomías e ileostomías](megacolon-y-ostomias.md) |
+| 4.01.3.015 | Ileostomías | :material-check-circle:{ .ok title="Resumen disponible" } [Megacolon, colostomías e ileostomías](megacolon-y-ostomias.md) |
 
 La división de cirugía en subespecialidades es propia del sitio; los códigos y niveles son los del perfil EUNACOM.
 
