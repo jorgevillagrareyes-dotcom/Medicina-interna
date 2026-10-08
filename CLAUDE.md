@@ -1,6 +1,6 @@
-# Medicina Interna: sitio de estudio
+# La Ficha: sitio de estudio de medicina interna
 
-Sitio MkDocs Material, en español de Chile, con resúmenes de patologías de medicina interna para un interno de medicina. El usuario aprobó el formato y la profundidad de los resúmenes piloto: mantenerlos.
+Sitio MkDocs Material llamado **La Ficha**, de Jorge Villagra (autor que debe figurar en portada, metodología y pie), en español de Chile, con resúmenes de patologías de medicina interna para un interno de medicina. El usuario aprobó el formato y la profundidad de los resúmenes piloto: mantenerlos.
 
 ## Estructura
 

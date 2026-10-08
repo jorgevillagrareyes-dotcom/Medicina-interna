@@ -4,7 +4,9 @@ hide:
   - toc
 ---
 
-# Medicina Interna
+# La Ficha
+
+**Resúmenes de medicina interna para el internado y el EUNACOM.**
 
 Resúmenes de estudio para el internado de medicina interna, elaborados por **Jorge Villagra**, interno de medicina, y ordenados por subespecialidad. Cada patología sigue la misma estructura y se basa en la versión vigente de las guías clínicas internacionales y chilenas, citadas al final de cada página.
 

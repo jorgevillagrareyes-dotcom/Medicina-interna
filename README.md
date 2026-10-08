@@ -1,6 +1,12 @@
-# Medicina Interna
+# La Ficha
 
-Sitio de estudio personal con resúmenes de patologías de medicina interna ordenados por subespecialidad, basados en las guías clínicas vigentes y con epidemiología chilena.
+Resúmenes de medicina interna para el internado y el EUNACOM, elaborados por **Jorge Villagra**, interno de medicina. Cubren las 385 situaciones clínicas de medicina interna del perfil EUNACOM v3 (2026), ordenadas por subespecialidad, con las guías clínicas vigentes y datos chilenos.
+
+**Leer en línea:** https://jorgevillagrareyes-dotcom.github.io/Medicina-interna/
+
+**Sin internet:** descarga el `.zip` de la última versión en [Releases](https://github.com/jorgevillagrareyes-dotcom/Medicina-interna/releases), descomprímelo y abre `index.html` (el buscador solo funciona en la versión en línea).
+
+Material de estudio de uso libre y sin fines comerciales. Los resúmenes se redactaron con apoyo de IA: verificar siempre las dosis y los criterios en la guía original.
 
 ## Ver el sitio en tu computador
 
