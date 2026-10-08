@@ -6,7 +6,7 @@ hide:
 # Urología
 
 !!! info "Avance"
-    **42 de 43** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **43 de 43** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
@@ -16,6 +16,7 @@ hide:
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hidronefrosis, uropatía obstructiva alta, malformaciones nefrourológicas y reflujo vesicoureteral](hidronefrosis-uropatia-obstructiva-y-malformaciones.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hiperplasia prostática benigna, retención urinaria, uropatía obstructiva baja y prostatitis](hiperplasia-prostatica-retencion-urinaria-y-prostatitis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Patología del pene: fimosis, parafimosis, balanitis, priapismo y disfunción eréctil](patologia-del-pene-y-disfuncion-erectil.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Trasplante renal: indicaciones y complicaciones](trasplante-renal.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Trauma urológico (renal, ureteral, vesical, uretral y genital)](trauma-urologico.md)
 
 ## Situaciones clínicas
@@ -74,7 +75,7 @@ hide:
 | 4.03.3.003 | Epidemiologia del cáncer testicular | :material-check-circle:{ .ok title="Resumen disponible" } [Escroto agudo y patología testicular](escroto-agudo-y-patologia-testicular.md) |
 | 4.03.3.004 | Factores de riesgo y prevención de ETS | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de transmisión sexual y sífilis](../../infectologia/infecciones-de-transmision-sexual-y-sifilis.md) |
 | 4.03.3.005 | Screening de cáncer de próstata | :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de próstata y tamizaje](cancer-de-prostata.md) |
-| 4.03.3.006 | Trasplante renal, indicaciones y complicaciones | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.03.3.006 | Trasplante renal, indicaciones y complicaciones | :material-check-circle:{ .ok title="Resumen disponible" } [Trasplante renal: indicaciones y complicaciones](trasplante-renal.md) |
 
 La división de cirugía en subespecialidades es propia del sitio; los códigos y niveles son los del perfil EUNACOM.
 

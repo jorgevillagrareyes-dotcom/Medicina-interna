@@ -944,6 +944,8 @@ especialidades:
       - cirugia/urologia/cancer-de-prostata.md
     - codigo: 4.03.3.006
       nombre: Trasplante renal, indicaciones y complicaciones
+      resumen:
+      - cirugia/urologia/trasplante-renal.md
 - carpeta: traumatologia
   titulo: Traumatología
   secciones:
