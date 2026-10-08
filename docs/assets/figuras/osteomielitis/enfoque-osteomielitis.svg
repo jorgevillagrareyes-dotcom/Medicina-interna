@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 764" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="960" height="764" fill="#ffffff"/>
+<text x="480" y="30" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Enfoque de la sospecha de osteomielitis en el adulto</text>
+<rect x="300" y="50" width="360" height="62" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="480.0" y="69.2" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f2933">Sospecha de osteomielitis</text>
+<text x="480.0" y="85.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Dolor óseo localizado, fiebre, VHS/PCR altas,</text>
+<text x="480.0" y="101.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">úlcera que no cicatriza o fístula</text>
+<rect x="300" y="128" width="360" height="54" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="480.0" y="151.3" text-anchor="middle" font-size="12.2" font-weight="700" fill="#c92a2a">¿Sepsis o compromiso neurológico?</text>
+<text x="480.0" y="167.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Sí: hemocultivos y antibiótico empírico inmediato</text>
+<line x1="480" y1="112" x2="480" y2="126" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="480" y1="182" x2="480" y2="196" stroke="#495057" stroke-width="1.6"/>
+<line x1="170" y1="196" x2="790" y2="196" stroke="#495057" stroke-width="1.6"/>
+<line x1="170.0" y1="196" x2="170.0" y2="214" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="480.0" y1="196" x2="480.0" y2="214" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="790.0" y1="196" x2="790.0" y2="214" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="20" y="216" width="300" height="38" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="170.0" y="239.4" text-anchor="middle" font-size="14" font-weight="700" fill="#1f5f99">Vertebral (espondilodiscitis)</text>
+<rect x="20" y="266" width="300" height="54.4" rx="8" fill="#ffffff" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="170.0" y="281.4" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">Clínica</text>
+<text x="170.0" y="297.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Dolor de espalda nuevo, constante y</text>
+<text x="170.0" y="313.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">nocturno + fiebre o VHS/PCR altas</text>
+<line x1="170.0" y1="320.4" x2="170.0" y2="330.4" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="20" y="332.4" width="300" height="70.6" rx="8" fill="#f8f9fa" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="170.0" y="347.8" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">Estudio</text>
+<text x="170.0" y="364.0" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">2 hemocultivos, VHS/PCR</text>
+<text x="170.0" y="380.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Serología de Brucella si hay exposición</text>
+<text x="170.0" y="396.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">IGRA o PPD (descartar TBC)</text>
+<line x1="170.0" y1="403.0" x2="170.0" y2="413.0" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="20" y="415.0" width="300" height="54.4" rx="8" fill="#ffffff" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="170.0" y="430.4" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">Imagen</text>
+<text x="170.0" y="446.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">RM con gadolinio (de elección)</text>
+<text x="170.0" y="462.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Ver abscesos epidurales y paravertebrales</text>
+<line x1="170.0" y1="469.4" x2="170.0" y2="479.4" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="20" y="481.4" width="300" height="70.6" rx="8" fill="#f8f9fa" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="170.0" y="496.8" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">Etiología</text>
+<text x="170.0" y="513.0" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Hemocultivo con S. aureus: no biopsiar</text>
+<text x="170.0" y="529.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Hemocultivos negativos: biopsia por TC</text>
+<text x="170.0" y="545.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">(cultivo, micobacterias y biopsia)</text>
+<line x1="170.0" y1="552.0" x2="170.0" y2="562.0" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="20" y="564.0" width="300" height="70.6" rx="8" fill="#ffffff" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="170.0" y="579.4" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">Tratamiento</text>
+<text x="170.0" y="595.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Esperar la biopsia si está estable</text>
+<text x="170.0" y="611.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">6 semanas de antibiótico dirigido</text>
+<text x="170.0" y="628.0" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Cirugía si hay déficit o inestabilidad</text>
+<rect x="330" y="216" width="300" height="38" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="480.0" y="239.4" text-anchor="middle" font-size="14" font-weight="700" fill="#e8590c">Pie diabético</text>
+<rect x="330" y="266" width="300" height="54.4" rx="8" fill="#ffffff" stroke="#e8590c" stroke-width="1.6"/>
+<text x="480.0" y="281.4" text-anchor="middle" font-size="12.2" font-weight="700" fill="#e8590c">Clínica</text>
+<text x="480.0" y="297.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Úlcera profunda o crónica, dedo</text>
+<text x="480.0" y="313.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">en salchicha, hueso expuesto</text>
+<line x1="480.0" y1="320.4" x2="480.0" y2="330.4" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="330" y="332.4" width="300" height="70.6" rx="8" fill="#f8f9fa" stroke="#e8590c" stroke-width="1.6"/>
+<text x="480.0" y="347.8" text-anchor="middle" font-size="12.2" font-weight="700" fill="#e8590c">Estudio</text>
+<text x="480.0" y="364.0" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Sonda que toca el hueso (probe-to-bone)</text>
+<text x="480.0" y="380.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">VHS (> 70 mm/h apoya el diagnóstico)</text>
+<text x="480.0" y="396.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Cultivo de tejido, no de hisopado</text>
+<line x1="480.0" y1="403.0" x2="480.0" y2="413.0" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="330" y="415.0" width="300" height="54.4" rx="8" fill="#ffffff" stroke="#e8590c" stroke-width="1.6"/>
+<text x="480.0" y="430.4" text-anchor="middle" font-size="12.2" font-weight="700" fill="#e8590c">Imagen</text>
+<text x="480.0" y="446.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Radiografía del pie (repetir si es normal)</text>
+<text x="480.0" y="462.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">RM si persiste la duda</text>
+<line x1="480.0" y1="469.4" x2="480.0" y2="479.4" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="330" y="481.4" width="300" height="54.4" rx="8" fill="#f8f9fa" stroke="#e8590c" stroke-width="1.6"/>
+<text x="480.0" y="496.8" text-anchor="middle" font-size="12.2" font-weight="700" fill="#e8590c">Etiología</text>
+<text x="480.0" y="513.0" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Biopsia ósea (quirúrgica o percutánea)</text>
+<text x="480.0" y="529.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">si hay duda o mala respuesta</text>
+<line x1="480.0" y1="535.8" x2="480.0" y2="545.8" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="330" y="547.8" width="300" height="70.6" rx="8" fill="#ffffff" stroke="#e8590c" stroke-width="1.6"/>
+<text x="480.0" y="563.2" text-anchor="middle" font-size="12.2" font-weight="700" fill="#e8590c">Tratamiento</text>
+<text x="480.0" y="579.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Sin resección: 6 semanas</text>
+<text x="480.0" y="595.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Tras resección o amputación menor: 3 sem.</text>
+<text x="480.0" y="611.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Descarga, revascularización, cirugía</text>
+<rect x="640" y="216" width="300" height="38" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="790.0" y="239.4" text-anchor="middle" font-size="14" font-weight="700" fill="#7048e8">Contigüidad, trauma o prótesis</text>
+<rect x="640" y="266" width="300" height="54.4" rx="8" fill="#ffffff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="790.0" y="281.4" text-anchor="middle" font-size="12.2" font-weight="700" fill="#7048e8">Clínica</text>
+<text x="790.0" y="297.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Fractura expuesta, osteosíntesis,</text>
+<text x="790.0" y="313.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">úlcera por presión, fístula</text>
+<line x1="790.0" y1="320.4" x2="790.0" y2="330.4" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="640" y="332.4" width="300" height="54.4" rx="8" fill="#f8f9fa" stroke="#7048e8" stroke-width="1.6"/>
+<text x="790.0" y="347.8" text-anchor="middle" font-size="12.2" font-weight="700" fill="#7048e8">Estudio</text>
+<text x="790.0" y="364.0" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">VHS/PCR, hemocultivos si hay fiebre</text>
+<text x="790.0" y="380.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">No cultivar el trayecto fistuloso</text>
+<line x1="790.0" y1="386.79999999999995" x2="790.0" y2="396.79999999999995" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="640" y="398.79999999999995" width="300" height="54.4" rx="8" fill="#ffffff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="790.0" y="414.2" text-anchor="middle" font-size="12.2" font-weight="700" fill="#7048e8">Imagen</text>
+<text x="790.0" y="430.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Radiografía, TC (secuestros)</text>
+<text x="790.0" y="446.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">RM o PET-TC según el caso</text>
+<line x1="790.0" y1="453.19999999999993" x2="790.0" y2="463.19999999999993" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="640" y="465.19999999999993" width="300" height="54.4" rx="8" fill="#f8f9fa" stroke="#7048e8" stroke-width="1.6"/>
+<text x="790.0" y="480.6" text-anchor="middle" font-size="12.2" font-weight="700" fill="#7048e8">Etiología</text>
+<text x="790.0" y="496.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Cultivos óseos intraoperatorios</text>
+<text x="790.0" y="513.0" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">(varias muestras)</text>
+<line x1="790.0" y1="519.5999999999999" x2="790.0" y2="529.5999999999999" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="640" y="531.5999999999999" width="300" height="70.6" rx="8" fill="#ffffff" stroke="#7048e8" stroke-width="1.6"/>
+<text x="790.0" y="547.0" text-anchor="middle" font-size="12.2" font-weight="700" fill="#7048e8">Tratamiento</text>
+<text x="790.0" y="563.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Derivar a traumatología</text>
+<text x="790.0" y="579.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Desbridamiento + antibiótico</text>
+<text x="790.0" y="595.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Crónica: resecar el hueso necrótico</text>
+<rect x="20" y="652" width="920" height="74" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="480.0" y="677.2" text-anchor="middle" font-size="12.6" font-weight="700" fill="#2f9e44">Principios comunes</text>
+<text x="480.0" y="693.4" text-anchor="middle" font-size="12.6" font-weight="400" fill="#1f2933">Diagnóstico microbiológico antes de los antibióticos si el paciente está estable · cirugía si hay hueso necrótico, absceso o material infectado</text>
+<text x="480.0" y="709.6" text-anchor="middle" font-size="12.6" font-weight="400" fill="#1f2933">Paso precoz a la vía oral con buena biodisponibilidad (ensayo OVIVA) · control con VHS/PCR y clínica, no con RM de rutina</text>
+<text x="480" y="750" text-anchor="middle" font-size="11.5" font-weight="400" fill="#495057">Basado en IDSA 2015 (osteomielitis vertebral), IWGDF/IDSA 2023 (pie diabético) y OVIVA 2019. Esquema propio.</text>
+</svg>
