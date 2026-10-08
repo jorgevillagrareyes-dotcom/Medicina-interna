@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 634" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="960" height="634" fill="#ffffff"/>
+<text x="480" y="30" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Brucelosis, cólera y ántrax: exposición, clínica, diagnóstico y tratamiento</text>
+<rect x="20" y="50" width="300" height="40" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="170.0" y="74.4" text-anchor="middle" font-size="15" font-weight="700" fill="#e8590c">Brucelosis</text>
+<rect x="20" y="102" width="300" height="88" rx="8" fill="#ffffff" stroke="#e8590c" stroke-width="1.6"/>
+<text x="170.0" y="126.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#e8590c">Exposición</text>
+<text x="170.0" y="142.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Lácteos no pasteurizados (queso fresco),</text>
+<text x="170.0" y="158.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">carne cruda; veterinarios, ganaderos;</text>
+<text x="170.0" y="174.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">en el sur de Chile, perros (B. canis)</text>
+<line x1="170.0" y1="190" x2="170.0" y2="200" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="20" y="202" width="300" height="88" rx="8" fill="#f8f9fa" stroke="#e8590c" stroke-width="1.6"/>
+<text x="170.0" y="226.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#e8590c">Clínica</text>
+<text x="170.0" y="242.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Fiebre prolongada u ondulante, sudoración,</text>
+<text x="170.0" y="258.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">artralgias, hepatoesplenomegalia;</text>
+<text x="170.0" y="274.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">sacroileítis, espondilitis</text>
+<line x1="170.0" y1="290" x2="170.0" y2="300" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="20" y="302" width="300" height="88" rx="8" fill="#ffffff" stroke="#e8590c" stroke-width="1.6"/>
+<text x="170.0" y="326.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#e8590c">Diagnóstico</text>
+<text x="170.0" y="342.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Hemocultivos (avisar al laboratorio)</text>
+<text x="170.0" y="358.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Serología: rosa de Bengala, aglutinación</text>
+<text x="170.0" y="374.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">(B. canis necesita una prueba propia)</text>
+<line x1="170.0" y1="390" x2="170.0" y2="400" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="20" y="402" width="300" height="104" rx="8" fill="#f8f9fa" stroke="#e8590c" stroke-width="1.6"/>
+<text x="170.0" y="426.0" text-anchor="middle" font-size="12.2" font-weight="700" fill="#e8590c">Tratamiento</text>
+<text x="170.0" y="442.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Doxiciclina 6 semanas</text>
+<text x="170.0" y="458.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">+ gentamicina 7 días</text>
+<text x="170.0" y="474.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">(o + rifampicina 6 semanas)</text>
+<text x="170.0" y="490.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Espondilitis: ≥ 12 semanas</text>
+<rect x="330" y="50" width="300" height="40" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="480.0" y="74.4" text-anchor="middle" font-size="15" font-weight="700" fill="#1f5f99">Cólera</text>
+<rect x="330" y="102" width="300" height="88" rx="8" fill="#ffffff" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="480.0" y="126.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">Exposición</text>
+<text x="480.0" y="142.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Agua o mariscos contaminados;</text>
+<text x="480.0" y="158.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">viaje a zonas con brotes</text>
+<text x="480.0" y="174.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">(África, Asia, Haití)</text>
+<line x1="480.0" y1="190" x2="480.0" y2="200" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="330" y="202" width="300" height="88" rx="8" fill="#f8f9fa" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="480.0" y="226.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">Clínica</text>
+<text x="480.0" y="242.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Diarrea acuosa profusa "agua de arroz",</text>
+<text x="480.0" y="258.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">sin fiebre ni dolor; vómitos,</text>
+<text x="480.0" y="274.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">calambres; shock en horas</text>
+<line x1="480.0" y1="290" x2="480.0" y2="300" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="330" y="302" width="300" height="88" rx="8" fill="#ffffff" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="480.0" y="326.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">Diagnóstico</text>
+<text x="480.0" y="342.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Clínico ante la sospecha;</text>
+<text x="480.0" y="358.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">coprocultivo (medio TCBS)</text>
+<text x="480.0" y="374.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">y test rápido; notificar</text>
+<line x1="480.0" y1="390" x2="480.0" y2="400" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="330" y="402" width="300" height="104" rx="8" fill="#f8f9fa" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="480.0" y="426.0" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">Tratamiento</text>
+<text x="480.0" y="442.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Rehidratación: SRO o Ringer lactato</text>
+<text x="480.0" y="458.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">(100 mL/kg en 3 h si es grave)</text>
+<text x="480.0" y="474.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Doxiciclina 300 mg dosis única</text>
+<text x="480.0" y="490.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">o azitromicina 1 g dosis única</text>
+<rect x="640" y="50" width="300" height="40" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="790.0" y="74.4" text-anchor="middle" font-size="15" font-weight="700" fill="#c92a2a">Ántrax (carbunco)</text>
+<rect x="640" y="102" width="300" height="88" rx="8" fill="#ffffff" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="790.0" y="126.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#c92a2a">Exposición</text>
+<text x="790.0" y="142.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Animales muertos, cueros, lana,</text>
+<text x="790.0" y="158.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">carne de animales enfermos;</text>
+<text x="790.0" y="174.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">bioterrorismo (inhalatorio)</text>
+<line x1="790.0" y1="190" x2="790.0" y2="200" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="640" y="202" width="300" height="88" rx="8" fill="#f8f9fa" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="790.0" y="226.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#c92a2a">Clínica</text>
+<text x="790.0" y="242.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Cutáneo (> 95 %): pápula → vesícula</text>
+<text x="790.0" y="258.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">→ escara negra indolora con edema</text>
+<text x="790.0" y="274.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Inhalatorio: mediastinitis, shock</text>
+<line x1="790.0" y1="290" x2="790.0" y2="300" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="640" y="302" width="300" height="88" rx="8" fill="#ffffff" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="790.0" y="326.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#c92a2a">Diagnóstico</text>
+<text x="790.0" y="342.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Gram y cultivo de la lesión</text>
+<text x="790.0" y="358.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">(bacilos grampositivos grandes),</text>
+<text x="790.0" y="374.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">hemocultivos, PCR (ISP)</text>
+<line x1="790.0" y1="390" x2="790.0" y2="400" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="640" y="402" width="300" height="104" rx="8" fill="#f8f9fa" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="790.0" y="426.0" text-anchor="middle" font-size="12.2" font-weight="700" fill="#c92a2a">Tratamiento</text>
+<text x="790.0" y="442.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Cutáneo: ciprofloxacino o</text>
+<text x="790.0" y="458.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">doxiciclina VO 7–10 días</text>
+<text x="790.0" y="474.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Sistémico: 2 bactericidas IV + 1</text>
+<text x="790.0" y="490.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">inhibidor de proteínas + antitoxina</text>
+<rect x="20" y="522" width="920" height="74" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="480.0" y="547.2" text-anchor="middle" font-size="12.6" font-weight="700" fill="#2f9e44">Principios comunes</text>
+<text x="480.0" y="563.4" text-anchor="middle" font-size="12.6" font-weight="400" fill="#1f2933">La clave es la exposición: preguntar por alimentos, animales, ocupación y viajes · pedir los cultivos antes del antibiótico</text>
+<text x="480.0" y="579.6" text-anchor="middle" font-size="12.6" font-weight="400" fill="#1f2933">Avisar al laboratorio (riesgo de infección del personal) · notificar a la SEREMI · derivar a infectología</text>
+<text x="480" y="620" text-anchor="middle" font-size="11.5" font-weight="400" fill="#495057">Basado en las recomendaciones de Ioannina (brucelosis), la OMS (cólera) y los CDC 2023 (ántrax). Esquema propio.</text>
+</svg>

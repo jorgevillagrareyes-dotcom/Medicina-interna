@@ -646,11 +646,15 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/brucelosis-colera-y-antrax.md
   - codigo: 1.04.1.004
     nombre: Brucelosis
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/brucelosis-colera-y-antrax.md
   - codigo: 1.04.1.005
     nombre: Candidiasis oral y esofágica
     dx: Específico
@@ -670,6 +674,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/brucelosis-colera-y-antrax.md
   - codigo: 1.04.1.008
     nombre: Dengue
     dx: Sospecha

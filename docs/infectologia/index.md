@@ -8,10 +8,11 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **36 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
+    **39 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
+- :material-check-circle:{ .ok title="Resumen disponible" } [Brucelosis, cólera y ántrax](brucelosis-colera-y-antrax.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Dengue y malaria](dengue-y-malaria.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Endocarditis infecciosa](endocarditis-infecciosa.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fiebre tifoidea y paratifoidea](fiebre-tifoidea-y-paratifoidea.md)
@@ -38,11 +39,11 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 1.04.1.001 | Adenitis, adenoflegmón | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome mononucleósico, adenopatías y adenitis](sindrome-mononucleosico-y-adenitis.md) |
-| 1.04.1.003 | Ántrax | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.1.004 | Brucelosis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.003 | Ántrax | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Brucelosis, cólera y ántrax](brucelosis-colera-y-antrax.md) |
+| 1.04.1.004 | Brucelosis | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Brucelosis, cólera y ántrax](brucelosis-colera-y-antrax.md) |
 | 1.04.1.005 | Candidiasis oral y esofágica | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infección por VIH y SIDA, candidiasis orofaríngea y esofágica, y diarrea en inmunosuprimidos](infeccion-por-vih.md) |
 | 1.04.1.006 | Celulitis bacteriana | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de piel y partes blandas](infecciones-piel-partes-blandas.md) |
-| 1.04.1.007 | Cólera | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.007 | Cólera | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Brucelosis, cólera y ántrax](brucelosis-colera-y-antrax.md) |
 | 1.04.1.008 | Dengue | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Dengue y malaria](dengue-y-malaria.md) |
 | 1.04.1.009 | Diarrea asociada a antibióticos | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](../gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md) |
 | 1.04.1.010 | Enfermedades de transmisión sexual | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de transmisión sexual y sífilis](infecciones-de-transmision-sexual-y-sifilis.md) |
