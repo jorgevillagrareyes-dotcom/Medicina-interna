@@ -286,11 +286,17 @@ nav:
           - cirugia/piel-partes-blandas-y-quemaduras/index.md
       - "Trauma, shock y paciente quirúrgico grave":
           - cirugia/trauma-y-shock/index.md
+          - "Trauma abdominal abierto y cerrado": cirugia/trauma-y-shock/trauma-abdominal.md
+          - "Trauma, politraumatizado y manejo en catástrofes": cirugia/trauma-y-shock/trauma-y-politraumatizado.md
       - "Anestesia y perioperatorio":
           - cirugia/anestesia-y-perioperatorio/index.md
       - "Urología":
           - cirugia/urologia/index.md
+          - "Cáncer de próstata y tamizaje": cirugia/urologia/cancer-de-prostata.md
           - "Escroto agudo y patología testicular": cirugia/urologia/escroto-agudo-y-patologia-testicular.md
+          - "Hematuria, cáncer de vejiga, tumor renal y tuberculosis urogenital": cirugia/urologia/hematuria-y-tumores-urologicos.md
+          - "Hiperplasia prostática benigna, retención urinaria, uropatía obstructiva baja y prostatitis": cirugia/urologia/hiperplasia-prostatica-retencion-urinaria-y-prostatitis.md
+          - "Trauma urológico (renal, ureteral, vesical, uretral y genital)": cirugia/urologia/trauma-urologico.md
   - Traumatología:
       - traumatologia/index.md
   - Ginecología y obstetricia:

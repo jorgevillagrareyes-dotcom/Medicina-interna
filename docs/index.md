@@ -27,7 +27,7 @@ Usa el buscador (arriba) para saltar directo a un tema, un fármaco o un criteri
 
     ---
 
-    Digestiva, tórax, vascular, cabeza y cuello, trauma, anestesia y urología. En preparación · **73 de 151** temas con resumen
+    Digestiva, tórax, vascular, cabeza y cuello, trauma, anestesia y urología. En preparación · **92 de 151** temas con resumen
 
 -   :material-bone:{ .lg .middle } **[Traumatología](traumatologia/index.md)**
 

@@ -575,6 +575,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/trauma-y-shock/trauma-abdominal.md
     - codigo: 4.01.2.020
       nombre: Traumatismo raquimedular
       dx: Sospecha
@@ -587,6 +589,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/trauma-y-shock/trauma-y-politraumatizado.md
     - codigo: 4.01.2.029
       nombre: Septicemia
       dx: Sospecha
@@ -611,6 +615,8 @@ especialidades:
     generales:
     - codigo: 4.01.3.008
       nombre: Conceptos de manejo en situación de catástrofe (triage, extricación, inmovilización y transporte)
+      resumen:
+      - cirugia/trauma-y-shock/trauma-y-politraumatizado.md
     - codigo: 4.01.3.018
       nombre: Tratamiento antitetánico y antirrábico
       resumen:
@@ -665,11 +671,15 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/urologia/cancer-de-prostata.md
     - codigo: 4.03.1.003
       nombre: Cáncer de vejiga y urotelio
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/urologia/hematuria-y-tumores-urologicos.md
     - codigo: 4.03.1.004
       nombre: Criptorquídea
       dx: Específico
@@ -701,6 +711,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/urologia/hiperplasia-prostatica-retencion-urinaria-y-prostatitis.md
     - codigo: 4.03.1.009
       nombre: Fimosis, parafimosis
       dx: Específico
@@ -711,6 +723,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/urologia/hematuria-y-tumores-urologicos.md
     - codigo: 4.03.1.011
       nombre: Hidrocele
       dx: Específico
@@ -728,6 +742,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Completo
+      resumen:
+      - cirugia/urologia/hiperplasia-prostatica-retencion-urinaria-y-prostatitis.md
     - codigo: 4.03.1.014
       nombre: Incontinencia urinaria
       dx: Específico
@@ -747,6 +763,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/urologia/hematuria-y-tumores-urologicos.md
     - codigo: 4.03.1.017
       nombre: Infertilidad masculina
       dx: Sospecha
@@ -783,6 +801,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/urologia/hematuria-y-tumores-urologicos.md
     - codigo: 4.03.1.023
       nombre: Tumor suprarrenal
       dx: Sospecha
@@ -814,6 +834,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/urologia/hiperplasia-prostatica-retencion-urinaria-y-prostatitis.md
     - codigo: 4.03.1.028
       nombre: Varicocele
       dx: Específico
@@ -834,6 +856,8 @@ especialidades:
       dx: Específico
       tto: Completo
       seg: Derivar
+      resumen:
+      - cirugia/urologia/hematuria-y-tumores-urologicos.md
     - codigo: 4.03.2.003
       nombre: Parafimosis
       dx: Específico
@@ -849,11 +873,15 @@ especialidades:
       dx: Específico
       tto: Completo
       seg: Derivar
+      resumen:
+      - cirugia/urologia/hiperplasia-prostatica-retencion-urinaria-y-prostatitis.md
     - codigo: 4.03.2.006
       nombre: Retención urinaria aguda
       dx: Específico
       tto: Completo
       seg: Derivar
+      resumen:
+      - cirugia/urologia/hiperplasia-prostatica-retencion-urinaria-y-prostatitis.md
     - codigo: 4.03.2.007
       nombre: Torsión testicular
       dx: Específico
@@ -866,16 +894,24 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/urologia/trauma-urologico.md
     - codigo: 4.03.2.009
       nombre: Traumatismo uretral
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/urologia/trauma-urologico.md
     generales:
     - codigo: 4.03.3.001
       nombre: Epidemiología del cáncer de próstata
+      resumen:
+      - cirugia/urologia/cancer-de-prostata.md
     - codigo: 4.03.3.002
       nombre: Epidemiología del adenoma de próstata
+      resumen:
+      - cirugia/urologia/hiperplasia-prostatica-retencion-urinaria-y-prostatitis.md
     - codigo: 4.03.3.003
       nombre: Epidemiologia del cáncer testicular
       resumen:
@@ -886,6 +922,8 @@ especialidades:
       - infectologia/infecciones-de-transmision-sexual-y-sifilis.md
     - codigo: 4.03.3.005
       nombre: Screening de cáncer de próstata
+      resumen:
+      - cirugia/urologia/cancer-de-prostata.md
     - codigo: 4.03.3.006
       nombre: Trasplante renal, indicaciones y complicaciones
 - carpeta: traumatologia

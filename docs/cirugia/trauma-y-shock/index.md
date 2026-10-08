@@ -6,15 +6,20 @@ hide:
 # Trauma, shock y paciente quirúrgico grave
 
 !!! info "Avance"
-    **5 de 8** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **8 de 8** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+
+## Resúmenes disponibles
+
+- :material-check-circle:{ .ok title="Resumen disponible" } [Trauma abdominal abierto y cerrado](trauma-abdominal.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Trauma, politraumatizado y manejo en catástrofes](trauma-y-politraumatizado.md)
 
 ## Situaciones clínicas de urgencia
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 4.01.2.010 | Trauma abdominal abierto y cerrado | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.2.010 | Trauma abdominal abierto y cerrado | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trauma abdominal abierto y cerrado](trauma-abdominal.md) |
 | 4.01.2.020 | Traumatismo raquimedular | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Debilidad aguda: síndrome de Guillain-Barré, paraplejia y cuadriplejia aguda y trauma raquimedular](../../neurologia/debilidad-aguda-guillain-barre-y-mielopatias.md) |
-| 4.01.2.027 | Trauma | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.2.027 | Trauma | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trauma, politraumatizado y manejo en catástrofes](trauma-y-politraumatizado.md) |
 | 4.01.2.029 | Septicemia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](../../infectologia/sepsis-y-shock-septico.md) |
 | 4.01.2.030 | Paro cardiorespiratorio | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Paro cardiorrespiratorio y arritmias con compromiso hemodinámico](../../cardiologia/paro-cardiorrespiratorio-y-arritmias.md) |
 | 4.01.2.031 | Shock | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](../../infectologia/sepsis-y-shock-septico.md) |
@@ -23,7 +28,7 @@ hide:
 
 | Código | Tema | Resumen |
 |---|---|---|
-| 4.01.3.008 | Conceptos de manejo en situación de catástrofe (triage, extricación, inmovilización y transporte) | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.3.008 | Conceptos de manejo en situación de catástrofe (triage, extricación, inmovilización y transporte) | :material-check-circle:{ .ok title="Resumen disponible" } [Trauma, politraumatizado y manejo en catástrofes](trauma-y-politraumatizado.md) |
 | 4.01.3.018 | Tratamiento antitetánico y antirrábico | :material-check-circle:{ .ok title="Resumen disponible" } [Tétanos](../../infectologia/tetanos.md) |
 
 La división de cirugía en subespecialidades es propia del sitio; los códigos y niveles son los del perfil EUNACOM.
