@@ -70,7 +70,7 @@ Octubre 2026
 
 !!! chile "Datos nacionales"
     - El **politraumatizado grave** (GES N.° 48) y el **TEC moderado o grave** (GES N.° 49) tienen garantía de atención en el servicio de urgencia y de traslado a un centro con capacidad resolutiva.
-    - Los **accidentes de tránsito** y del **trabajo** son causas importantes de fracturas de alta energía en adultos jóvenes. Las del trabajo los cubre la **Ley 16.744**.
+    - Los **accidentes de tránsito** y del **trabajo** son causas importantes de fracturas de alta energía en adultos jóvenes. Las del trabajo los cubre la **Ley 16.744** (ver [accidentes del trabajo](accidentes-del-trabajo-y-enfermedades-profesionales.md)).
     - **GES N.° 36** (ayudas técnicas en ≥ 65 años): bastón, andador y silla de ruedas para el adulto mayor tras una fractura (ver [fractura de cadera](../geriatria/caidas-hipotension-ortostatica-y-fractura-de-cadera.md)).
 
 ## Etiología y factores de riesgo

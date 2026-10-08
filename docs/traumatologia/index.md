@@ -6,10 +6,11 @@ hide:
 # Traumatología
 
 !!! info "Avance"
-    **29 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **30 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
+- :material-check-circle:{ .ok title="Resumen disponible" } [Accidentes del trabajo y enfermedades profesionales (Ley 16.744)](accidentes-del-trabajo-y-enfermedades-profesionales.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones de los traumatismos (sistémicas y vasculares) y de la inmovilización con yeso](complicaciones-de-los-traumatismos-y-del-yeso.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Displasia del desarrollo de la cadera (displasia luxante de caderas) y su pesquisa precoz](displasia-del-desarrollo-de-cadera.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Escoliosis, pie plano y otras alteraciones de la columna y de los pies en el niño](escoliosis-pie-plano-y-ortopedia-infantil.md)
@@ -58,7 +59,7 @@ hide:
 
 | Código | Tema | Resumen |
 |---|---|---|
-| 4.02.3.001 | Accidentes del trabajo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.3.001 | Accidentes del trabajo | :material-check-circle:{ .ok title="Resumen disponible" } [Accidentes del trabajo y enfermedades profesionales (Ley 16.744)](accidentes-del-trabajo-y-enfermedades-profesionales.md) |
 | 4.02.3.002 | Complicaciones de la inmovilización con yeso | :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones de los traumatismos (sistémicas y vasculares) y de la inmovilización con yeso](complicaciones-de-los-traumatismos-y-del-yeso.md) |
 | 4.02.3.003 | Factores de riesgo de artrosis | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](../reumatologia/artrosis-y-reumatismos-de-partes-blandas.md) |
 | 4.02.3.004 | Factores de riesgo de osteoporosis | :material-check-circle:{ .ok title="Resumen disponible" } [Osteoporosis primaria y secundaria](../endocrinologia/osteoporosis.md) |

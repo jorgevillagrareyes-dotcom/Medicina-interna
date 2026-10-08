@@ -33,7 +33,7 @@ Usa el buscador (arriba) para saltar directo a un tema, un fármaco o un criteri
 
     ---
 
-    Fracturas, luxaciones, columna y ortopedia. En preparación · **29 de 31** temas con resumen
+    Fracturas, luxaciones, columna y ortopedia. En preparación · **30 de 31** temas con resumen
 
 -   :material-human-pregnant:{ .lg .middle } **[Ginecología y obstetricia](ginecologia-obstetricia/index.md)**
 
@@ -57,7 +57,7 @@ Usa el buscador (arriba) para saltar directo a un tema, un fármaco o un criteri
 
     ---
 
-    Dermatología, oftalmología y otorrinolaringología. En preparación · **22 de 157** temas con resumen
+    Dermatología, oftalmología y otorrinolaringología. En preparación · **23 de 157** temas con resumen
 
 -   :material-account-group:{ .lg .middle } **[Salud pública](salud-publica/index.md)**
 

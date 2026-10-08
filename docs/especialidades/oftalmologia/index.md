@@ -6,7 +6,7 @@ hide:
 # Oftalmología
 
 !!! info "Avance"
-    **1 de 47** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **2 de 47** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Situaciones clínicas
 
@@ -63,7 +63,7 @@ hide:
 
 | Código | Tema | Resumen |
 |---|---|---|
-| 6.02.3.001 | Accidentes del trabajo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 6.02.3.001 | Accidentes del trabajo | :material-check-circle:{ .ok title="Resumen disponible" } [Accidentes del trabajo y enfermedades profesionales (Ley 16.744)](../../traumatologia/accidentes-del-trabajo-y-enfermedades-profesionales.md) |
 | 6.02.3.002 | Diabetes | :material-clock-outline:{ .pend title="Pendiente" } |
 | 6.02.3.003 | Examen visual en adulto | :material-clock-outline:{ .pend title="Pendiente" } |
 | 6.02.3.004 | Examen visual preventivo en niños | :material-clock-outline:{ .pend title="Pendiente" } |
