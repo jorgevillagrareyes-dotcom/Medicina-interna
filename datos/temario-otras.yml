@@ -1148,6 +1148,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - traumatologia/fractura-inestable-de-pelvis.md
     - codigo: 4.02.2.007
       nombre: Fracturas de diáfisis y metáfisis
       dx: Específico
