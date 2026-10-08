@@ -6,11 +6,12 @@ hide:
 # Traumatología
 
 !!! info "Avance"
-    **24 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **26 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones de los traumatismos (sistémicas y vasculares) y de la inmovilización con yeso](complicaciones-de-los-traumatismos-y-del-yeso.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Displasia del desarrollo de la cadera (displasia luxante de caderas) y su pesquisa precoz](displasia-del-desarrollo-de-cadera.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Esguinces, luxación del hombro, luxofractura del tobillo y lesiones de partes blandas](esguinces-luxaciones-y-lesiones-de-partes-blandas.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fractura de la muñeca, heridas de la mano y lesiones de los nervios periféricos](fractura-de-muneca-heridas-de-la-mano-y-lesiones-de-nervios.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fractura inestable de la pelvis](fractura-inestable-de-pelvis.md)
@@ -22,7 +23,7 @@ hide:
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 4.02.1.001 | Artrosis primarias y secundarias | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](../reumatologia/artrosis-y-reumatismos-de-partes-blandas.md) |
-| 4.02.1.002 | Displasia congénita de cadera | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.1.002 | Displasia congénita de cadera | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Displasia del desarrollo de la cadera (displasia luxante de caderas) y su pesquisa precoz](displasia-del-desarrollo-de-cadera.md) |
 | 4.02.1.003 | Escoliosis y deformidades vertebrales | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.1.004 | Infecciones osteoarticulares | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Monoartritis aguda: gota, artritis séptica y enfermedad por pirofosfato de calcio](../reumatologia/monoartritis-gota-artritis-septica.md) · [Osteomielitis](../infectologia/osteomielitis.md) |
 | 4.02.1.005 | Lumbago mecánico | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](../reumatologia/lumbago-lumbociatica-y-cervicalgia.md) |
@@ -60,7 +61,7 @@ hide:
 | 4.02.3.003 | Factores de riesgo de artrosis | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](../reumatologia/artrosis-y-reumatismos-de-partes-blandas.md) |
 | 4.02.3.004 | Factores de riesgo de osteoporosis | :material-check-circle:{ .ok title="Resumen disponible" } [Osteoporosis primaria y secundaria](../endocrinologia/osteoporosis.md) |
 | 4.02.3.005 | Lumbociática radicular | :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](../reumatologia/lumbago-lumbociatica-y-cervicalgia.md) |
-| 4.02.3.006 | Prevención de displasia de cadera (diagnóstico precoz) | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.3.006 | Prevención de displasia de cadera (diagnóstico precoz) | :material-check-circle:{ .ok title="Resumen disponible" } [Displasia del desarrollo de la cadera (displasia luxante de caderas) y su pesquisa precoz](displasia-del-desarrollo-de-cadera.md) |
 | 4.02.3.007 | Triage | :material-clock-outline:{ .pend title="Pendiente" } |
 
 ## Cómo leer los niveles EUNACOM

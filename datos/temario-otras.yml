@@ -1063,6 +1063,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - traumatologia/displasia-del-desarrollo-de-cadera.md
     - codigo: 4.02.1.003
       nombre: Escoliosis y deformidades vertebrales
       dx: Sospecha
@@ -1234,6 +1236,8 @@ especialidades:
       - reumatologia/lumbago-lumbociatica-y-cervicalgia.md
     - codigo: 4.02.3.006
       nombre: Prevención de displasia de cadera (diagnóstico precoz)
+      resumen:
+      - traumatologia/displasia-del-desarrollo-de-cadera.md
     - codigo: 4.02.3.007
       nombre: Triage
 - carpeta: ginecologia-obstetricia
@@ -2032,6 +2036,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - traumatologia/displasia-del-desarrollo-de-cadera.md
     - codigo: 2.01.1.093
       nombre: Infecciones osteoarticulares
       dx: Específico
