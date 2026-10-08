@@ -743,6 +743,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/urologia/hidronefrosis-uropatia-obstructiva-y-malformaciones.md
     - codigo: 4.03.1.013
       nombre: Hiperplasia prostática benigna
       dx: Sospecha
@@ -790,6 +792,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/urologia/hidronefrosis-uropatia-obstructiva-y-malformaciones.md
     - codigo: 4.03.1.020
       nombre: Quistes del epidídimo
       dx: Específico
@@ -802,6 +806,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Completo
+      resumen:
+      - cirugia/urologia/hidronefrosis-uropatia-obstructiva-y-malformaciones.md
     - codigo: 4.03.1.022
       nombre: Tumor renal
       dx: Sospecha
@@ -835,6 +841,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/urologia/hidronefrosis-uropatia-obstructiva-y-malformaciones.md
     - codigo: 4.03.1.027
       nombre: Uropatía obstructiva baja
       dx: Sospecha
