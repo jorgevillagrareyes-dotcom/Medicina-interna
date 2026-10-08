@@ -488,11 +488,15 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/vascular/enfermedad-renovascular-y-carotidea.md
     - codigo: 4.01.1.046
       nombre: Insuficiencia cerebro vascular
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/vascular/enfermedad-renovascular-y-carotidea.md
     - codigo: 4.01.1.047
       nombre: Insuficiencia arterial crónica
       dx: Específico

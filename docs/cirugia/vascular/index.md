@@ -6,11 +6,12 @@ hide:
 # Vascular periférico
 
 !!! info "Avance"
-    **9 de 11** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **11 de 11** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Aneurisma de aorta abdominal, torácica, femoral y poplítea](aneurismas-aorticos-y-perifericos.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renovascular e insuficiencia cerebrovascular (estenosis carotídea)](enfermedad-renovascular-y-carotidea.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Insuficiencia arterial aguda (embolia y trombosis) y trauma vascular](isquemia-arterial-aguda-y-trauma-vascular.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Várices, insuficiencia venosa crónica y úlceras de las piernas](varices-insuficiencia-venosa-y-ulceras-de-pierna.md)
 
@@ -19,8 +20,8 @@ hide:
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 4.01.1.044 | Aneurisma de aorta torácica, femoral y poplítea | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Aneurisma de aorta abdominal, torácica, femoral y poplítea](aneurismas-aorticos-y-perifericos.md) |
-| 4.01.1.045 | Enfermedad renovascular | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.1.046 | Insuficiencia cerebro vascular | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.1.045 | Enfermedad renovascular | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renovascular e insuficiencia cerebrovascular (estenosis carotídea)](enfermedad-renovascular-y-carotidea.md) |
+| 4.01.1.046 | Insuficiencia cerebro vascular | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad renovascular e insuficiencia cerebrovascular (estenosis carotídea)](enfermedad-renovascular-y-carotidea.md) |
 | 4.01.1.047 | Insuficiencia arterial crónica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones crónicas de la diabetes: nefropatía, retinopatía, neuropatía, enfermedad arterial periférica y pie diabético](../../endocrinologia/complicaciones-cronicas-de-la-diabetes.md) |
 | 4.01.1.048 | Várices. Insuficiencia venosa crónica | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Várices, insuficiencia venosa crónica y úlceras de las piernas](varices-insuficiencia-venosa-y-ulceras-de-pierna.md) |
 | 4.01.1.049 | Trombosis venosa profunda y tromboflebitis | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tromboembolismo pulmonar](../../respiratorio/tromboembolismo-pulmonar.md) |
