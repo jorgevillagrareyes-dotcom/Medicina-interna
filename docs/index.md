@@ -33,7 +33,7 @@ Usa el buscador (arriba) para saltar directo a un tema, un fármaco o un criteri
 
     ---
 
-    Fracturas, luxaciones, columna y ortopedia. En preparación · **26 de 31** temas con resumen
+    Fracturas, luxaciones, columna y ortopedia. En preparación · **28 de 31** temas con resumen
 
 -   :material-human-pregnant:{ .lg .middle } **[Ginecología y obstetricia](ginecologia-obstetricia/index.md)**
 
@@ -45,7 +45,7 @@ Usa el buscador (arriba) para saltar directo a un tema, un fármaco o un criteri
 
     ---
 
-    Recién nacido, niño y adolescente. En preparación · **1 de 190** temas con resumen
+    Recién nacido, niño y adolescente. En preparación · **3 de 190** temas con resumen
 
 -   :material-brain:{ .lg .middle } **[Psiquiatría](psiquiatria/index.md)**
 

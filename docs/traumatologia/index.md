@@ -6,12 +6,13 @@ hide:
 # Traumatología
 
 !!! info "Avance"
-    **26 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **28 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones de los traumatismos (sistémicas y vasculares) y de la inmovilización con yeso](complicaciones-de-los-traumatismos-y-del-yeso.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Displasia del desarrollo de la cadera (displasia luxante de caderas) y su pesquisa precoz](displasia-del-desarrollo-de-cadera.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Escoliosis, pie plano y otras alteraciones de la columna y de los pies en el niño](escoliosis-pie-plano-y-ortopedia-infantil.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Esguinces, luxación del hombro, luxofractura del tobillo y lesiones de partes blandas](esguinces-luxaciones-y-lesiones-de-partes-blandas.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fractura de la muñeca, heridas de la mano y lesiones de los nervios periféricos](fractura-de-muneca-heridas-de-la-mano-y-lesiones-de-nervios.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fractura inestable de la pelvis](fractura-inestable-de-pelvis.md)
@@ -24,11 +25,11 @@ hide:
 |---|---|---|---|---|---|
 | 4.02.1.001 | Artrosis primarias y secundarias | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](../reumatologia/artrosis-y-reumatismos-de-partes-blandas.md) |
 | 4.02.1.002 | Displasia congénita de cadera | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Displasia del desarrollo de la cadera (displasia luxante de caderas) y su pesquisa precoz](displasia-del-desarrollo-de-cadera.md) |
-| 4.02.1.003 | Escoliosis y deformidades vertebrales | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.1.003 | Escoliosis y deformidades vertebrales | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Escoliosis, pie plano y otras alteraciones de la columna y de los pies en el niño](escoliosis-pie-plano-y-ortopedia-infantil.md) |
 | 4.02.1.004 | Infecciones osteoarticulares | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Monoartritis aguda: gota, artritis séptica y enfermedad por pirofosfato de calcio](../reumatologia/monoartritis-gota-artritis-septica.md) · [Osteomielitis](../infectologia/osteomielitis.md) |
 | 4.02.1.005 | Lumbago mecánico | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](../reumatologia/lumbago-lumbociatica-y-cervicalgia.md) |
 | 4.02.1.006 | Lumbociática radicular | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](../reumatologia/lumbago-lumbociatica-y-cervicalgia.md) |
-| 4.02.1.007 | Pie plano | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.1.007 | Pie plano | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Escoliosis, pie plano y otras alteraciones de la columna y de los pies en el niño](escoliosis-pie-plano-y-ortopedia-infantil.md) |
 | 4.02.1.008 | Síndrome de hombro doloroso | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](../reumatologia/artrosis-y-reumatismos-de-partes-blandas.md) |
 | 4.02.1.009 | Tumores óseos | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Tumores óseos (benignos, malignos primarios y metástasis óseas)](tumores-oseos.md) |
 

@@ -1070,6 +1070,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - traumatologia/escoliosis-pie-plano-y-ortopedia-infantil.md
     - codigo: 4.02.1.004
       nombre: Infecciones osteoarticulares
       dx: Específico
@@ -1097,6 +1099,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - traumatologia/escoliosis-pie-plano-y-ortopedia-infantil.md
     - codigo: 4.02.1.008
       nombre: Síndrome de hombro doloroso
       dx: Específico
@@ -2031,6 +2035,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - traumatologia/escoliosis-pie-plano-y-ortopedia-infantil.md
     - codigo: 2.01.1.092
       nombre: Displasia de caderas
       dx: Específico
@@ -2048,6 +2054,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - traumatologia/escoliosis-pie-plano-y-ortopedia-infantil.md
     - codigo: 2.01.1.095
       nombre: Conjuntivitis aguda
       dx: Específico
