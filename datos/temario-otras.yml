@@ -170,6 +170,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/intestino-colon-y-proctologia/apendicitis-aguda.md
     - codigo: 4.01.2.007
       nombre: Isquemia mesentérica aguda
       dx: Sospecha

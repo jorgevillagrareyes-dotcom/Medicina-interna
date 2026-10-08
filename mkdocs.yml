@@ -270,6 +270,7 @@ nav:
           - cirugia/esofago-y-estomago/index.md
       - "Intestino delgado, colon y proctología":
           - cirugia/intestino-colon-y-proctologia/index.md
+          - "Apendicitis aguda": cirugia/intestino-colon-y-proctologia/apendicitis-aguda.md
       - "Hígado, vías biliares y páncreas":
           - cirugia/higado-vias-biliares-y-pancreas/index.md
       - "Cabeza y cuello, tiroides y mama":

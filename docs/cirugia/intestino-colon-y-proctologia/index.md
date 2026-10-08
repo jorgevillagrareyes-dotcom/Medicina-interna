@@ -6,7 +6,11 @@ hide:
 # Intestino delgado, colon y proctología
 
 !!! info "Avance"
-    **6 de 19** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **7 de 19** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+
+## Resúmenes disponibles
+
+- :material-check-circle:{ .ok title="Resumen disponible" } [Apendicitis aguda](apendicitis-aguda.md)
 
 ## Situaciones clínicas
 
@@ -30,7 +34,7 @@ hide:
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 4.01.2.005 | Obstrucción Intestinal | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](../../gastroenterologia/abdomen-agudo.md) |
-| 4.01.2.006 | Apendicitis aguda | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.2.006 | Apendicitis aguda | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Apendicitis aguda](apendicitis-aguda.md) |
 | 4.01.2.007 | Isquemia mesentérica aguda | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](../../gastroenterologia/abdomen-agudo.md) |
 | 4.01.2.008 | Enfermedad diverticular complicada | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Abdomen agudo (incluido el del adulto mayor)](../../gastroenterologia/abdomen-agudo.md) |
 | 4.01.2.009 | Prolapso rectal | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
