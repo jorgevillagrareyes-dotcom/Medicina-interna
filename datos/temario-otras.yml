@@ -1147,11 +1147,15 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - traumatologia/fracturas-de-diafisis-y-metafisis-y-fracturas-expuestas.md
     - codigo: 4.02.2.008
       nombre: Fracturas expuestas
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - traumatologia/fracturas-de-diafisis-y-metafisis-y-fracturas-expuestas.md
     - codigo: 4.02.2.009
       nombre: Heridas de la mano no complicadas
       dx: Específico
