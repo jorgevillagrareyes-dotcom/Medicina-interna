@@ -8,10 +8,11 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **34 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
+    **36 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
+- :material-check-circle:{ .ok title="Resumen disponible" } [Dengue y malaria](dengue-y-malaria.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Endocarditis infecciosa](endocarditis-infecciosa.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fiebre tifoidea y paratifoidea](fiebre-tifoidea-y-paratifoidea.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de piel y partes blandas](infecciones-piel-partes-blandas.md)
@@ -42,7 +43,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.1.005 | Candidiasis oral y esofágica | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infección por VIH y SIDA, candidiasis orofaríngea y esofágica, y diarrea en inmunosuprimidos](infeccion-por-vih.md) |
 | 1.04.1.006 | Celulitis bacteriana | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de piel y partes blandas](infecciones-piel-partes-blandas.md) |
 | 1.04.1.007 | Cólera | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 1.04.1.008 | Dengue | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.008 | Dengue | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Dengue y malaria](dengue-y-malaria.md) |
 | 1.04.1.009 | Diarrea asociada a antibióticos | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](../gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md) |
 | 1.04.1.010 | Enfermedades de transmisión sexual | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de transmisión sexual y sífilis](infecciones-de-transmision-sexual-y-sifilis.md) |
 | 1.04.1.011 | Enfermedades eruptivas no complicadas (varicela, herpes zóster, etc.) | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Varicela, herpes zóster y otros exantemas del adulto](varicela-y-herpes-zoster.md) |
@@ -53,7 +54,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.1.015 | Infecciones asociadas a catéteres vasculares | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Neumonía nosocomial, neumonía en inmunosuprimidos e infección asociada a catéter](neumonia-nosocomial-inmunosuprimidos-y-cateter.md) |
 | 1.04.1.016 | Influenza | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Influenza, COVID-19 y bronquitis aguda](influenza-y-covid-19.md) |
 | 1.04.1.017 | Leptospirosis | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome cardiopulmonar por hantavirus y leptospirosis](hantavirus-y-leptospirosis.md) |
-| 1.04.1.018 | Malaria | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.018 | Malaria | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Dengue y malaria](dengue-y-malaria.md) |
 | 1.04.1.019 | Micosis invasora (aspergilosis, candidiasis, mucormicosis) | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Micosis invasoras (candidiasis, aspergilosis y mucormicosis)](micosis-invasoras.md) |
 | 1.04.1.020 | Neutropenia febril | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urgencias oncológicas: neutropenia febril, lisis tumoral, hipercalcemia, compresión medular y síndrome de vena cava superior](../hematologia/urgencias-oncologicas.md) |
 | 1.04.1.021 | Osteomielitis | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Osteomielitis](osteomielitis.md) |
