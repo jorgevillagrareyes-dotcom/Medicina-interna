@@ -106,16 +106,22 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/intestino-colon-y-proctologia/diverticulo-de-meckel-tumores-y-fistulas-del-intestino-delgado.md
     - codigo: 4.01.1.009
       nombre: Tumores del intestino delgado
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/intestino-colon-y-proctologia/diverticulo-de-meckel-tumores-y-fistulas-del-intestino-delgado.md
     - codigo: 4.01.1.011
       nombre: Fístulas del intestino delgado
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/intestino-colon-y-proctologia/diverticulo-de-meckel-tumores-y-fistulas-del-intestino-delgado.md
     - codigo: 4.01.1.012
       nombre: Megacolon
       dx: Sospecha
