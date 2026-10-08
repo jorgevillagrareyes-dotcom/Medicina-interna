@@ -703,6 +703,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/anestesia-y-perioperatorio/preoperatorio-posoperatorio-y-complicaciones.md
     - codigo: 4.01.2.028
       nombre: Intoxicación por anestésicos locales
       dx: Específico
@@ -715,26 +717,40 @@ especialidades:
       nombre: Alimentación en enfermedades digestivas
     - codigo: 4.01.3.002
       nombre: Antimicrobianos. Conceptos profilaxis y esquemas terapéuticos
+      resumen:
+      - cirugia/anestesia-y-perioperatorio/infeccion-quirurgica-asepsia-y-profilaxis.md
     - codigo: 4.01.3.003
       nombre: Asepsia y antisepsia
+      resumen:
+      - cirugia/anestesia-y-perioperatorio/infeccion-quirurgica-asepsia-y-profilaxis.md
     - codigo: 4.01.3.005
       nombre: Complicaciones postoperatorias frecuentes
+      resumen:
+      - cirugia/anestesia-y-perioperatorio/preoperatorio-posoperatorio-y-complicaciones.md
     - codigo: 4.01.3.006
       nombre: Concepto de paciente quirúrgico ambulatorio
+      resumen:
+      - cirugia/anestesia-y-perioperatorio/preoperatorio-posoperatorio-y-complicaciones.md
     - codigo: 4.01.3.007
       nombre: Conceptos básicos de anestesia general, local y regional
       resumen:
       - cirugia/anestesia-y-perioperatorio/anestesia-y-anestesicos-locales.md
     - codigo: 4.01.3.010
       nombre: Conceptos generales del pre y post operatorio
+      resumen:
+      - cirugia/anestesia-y-perioperatorio/preoperatorio-posoperatorio-y-complicaciones.md
     - codigo: 4.01.3.013
       nombre: Epidemiología del cáncer.
     - codigo: 4.01.3.014
       nombre: Evaluación nutricional
     - codigo: 4.01.3.016
       nombre: Infección quirúrgica e intrahospitalaria
+      resumen:
+      - cirugia/anestesia-y-perioperatorio/infeccion-quirurgica-asepsia-y-profilaxis.md
     - codigo: 4.01.3.017
       nombre: Manejo del dolor
+      resumen:
+      - cirugia/anestesia-y-perioperatorio/manejo-del-dolor.md
   - carpeta: cirugia/urologia
     titulo: Urología
     situaciones:

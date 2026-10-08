@@ -6,17 +6,20 @@ hide:
 # Anestesia y perioperatorio
 
 !!! info "Avance"
-    **2 de 13** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **10 de 13** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Anestesia general, regional y local, e intoxicación por anestésicos locales](anestesia-y-anestesicos-locales.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Infección quirúrgica e intrahospitalaria, asepsia y antisepsia, y profilaxis antibiótica](infeccion-quirurgica-asepsia-y-profilaxis.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Manejo del dolor (agudo, posoperatorio y oncológico)](manejo-del-dolor.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Pre y posoperatorio, complicaciones posoperatorias, hemorragia posoperatoria y cirugía ambulatoria](preoperatorio-posoperatorio-y-complicaciones.md)
 
 ## Situaciones clínicas de urgencia
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 4.01.2.024 | Hemorragia aguda post operatoria. | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.2.024 | Hemorragia aguda post operatoria. | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Pre y posoperatorio, complicaciones posoperatorias, hemorragia posoperatoria y cirugía ambulatoria](preoperatorio-posoperatorio-y-complicaciones.md) |
 | 4.01.2.028 | Intoxicación por anestésicos locales | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Anestesia general, regional y local, e intoxicación por anestésicos locales](anestesia-y-anestesicos-locales.md) |
 
 ## Conocimientos generales
@@ -24,16 +27,16 @@ hide:
 | Código | Tema | Resumen |
 |---|---|---|
 | 4.01.3.001 | Alimentación en enfermedades digestivas | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.3.002 | Antimicrobianos. Conceptos profilaxis y esquemas terapéuticos | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.3.003 | Asepsia y antisepsia | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.3.005 | Complicaciones postoperatorias frecuentes | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.3.006 | Concepto de paciente quirúrgico ambulatorio | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.3.002 | Antimicrobianos. Conceptos profilaxis y esquemas terapéuticos | :material-check-circle:{ .ok title="Resumen disponible" } [Infección quirúrgica e intrahospitalaria, asepsia y antisepsia, y profilaxis antibiótica](infeccion-quirurgica-asepsia-y-profilaxis.md) |
+| 4.01.3.003 | Asepsia y antisepsia | :material-check-circle:{ .ok title="Resumen disponible" } [Infección quirúrgica e intrahospitalaria, asepsia y antisepsia, y profilaxis antibiótica](infeccion-quirurgica-asepsia-y-profilaxis.md) |
+| 4.01.3.005 | Complicaciones postoperatorias frecuentes | :material-check-circle:{ .ok title="Resumen disponible" } [Pre y posoperatorio, complicaciones posoperatorias, hemorragia posoperatoria y cirugía ambulatoria](preoperatorio-posoperatorio-y-complicaciones.md) |
+| 4.01.3.006 | Concepto de paciente quirúrgico ambulatorio | :material-check-circle:{ .ok title="Resumen disponible" } [Pre y posoperatorio, complicaciones posoperatorias, hemorragia posoperatoria y cirugía ambulatoria](preoperatorio-posoperatorio-y-complicaciones.md) |
 | 4.01.3.007 | Conceptos básicos de anestesia general, local y regional | :material-check-circle:{ .ok title="Resumen disponible" } [Anestesia general, regional y local, e intoxicación por anestésicos locales](anestesia-y-anestesicos-locales.md) |
-| 4.01.3.010 | Conceptos generales del pre y post operatorio | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.3.010 | Conceptos generales del pre y post operatorio | :material-check-circle:{ .ok title="Resumen disponible" } [Pre y posoperatorio, complicaciones posoperatorias, hemorragia posoperatoria y cirugía ambulatoria](preoperatorio-posoperatorio-y-complicaciones.md) |
 | 4.01.3.013 | Epidemiología del cáncer. | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.01.3.014 | Evaluación nutricional | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.3.016 | Infección quirúrgica e intrahospitalaria | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.3.017 | Manejo del dolor | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.3.016 | Infección quirúrgica e intrahospitalaria | :material-check-circle:{ .ok title="Resumen disponible" } [Infección quirúrgica e intrahospitalaria, asepsia y antisepsia, y profilaxis antibiótica](infeccion-quirurgica-asepsia-y-profilaxis.md) |
+| 4.01.3.017 | Manejo del dolor | :material-check-circle:{ .ok title="Resumen disponible" } [Manejo del dolor (agudo, posoperatorio y oncológico)](manejo-del-dolor.md) |
 
 La división de cirugía en subespecialidades es propia del sitio; los códigos y niveles son los del perfil EUNACOM.
 
