@@ -8,7 +8,7 @@ hide:
 Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exigido y el enlace al resumen cuando ya está escrito.
 
 !!! info "Avance"
-    **31 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
+    **32 de 39** situaciones clínicas de esta subespecialidad tienen resumen.
 
 ## Resúmenes disponibles
 
@@ -24,6 +24,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 - :material-check-circle:{ .ok title="Resumen disponible" } [Parasitosis intestinales](parasitosis-intestinales.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Sepsis y shock séptico](sepsis-y-shock-septico.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome cardiopulmonar por hantavirus y leptospirosis](hantavirus-y-leptospirosis.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome febril prolongado (fiebre de origen desconocido)](sindrome-febril-prolongado.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome mononucleósico, adenopatías y adenitis](sindrome-mononucleosico-y-adenitis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Triquinosis e hidatidosis](triquinosis-e-hidatidosis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Tétanos](tetanos.md)
@@ -56,7 +57,7 @@ Temario según el perfil EUNACOM v3 (2026). Cada situación indica el nivel exig
 | 1.04.1.021 | Osteomielitis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 1.04.1.022 | Parasitosis intestinales | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Parasitosis intestinales](parasitosis-intestinales.md) |
 | 1.04.1.023 | Sífilis secundaria, terciaria y congénita | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de transmisión sexual y sífilis](infecciones-de-transmision-sexual-y-sifilis.md) |
-| 1.04.1.024 | Síndrome febril prolongado | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 1.04.1.024 | Síndrome febril prolongado | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome febril prolongado (fiebre de origen desconocido)](sindrome-febril-prolongado.md) |
 | 1.04.1.025 | Síndrome mononucleósico | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Síndrome mononucleósico, adenopatías y adenitis](sindrome-mononucleosico-y-adenitis.md) |
 | 1.04.1.026 | Toxicoinfección alimentaria | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Diarrea aguda, toxiinfección alimentaria e infección por Clostridioides difficile](../gastroenterologia/diarrea-aguda-y-clostridioides-difficile.md) |
 | 1.04.1.027 | Triquinosis | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Triquinosis e hidatidosis](triquinosis-e-hidatidosis.md) |

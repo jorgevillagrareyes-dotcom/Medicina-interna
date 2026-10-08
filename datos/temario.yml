@@ -786,6 +786,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/sindrome-febril-prolongado.md
   - codigo: 1.04.1.025
     nombre: Síndrome mononucleósico
     dx: Específico
