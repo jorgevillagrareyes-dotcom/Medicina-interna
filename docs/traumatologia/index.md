@@ -6,7 +6,7 @@ hide:
 # Traumatología
 
 !!! info "Avance"
-    **7 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **11 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Situaciones clínicas
 
@@ -39,7 +39,7 @@ hide:
 | 4.02.2.011 | Lesiones de partes blandas (contusiones, hematomas, desgarros) | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.2.012 | Luxación del hombro | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.2.013 | Luxofractura del tobillo | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.02.2.014 | Politraumatizado | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.2.014 | Politraumatizado | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trauma, politraumatizado y manejo en catástrofes](../cirugia/trauma-y-shock/trauma-y-politraumatizado.md) |
 | 4.02.2.015 | Trauma raquimedular | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Debilidad aguda: síndrome de Guillain-Barré, paraplejia y cuadriplejia aguda y trauma raquimedular](../neurologia/debilidad-aguda-guillain-barre-y-mielopatias.md) |
 
 ## Conocimientos generales
@@ -48,9 +48,9 @@ hide:
 |---|---|---|
 | 4.02.3.001 | Accidentes del trabajo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.3.002 | Complicaciones de la inmovilización con yeso | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.02.3.003 | Factores de riesgo de artrosis | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.02.3.004 | Factores de riesgo de osteoporosis | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.02.3.005 | Lumbociática radicular | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.3.003 | Factores de riesgo de artrosis | :material-check-circle:{ .ok title="Resumen disponible" } [Artrosis, reumatismos de partes blandas, síndrome de túnel carpiano y fibromialgia](../reumatologia/artrosis-y-reumatismos-de-partes-blandas.md) |
+| 4.02.3.004 | Factores de riesgo de osteoporosis | :material-check-circle:{ .ok title="Resumen disponible" } [Osteoporosis primaria y secundaria](../endocrinologia/osteoporosis.md) |
+| 4.02.3.005 | Lumbociática radicular | :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](../reumatologia/lumbago-lumbociatica-y-cervicalgia.md) |
 | 4.02.3.006 | Prevención de displasia de cadera (diagnóstico precoz) | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.3.007 | Triage | :material-clock-outline:{ .pend title="Pendiente" } |
 

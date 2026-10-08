@@ -1180,6 +1180,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/trauma-y-shock/trauma-y-politraumatizado.md
     - codigo: 4.02.2.015
       nombre: Trauma raquimedular
       dx: Sospecha
@@ -1194,10 +1196,16 @@ especialidades:
       nombre: Complicaciones de la inmovilización con yeso
     - codigo: 4.02.3.003
       nombre: Factores de riesgo de artrosis
+      resumen:
+      - reumatologia/artrosis-y-reumatismos-de-partes-blandas.md
     - codigo: 4.02.3.004
       nombre: Factores de riesgo de osteoporosis
+      resumen:
+      - endocrinologia/osteoporosis.md
     - codigo: 4.02.3.005
       nombre: Lumbociática radicular
+      resumen:
+      - reumatologia/lumbago-lumbociatica-y-cervicalgia.md
     - codigo: 4.02.3.006
       nombre: Prevención de displasia de cadera (diagnóstico precoz)
     - codigo: 4.02.3.007

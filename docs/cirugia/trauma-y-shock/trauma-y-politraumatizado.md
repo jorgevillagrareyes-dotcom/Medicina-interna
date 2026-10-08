@@ -22,7 +22,7 @@ Ensayo CRASH-2 (*Lancet* 2010): ácido tranexámico · Propuesta de triage masiv
 Sí: **politraumatizado grave** (N.° 48), a cualquier edad. El **TEC moderado o grave** es el N.° 49.
 
 **EUNACOM**
-4.01.2.027 Trauma (sospecha, tratamiento inicial) · 4.01.3.008 Conceptos de manejo en situación de catástrofe (triage, extricación, inmovilización y transporte)
+4.01.2.027 Trauma (sospecha, tratamiento inicial) · 4.01.3.008 Conceptos de manejo en situación de catástrofe (triage, extricación, inmovilización y transporte) · 4.02.2.014 Politraumatizado (traumatología: específico, inicial, derivar)
 
 **Revisado**
 Octubre 2026
