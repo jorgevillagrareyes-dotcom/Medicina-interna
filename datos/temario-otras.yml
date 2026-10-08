@@ -338,11 +338,15 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/cabeza-cuello-tiroides-y-mama/glandulas-salivales-y-masa-cervical.md
     - codigo: 4.01.1.032
       nombre: Masa cervical y tumores del cuello
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/cabeza-cuello-tiroides-y-mama/glandulas-salivales-y-masa-cervical.md
     - codigo: 4.01.1.033
       nombre: Cáncer del tiroides
       dx: Sospecha
