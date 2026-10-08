@@ -6,7 +6,7 @@ hide:
 # Traumatología
 
 !!! info "Avance"
-    **30 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **31 de 31** temas tienen resumen. Todos los temas del perfil EUNACOM v3 (2026) están cubiertos.
 
 ## Resúmenes disponibles
 
@@ -19,6 +19,7 @@ hide:
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fractura inestable de la pelvis](fractura-inestable-de-pelvis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fracturas de diáfisis y metáfisis, y fracturas expuestas](fracturas-de-diafisis-y-metafisis-y-fracturas-expuestas.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fracturas y disyunciones epifisarias del niño](fracturas-y-disyunciones-del-nino.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Triage: categorización en el servicio de urgencia y en las catástrofes](triage.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Tumores óseos (benignos, malignos primarios y metástasis óseas)](tumores-oseos.md)
 
 ## Situaciones clínicas
@@ -65,7 +66,7 @@ hide:
 | 4.02.3.004 | Factores de riesgo de osteoporosis | :material-check-circle:{ .ok title="Resumen disponible" } [Osteoporosis primaria y secundaria](../endocrinologia/osteoporosis.md) |
 | 4.02.3.005 | Lumbociática radicular | :material-check-circle:{ .ok title="Resumen disponible" } [Lumbago, lumbociática, cervicalgia y columna dolorosa (incluido el lumbago infeccioso y tumoral)](../reumatologia/lumbago-lumbociatica-y-cervicalgia.md) |
 | 4.02.3.006 | Prevención de displasia de cadera (diagnóstico precoz) | :material-check-circle:{ .ok title="Resumen disponible" } [Displasia del desarrollo de la cadera (displasia luxante de caderas) y su pesquisa precoz](displasia-del-desarrollo-de-cadera.md) |
-| 4.02.3.007 | Triage | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.3.007 | Triage | :material-check-circle:{ .ok title="Resumen disponible" } [Triage: categorización en el servicio de urgencia y en las catástrofes](triage.md) |
 
 ## Cómo leer los niveles EUNACOM
 

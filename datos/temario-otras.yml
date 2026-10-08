@@ -1248,6 +1248,8 @@ especialidades:
       - traumatologia/displasia-del-desarrollo-de-cadera.md
     - codigo: 4.02.3.007
       nombre: Triage
+      resumen:
+      - traumatologia/triage.md
 - carpeta: ginecologia-obstetricia
   titulo: Ginecología y obstetricia
   secciones:
