@@ -6,7 +6,11 @@ hide:
 # Hígado, vías biliares y páncreas
 
 !!! info "Avance"
-    **13 de 14** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **14 de 14** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+
+## Resúmenes disponibles
+
+- :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de vesícula y vías biliares (con pólipos vesiculares)](cancer-de-vesicula-y-vias-biliares.md)
 
 ## Situaciones clínicas
 
@@ -18,7 +22,7 @@ hide:
 | 4.01.1.025 | Colecistitis crónica | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](../../gastroenterologia/litiasis-biliar-colecistitis-colangitis.md) |
 | 4.01.1.026 | Ictericia obstructiva | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](../../gastroenterologia/litiasis-biliar-colecistitis-colangitis.md) |
 | 4.01.1.027 | Litiasis biliar | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Litiasis biliar, colecistitis aguda y colangitis aguda](../../gastroenterologia/litiasis-biliar-colecistitis-colangitis.md) |
-| 4.01.1.028 | Cáncer de vesícula y vías biliares | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.1.028 | Cáncer de vesícula y vías biliares | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de vesícula y vías biliares (con pólipos vesiculares)](cancer-de-vesicula-y-vias-biliares.md) |
 | 4.01.1.029 | Pancreatitis crónica | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de páncreas y pancreatitis crónica](../../gastroenterologia/cancer-de-pancreas-y-pancreatitis-cronica.md) |
 | 4.01.1.030 | Cáncer de páncreas y otros tumores preampulares | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de páncreas y pancreatitis crónica](../../gastroenterologia/cancer-de-pancreas-y-pancreatitis-cronica.md) |
 | 4.01.1.031 | Cáncer de páncreas | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de páncreas y pancreatitis crónica](../../gastroenterologia/cancer-de-pancreas-y-pancreatitis-cronica.md) |

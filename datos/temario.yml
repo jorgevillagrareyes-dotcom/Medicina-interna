@@ -1303,6 +1303,7 @@ grupos:
     seg: Derivar
     resumen:
     - gastroenterologia/litiasis-biliar-colecistitis-colangitis.md
+    - cirugia/higado-vias-biliares-y-pancreas/cancer-de-vesicula-y-vias-biliares.md
   - codigo: 1.06.1.004
     nombre: Cáncer gástrico
     dx: Sospecha

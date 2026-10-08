@@ -20,7 +20,7 @@ Guías de Tokio 2018 (TG18): diagnóstico, gravedad, manejo y antibióticos de l
 Estudio de Miquel (1998) sobre la prevalencia de litiasis en Chile · Evaluación del GES de colecistectomía preventiva (Mardones y Frenz, 2019)
 
 **GES**
-Sí: colecistectomía preventiva del cáncer de vesícula en personas de 35 a 49 años sintomáticas
+Sí: colecistectomía preventiva del cáncer de vesícula en personas de 35 a 49 años con cálculos en la vesícula o las vías biliares (N.° 26)
 
 **EUNACOM**
 1.06.2.004 Colecistitis aguda · 1.06.2.003 Colangitis (específico, inicial, derivar) · 1.06.1.006 Colelitiasis (específico, inicial, derivar) · 1.06.1.003 Cáncer de vesícula y vías biliares (sospecha, inicial, derivar)
@@ -66,7 +66,7 @@ Septiembre 2026
 !!! chile "Datos nacionales"
     - En un estudio poblacional, la **prevalencia de litiasis biliar** ajustada por edad y sexo fue de **27 %** en los chilenos hispanos y de **35 %** en los **mapuches**. Las mujeres mapuches jóvenes tuvieron un riesgo **6 veces** mayor. Los genes litogénicos de origen amerindio están muy difundidos en la población chilena (Miquel, 1998).
     - Chile tiene una de las **tasas de mortalidad por cáncer de vesícula más altas del mundo**, sobre todo en las **mujeres** del centro y sur del país. La litiasis es su principal factor de riesgo.
-    - **GES: colecistectomía preventiva del cáncer de vesícula en personas de 35 a 49 años sintomáticas**. Tras su implementación, la mortalidad por cáncer de vesícula en ese grupo de edad bajó **~ 8 %**, frente al ~ 4 % previo, y aumentaron las colecistectomías en ese grupo (Mardones y Frenz, 2019).
+    - **GES: colecistectomía preventiva del cáncer de vesícula en personas de 35 a 49 años con cálculos en la vesícula o las vías biliares**. Tras su implementación, la mortalidad por cáncer de vesícula en ese grupo de edad bajó **~ 8 %**, frente al ~ 4 % previo, y aumentaron las colecistectomías en ese grupo (Mardones y Frenz, 2019).
     - La **colecistectomía** es una de las cirugías más frecuentes del país. La **pancreatitis aguda** en Chile es mayoritariamente **biliar**.
 
 ## Etiología y factores de riesgo
@@ -281,7 +281,7 @@ flowchart TD
 **Cólico biliar**:
 
 - **Analgesia** (AINE de preferencia).
-- **Colecistectomía laparoscópica electiva**. En Chile, **GES** en las personas de 35–49 años sintomáticas.
+- **Colecistectomía laparoscópica electiva**. En Chile, **GES** en las personas de 35–49 años con cálculos en la vesícula o las vías biliares.
 - Dieta baja en grasas mientras se espera la cirugía.
 
 **Colelitiasis asintomática**: en general, **no** se opera. Excepciones: **vesícula en porcelana**, **pólipo > 10 mm**, cálculo **> 3 cm**, anemia hemolítica, y en Chile, por el alto riesgo de cáncer de vesícula, la indicación es más amplia (decisión con el cirujano).
@@ -383,4 +383,4 @@ flowchart TD
 6. Pisano M, Allievi N, Gurusamy K, et al. 2020 World Society of Emergency Surgery updated guidelines for the diagnosis and treatment of acute calculus cholecystitis. *World J Emerg Surg.* 2020;15:61. doi:[10.1186/s13017-020-00336-x](https://doi.org/10.1186/s13017-020-00336-x)
 7. ASGE Standards of Practice Committee; Buxbaum JL, Abbas Fehmi SM, et al. ASGE guideline on the role of endoscopy in the evaluation and management of choledocholithiasis. *Gastrointest Endosc.* 2019;89:1075–1105.e15. doi:[10.1016/j.gie.2018.10.001](https://doi.org/10.1016/j.gie.2018.10.001)
 8. Miquel JF, Covarrubias C, Villaroel L, et al. Genetic epidemiology of cholesterol cholelithiasis among Chilean Hispanics, Amerindians, and Maoris. *Gastroenterology.* 1998;115:937–946. doi:[10.1016/s0016-5085(98)70266-5](https://doi.org/10.1016/s0016-5085(98)70266-5)
-9. Mardones ML, Frenz P. Changes in gallbladder cancer mortality and hospital discharges due to preventive cholecystectomy in Chile [artículo en español]. *Rev Med Chile.* 2019;147:860–869. doi:[10.4067/S0034-98872019000700860](https://doi.org/10.4067/S0034-98872019000700860)
+9. Mardones ML, Frenz P. Mortalidad por cáncer de vesícula y egresos hospitalarios por patología biliar en Chile 2002-2014, en relación a la garantía GES colecistectomía preventiva. *Rev Med Chile.* 2019;147:860–869. doi:[10.4067/S0034-98872019000700860](https://doi.org/10.4067/S0034-98872019000700860)

@@ -6,7 +6,7 @@ hide:
 # Cirugía
 
 !!! info "Avance"
-    **106 de 151** temas de cirugía del perfil EUNACOM v3 (2026) tienen resumen (17 páginas propias de la especialidad; el resto, en páginas de medicina interna que también cubren el tema).
+    **107 de 151** temas de cirugía del perfil EUNACOM v3 (2026) tienen resumen (18 páginas propias de la especialidad; el resto, en páginas de medicina interna que también cubren el tema).
 
 ## Subespecialidades
 
@@ -34,7 +34,7 @@ hide:
 
     ---
 
-    13 de 14 temas con resumen
+    14 de 14 temas con resumen
 
 -   **[Cabeza y cuello, tiroides y mama](cabeza-cuello-tiroides-y-mama/index.md)**
 

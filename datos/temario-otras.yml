@@ -268,6 +268,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/higado-vias-biliares-y-pancreas/cancer-de-vesicula-y-vias-biliares.md
     - codigo: 4.01.1.029
       nombre: Pancreatitis crónica
       dx: Sospecha
