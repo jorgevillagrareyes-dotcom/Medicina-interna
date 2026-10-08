@@ -4,7 +4,7 @@ Resúmenes de medicina interna para el internado y el EUNACOM, elaborados por **
 
 **Leer en línea:** https://jorgevillagrareyes-dotcom.github.io/laficha/
 
-**Sin internet:** descarga el `.zip` de la última versión en [Releases](https://github.com/jorgevillagrareyes-dotcom/laficha/releases), descomprímelo y abre `index.html` (el buscador solo funciona en la versión en línea).
+**Sin internet:** descarga el artefacto `la-ficha-offline` de la última ejecución de [Publicar sitio](https://github.com/jorgevillagrareyes-dotcom/laficha/actions/workflows/pages.yml) (requiere iniciar sesión en GitHub), descomprímelo y abre `index.html` (el buscador solo funciona en la versión en línea).
 
 Material de estudio de uso libre y sin fines comerciales. Los resúmenes se redactaron con apoyo de IA: verificar siempre las dosis y los criterios en la guía original.
 
