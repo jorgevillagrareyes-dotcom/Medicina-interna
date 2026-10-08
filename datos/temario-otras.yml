@@ -1127,6 +1127,8 @@ especialidades:
       dx: Específico
       tto: Completo
       seg: Completo
+      resumen:
+      - traumatologia/esguinces-luxaciones-y-lesiones-de-partes-blandas.md
     - codigo: 4.02.2.004
       nombre: Fractura de cadera
       dx: Sospecha
@@ -1173,16 +1175,22 @@ especialidades:
       dx: Específico
       tto: Completo
       seg: Completo
+      resumen:
+      - traumatologia/esguinces-luxaciones-y-lesiones-de-partes-blandas.md
     - codigo: 4.02.2.012
       nombre: Luxación del hombro
       dx: Específico
       tto: Completo
       seg: Derivar
+      resumen:
+      - traumatologia/esguinces-luxaciones-y-lesiones-de-partes-blandas.md
     - codigo: 4.02.2.013
       nombre: Luxofractura del tobillo
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - traumatologia/esguinces-luxaciones-y-lesiones-de-partes-blandas.md
     - codigo: 4.02.2.014
       nombre: Politraumatizado
       dx: Específico

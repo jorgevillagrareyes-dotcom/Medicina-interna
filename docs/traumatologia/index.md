@@ -6,11 +6,12 @@ hide:
 # Traumatología
 
 !!! info "Avance"
-    **16 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **20 de 31** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones de los traumatismos (sistémicas y vasculares) y de la inmovilización con yeso](complicaciones-de-los-traumatismos-y-del-yeso.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Esguinces, luxación del hombro, luxofractura del tobillo y lesiones de partes blandas](esguinces-luxaciones-y-lesiones-de-partes-blandas.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Fracturas de diáfisis y metáfisis, y fracturas expuestas](fracturas-de-diafisis-y-metafisis-y-fracturas-expuestas.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Tumores óseos (benignos, malignos primarios y metástasis óseas)](tumores-oseos.md)
 
@@ -34,7 +35,7 @@ hide:
 |---|---|---|---|---|---|
 | 4.02.2.001 | Complicaciones de los traumatismos: sistémicas y vasculares | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Complicaciones de los traumatismos (sistémicas y vasculares) y de la inmovilización con yeso](complicaciones-de-los-traumatismos-y-del-yeso.md) |
 | 4.02.2.002 | Disyunción-fractura del niño | Sospecha | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.02.2.003 | Esguince grado1 (acromioclavicular, dedos, rodilla y tobillo) | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.2.003 | Esguince grado1 (acromioclavicular, dedos, rodilla y tobillo) | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Esguinces, luxación del hombro, luxofractura del tobillo y lesiones de partes blandas](esguinces-luxaciones-y-lesiones-de-partes-blandas.md) |
 | 4.02.2.004 | Fractura de cadera | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Caídas, hipotensión ortostática y fractura de cadera en el adulto mayor](../geriatria/caidas-hipotension-ortostatica-y-fractura-de-cadera.md) |
 | 4.02.2.005 | Fractura de la muñeca | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.2.006 | Fractura inestable de la pelvis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -42,9 +43,9 @@ hide:
 | 4.02.2.008 | Fracturas expuestas | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Fracturas de diáfisis y metáfisis, y fracturas expuestas](fracturas-de-diafisis-y-metafisis-y-fracturas-expuestas.md) |
 | 4.02.2.009 | Heridas de la mano no complicadas | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.02.2.010 | Lesiones de los nervios periféricos | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.02.2.011 | Lesiones de partes blandas (contusiones, hematomas, desgarros) | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.02.2.012 | Luxación del hombro | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.02.2.013 | Luxofractura del tobillo | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.02.2.011 | Lesiones de partes blandas (contusiones, hematomas, desgarros) | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Esguinces, luxación del hombro, luxofractura del tobillo y lesiones de partes blandas](esguinces-luxaciones-y-lesiones-de-partes-blandas.md) |
+| 4.02.2.012 | Luxación del hombro | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Esguinces, luxación del hombro, luxofractura del tobillo y lesiones de partes blandas](esguinces-luxaciones-y-lesiones-de-partes-blandas.md) |
+| 4.02.2.013 | Luxofractura del tobillo | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Esguinces, luxación del hombro, luxofractura del tobillo y lesiones de partes blandas](esguinces-luxaciones-y-lesiones-de-partes-blandas.md) |
 | 4.02.2.014 | Politraumatizado | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Trauma, politraumatizado y manejo en catástrofes](../cirugia/trauma-y-shock/trauma-y-politraumatizado.md) |
 | 4.02.2.015 | Trauma raquimedular | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Debilidad aguda: síndrome de Guillain-Barré, paraplejia y cuadriplejia aguda y trauma raquimedular](../neurologia/debilidad-aguda-guillain-barre-y-mielopatias.md) |
 
