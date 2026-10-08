@@ -715,6 +715,8 @@ especialidades:
     generales:
     - codigo: 4.01.3.001
       nombre: Alimentación en enfermedades digestivas
+      resumen:
+      - cirugia/anestesia-y-perioperatorio/evaluacion-nutricional-y-alimentacion-en-enfermedades-digestivas.md
     - codigo: 4.01.3.002
       nombre: Antimicrobianos. Conceptos profilaxis y esquemas terapéuticos
       resumen:
@@ -743,6 +745,8 @@ especialidades:
       nombre: Epidemiología del cáncer.
     - codigo: 4.01.3.014
       nombre: Evaluación nutricional
+      resumen:
+      - cirugia/anestesia-y-perioperatorio/evaluacion-nutricional-y-alimentacion-en-enfermedades-digestivas.md
     - codigo: 4.01.3.016
       nombre: Infección quirúrgica e intrahospitalaria
       resumen:

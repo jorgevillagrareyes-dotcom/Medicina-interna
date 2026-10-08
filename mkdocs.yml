@@ -309,6 +309,7 @@ nav:
       - "Anestesia y perioperatorio":
           - cirugia/anestesia-y-perioperatorio/index.md
           - "Anestesia general, regional y local, e intoxicación por anestésicos locales": cirugia/anestesia-y-perioperatorio/anestesia-y-anestesicos-locales.md
+          - "Evaluación nutricional y alimentación en cirugía y enfermedades digestivas": cirugia/anestesia-y-perioperatorio/evaluacion-nutricional-y-alimentacion-en-enfermedades-digestivas.md
           - "Infección quirúrgica e intrahospitalaria, asepsia y antisepsia, y profilaxis antibiótica": cirugia/anestesia-y-perioperatorio/infeccion-quirurgica-asepsia-y-profilaxis.md
           - "Manejo del dolor (agudo, posoperatorio y oncológico)": cirugia/anestesia-y-perioperatorio/manejo-del-dolor.md
           - "Pre y posoperatorio, complicaciones posoperatorias, hemorragia posoperatoria y cirugía ambulatoria": cirugia/anestesia-y-perioperatorio/preoperatorio-posoperatorio-y-complicaciones.md

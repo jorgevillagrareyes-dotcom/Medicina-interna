@@ -6,11 +6,12 @@ hide:
 # Anestesia y perioperatorio
 
 !!! info "Avance"
-    **10 de 13** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **12 de 13** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
 - :material-check-circle:{ .ok title="Resumen disponible" } [Anestesia general, regional y local, e intoxicación por anestésicos locales](anestesia-y-anestesicos-locales.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Evaluación nutricional y alimentación en cirugía y enfermedades digestivas](evaluacion-nutricional-y-alimentacion-en-enfermedades-digestivas.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Infección quirúrgica e intrahospitalaria, asepsia y antisepsia, y profilaxis antibiótica](infeccion-quirurgica-asepsia-y-profilaxis.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Manejo del dolor (agudo, posoperatorio y oncológico)](manejo-del-dolor.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Pre y posoperatorio, complicaciones posoperatorias, hemorragia posoperatoria y cirugía ambulatoria](preoperatorio-posoperatorio-y-complicaciones.md)
@@ -26,7 +27,7 @@ hide:
 
 | Código | Tema | Resumen |
 |---|---|---|
-| 4.01.3.001 | Alimentación en enfermedades digestivas | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.3.001 | Alimentación en enfermedades digestivas | :material-check-circle:{ .ok title="Resumen disponible" } [Evaluación nutricional y alimentación en cirugía y enfermedades digestivas](evaluacion-nutricional-y-alimentacion-en-enfermedades-digestivas.md) |
 | 4.01.3.002 | Antimicrobianos. Conceptos profilaxis y esquemas terapéuticos | :material-check-circle:{ .ok title="Resumen disponible" } [Infección quirúrgica e intrahospitalaria, asepsia y antisepsia, y profilaxis antibiótica](infeccion-quirurgica-asepsia-y-profilaxis.md) |
 | 4.01.3.003 | Asepsia y antisepsia | :material-check-circle:{ .ok title="Resumen disponible" } [Infección quirúrgica e intrahospitalaria, asepsia y antisepsia, y profilaxis antibiótica](infeccion-quirurgica-asepsia-y-profilaxis.md) |
 | 4.01.3.005 | Complicaciones postoperatorias frecuentes | :material-check-circle:{ .ok title="Resumen disponible" } [Pre y posoperatorio, complicaciones posoperatorias, hemorragia posoperatoria y cirugía ambulatoria](preoperatorio-posoperatorio-y-complicaciones.md) |
@@ -34,7 +35,7 @@ hide:
 | 4.01.3.007 | Conceptos básicos de anestesia general, local y regional | :material-check-circle:{ .ok title="Resumen disponible" } [Anestesia general, regional y local, e intoxicación por anestésicos locales](anestesia-y-anestesicos-locales.md) |
 | 4.01.3.010 | Conceptos generales del pre y post operatorio | :material-check-circle:{ .ok title="Resumen disponible" } [Pre y posoperatorio, complicaciones posoperatorias, hemorragia posoperatoria y cirugía ambulatoria](preoperatorio-posoperatorio-y-complicaciones.md) |
 | 4.01.3.013 | Epidemiología del cáncer. | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.3.014 | Evaluación nutricional | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.3.014 | Evaluación nutricional | :material-check-circle:{ .ok title="Resumen disponible" } [Evaluación nutricional y alimentación en cirugía y enfermedades digestivas](evaluacion-nutricional-y-alimentacion-en-enfermedades-digestivas.md) |
 | 4.01.3.016 | Infección quirúrgica e intrahospitalaria | :material-check-circle:{ .ok title="Resumen disponible" } [Infección quirúrgica e intrahospitalaria, asepsia y antisepsia, y profilaxis antibiótica](infeccion-quirurgica-asepsia-y-profilaxis.md) |
 | 4.01.3.017 | Manejo del dolor | :material-check-circle:{ .ok title="Resumen disponible" } [Manejo del dolor (agudo, posoperatorio y oncológico)](manejo-del-dolor.md) |
 
