@@ -6,7 +6,11 @@ hide:
 # Tórax
 
 !!! info "Avance"
-    **9 de 11** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **11 de 11** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+
+## Resúmenes disponibles
+
+- :material-check-circle:{ .ok title="Resumen disponible" } [Mesotelioma pleural y hernias diafragmáticas traumáticas y congénitas](mesotelioma-y-hernias-diafragmaticas.md)
 
 ## Situaciones clínicas
 
@@ -15,9 +19,9 @@ hide:
 | 4.01.1.037 | Hidatidosis pulmonar | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Triquinosis e hidatidosis](../../infectologia/triquinosis-e-hidatidosis.md) |
 | 4.01.1.038 | Nódulo pulmonar solitario | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Nódulo pulmonar, cáncer pulmonar y metástasis pulmonares](../../respiratorio/nodulo-pulmonar-y-cancer-pulmonar.md) |
 | 4.01.1.039 | Cáncer pulmonar | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Nódulo pulmonar, cáncer pulmonar y metástasis pulmonares](../../respiratorio/nodulo-pulmonar-y-cancer-pulmonar.md) |
-| 4.01.1.040 | Hernias diafragmáticas traumáticas y congénitas | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.1.040 | Hernias diafragmáticas traumáticas y congénitas | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Mesotelioma pleural y hernias diafragmáticas traumáticas y congénitas](mesotelioma-y-hernias-diafragmaticas.md) |
 | 4.01.1.041 | Síndromes mediastínicos | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Síndromes mediastínicos: masas, mediastinitis y neumomediastino](../../respiratorio/sindromes-mediastinicos.md) |
-| 4.01.1.042 | Mesotelioma pleural | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.1.042 | Mesotelioma pleural | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Mesotelioma pleural y hernias diafragmáticas traumáticas y congénitas](mesotelioma-y-hernias-diafragmaticas.md) |
 | 4.01.1.043 | Síndrome de ocupación pleural | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Derrame pleural: paraneumónico, empiema, neoplásico y enfoque diagnóstico](../../respiratorio/derrame-pleural.md) |
 
 ## Situaciones clínicas de urgencia

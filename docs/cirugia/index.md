@@ -6,7 +6,7 @@ hide:
 # Cirugía
 
 !!! info "Avance"
-    **134 de 151** temas de cirugía del perfil EUNACOM v3 (2026) tienen resumen (30 páginas propias de la especialidad; el resto, en páginas de medicina interna que también cubren el tema).
+    **136 de 151** temas de cirugía del perfil EUNACOM v3 (2026) tienen resumen (31 páginas propias de la especialidad; el resto, en páginas de medicina interna que también cubren el tema).
 
 ## Subespecialidades
 
@@ -46,7 +46,7 @@ hide:
 
     ---
 
-    9 de 11 temas con resumen
+    11 de 11 temas con resumen
 
 -   **[Vascular periférico](vascular/index.md)**
 

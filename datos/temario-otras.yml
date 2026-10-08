@@ -424,6 +424,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/torax/mesotelioma-y-hernias-diafragmaticas.md
     - codigo: 4.01.1.041
       nombre: Síndromes mediastínicos
       dx: Sospecha
@@ -436,6 +438,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/torax/mesotelioma-y-hernias-diafragmaticas.md
     - codigo: 4.01.1.043
       nombre: Síndrome de ocupación pleural
       dx: Sospecha
