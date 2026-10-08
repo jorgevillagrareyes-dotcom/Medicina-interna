@@ -1,6 +1,6 @@
 # La Ficha
 
-Resúmenes de medicina interna para el internado y el EUNACOM, elaborados por **Jorge Villagra**, interno de medicina. Cubren las 385 situaciones clínicas de medicina interna del perfil EUNACOM v3 (2026), ordenadas por subespecialidad, con las guías clínicas vigentes y datos chilenos.
+Resúmenes de medicina interna para el internado y el EUNACOM, elaborados por **Jorge Villagra**, estudiante de medicina de la Universidad de Valparaíso. Cubren las 385 situaciones clínicas de medicina interna del perfil EUNACOM v3 (2026), ordenadas por subespecialidad, con las guías clínicas vigentes y datos chilenos.
 
 **Leer en línea:** https://jorgevillagrareyes-dotcom.github.io/laficha/
 
