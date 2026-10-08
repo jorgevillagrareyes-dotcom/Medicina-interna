@@ -755,6 +755,8 @@ grupos:
     dx: Sospecha
     tto: Inicial
     seg: Derivar
+    resumen:
+    - infectologia/micosis-invasoras.md
   - codigo: 1.04.1.020
     nombre: Neutropenia febril
     dx: Específico

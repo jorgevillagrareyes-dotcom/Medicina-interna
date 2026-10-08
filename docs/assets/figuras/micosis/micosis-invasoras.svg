@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 634" font-family="'Source Sans 3', 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#495057"/></marker></defs>
+<rect width="960" height="634" fill="#ffffff"/>
+<text x="480" y="30" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2933">Micosis invasoras: huésped, clínica, diagnóstico y tratamiento</text>
+<rect x="20" y="50" width="300" height="40" rx="8" fill="#fff4e6" stroke="#e8590c" stroke-width="1.6"/>
+<text x="170.0" y="74.4" text-anchor="middle" font-size="15" font-weight="700" fill="#e8590c">Candidiasis invasora</text>
+<rect x="20" y="102" width="300" height="88" rx="8" fill="#ffffff" stroke="#e8590c" stroke-width="1.6"/>
+<text x="170.0" y="126.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#e8590c">Huésped</text>
+<text x="170.0" y="142.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">UCI, catéter venoso central,</text>
+<text x="170.0" y="158.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">antibióticos de amplio espectro,</text>
+<text x="170.0" y="174.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">nutrición parenteral, cirugía abdominal</text>
+<line x1="170.0" y1="190" x2="170.0" y2="200" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="20" y="202" width="300" height="88" rx="8" fill="#f8f9fa" stroke="#e8590c" stroke-width="1.6"/>
+<text x="170.0" y="226.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#e8590c">Clínica</text>
+<text x="170.0" y="242.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Fiebre o shock sin foco pese</text>
+<text x="170.0" y="258.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">a antibióticos; candidemia;</text>
+<text x="170.0" y="274.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">lesiones retinianas, abscesos</text>
+<line x1="170.0" y1="290" x2="170.0" y2="300" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="20" y="302" width="300" height="88" rx="8" fill="#ffffff" stroke="#e8590c" stroke-width="1.6"/>
+<text x="170.0" y="326.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#e8590c">Diagnóstico</text>
+<text x="170.0" y="342.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Hemocultivos (+ en ~50 %)</text>
+<text x="170.0" y="358.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">β-D-glucano, cultivo de tejido</text>
+<text x="170.0" y="374.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Fondo de ojo y ecocardiograma</text>
+<line x1="170.0" y1="390" x2="170.0" y2="400" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="20" y="402" width="300" height="104" rx="8" fill="#f8f9fa" stroke="#e8590c" stroke-width="1.6"/>
+<text x="170.0" y="426.0" text-anchor="middle" font-size="12.2" font-weight="700" fill="#e8590c">Tratamiento</text>
+<text x="170.0" y="442.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Equinocandina (caspofungina,</text>
+<text x="170.0" y="458.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">micafungina, anidulafungina)</text>
+<text x="170.0" y="474.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Retirar el catéter venoso central</text>
+<text x="170.0" y="490.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Fluconazol al estabilizarse</text>
+<rect x="330" y="50" width="300" height="40" rx="8" fill="#e7f0f8" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="480.0" y="74.4" text-anchor="middle" font-size="15" font-weight="700" fill="#1f5f99">Aspergilosis invasora</text>
+<rect x="330" y="102" width="300" height="88" rx="8" fill="#ffffff" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="480.0" y="126.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">Huésped</text>
+<text x="480.0" y="142.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Neutropenia prolongada, trasplante</text>
+<text x="480.0" y="158.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">de progenitores, EICH, corticoides;</text>
+<text x="480.0" y="174.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">UCI con influenza o COVID-19</text>
+<line x1="480.0" y1="190" x2="480.0" y2="200" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="330" y="202" width="300" height="88" rx="8" fill="#f8f9fa" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="480.0" y="226.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">Clínica</text>
+<text x="480.0" y="242.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Fiebre persistente en neutropénico,</text>
+<text x="480.0" y="258.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">tos, dolor pleurítico, hemoptisis;</text>
+<text x="480.0" y="274.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">sinusitis, lesiones cerebrales</text>
+<line x1="480.0" y1="290" x2="480.0" y2="300" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="330" y="302" width="300" height="88" rx="8" fill="#ffffff" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="480.0" y="326.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">Diagnóstico</text>
+<text x="480.0" y="342.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">TC de tórax: nódulo con halo,</text>
+<text x="480.0" y="358.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">medialuna aérea, cavitación</text>
+<text x="480.0" y="374.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Galactomanano (suero, LBA), PCR</text>
+<line x1="480.0" y1="390" x2="480.0" y2="400" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="330" y="402" width="300" height="104" rx="8" fill="#f8f9fa" stroke="#1f5f99" stroke-width="1.6"/>
+<text x="480.0" y="426.0" text-anchor="middle" font-size="12.2" font-weight="700" fill="#1f5f99">Tratamiento</text>
+<text x="480.0" y="442.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Voriconazol o isavuconazol</text>
+<text x="480.0" y="458.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">(niveles de voriconazol)</text>
+<text x="480.0" y="474.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Anfotericina B liposomal: alternativa</text>
+<text x="480.0" y="490.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">≥ 6–12 semanas</text>
+<rect x="640" y="50" width="300" height="40" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="790.0" y="74.4" text-anchor="middle" font-size="15" font-weight="700" fill="#c92a2a">Mucormicosis</text>
+<rect x="640" y="102" width="300" height="88" rx="8" fill="#ffffff" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="790.0" y="126.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#c92a2a">Huésped</text>
+<text x="790.0" y="142.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Diabetes descompensada o</text>
+<text x="790.0" y="158.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">cetoacidosis, neutropenia, trasplante,</text>
+<text x="790.0" y="174.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">corticoides, sobrecarga de hierro</text>
+<line x1="790.0" y1="190" x2="790.0" y2="200" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="640" y="202" width="300" height="88" rx="8" fill="#f8f9fa" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="790.0" y="226.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#c92a2a">Clínica</text>
+<text x="790.0" y="242.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Dolor facial, edema periorbitario,</text>
+<text x="790.0" y="258.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">escara negra en paladar o nariz,</text>
+<text x="790.0" y="274.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">proptosis; neumonía con halo invertido</text>
+<line x1="790.0" y1="290" x2="790.0" y2="300" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="640" y="302" width="300" height="88" rx="8" fill="#ffffff" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="790.0" y="326.1" text-anchor="middle" font-size="12.2" font-weight="700" fill="#c92a2a">Diagnóstico</text>
+<text x="790.0" y="342.3" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Biopsia urgente: hifas anchas</text>
+<text x="790.0" y="358.5" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">no septadas en ángulo recto</text>
+<text x="790.0" y="374.7" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Galactomanano y β-D-glucano: negativos</text>
+<line x1="790.0" y1="390" x2="790.0" y2="400" stroke="#495057" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="640" y="402" width="300" height="104" rx="8" fill="#f8f9fa" stroke="#c92a2a" stroke-width="1.6"/>
+<text x="790.0" y="426.0" text-anchor="middle" font-size="12.2" font-weight="700" fill="#c92a2a">Tratamiento</text>
+<text x="790.0" y="442.2" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Cirugía de desbridamiento urgente</text>
+<text x="790.0" y="458.4" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">+ anfotericina B liposomal</text>
+<text x="790.0" y="474.6" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Corregir la causa (cetoacidosis)</text>
+<text x="790.0" y="490.8" text-anchor="middle" font-size="12.2" font-weight="400" fill="#1f2933">Luego isavuconazol o posaconazol</text>
+<rect x="20" y="522" width="920" height="74" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.6"/>
+<text x="480.0" y="547.2" text-anchor="middle" font-size="12.6" font-weight="700" fill="#2f9e44">Principios comunes</text>
+<text x="480.0" y="563.4" text-anchor="middle" font-size="12.6" font-weight="400" fill="#1f2933">Sospechar en el inmunosuprimido con fiebre que no responde a antibióticos · buscar el hongo en sangre, tejido o LBA y pedir TC precoz</text>
+<text x="480.0" y="579.6" text-anchor="middle" font-size="12.6" font-weight="400" fill="#1f2933">Iniciar el antifúngico ante la sospecha fundada (no esperar la confirmación) · controlar la inmunosupresión · revisar interacciones de los azoles</text>
+<text x="480" y="620" text-anchor="middle" font-size="11.5" font-weight="400" fill="#495057">Basado en IDSA 2016, ECMM/ISHAM/ASM 2025 (candidiasis), ECMM/MSGERC 2019 (mucormicosis) y EORTC/MSGERC 2020. Esquema propio.</text>
+</svg>
