@@ -45,6 +45,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/esofago-y-estomago/cancer-de-esofago-y-diverticulos-esofagicos.md
     - codigo: 4.01.1.004
       nombre: Acalasia
       dx: Sospecha
@@ -57,6 +59,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/esofago-y-estomago/cancer-de-esofago-y-diverticulos-esofagicos.md
     - codigo: 4.01.1.006
       nombre: Hernia hiatal
       dx: Sospecha

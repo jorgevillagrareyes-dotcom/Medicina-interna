@@ -6,19 +6,20 @@ hide:
 # Esófago y estómago
 
 !!! info "Avance"
-    **5 de 8** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **7 de 8** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
+- :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de esófago y divertículos esofágicos](cancer-de-esofago-y-diverticulos-esofagicos.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Esofagitis cáustica (ingestión de cáusticos)](esofagitis-caustica.md)
 
 ## Situaciones clínicas
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 4.01.1.002 | Divertículos esofágicos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.1.002 | Divertículos esofágicos | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de esófago y divertículos esofágicos](cancer-de-esofago-y-diverticulos-esofagicos.md) |
 | 4.01.1.004 | Acalasia | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Disfagia y afagia aguda (impactación alimentaria y cuerpos extraños esofágicos)](../../gastroenterologia/disfagia-y-afagia-aguda.md) |
-| 4.01.1.005 | Cáncer del esofágo | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.1.005 | Cáncer del esofágo | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de esófago y divertículos esofágicos](cancer-de-esofago-y-diverticulos-esofagicos.md) |
 | 4.01.1.006 | Hernia hiatal | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Enfermedad por reflujo gastroesofágico (ERGE) y esófago de Barrett](../../gastroenterologia/reflujo-gastroesofagico.md) |
 | 4.01.1.007 | Tumores gástricos benignos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.01.1.008 | Cáncer gástrico | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Dispepsia, úlcera péptica, *Helicobacter pylori* y cáncer gástrico](../../gastroenterologia/dispepsia-ulcera-peptica-y-cancer-gastrico.md) |
