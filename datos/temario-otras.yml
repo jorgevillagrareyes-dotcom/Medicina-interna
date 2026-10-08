@@ -505,6 +505,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Completo
+      resumen:
+      - cirugia/vascular/varices-insuficiencia-venosa-y-ulceras-de-pierna.md
     - codigo: 4.01.1.049
       nombre: Trombosis venosa profunda y tromboflebitis
       dx: Específico
@@ -517,6 +519,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/vascular/varices-insuficiencia-venosa-y-ulceras-de-pierna.md
     - codigo: 4.01.1.051
       nombre: Pie diabético
       dx: Específico

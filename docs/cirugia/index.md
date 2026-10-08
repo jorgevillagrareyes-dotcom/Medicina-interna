@@ -6,7 +6,7 @@ hide:
 # Cirugía
 
 !!! info "Avance"
-    **130 de 151** temas de cirugía del perfil EUNACOM v3 (2026) tienen resumen (28 páginas propias de la especialidad; el resto, en páginas de medicina interna que también cubren el tema).
+    **132 de 151** temas de cirugía del perfil EUNACOM v3 (2026) tienen resumen (29 páginas propias de la especialidad; el resto, en páginas de medicina interna que también cubren el tema).
 
 ## Subespecialidades
 
@@ -52,7 +52,7 @@ hide:
 
     ---
 
-    7 de 11 temas con resumen
+    9 de 11 temas con resumen
 
 -   **[Piel, partes blandas, heridas y quemaduras](piel-partes-blandas-y-quemaduras/index.md)**
 
