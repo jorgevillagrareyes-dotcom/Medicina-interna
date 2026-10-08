@@ -6,7 +6,7 @@ hide:
 # Urología
 
 !!! info "Avance"
-    **33 de 43** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **38 de 43** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
 
 ## Resúmenes disponibles
 
@@ -14,21 +14,22 @@ hide:
 - :material-check-circle:{ .ok title="Resumen disponible" } [Escroto agudo y patología testicular](escroto-agudo-y-patologia-testicular.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hematuria, cáncer de vejiga, tumor renal y tuberculosis urogenital](hematuria-y-tumores-urologicos.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Hiperplasia prostática benigna, retención urinaria, uropatía obstructiva baja y prostatitis](hiperplasia-prostatica-retencion-urinaria-y-prostatitis.md)
+- :material-check-circle:{ .ok title="Resumen disponible" } [Patología del pene: fimosis, parafimosis, balanitis, priapismo y disfunción eréctil](patologia-del-pene-y-disfuncion-erectil.md)
 - :material-check-circle:{ .ok title="Resumen disponible" } [Trauma urológico (renal, ureteral, vesical, uretral y genital)](trauma-urologico.md)
 
 ## Situaciones clínicas
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 4.03.1.001 | Balanitis, balano postitis | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.03.1.001 | Balanitis, balano postitis | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Patología del pene: fimosis, parafimosis, balanitis, priapismo y disfunción eréctil](patologia-del-pene-y-disfuncion-erectil.md) |
 | 4.03.1.002 | Cáncer de próstata | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Cáncer de próstata y tamizaje](cancer-de-prostata.md) |
 | 4.03.1.003 | Cáncer de vejiga y urotelio | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hematuria, cáncer de vejiga, tumor renal y tuberculosis urogenital](hematuria-y-tumores-urologicos.md) |
 | 4.03.1.004 | Criptorquídea | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Escroto agudo y patología testicular](escroto-agudo-y-patologia-testicular.md) |
-| 4.03.1.005 | Disfunción sexual de causa orgánica | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.03.1.005 | Disfunción sexual de causa orgánica | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Patología del pene: fimosis, parafimosis, balanitis, priapismo y disfunción eréctil](patologia-del-pene-y-disfuncion-erectil.md) |
 | 4.03.1.006 | Enfermedades de transmisión sexual | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Infecciones de transmisión sexual y sífilis](../../infectologia/infecciones-de-transmision-sexual-y-sifilis.md) |
 | 4.03.1.007 | Epididimitis | Específico | Completo | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Escroto agudo y patología testicular](escroto-agudo-y-patologia-testicular.md) |
 | 4.03.1.008 | Estenosis uretral | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hiperplasia prostática benigna, retención urinaria, uropatía obstructiva baja y prostatitis](hiperplasia-prostatica-retencion-urinaria-y-prostatitis.md) |
-| 4.03.1.009 | Fimosis, parafimosis | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.03.1.009 | Fimosis, parafimosis | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Patología del pene: fimosis, parafimosis, balanitis, priapismo y disfunción eréctil](patologia-del-pene-y-disfuncion-erectil.md) |
 | 4.03.1.010 | Hematuria | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hematuria, cáncer de vejiga, tumor renal y tuberculosis urogenital](hematuria-y-tumores-urologicos.md) |
 | 4.03.1.011 | Hidrocele | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Escroto agudo y patología testicular](escroto-agudo-y-patologia-testicular.md) |
 | 4.03.1.012 | Hidronefrosis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
@@ -55,8 +56,8 @@ hide:
 |---|---|---|---|---|---|
 | 4.03.2.001 | Cólico renal | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Urolitiasis y cólico renal](../../nefrologia/urolitiasis-y-colico-renal.md) |
 | 4.03.2.002 | Hematuria masiva | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hematuria, cáncer de vejiga, tumor renal y tuberculosis urogenital](hematuria-y-tumores-urologicos.md) |
-| 4.03.2.003 | Parafimosis | Específico | Completo | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.03.2.004 | Priapismo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.03.2.003 | Parafimosis | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Patología del pene: fimosis, parafimosis, balanitis, priapismo y disfunción eréctil](patologia-del-pene-y-disfuncion-erectil.md) |
+| 4.03.2.004 | Priapismo | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Patología del pene: fimosis, parafimosis, balanitis, priapismo y disfunción eréctil](patologia-del-pene-y-disfuncion-erectil.md) |
 | 4.03.2.005 | Prostatis aguda | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hiperplasia prostática benigna, retención urinaria, uropatía obstructiva baja y prostatitis](hiperplasia-prostatica-retencion-urinaria-y-prostatitis.md) |
 | 4.03.2.006 | Retención urinaria aguda | Específico | Completo | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Hiperplasia prostática benigna, retención urinaria, uropatía obstructiva baja y prostatitis](hiperplasia-prostatica-retencion-urinaria-y-prostatitis.md) |
 | 4.03.2.007 | Torsión testicular | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Escroto agudo y patología testicular](escroto-agudo-y-patologia-testicular.md) |

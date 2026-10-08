@@ -666,6 +666,8 @@ especialidades:
       dx: Específico
       tto: Completo
       seg: Completo
+      resumen:
+      - cirugia/urologia/patologia-del-pene-y-disfuncion-erectil.md
     - codigo: 4.03.1.002
       nombre: Cáncer de próstata
       dx: Sospecha
@@ -692,6 +694,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Completo
+      resumen:
+      - cirugia/urologia/patologia-del-pene-y-disfuncion-erectil.md
     - codigo: 4.03.1.006
       nombre: Enfermedades de transmisión sexual
       dx: Específico
@@ -718,6 +722,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Completo
+      resumen:
+      - cirugia/urologia/patologia-del-pene-y-disfuncion-erectil.md
     - codigo: 4.03.1.010
       nombre: Hematuria
       dx: Específico
@@ -863,11 +869,15 @@ especialidades:
       dx: Específico
       tto: Completo
       seg: Derivar
+      resumen:
+      - cirugia/urologia/patologia-del-pene-y-disfuncion-erectil.md
     - codigo: 4.03.2.004
       nombre: Priapismo
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/urologia/patologia-del-pene-y-disfuncion-erectil.md
     - codigo: 4.03.2.005
       nombre: Prostatis aguda
       dx: Específico
