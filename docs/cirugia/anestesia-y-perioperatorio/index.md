@@ -6,14 +6,18 @@ hide:
 # Anestesia y perioperatorio
 
 !!! info "Avance"
-    **0 de 13** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **2 de 13** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+
+## Resúmenes disponibles
+
+- :material-check-circle:{ .ok title="Resumen disponible" } [Anestesia general, regional y local, e intoxicación por anestésicos locales](anestesia-y-anestesicos-locales.md)
 
 ## Situaciones clínicas de urgencia
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
 | 4.01.2.024 | Hemorragia aguda post operatoria. | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.2.028 | Intoxicación por anestésicos locales | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.2.028 | Intoxicación por anestésicos locales | Específico | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Anestesia general, regional y local, e intoxicación por anestésicos locales](anestesia-y-anestesicos-locales.md) |
 
 ## Conocimientos generales
 
@@ -24,7 +28,7 @@ hide:
 | 4.01.3.003 | Asepsia y antisepsia | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.01.3.005 | Complicaciones postoperatorias frecuentes | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.01.3.006 | Concepto de paciente quirúrgico ambulatorio | :material-clock-outline:{ .pend title="Pendiente" } |
-| 4.01.3.007 | Conceptos básicos de anestesia general, local y regional | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.3.007 | Conceptos básicos de anestesia general, local y regional | :material-check-circle:{ .ok title="Resumen disponible" } [Anestesia general, regional y local, e intoxicación por anestésicos locales](anestesia-y-anestesicos-locales.md) |
 | 4.01.3.010 | Conceptos generales del pre y post operatorio | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.01.3.013 | Epidemiología del cáncer. | :material-clock-outline:{ .pend title="Pendiente" } |
 | 4.01.3.014 | Evaluación nutricional | :material-clock-outline:{ .pend title="Pendiente" } |

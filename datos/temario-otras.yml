@@ -708,6 +708,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/anestesia-y-perioperatorio/anestesia-y-anestesicos-locales.md
     generales:
     - codigo: 4.01.3.001
       nombre: Alimentación en enfermedades digestivas
@@ -721,6 +723,8 @@ especialidades:
       nombre: Concepto de paciente quirúrgico ambulatorio
     - codigo: 4.01.3.007
       nombre: Conceptos básicos de anestesia general, local y regional
+      resumen:
+      - cirugia/anestesia-y-perioperatorio/anestesia-y-anestesicos-locales.md
     - codigo: 4.01.3.010
       nombre: Conceptos generales del pre y post operatorio
     - codigo: 4.01.3.013

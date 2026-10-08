@@ -308,6 +308,7 @@ nav:
           - "Trauma, politraumatizado y manejo en catástrofes": cirugia/trauma-y-shock/trauma-y-politraumatizado.md
       - "Anestesia y perioperatorio":
           - cirugia/anestesia-y-perioperatorio/index.md
+          - "Anestesia general, regional y local, e intoxicación por anestésicos locales": cirugia/anestesia-y-perioperatorio/anestesia-y-anestesicos-locales.md
       - "Urología":
           - cirugia/urologia/index.md
           - "Cáncer de próstata y tamizaje": cirugia/urologia/cancer-de-prostata.md
