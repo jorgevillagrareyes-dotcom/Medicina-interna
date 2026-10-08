@@ -1,0 +1,2046 @@
+fuente: Perfil de Conocimientos EUNACOM, versión 3 (junio 2026). https://www.eunacom.cl/contenidos/Perfil2026.pdf
+especialidades:
+- carpeta: cirugia
+  titulo: Cirugía
+  grupos:
+  - codigo: '4.01'
+    titulo: Cirugía general y anestesia
+    situaciones:
+    - codigo: 4.01.1.001
+      nombre: Patología glándulas salivales
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.002
+      nombre: Divertículos esofágicos
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.003
+      nombre: Divertículo de Meckel
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.004
+      nombre: Acalasia
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.005
+      nombre: Cáncer del esofágo
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.006
+      nombre: Hernia hiatal
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.007
+      nombre: Tumores gástricos benignos
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.008
+      nombre: Cáncer gástrico
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.009
+      nombre: Tumores del intestino delgado
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.011
+      nombre: Fístulas del intestino delgado
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.012
+      nombre: Megacolon
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.013
+      nombre: Enfermedad diverticular no complicada
+      dx: Sospecha
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.01.1.014
+      nombre: Pólipos de colon y recto
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.015
+      nombre: Cáncer colorectal
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.016
+      nombre: Hemorroides - fisura anal
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.01.1.017
+      nombre: Abscesos y fístulas ano rectales
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.018
+      nombre: Enfermedades del seno pilonidal
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.01.1.019
+      nombre: Cáncer anal
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.020
+      nombre: Fisura anorectal
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.01.1.021
+      nombre: Hernias, eventraciones y evisceraciones
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.01.1.022
+      nombre: Hidatidosis hepática
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.023
+      nombre: Quistes y abscesos hepáticos
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.024
+      nombre: Tumores hepáticos
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.025
+      nombre: Colecistitis crónica
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.026
+      nombre: Ictericia obstructiva
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.027
+      nombre: Litiasis biliar
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.028
+      nombre: Cáncer de vesícula y vías biliares
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.029
+      nombre: Pancreatitis crónica
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.030
+      nombre: Cáncer de páncreas y otros tumores preampulares
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.031
+      nombre: Cáncer de páncreas
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.032
+      nombre: Masa cervical y tumores del cuello
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.033
+      nombre: Cáncer del tiroides
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.034
+      nombre: Patología benigna del tiroides
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.01.1.035
+      nombre: Cáncer de mama
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.036
+      nombre: Patología mamaria benigna
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.01.1.037
+      nombre: Hidatidosis pulmonar
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.038
+      nombre: Nódulo pulmonar solitario
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.039
+      nombre: Cáncer pulmonar
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.040
+      nombre: Hernias diafragmáticas traumáticas y congénitas
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.041
+      nombre: Síndromes mediastínicos
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.042
+      nombre: Mesotelioma pleural
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.043
+      nombre: Síndrome de ocupación pleural
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.044
+      nombre: Aneurisma de aorta torácica, femoral y poplítea
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.045
+      nombre: Enfermedad renovascular
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.046
+      nombre: Insuficiencia cerebro vascular
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.047
+      nombre: Insuficiencia arterial crónica
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.048
+      nombre: Várices. Insuficiencia venosa crónica
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.01.1.049
+      nombre: Trombosis venosa profunda y tromboflebitis
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.050
+      nombre: Ulceras de las piernas (venosas, varicosas, hipert. y específicas)
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.051
+      nombre: Pie diabético
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.052
+      nombre: Escaras
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.01.1.053
+      nombre: Tumores benignos de partes blandas
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.054
+      nombre: Tumores malignos de partes blandas
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.055
+      nombre: Abscesos, forúnculos, panadizos, flegmones
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 4.01.1.056
+      nombre: Secuelas de quemaduras
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.057
+      nombre: Cicatrices viciosas
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.058
+      nombre: Condilomas
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.1.059
+      nombre: Onicocriptosis
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 4.01.1.060
+      nombre: Obesidad mórbida
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    urgencias:
+    - codigo: 4.01.2.001
+      nombre: Esofagitis cáustica
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.002
+      nombre: Abdomen agudo
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.003
+      nombre: Peritonitis
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.004
+      nombre: Hemorragia digestiva alta
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.005
+      nombre: Obstrucción Intestinal
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.006
+      nombre: Apendicitis aguda
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.007
+      nombre: Isquemia mesentérica aguda
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.008
+      nombre: Enfermedad diverticular complicada
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.009
+      nombre: Prolapso rectal
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.010
+      nombre: Trauma abdominal abierto y cerrado
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.011
+      nombre: Colecistitis aguda
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.012
+      nombre: Colangitis
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.013
+      nombre: Pancreatitis aguda
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.014
+      nombre: Heridas de cara
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.015
+      nombre: Trauma maxilofacial
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.016
+      nombre: Traumatismo torácico grave
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.017
+      nombre: Supuración pulmonar
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.018
+      nombre: Hemoptisis masiva
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.019
+      nombre: Perforación esofágica - Mediastinitis
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.020
+      nombre: Traumatismo raquimedular
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.021
+      nombre: 'Insufic. arterial aguda: embolia, trombosis, traumatismos'
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.022
+      nombre: Aneurisma de aorta abdominal
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.023
+      nombre: Traumatismos vasculares
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.024
+      nombre: Hemorragia aguda post operatoria.
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.025
+      nombre: Heridas y contusiones menores
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 4.01.2.026
+      nombre: Quemaduras
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.027
+      nombre: Trauma
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.028
+      nombre: Intoxicación por anestésicos locales
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.029
+      nombre: Septicemia
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.01.2.030
+      nombre: Paro cardiorespiratorio
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 4.01.2.031
+      nombre: Shock
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    generales:
+    - codigo: 4.01.3.001
+      nombre: Alimentación en enfermedades digestivas
+    - codigo: 4.01.3.002
+      nombre: Antimicrobianos. Conceptos profilaxis y esquemas terapéuticos
+    - codigo: 4.01.3.003
+      nombre: Asepsia y antisepsia
+    - codigo: 4.01.3.004
+      nombre: Colostomías
+    - codigo: 4.01.3.005
+      nombre: Complicaciones postoperatorias frecuentes
+    - codigo: 4.01.3.006
+      nombre: Concepto de paciente quirúrgico ambulatorio
+    - codigo: 4.01.3.007
+      nombre: Conceptos básicos de anestesia general, local y regional
+    - codigo: 4.01.3.008
+      nombre: Conceptos de manejo en situación de catástrofe (triage, extricación, inmovilización y transporte)
+    - codigo: 4.01.3.009
+      nombre: Conceptos generales de hipertensión portal
+    - codigo: 4.01.3.010
+      nombre: Conceptos generales del pre y post operatorio
+    - codigo: 4.01.3.011
+      nombre: Conceptos generales sobre injertos y colgajos
+    - codigo: 4.01.3.012
+      nombre: Diagnóstico precoz del cáncer mamario
+    - codigo: 4.01.3.013
+      nombre: Epidemiología del cáncer.
+    - codigo: 4.01.3.014
+      nombre: Evaluación nutricional
+    - codigo: 4.01.3.015
+      nombre: Ileostomías
+    - codigo: 4.01.3.016
+      nombre: Infección quirúrgica e intrahospitalaria
+    - codigo: 4.01.3.017
+      nombre: Manejo del dolor
+    - codigo: 4.01.3.018
+      nombre: Tratamiento antitetánico y antirrábico
+  - codigo: '4.03'
+    titulo: Urología
+    situaciones:
+    - codigo: 4.03.1.001
+      nombre: Balanitis, balano postitis
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 4.03.1.002
+      nombre: Cáncer de próstata
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.1.003
+      nombre: Cáncer de vejiga y urotelio
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.1.004
+      nombre: Criptorquídea
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.03.1.005
+      nombre: Disfunción sexual de causa orgánica
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.03.1.006
+      nombre: Enfermedades de transmisión sexual
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 4.03.1.007
+      nombre: Epididimitis
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 4.03.1.008
+      nombre: Estenosis uretral
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.1.009
+      nombre: Fimosis, parafimosis
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.03.1.010
+      nombre: Hematuria
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.1.011
+      nombre: Hidrocele
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.03.1.012
+      nombre: Hidronefrosis
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.1.013
+      nombre: Hiperplasia prostática benigna
+      dx: Sospecha
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.03.1.014
+      nombre: Incontinencia urinaria
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.1.015
+      nombre: Infección urinaria alta y baja
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 4.03.1.016
+      nombre: Infección urinaria específica
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.1.017
+      nombre: Infertilidad masculina
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.1.018
+      nombre: Lesiones quísticas del riñón
+      dx: Sospecha
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.03.1.019
+      nombre: Malformaciones congénitas nefrourológicas
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.1.020
+      nombre: Quistes del epidídimo
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 4.03.1.021
+      nombre: Reflujo vésico ureteral
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.03.1.022
+      nombre: Tumor renal
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.1.023
+      nombre: Tumor suprarrenal
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.1.024
+      nombre: Tumor testicular
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.1.025
+      nombre: Urolitiasis
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.1.026
+      nombre: Uropatía alta
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.1.027
+      nombre: Uropatía obstructiva baja
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.1.028
+      nombre: Varicocele
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    urgencias:
+    - codigo: 4.03.2.001
+      nombre: Cólico renal
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 4.03.2.002
+      nombre: Hematuria masiva
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 4.03.2.003
+      nombre: Parafimosis
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 4.03.2.004
+      nombre: Priapismo
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.2.005
+      nombre: Prostatis aguda
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 4.03.2.006
+      nombre: Retención urinaria aguda
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 4.03.2.007
+      nombre: Torsión testicular
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.2.008
+      nombre: Trauma urológico
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.03.2.009
+      nombre: Traumatismo uretral
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    generales:
+    - codigo: 4.03.3.001
+      nombre: Epidemiología del cáncer de próstata
+    - codigo: 4.03.3.002
+      nombre: Epidemiología del adenoma de próstata
+    - codigo: 4.03.3.003
+      nombre: Epidemiologia del cáncer testicular
+    - codigo: 4.03.3.004
+      nombre: Factores de riesgo y prevención de ETS
+    - codigo: 4.03.3.005
+      nombre: Screening de cáncer de próstata
+    - codigo: 4.03.3.006
+      nombre: Trasplante renal, indicaciones y complicaciones
+- carpeta: traumatologia
+  titulo: Traumatología
+  grupos:
+  - codigo: '4.02'
+    titulo: Traumatología
+    situaciones:
+    - codigo: 4.02.1.001
+      nombre: Artrosis primarias y secundarias
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 4.02.1.002
+      nombre: Displasia congénita de cadera
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.02.1.003
+      nombre: Escoliosis y deformidades vertebrales
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.02.1.004
+      nombre: Infecciones osteoarticulares
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.02.1.005
+      nombre: Lumbago mecánico
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 4.02.1.006
+      nombre: Lumbociática radicular
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.02.1.007
+      nombre: Pie plano
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.02.1.008
+      nombre: Síndrome de hombro doloroso
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.02.1.009
+      nombre: Tumores óseos
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    urgencias:
+    - codigo: 4.02.2.001
+      nombre: 'Complicaciones de los traumatismos: sistémicas y vasculares'
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.02.2.002
+      nombre: Disyunción-fractura del niño
+      dx: Sospecha
+      tto: Completo
+      seg: Completo
+    - codigo: 4.02.2.003
+      nombre: Esguince grado1 (acromioclavicular, dedos, rodilla y tobillo)
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 4.02.2.004
+      nombre: Fractura de cadera
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.02.2.005
+      nombre: Fractura de la muñeca
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.02.2.006
+      nombre: Fractura inestable de la pelvis
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.02.2.007
+      nombre: Fracturas de diáfisis y metáfisis
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.02.2.008
+      nombre: Fracturas expuestas
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.02.2.009
+      nombre: Heridas de la mano no complicadas
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 4.02.2.010
+      nombre: Lesiones de los nervios periféricos
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.02.2.011
+      nombre: Lesiones de partes blandas (contusiones, hematomas, desgarros)
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 4.02.2.012
+      nombre: Luxación del hombro
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 4.02.2.013
+      nombre: Luxofractura del tobillo
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.02.2.014
+      nombre: Politraumatizado
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 4.02.2.015
+      nombre: Trauma raquimedular
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    generales:
+    - codigo: 4.02.3.001
+      nombre: Accidentes del trabajo
+    - codigo: 4.02.3.002
+      nombre: Complicaciones de la inmovilización con yeso
+    - codigo: 4.02.3.003
+      nombre: Factores de riesgo de artrosis
+    - codigo: 4.02.3.004
+      nombre: Factores de riesgo de osteoporosis
+    - codigo: 4.02.3.005
+      nombre: Lumbociática radicular
+    - codigo: 4.02.3.006
+      nombre: Prevención de displasia de cadera (diagnóstico precoz)
+    - codigo: 4.02.3.007
+      nombre: Triage
+- carpeta: ginecologia-obstetricia
+  titulo: Ginecología y obstetricia
+  grupos:
+  - codigo: '3.01'
+    titulo: Obstetricia y ginecología
+    situaciones:
+    - codigo: 3.01.1.001
+      nombre: Aborto espontáneo
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.002
+      nombre: Anemia y embarazo
+      dx: Específico
+      tto: Completo
+      seg: No requiere
+    - codigo: 3.01.1.003
+      nombre: Colestasia gravídica
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.004
+      nombre: Diabetes y embarazo
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.005
+      nombre: Embarazo con edad gestacional dudosa
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.006
+      nombre: Embarazo ectópico no complicado
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.007
+      nombre: Embarazo múltiple
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.008
+      nombre: Enfermedad del trofoblasto
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.009
+      nombre: Macrosomía fetal
+      dx: Sospecha
+      tto: Inicial
+      seg: No requiere
+    - codigo: 3.01.1.010
+      nombre: Restricción de crecimiento fetal
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.011
+      nombre: Síndrome hipertensivo del embarazo
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.012
+      nombre: Amenorrea
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.013
+      nombre: Cáncer cervicouterino
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.014
+      nombre: Dolor pelviano y dismenorrea
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.015
+      nombre: Endometriosis
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.016
+      nombre: Enfermedad preinvasora del cuello uterino-Lesiones genitales intraepiteliales (NIE-HPV)
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.017
+      nombre: Enfermedades de transmisión sexual
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 3.01.1.018
+      nombre: Hemorragia genital anormal
+      dx: Sospecha
+      tto: Inicial
+      seg: No requiere
+    - codigo: 3.01.1.019
+      nombre: Infecciones genitourinarias
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 3.01.1.020
+      nombre: Infertilidad conyugal
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.021
+      nombre: Mioma uterino
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 3.01.1.022
+      nombre: Oligoanovulación crónica
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.023
+      nombre: Patología benigna del endometrio (hiperplasia, pólipos…)
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.024
+      nombre: Patología maligna del endometrio
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.025
+      nombre: Proceso inflamatorio pelviano
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.026
+      nombre: Prolapso genital
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.027
+      nombre: Síndrome climatérico y menopausia
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 3.01.1.028
+      nombre: Tumores ováricos
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.029
+      nombre: Patología benigna de mama
+      dx: Sospecha
+      tto: Inicial
+      seg: Completo
+    - codigo: 3.01.1.030
+      nombre: Cáncer de mama
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.031
+      nombre: VIH en ginecobstetricia
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.1.032
+      nombre: Incontinencia urinaria
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    urgencias:
+    - codigo: 3.01.2.001
+      nombre: Aborto provocado
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.2.002
+      nombre: Absceso glándula de Bartolino
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 3.01.2.003
+      nombre: Crisis hipertensiva del embarazo
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.2.004
+      nombre: Eclampsia
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.2.005
+      nombre: Embarazo ectópico complicado
+      dx: Sospecha
+      tto: Inicial
+      seg: No requiere
+    - codigo: 3.01.2.006
+      nombre: Endometritis puerperal
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.2.007
+      nombre: Hiperemesis gravídica
+      dx: Específico
+      tto: Inicial
+      seg: No requiere
+    - codigo: 3.01.2.008
+      nombre: Hemorragia genital aguda (metrorragia disfuncional-cervicorragia por Cáncer C.U.)
+      dx: Sospecha
+      tto: Inicial
+      seg: No requiere
+    - codigo: 3.01.2.009
+      nombre: Mastitis puerperal
+      dx: Específico
+      tto: Inicial
+      seg: No requiere
+    - codigo: 3.01.2.010
+      nombre: 'Metrorragia: Desprendimiento previo de placenta normoinserta (DPPNI)'
+      dx: Sospecha
+      tto: Inicial
+      seg: No requiere
+    - codigo: 3.01.2.011
+      nombre: 'Metrorragia: placenta previa'
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.2.012
+      nombre: Parto prematuro
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.2.013
+      nombre: Presentaciones fetales anómalas
+      dx: Sospecha
+      tto: Inicial
+      seg: No requiere
+    - codigo: 3.01.2.014
+      nombre: Rotura prematura de membranas
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.2.015
+      nombre: Rotura uterina
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.2.016
+      nombre: Dolor pélvico agudo
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 3.01.2.017
+      nombre: Sufrimiento fetal agudo
+      dx: Específico
+      tto: Inicial
+      seg: No requiere
+    - codigo: 3.01.2.018
+      nombre: Pelviperitonitis
+      dx: Sospecha
+      tto: Inicial
+      seg: Completo
+    - codigo: 3.01.2.019
+      nombre: Quiste ovárico torcido
+      dx: Sospecha
+      tto: Inicial
+      seg: Completo
+    - codigo: 3.01.2.020
+      nombre: Mastitis abscedada
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 3.01.2.021
+      nombre: Trabajo parto distócico
+      dx: Sospecha
+      tto: Inicial
+      seg: No requiere
+    generales:
+    - codigo: 3.01.3.001
+      nombre: Control prenatal
+    - codigo: 3.01.3.002
+      nombre: Derechos y aspectos legales de la embarazada y su pareja
+    - codigo: 3.01.3.003
+      nombre: Determinación de edad gestacional
+    - codigo: 3.01.3.004
+      nombre: Lactancia
+    - codigo: 3.01.3.005
+      nombre: Manejo de la salud de la mujer climatérica
+    - codigo: 3.01.3.006
+      nombre: Métodos naturales para la regulación de la fecundidad
+    - codigo: 3.01.3.007
+      nombre: Mortalidad perinatal y materna
+    - codigo: 3.01.3.008
+      nombre: Anticoncepción
+    - codigo: 3.01.3.009
+      nombre: Prevención de enfermedad hemolítica perinatal
+    - codigo: 3.01.3.010
+      nombre: Prevención de enfermedades de transmisión sexual
+    - codigo: 3.01.3.011
+      nombre: Pubertad (adolescencia)
+    - codigo: 3.01.3.012
+      nombre: Salud pública perinatal
+    - codigo: 3.01.3.013
+      nombre: 'Screening ginecológico: Papanicolau, mamografía'
+    - codigo: 3.01.3.014
+      nombre: Sexualidad, género y diversidad
+    - codigo: 3.01.3.015
+      nombre: Síndrome de ovario poliquístico
+    - codigo: 3.01.3.016
+      nombre: Vínculo y apego
+- carpeta: pediatria
+  titulo: Pediatría
+  grupos:
+  - codigo: '2.01'
+    titulo: Pediatría general
+    situaciones:
+    - codigo: 2.01.1.001
+      nombre: Desnutrición
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.002
+      nombre: Dislipidemias
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.003
+      nombre: Obesidad
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.004
+      nombre: Adenitis cervical
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.005
+      nombre: Celulitis periorbitaria
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.006
+      nombre: Coqueluche
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.046
+      nombre: Displasia broncopulmonar
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.007
+      nombre: Enteroparasitosis
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.008
+      nombre: Escarlatina
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.009
+      nombre: Exantemas virales
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.010
+      nombre: Hepatitis viral
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.011
+      nombre: Infecciones de piel y partes blandas
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.012
+      nombre: Infecciones por HIV
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.013
+      nombre: Infecciones por Salmonella
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.014
+      nombre: Infecciones recurrentes
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.015
+      nombre: Meningoencefalitis/ Meningitis bacteriana aguda
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.016
+      nombre: Mononucleosis infecciosa
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.017
+      nombre: Síndrome febril agudo sin foco
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.018
+      nombre: Síndrome febril prolongado
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.019
+      nombre: Asma bronquial
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.020
+      nombre: Bronquiolitis
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.021
+      nombre: Enfermedad pulmonar crónica
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.022
+      nombre: Estridor
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 2.01.1.023
+      nombre: Faringoamigdalitis
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.024
+      nombre: Infecciones respiratorias agudas bajas y sus complicaciones
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.025
+      nombre: Laringitis
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.026
+      nombre: Otitis media
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.027
+      nombre: Resfrío común
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.028
+      nombre: Síndrome bronquial obstructivo
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.029
+      nombre: Sinusitis
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.030
+      nombre: Adenopatías
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.031
+      nombre: Anemia ferropriva
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.032
+      nombre: Leucemias
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.033
+      nombre: Linfomas
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.034
+      nombre: Neutropenia febril
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.035
+      nombre: Síndrome purpúrico
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.036
+      nombre: Trastornos coagulación
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.037
+      nombre: Tumores sólidos
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.038
+      nombre: Constipación
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.039
+      nombre: Diarrea aguda y en vías de prolongación
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.040
+      nombre: Diarrea crónica
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.041
+      nombre: Dolor abdominal recurrente
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.042
+      nombre: Fibrosis quística
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.043
+      nombre: Hemorragia digestiva
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.044
+      nombre: Hepatomegalia
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.045
+      nombre: Insuficiencia hepática aguda
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.046
+      nombre: Reflujo gastroesofágico y vómitos del lactante
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.047
+      nombre: Síndrome disentérico
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.048
+      nombre: Síndrome malabsorción
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.049
+      nombre: Arritmias
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.050
+      nombre: Cardiopatías congénitas frecuentes
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.051
+      nombre: Endocarditis infecciosa
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.052
+      nombre: Insuficiencia cardíaca
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.053
+      nombre: Síncope
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.054
+      nombre: Soplos
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.055
+      nombre: Alergias
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.056
+      nombre: Inmunodeficiencias
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.057
+      nombre: Mesenquimopatías
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.058
+      nombre: 'Vasculitis: PSH, Kawasaki, otros'
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.059
+      nombre: Enuresis
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.060
+      nombre: Hematuria
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.061
+      nombre: Hipertensión arterial
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.062
+      nombre: Infección urinaria
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 2.01.1.063
+      nombre: Insuficiencia renal aguda
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.064
+      nombre: Insuficiencia renal crónica
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.065
+      nombre: Malformaciones urogenitales
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.066
+      nombre: Síndrome edematoso
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.067
+      nombre: Síndrome hemolítico urémico
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.068
+      nombre: Síndrome nefrítico
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.069
+      nombre: Síndrome nefrótico
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.070
+      nombre: Trastornos del equilibrio ácido-base
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 2.01.1.071
+      nombre: Trastornos hidro-electrolíticos
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 2.01.1.072
+      nombre: Alteraciones del desarrollo puberal
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.073
+      nombre: Diabetes
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.074
+      nombre: Hiperplasia suprarrenal congénita
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.075
+      nombre: Hipotiroidismo
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.076
+      nombre: Talla baja
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.077
+      nombre: Cefalea
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.078
+      nombre: Encefalopatía hipóxico-isquémica
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.079
+      nombre: Macro y microcefalia
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.080
+      nombre: Retraso del desarrollo SM
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.081
+      nombre: Síndrome convulsivo
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 2.01.1.082
+      nombre: Síndrome déficit atencional
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.083
+      nombre: Síndrome hipertónico
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.084
+      nombre: Síndrome hipotónico
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.085
+      nombre: Trastornos aprendizaje
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.086
+      nombre: Trastornos del lenguaje
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.087
+      nombre: Tumores SNC
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.088
+      nombre: Criptorquidia
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 2.01.1.089
+      nombre: Fimosis
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.090
+      nombre: Hernia inguinal
+      dx: Específico
+      tto: Inicial
+      seg: Completo
+    - codigo: 2.01.1.091
+      nombre: Alteraciones de los pies
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.092
+      nombre: Displasia de caderas
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.093
+      nombre: Infecciones osteoarticulares
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.094
+      nombre: Patología de columna
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.095
+      nombre: Conjuntivitis aguda
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.096
+      nombre: Estrabismo
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.097
+      nombre: Ojo rojo
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.098
+      nombre: Vicios de refracción
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.099
+      nombre: Epistaxis
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.100
+      nombre: Hipertrofia adenoidea/amigdalina
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.101
+      nombre: Hipoacusia
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.102
+      nombre: Otitis media recurrente
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.103
+      nombre: Rinitis alérgica
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.104
+      nombre: Acné
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 2.01.1.105
+      nombre: Alteraciones pigmentarias
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.106
+      nombre: Candidiasis urogenital
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.107
+      nombre: Dermatitis atópica
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.108
+      nombre: Dermatitis del pañal y de contacto
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.109
+      nombre: Ectoparasitosis
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.110
+      nombre: Infecciones micóticas de piel y fanéreos
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.111
+      nombre: Malformaciones vasculares cutáneas
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.112
+      nombre: Alteraciones de la termorregulación
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.113
+      nombre: Apneas
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.114
+      nombre: Asfixia neonatal
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.115
+      nombre: Convulsiones neonatales
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.116
+      nombre: Enterocolitis necrotizante (ECN)
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.117
+      nombre: Estridor congénito
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.118
+      nombre: Hijo madre diabética
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 2.01.1.119
+      nombre: Hipocalcemia
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.120
+      nombre: Hipoglicemia
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.121
+      nombre: Ictericia neonatal y del primer trimestre
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.122
+      nombre: Poliglobulia
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.123
+      nombre: Prematurez
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.124
+      nombre: Sepsis neonatal
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.125
+      nombre: Síndrome aspirativo meconial
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.126
+      nombre: Síndrome distress respiratorio
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.127
+      nombre: TORCH
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.128
+      nombre: RN PEG-GEG
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 2.01.1.129
+      nombre: Alteraciones menstruales
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.130
+      nombre: Leucorrea y vulvovaginitis
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 2.01.1.131
+      nombre: Sinequias vulvares
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.1.132
+      nombre: Dismorfias
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.133
+      nombre: Malformaciones congénitas más frecuentes
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.134
+      nombre: Trisomía 21
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.136
+      nombre: Depresión
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.137
+      nombre: Ideación suicida
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.138
+      nombre: Maltrato infantil
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.139
+      nombre: Trastornos de alimentación
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.140
+      nombre: Trastornos de ansiedad generalizada
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.141
+      nombre: Trastornos del desarrollo
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.142
+      nombre: Trastornos neuropsiquiátricos
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.1.143
+      nombre: Artritis idiopática juvenil
+      dx: Sospecha
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.144
+      nombre: SARS Cov 2 COVID 19
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    urgencias:
+    - codigo: 2.01.2.001
+      nombre: Abdomen agudo
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.002
+      nombre: Absceso amigdalino
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.003
+      nombre: Aspiración cuerpo extraño
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.004
+      nombre: Compromiso de conciencia
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.005
+      nombre: Crisis bronquial obstructiva
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 2.01.2.006
+      nombre: Deshidratación
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.2.007
+      nombre: Emergencia hipertensiva
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 2.01.2.008
+      nombre: Epistaxis
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.2.027
+      nombre: Estatus convulsivo en el niño
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.009
+      nombre: Fracturas
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.010
+      nombre: Hemorragia digestiva
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.011
+      nombre: Hipertensión endocraneana
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.012
+      nombre: Insuficiencia cardíaca. Edema pulmonar
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 2.01.2.013
+      nombre: Insuficiencia respiratoria aguda
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.014
+      nombre: Intoxicaciones
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.015
+      nombre: Meningitis bacteriana
+      dx: Específico
+      tto: Completo
+      seg: Completo
+    - codigo: 2.01.2.016
+      nombre: Meningococcemia
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.017
+      nombre: Muerte súbita-ALTE, BRUE
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.018
+      nombre: Obstrucción de vía aérea superior
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 2.01.2.019
+      nombre: Obstrucción intestinal
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.020
+      nombre: Paro cardiorrespiratorio
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 2.01.2.021
+      nombre: Politraumatismos
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.022
+      nombre: Quemaduras
+      dx: Específico
+      tto: Completo
+      seg: Derivar
+    - codigo: 2.01.2.023
+      nombre: Shock
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.024
+      nombre: Síndrome convulsivo
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.025
+      nombre: Testículo agudo
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    - codigo: 2.01.2.026
+      nombre: Traumatismo encéfalo-craneano
+      dx: Específico
+      tto: Inicial
+      seg: Derivar
+    generales:
+    - codigo: 2.01.3.001
+      nombre: Alimentación normal
+    - codigo: 2.01.3.002
+      nombre: Desarrollo psico-motor
+    - codigo: 2.01.3.003
+      nombre: Diagnóstico nutricional
+    - codigo: 2.01.3.004
+      nombre: Entrevista y comunicación efectiva
+    - codigo: 2.01.3.005
+      nombre: Familia y ciclo vital
+    - codigo: 2.01.3.006
+      nombre: Inmunizaciones en Chile (PNI y extra PNI)
+    - codigo: 2.01.3.007
+      nombre: Lactancia materna
+    - codigo: 2.01.3.008
+      nombre: Prevención de accidentes
+    - codigo: 2.01.3.009
+      nombre: Prevención de conductas de riesgo
+    - codigo: 2.01.3.010
+      nombre: Prevención de maltrato y abuso infantil
+    - codigo: 2.01.3.011
+      nombre: Promoción de salud y estilos de vida saludables
+    - codigo: 2.01.3.012
+      nombre: Psiquiatría de enlace
+    - codigo: 2.01.3.013
+      nombre: Relación médico-paciente-familia
+    - codigo: 2.01.3.014
+      nombre: Salud infantil en Chile y el mundo
+    - codigo: 2.01.3.015
+      nombre: Salud oral
+    - codigo: 2.01.3.016
+      nombre: Supervisión de salud-adolescente
+    - codigo: 2.01.3.017
+      nombre: Supervisión de salud-escolar
+    - codigo: 2.01.3.018
+      nombre: Supervisión de salud-lactante
+    - codigo: 2.01.3.019
+      nombre: Supervisión de salud-pre-escolar

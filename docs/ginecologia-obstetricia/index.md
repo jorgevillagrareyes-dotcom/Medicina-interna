@@ -1,0 +1,107 @@
+---
+hide:
+  - toc
+---
+
+# Ginecología y obstetricia
+
+!!! info "En preparación"
+    **0 de 69** temas de ginecología y obstetricia tienen resumen. Esta es la lista de temas que se van a escribir, según el perfil EUNACOM v3 (2026); los temas pendientes están marcados con :material-clock-outline:.
+
+## Situaciones clínicas
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 3.01.1.001 | Aborto espontáneo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.002 | Anemia y embarazo | Específico | Completo | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.003 | Colestasia gravídica | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.004 | Diabetes y embarazo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.005 | Embarazo con edad gestacional dudosa | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.006 | Embarazo ectópico no complicado | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.007 | Embarazo múltiple | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.008 | Enfermedad del trofoblasto | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.009 | Macrosomía fetal | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.010 | Restricción de crecimiento fetal | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.011 | Síndrome hipertensivo del embarazo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.012 | Amenorrea | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.013 | Cáncer cervicouterino | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.014 | Dolor pelviano y dismenorrea | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.015 | Endometriosis | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.016 | Enfermedad preinvasora del cuello uterino-Lesiones genitales intraepiteliales (NIE-HPV) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.017 | Enfermedades de transmisión sexual | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.018 | Hemorragia genital anormal | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.019 | Infecciones genitourinarias | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.020 | Infertilidad conyugal | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.021 | Mioma uterino | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.022 | Oligoanovulación crónica | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.023 | Patología benigna del endometrio (hiperplasia, pólipos…) | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.024 | Patología maligna del endometrio | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.025 | Proceso inflamatorio pelviano | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.026 | Prolapso genital | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.027 | Síndrome climatérico y menopausia | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.028 | Tumores ováricos | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.029 | Patología benigna de mama | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.030 | Cáncer de mama | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.031 | VIH en ginecobstetricia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.1.032 | Incontinencia urinaria | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Situaciones clínicas de urgencia
+
+| Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
+|---|---|---|---|---|---|
+| 3.01.2.001 | Aborto provocado | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.002 | Absceso glándula de Bartolino | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.003 | Crisis hipertensiva del embarazo | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.004 | Eclampsia | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.005 | Embarazo ectópico complicado | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.006 | Endometritis puerperal | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.007 | Hiperemesis gravídica | Específico | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.008 | Hemorragia genital aguda (metrorragia disfuncional-cervicorragia por Cáncer C.U.) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.009 | Mastitis puerperal | Específico | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.010 | Metrorragia: Desprendimiento previo de placenta normoinserta (DPPNI) | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.011 | Metrorragia: placenta previa | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.012 | Parto prematuro | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.013 | Presentaciones fetales anómalas | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.014 | Rotura prematura de membranas | Específico | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.015 | Rotura uterina | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.016 | Dolor pélvico agudo | Sospecha | Inicial | Derivar | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.017 | Sufrimiento fetal agudo | Específico | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.018 | Pelviperitonitis | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.019 | Quiste ovárico torcido | Sospecha | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.020 | Mastitis abscedada | Específico | Completo | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.2.021 | Trabajo parto distócico | Sospecha | Inicial | No requiere | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Conocimientos generales
+
+| Código | Tema | Resumen |
+|---|---|---|
+| 3.01.3.001 | Control prenatal | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.3.002 | Derechos y aspectos legales de la embarazada y su pareja | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.3.003 | Determinación de edad gestacional | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.3.004 | Lactancia | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.3.005 | Manejo de la salud de la mujer climatérica | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.3.006 | Métodos naturales para la regulación de la fecundidad | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.3.007 | Mortalidad perinatal y materna | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.3.008 | Anticoncepción | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.3.009 | Prevención de enfermedad hemolítica perinatal | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.3.010 | Prevención de enfermedades de transmisión sexual | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.3.011 | Pubertad (adolescencia) | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.3.012 | Salud pública perinatal | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.3.013 | Screening ginecológico: Papanicolau, mamografía | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.3.014 | Sexualidad, género y diversidad | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.3.015 | Síndrome de ovario poliquístico | :material-clock-outline:{ .pend title="Pendiente" } |
+| 3.01.3.016 | Vínculo y apego | :material-clock-outline:{ .pend title="Pendiente" } |
+
+## Cómo leer los niveles EUNACOM
+
+| Columna | Valor | Qué se espera del examinado |
+|---|---|---|
+| **Diagnóstico** | **Específico** | Llegar de forma autónoma al diagnóstico específico, incluido el diagnóstico diferencial y el uso de exámenes |
+| | **Sospecha** | Sospechar el diagnóstico, conocer los criterios de derivación y los estudios que hará el especialista |
+| **Tratamiento** | **Completo** | Tratar hasta la resolución, derivando solo los casos complejos |
+| | **Inicial** | Hacer el tratamiento inicial y derivar en condiciones adecuadas y oportunas |
+| **Seguimiento** | **Completo** | Controlar al paciente, derivando solo los casos complejos |
+| | **Derivar** | Derivar el seguimiento al especialista, conociendo sus aspectos generales |
+| | **No requiere** | La situación no requiere seguimiento |
+
+Fuente: [Perfil de Conocimientos EUNACOM, versión 3 (junio 2026)](https://www.eunacom.cl/contenidos/Perfil2026.pdf), vigente desde el examen de diciembre de 2026.
