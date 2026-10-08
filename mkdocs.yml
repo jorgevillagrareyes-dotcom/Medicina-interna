@@ -290,6 +290,7 @@ nav:
           - cirugia/anestesia-y-perioperatorio/index.md
       - "Urología":
           - cirugia/urologia/index.md
+          - "Escroto agudo y patología testicular": cirugia/urologia/escroto-agudo-y-patologia-testicular.md
   - Traumatología:
       - traumatologia/index.md
   - Ginecología y obstetricia:

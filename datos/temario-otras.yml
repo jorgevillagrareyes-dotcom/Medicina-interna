@@ -675,6 +675,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Completo
+      resumen:
+      - cirugia/urologia/escroto-agudo-y-patologia-testicular.md
     - codigo: 4.03.1.005
       nombre: Disfunción sexual de causa orgánica
       dx: Específico
@@ -692,6 +694,8 @@ especialidades:
       dx: Específico
       tto: Completo
       seg: Completo
+      resumen:
+      - cirugia/urologia/escroto-agudo-y-patologia-testicular.md
     - codigo: 4.03.1.008
       nombre: Estenosis uretral
       dx: Sospecha
@@ -712,6 +716,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Completo
+      resumen:
+      - cirugia/urologia/escroto-agudo-y-patologia-testicular.md
     - codigo: 4.03.1.012
       nombre: Hidronefrosis
       dx: Sospecha
@@ -746,6 +752,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/urologia/escroto-agudo-y-patologia-testicular.md
     - codigo: 4.03.1.018
       nombre: Lesiones quísticas del riñón
       dx: Sospecha
@@ -763,6 +771,8 @@ especialidades:
       dx: Específico
       tto: Completo
       seg: Completo
+      resumen:
+      - cirugia/urologia/escroto-agudo-y-patologia-testicular.md
     - codigo: 4.03.1.021
       nombre: Reflujo vésico ureteral
       dx: Específico
@@ -785,6 +795,8 @@ especialidades:
       dx: Sospecha
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/urologia/escroto-agudo-y-patologia-testicular.md
     - codigo: 4.03.1.025
       nombre: Urolitiasis
       dx: Sospecha
@@ -807,6 +819,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Completo
+      resumen:
+      - cirugia/urologia/escroto-agudo-y-patologia-testicular.md
     urgencias:
     - codigo: 4.03.2.001
       nombre: Cólico renal
@@ -845,6 +859,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Derivar
+      resumen:
+      - cirugia/urologia/escroto-agudo-y-patologia-testicular.md
     - codigo: 4.03.2.008
       nombre: Trauma urológico
       dx: Sospecha
@@ -862,6 +878,8 @@ especialidades:
       nombre: Epidemiología del adenoma de próstata
     - codigo: 4.03.3.003
       nombre: Epidemiologia del cáncer testicular
+      resumen:
+      - cirugia/urologia/escroto-agudo-y-patologia-testicular.md
     - codigo: 4.03.3.004
       nombre: Factores de riesgo y prevención de ETS
       resumen:
