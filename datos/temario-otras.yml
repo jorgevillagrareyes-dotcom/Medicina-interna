@@ -12,6 +12,8 @@ especialidades:
       dx: Específico
       tto: Inicial
       seg: Completo
+      resumen:
+      - cirugia/abdomen-agudo-y-pared/hernias-de-la-pared-abdominal.md
     - codigo: 4.01.1.060
       nombre: Obesidad mórbida
       dx: Sospecha

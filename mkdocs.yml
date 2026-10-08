@@ -266,6 +266,7 @@ nav:
       - cirugia/index.md
       - "Abdomen agudo, pared abdominal y obesidad":
           - cirugia/abdomen-agudo-y-pared/index.md
+          - "Hernias de la pared abdominal, eventraciones y evisceraciones": cirugia/abdomen-agudo-y-pared/hernias-de-la-pared-abdominal.md
       - "Esófago y estómago":
           - cirugia/esofago-y-estomago/index.md
       - "Intestino delgado, colon y proctología":

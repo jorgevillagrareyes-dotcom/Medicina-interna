@@ -6,7 +6,7 @@ hide:
 # Cirugía
 
 !!! info "Avance"
-    **55 de 151** temas de cirugía del perfil EUNACOM v3 (2026) tienen resumen (1 páginas propias de la especialidad; el resto, en páginas de medicina interna que también cubren el tema).
+    **56 de 151** temas de cirugía del perfil EUNACOM v3 (2026) tienen resumen (2 páginas propias de la especialidad; el resto, en páginas de medicina interna que también cubren el tema).
 
 ## Subespecialidades
 
@@ -16,7 +16,7 @@ hide:
 
     ---
 
-    3 de 4 temas con resumen
+    4 de 4 temas con resumen
 
 -   **[Esófago y estómago](esofago-y-estomago/index.md)**
 

@@ -6,13 +6,17 @@ hide:
 # Abdomen agudo, pared abdominal y obesidad
 
 !!! info "Avance"
-    **3 de 4** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+    **4 de 4** temas tienen resumen. Los temas pendientes, marcados con :material-clock-outline:, son los que se van a escribir, según el perfil EUNACOM v3 (2026).
+
+## Resúmenes disponibles
+
+- :material-check-circle:{ .ok title="Resumen disponible" } [Hernias de la pared abdominal, eventraciones y evisceraciones](hernias-de-la-pared-abdominal.md)
 
 ## Situaciones clínicas
 
 | Código | Situación | Diagnóstico | Tratamiento | Seguimiento | Resumen |
 |---|---|---|---|---|---|
-| 4.01.1.021 | Hernias, eventraciones y evisceraciones | Específico | Inicial | Completo | :material-clock-outline:{ .pend title="Pendiente" } |
+| 4.01.1.021 | Hernias, eventraciones y evisceraciones | Específico | Inicial | Completo | :material-check-circle:{ .ok title="Resumen disponible" } [Hernias de la pared abdominal, eventraciones y evisceraciones](hernias-de-la-pared-abdominal.md) |
 | 4.01.1.060 | Obesidad mórbida | Sospecha | Inicial | Derivar | :material-check-circle:{ .ok title="Resumen disponible" } [Obesidad, obesidad mórbida y síndrome metabólico](../../endocrinologia/obesidad-y-sindrome-metabolico.md) |
 
 ## Situaciones clínicas de urgencia
